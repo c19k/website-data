@@ -1,0 +1,250 @@
+[
+  {
+    "patientId": 1,
+    "dateAnnounced": "2020-01-31",
+    "ageBracket": 20,
+    "gender": "F",
+    "residence": "Thrissur",
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Recovered",
+    "knownCluster": "Wuhan, China",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 2,
+    "dateAnnounced": "2020-02-02",
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Alappuzha",
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Recovered",
+    "knownCluster": "Wuhan, China",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 3,
+    "dateAnnounced": "2020-02-03",
+    "ageBracket": 20,
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Recovered",
+    "knownCluster": "Wuhan, China",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 4,
+    "dateAnnounced": "2020-03-16",
+    "ageBracket": -1,
+    "residence": "Wuhan, China",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5,
+    "dateAnnounced": "2020-03-17",
+    "ageBracket": -1,
+    "residence": "Kondoti",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 6,
+    "dateAnnounced": "2020-03-18",
+    "ageBracket": -1,
+    "residence": "Kutiyadi",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7,
+    "dateAnnounced": "2020-03-19",
+    "ageBracket": -1,
+    "residence": "Pala",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 8,
+    "dateAnnounced": "2020-03-20",
+    "ageBracket": -1,
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 9,
+    "dateAnnounced": "2020-03-21",
+    "ageBracket": -1,
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Recovered",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 10,
+    "dateAnnounced": "2020-03-22",
+    "ageBracket": -1,
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Discharged",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 11,
+    "dateAnnounced": "2020-03-23",
+    "ageBracket": -1,
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Recovered",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 12,
+    "dateAnnounced": "2020-03-24",
+    "ageBracket": -1,
+    "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Discharged",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 13,
+    "dateAnnounced": "2020-03-25",
+    "ageBracket": -1,
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Recovered",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 14,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Recovered",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 15,
+    "dateAnnounced": "2020-03-27",
+    "ageBracket": -1,
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Recovered",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 16,
+    "dateAnnounced": "2020-03-28",
+    "ageBracket": -1,
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Recovered",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 17,
+    "dateAnnounced": "2020-03-29",
+    "ageBracket": -1,
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Recovered",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 18,
+    "dateAnnounced": "2020-03-30",
+    "ageBracket": -1,
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Recovered",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 19,
+    "dateAnnounced": "2020-03-31",
+    "ageBracket": -1,
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Recovered",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 20,
+    "dateAnnounced": "2020-01-28",
+    "ageBracket": 60,
+    "gender": "M",
+    "detectedPrefecture": "Unspecified",
+    "patientStatus": "Deceased",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 21,
+    "dateAnnounced": "2020-01-28",
+    "ageBracket": 40,
+    "gender": "F",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Unspecified",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 24,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 25,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 26,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 27,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 28,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 29,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 30,
+    "dateAnnounced": "2020-03-27",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  }
+]
