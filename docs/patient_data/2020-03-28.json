@@ -9,8 +9,7 @@
     "patientStatus": "Hospitalized",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "9",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 2,
@@ -22,8 +21,7 @@
     "patientStatus": "Hospitalized",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "14",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 3,
@@ -35,8 +33,7 @@
     "patientStatus": "Hospitalized",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "15",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 4,
@@ -48,8 +45,7 @@
     "patientStatus": "Hospitalized",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "16",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 5,
@@ -58,13 +54,10 @@
     "gender": "F",
     "residence": "Kondoti",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Deceased",
+    "patientStatus": "Hospitalized",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "18",
-    "prefecturePatientNumber": "Chiba#2",
-    "prefectureSourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 6,
@@ -73,11 +66,10 @@
     "gender": "M",
     "residence": "Kutiyadi",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Deceased",
+    "patientStatus": "Hospitalized",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "22",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 7,
@@ -86,11 +78,10 @@
     "gender": "M",
     "residence": "Pala",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Deceased",
+    "patientStatus": "Hospitalized",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "23",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 8,
@@ -98,11 +89,10 @@
     "ageBracket": 40,
     "gender": "M",
     "detectedPrefecture": "Palakkad",
-    "patientStatus": "Deceased",
+    "patientStatus": "Hospitalized",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "24",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09422.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 9,
@@ -110,12 +100,10 @@
     "ageBracket": 50,
     "gender": "M",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Discharged",
+    "patientStatus": "Recovered",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "25",
-    "prefecturePatientNumber": "Chiba#5",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09423.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 10,
@@ -126,20 +114,17 @@
     "patientStatus": "Discharged",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "70",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09636.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 11,
     "dateAnnounced": "2020-02-21",
     "gender": "M",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Discharged",
+    "patientStatus": "Recovered",
     "knownCluster": "Charter Flight",
     "mhlwPatientNumber": "84",
-    "prefecturePatientNumber": "Saitama#4",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www3.nhk.or.jp/news/html/20200221/k10012295991000.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 12,
@@ -149,8 +134,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Discharged",
     "knownCluster": "Charter Flight",
-    "charterFlightPassenger": true,
-    "sourceURL": "https://www3.nhk.or.jp/news/html/20200214/k10012286501000.html"
+    "charterFlightPassenger": true
   },
   {
     "patientId": 13,
@@ -177,9 +161,7 @@
     "gender": "M",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Recovered",
-    "mhlwPatientNumber": "1",
-    "prefecturePatientNumber": "Kanagawa#1",
-    "prefectureSourceURL": "https://www.pref.kanagawa.jp/docs/ga4/bukanshi/occurrence.html"
+    "mhlwPatientNumber": "1"
   },
   {
     "patientId": 16,
@@ -188,8 +170,7 @@
     "gender": "M",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Recovered",
-    "mhlwPatientNumber": "2",
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "mhlwPatientNumber": "2"
   },
   {
     "patientId": 17,
@@ -198,8 +179,7 @@
     "gender": "F",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Recovered",
-    "mhlwPatientNumber": "3",
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "mhlwPatientNumber": "3"
   },
   {
     "patientId": 18,
@@ -208,10 +188,7 @@
     "gender": "M",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Recovered",
-    "mhlwPatientNumber": "4",
-    "prefecturePatientNumber": "Aichi#1",
-    "prefectureSourceURL": "https://www.pref.aichi.jp/uploaded/attachment/321138.pdf",
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "mhlwPatientNumber": "4"
   },
   {
     "patientId": 19,
@@ -220,10 +197,7 @@
     "gender": "M",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Recovered",
-    "mhlwPatientNumber": "5",
-    "prefecturePatientNumber": "Aichi#2",
-    "prefectureSourceURL": "https://www.pref.aichi.jp/uploaded/attachment/321141.pdf",
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "mhlwPatientNumber": "5"
   },
   {
     "patientId": 20,
@@ -232,9 +206,7 @@
     "gender": "M",
     "detectedPrefecture": "Unspecified",
     "patientStatus": "Unspecified",
-    "mhlwPatientNumber": "6",
-    "prefecturePatientNumber": "Nara#1",
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "mhlwPatientNumber": "6"
   },
   {
     "patientId": 21,
@@ -243,10 +215,7 @@
     "gender": "F",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Unspecified",
-    "mhlwPatientNumber": "7",
-    "prefecturePatientNumber": "Hokkaido#1",
-    "prefectureSourceURL": "http://www.pref.hokkaido.lg.jp/hf/kth/kak/hasseijoukyou.htm#1/28",
-    "sourceURL": "https://www.mhlw.go.jp/stf/newpage_09531.html"
+    "mhlwPatientNumber": "7"
   },
   {
     "patientId": 24,
