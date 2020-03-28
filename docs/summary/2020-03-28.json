@@ -1566,10 +1566,10 @@
     },
     {
       "confirmed": 1,
-      "recoveredCumulative": 0,
-      "deceasedCumulative": 0,
-      "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "recoveredCumulative": 8,
+      "deceasedCumulative": 7,
+      "criticalCumulative": 6,
+      "testedCumulative": 2000,
       "date": "2020-03-27",
       "confirmedCumulative": 28
     }
