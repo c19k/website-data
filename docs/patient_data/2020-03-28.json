@@ -8,6 +8,7 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Recovered",
+    "notes": "Discharged on 13/03/2020",
     "knownCluster": "Wuhan, China",
     "confirmedPatient": true
   },
@@ -20,6 +21,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Recovered",
+    "notes": "Discharged on 13/03/2020",
     "knownCluster": "Wuhan, China",
     "confirmedPatient": true
   },
@@ -32,6 +34,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Recovered",
+    "notes": "Discharged on 13/03/2020",
     "knownCluster": "Wuhan, China",
     "confirmedPatient": true
   },
@@ -174,7 +177,7 @@
   },
   {
     "patientId": 15,
-    "dateAnnounced": "2020-03-27",
+    "dateAnnounced": "2020-03-10",
     "ageBracket": -1,
     "residence": "Kozhenchery",
     "detectedCityTown": "Pathanamthitta",
@@ -186,7 +189,7 @@
   },
   {
     "patientId": 16,
-    "dateAnnounced": "2020-03-28",
+    "dateAnnounced": "2020-03-10",
     "ageBracket": 96,
     "gender": "M",
     "residence": "Ranni",
@@ -199,7 +202,7 @@
   },
   {
     "patientId": 17,
-    "dateAnnounced": "2020-03-29",
+    "dateAnnounced": "2020-03-10",
     "ageBracket": 89,
     "gender": "F",
     "residence": "Ranni",
@@ -212,36 +215,70 @@
   },
   {
     "patientId": 18,
-    "dateAnnounced": "2020-03-30",
+    "dateAnnounced": "2020-03-13",
     "ageBracket": -1,
-    "detectedPrefecture": "Kollam",
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
     "patientStatus": "Recovered",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
     "patientId": 19,
-    "dateAnnounced": "2020-03-31",
+    "dateAnnounced": "2020-03-13",
     "ageBracket": -1,
-    "detectedPrefecture": "Wayanad",
+    "residence": "Kannur",
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
     "patientStatus": "Recovered",
+    "knownCluster": "Qatar",
     "confirmedPatient": true
   },
   {
     "patientId": 20,
-    "dateAnnounced": "2020-01-28",
-    "ageBracket": 60,
-    "gender": "M",
-    "detectedPrefecture": "Unspecified",
-    "patientStatus": "Deceased",
+    "dateAnnounced": "2020-03-13",
+    "ageBracket": -1,
+    "residence": "Varkala",
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Recovered",
+    "notes": "Traveled from Italy",
+    "knownCluster": "Italy",
     "confirmedPatient": true
   },
   {
     "patientId": 21,
-    "dateAnnounced": "2020-01-28",
-    "ageBracket": 40,
-    "gender": "F",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Unspecified",
+    "dateAnnounced": "2020-03-13",
+    "ageBracket": -1,
+    "residence": "Nedumangad",
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Traveled via Dubai",
+    "knownCluster": "Italy",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 22,
+    "dateAnnounced": "2020-03-13",
+    "ageBracket": -1,
+    "gender": "M",
+    "residence": "Thiruvananthapuram",
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Traveled from London via Baharin",
+    "knownCluster": "London",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 23,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -282,24 +319,6 @@
   },
   {
     "patientId": 28,
-    "dateAnnounced": "2020-03-26",
-    "ageBracket": -1,
-    "detectedCityTown": "Kasaragod",
-    "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 29,
-    "dateAnnounced": "2020-03-26",
-    "ageBracket": -1,
-    "detectedCityTown": "Kasaragod",
-    "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 30,
     "dateAnnounced": "2020-03-27",
     "ageBracket": -1,
     "detectedCityTown": "Kasaragod",
