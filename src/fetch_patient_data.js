@@ -1,5 +1,4 @@
 const drive = require('drive-db')
-const fs = require('fs')
 const _ = require('lodash')
 
 const SHEET = '1_Nyd7nerS-3b3HnIvNrh_1y27B6_R2z7oK2_1ujUKfA'
@@ -9,9 +8,9 @@ const SHEET_PATIENT_DATA_TAB = 1
 const postProcessData = (rawData) => {
 
   // Check validity of the row.
-  const filterRow = row => {
-    if (!row.patientnumber || isNaN(parseInt(row.patientNumber))) { return false }
+  const isValidRow = row => {
     if (!row.detectedPrefecture) { return false }
+    if (!row.dateAnnounced) { return false }
     return true
   }
 
@@ -27,7 +26,7 @@ const postProcessData = (rawData) => {
     }
 
     let transformedRow = {
-      'patientId': parseInt(row.patientnumber),
+      'patientId': normalizeNumber(row.patientnumber),
       'dateAnnounced': row.dateannounced,
       'ageBracket': normalizeNumber(row.agebracket),
       'gender': unspecifiedToBlank(row.gender),
@@ -73,19 +72,21 @@ const postProcessData = (rawData) => {
       return v
     })
 
+    // Add a field to indicate whether we count as patient or not.
+    transformedRow.confirmedPatient = (transformedRow.patientId > 0)
+
     return transformedRow
   }
-
-  return _.map(_.filter(rawData), transformRow)
+  
+  const rows = _.filter(_.map(rawData, transformRow), isValidRow)
+  return rows
 }
 
 
-async function fetchPatientData(destinationFilename) {
+async function fetchPatientData() {
   return drive({sheet: SHEET, tab: SHEET_PATIENT_DATA_TAB})
     .then(db => {
-      let processedData = postProcessData(db)
-      fs.writeFileSync(destinationFilename, JSON.stringify(processedData, null, '  '))
-      return processedData
+      return postProcessData(db)
     })
 }
 
