@@ -1660,5 +1660,107 @@
     "notes": "Travelled from Dubai via Sharjah Air India AI 968, Admitted to Govt. Medial College Thiruvanathapuram",
     "knownCluster": "Dubai",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 134,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "residence": "Idukki",
+    "detectedCityTown": "Idukki",
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 135,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Thrissur",
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
+    "notes": "Husband of P94",
+    "knownCluster": "Thrissur",
+    "mhlwPatientNumber": "94",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 136,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": 21,
+    "gender": "M",
+    "residence": "Thrissur",
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 137,
+    "dateAnnounced": "2020-03-26",
+    "ageBracket": -1,
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abhudhabi EY 254 on 22 March landed at Kozhikode Airpot",
+    "knownCluster": "Abu Dhabi",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 138,
+    "dateAnnounced": "2020-03-27",
+    "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Emirates EK 566 landed at Bengaluru",
+    "knownCluster": "Dubai",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 139,
+    "dateAnnounced": "2020-03-27",
+    "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Ettihad EY 254 landed at Kozhikode",
+    "knownCluster": "Dubai",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 140,
+    "dateAnnounced": "2020-03-27",
+    "ageBracket": -1,
+    "residence": "Thrissur",
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 141,
+    "dateAnnounced": "2020-03-27",
+    "ageBracket": -1,
+    "residence": "Kozhikode",
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 142,
+    "dateAnnounced": "2020-03-27",
+    "ageBracket": -1,
+    "residence": "Kollam",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "confirmedPatient": true
   }
 ]
