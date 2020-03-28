@@ -1540,7 +1540,7 @@
     {
       "confirmed": 3,
       "recoveredCumulative": 0,
-      "deceasedCumulative": 1,
+      "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 0,
       "date": "2020-02-17",
@@ -1549,7 +1549,7 @@
     {
       "confirmed": 1,
       "recoveredCumulative": 0,
-      "deceasedCumulative": 1,
+      "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 0,
       "date": "2020-02-21",
