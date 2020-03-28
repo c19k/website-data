@@ -192,7 +192,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-08",
       "newlyConfirmed": 0,
-      "recovered": 3,
+      "recovered": 1,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -289,7 +289,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-08",
       "newlyConfirmed": 0,
-      "recovered": 2,
+      "recovered": 5,
       "name_ja": "എറണാകുളം",
       "name": "Ernakulam"
     },
@@ -581,7 +581,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-08",
       "newlyConfirmed": 2,
-      "recovered": 3,
+      "recovered": 2,
       "name_ja": "തിരുവനന്തപുരം",
       "name": "Thiruvananthapuram"
     },
@@ -1520,13 +1520,13 @@
     },
     {
       "confirmed": 6,
-      "recoveredCumulative": 8,
+      "recoveredCumulative": 16,
       "deceasedCumulative": 1,
-      "criticalCumulative": 6,
-      "testedCumulative": 2000,
+      "criticalCumulative": 4,
+      "testedCumulative": 6067,
       "date": "2020-03-28",
       "confirmedCumulative": 182
     }
   ],
-  "updated": "Mar 28 2020, 00:01 IST"
+  "updated": "Mar 28 2020, 11:05 IST"
 }
