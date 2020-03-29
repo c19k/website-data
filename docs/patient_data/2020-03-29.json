@@ -2432,6 +2432,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Health worker",
+    "knownCluster": "Ernakulam",
     "confirmedPatient": true
   },
   {
@@ -2442,6 +2444,7 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Currently in ICU",
     "confirmedPatient": true
   },
   {
