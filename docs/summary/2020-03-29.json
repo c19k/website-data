@@ -1465,7 +1465,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 3436,
       "date": "2020-03-20",
       "confirmedCumulative": 40
     },
@@ -1474,7 +1474,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 3716,
       "date": "2020-03-21",
       "confirmedCumulative": 52
     },
@@ -1483,7 +1483,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 4035,
       "date": "2020-03-22",
       "confirmedCumulative": 67
     },
@@ -1492,7 +1492,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 4291,
       "date": "2020-03-23",
       "confirmedCumulative": 95
     },
@@ -1501,7 +1501,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 4516,
       "date": "2020-03-24",
       "confirmedCumulative": 109
     },
@@ -1510,7 +1510,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 4902,
       "date": "2020-03-25",
       "confirmedCumulative": 118
     },
@@ -1519,7 +1519,7 @@
       "recoveredCumulative": 5,
       "deceasedCumulative": 0,
       "criticalCumulative": 15,
-      "testedCumulative": 1890,
+      "testedCumulative": 5342,
       "date": "2020-03-26",
       "confirmedCumulative": 137
     },
@@ -1528,7 +1528,7 @@
       "recoveredCumulative": 8,
       "deceasedCumulative": 0,
       "criticalCumulative": 6,
-      "testedCumulative": 2000,
+      "testedCumulative": 5679,
       "date": "2020-03-27",
       "confirmedCumulative": 176
     },
@@ -1537,7 +1537,7 @@
       "recoveredCumulative": 16,
       "deceasedCumulative": 1,
       "criticalCumulative": 4,
-      "testedCumulative": 5276,
+      "testedCumulative": 6067,
       "date": "2020-03-28",
       "confirmedCumulative": 182
     },
@@ -1546,10 +1546,10 @@
       "recoveredCumulative": 20,
       "deceasedCumulative": 1,
       "criticalCumulative": 4,
-      "testedCumulative": 5276,
+      "testedCumulative": 6690,
       "date": "2020-03-29",
       "confirmedCumulative": 202
     }
   ],
-  "updated": "Mar 29 2020, 18:10 IST"
+  "updated": "Mar 29 2020, 18:58 IST"
 }
