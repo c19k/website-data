@@ -1,12 +1,12 @@
 {
   "prefectures": [
     {
-      "confirmed": 90,
+      "confirmed": 107,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 88,
+        "Kasaragod": 105,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -70,21 +70,21 @@
         34,
         1,
         7,
-        0
+        17
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 17,
       "recovered": 1,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
     {
-      "confirmed": 32,
+      "confirmed": 43,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kannur": 32
+        "Kannur": 43
       },
       "dailyConfirmedCount": [
         0,
@@ -146,10 +146,10 @@
         2,
         0,
         8,
-        0
+        11
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 11,
       "recovered": 1,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
@@ -614,6 +614,83 @@
       "name": "Kozhikode"
     },
     {
+      "confirmed": 6,
+      "cruisePassenger": 0,
+      "cruiseWorker": 0,
+      "deaths": 0,
+      "confirmedByCity": {
+        "Munnar": 1,
+        "Idukki": 5
+      },
+      "dailyConfirmedCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        2
+      ],
+      "dailyConfirmedStartDate": "2020-01-31",
+      "newlyConfirmed": 2,
+      "recovered": 1,
+      "name_ja": "ഇടുക്കി",
+      "name": "Idukki"
+    },
+    {
       "confirmed": 5,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
@@ -690,13 +767,12 @@
       "name": "Palakkad"
     },
     {
-      "confirmed": 4,
+      "confirmed": 3,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Munnar": 1,
-        "Idukki": 3
+        "Wayanad": 3
       },
       "dailyConfirmedCount": [
         0,
@@ -743,7 +819,6 @@
         0,
         0,
         0,
-        1,
         0,
         0,
         0,
@@ -753,18 +828,19 @@
         0,
         0,
         0,
-        1,
-        1,
         0,
         0,
         1,
-        0
+        0,
+        0,
+        0,
+        2
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 1,
-      "name_ja": "ഇടുക്കി",
-      "name": "Idukki"
+      "newlyConfirmed": 2,
+      "recovered": 0,
+      "name_ja": "വയനാട്",
+      "name": "Wayanad"
     },
     {
       "confirmed": 3,
@@ -993,82 +1069,6 @@
       "recovered": 1,
       "name_ja": "ആലപ്പുഴ",
       "name": "Alappuzha"
-    },
-    {
-      "confirmed": 1,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
-      "deaths": 0,
-      "confirmedByCity": {
-        "Wayanad": 1
-      },
-      "dailyConfirmedCount": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 0,
-      "name_ja": "വയനാട്",
-      "name": "Wayanad"
     }
   ],
   "daily": [
@@ -1242,7 +1242,16 @@
       "testedCumulative": 6690,
       "date": "2020-03-29",
       "confirmedCumulative": 203
+    },
+    {
+      "confirmed": 32,
+      "recoveredCumulative": 20,
+      "deceasedCumulative": 1,
+      "criticalCumulative": 4,
+      "testedCumulative": 6991,
+      "date": "2020-03-30",
+      "confirmedCumulative": 235
     }
   ],
-  "updated": "Mar 30 2020, 12:04 IST"
+  "updated": "Mar 30 2020, 18:04 IST"
 }
