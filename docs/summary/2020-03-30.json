@@ -302,7 +302,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 5,
+      "recovered": 10,
       "name_ja": "പത്തനംതിട്ട",
       "name": "Pathanamthitta"
     },
@@ -1245,7 +1245,7 @@
     },
     {
       "confirmed": 32,
-      "recoveredCumulative": 20,
+      "recoveredCumulative": 21,
       "deceasedCumulative": 1,
       "criticalCumulative": 4,
       "testedCumulative": 6991,
@@ -1253,5 +1253,5 @@
       "confirmedCumulative": 235
     }
   ],
-  "updated": "Mar 30 2020, 18:25 IST"
+  "updated": "2020-03-30 19:30+05:30"
 }
