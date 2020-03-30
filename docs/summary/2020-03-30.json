@@ -1407,7 +1407,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 106,
       "date": "2020-02-02",
       "confirmedCumulative": 2
     },
@@ -1416,7 +1416,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 140,
       "date": "2020-02-03",
       "confirmedCumulative": 3
     },
@@ -1425,7 +1425,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 729,
       "date": "2020-03-08",
       "confirmedCumulative": 8
     },
@@ -1434,7 +1434,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 980,
       "date": "2020-03-10",
       "confirmedCumulative": 17
     },
@@ -1443,7 +1443,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 1715,
       "date": "2020-03-13",
       "confirmedCumulative": 22
     },
@@ -1452,7 +1452,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 2147,
       "date": "2020-03-15",
       "confirmedCumulative": 24
     },
@@ -1461,7 +1461,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 2297,
       "date": "2020-03-16",
       "confirmedCumulative": 27
     },
@@ -1470,7 +1470,7 @@
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
-      "testedCumulative": 0,
+      "testedCumulative": 2921,
       "date": "2020-03-19",
       "confirmedCumulative": 28
     },
@@ -1565,5 +1565,5 @@
       "confirmedCumulative": 202
     }
   ],
-  "updated": "Mar 29 2020, 18:58 IST"
+  "updated": "Mar 29 2020, 21:59 IST"
 }
