@@ -23,6 +23,6 @@ const fetchAndSummarize = async (dateString) => {
   fs.writeFileSync(summaryOutputFilename, JSON.stringify(summary, null, '  '))
 }
 
-// Add 540 = UTC+9 for JST.
-const dateString = moment().utcOffset(540).format('YYYY-MM-DD')
+// Add 330 = UTC+5:30 for IST.
+const dateString = moment().utcOffset(330).format('YYYY-MM-DD')
 fetchAndSummarize(dateString)
