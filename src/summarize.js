@@ -154,7 +154,7 @@ const generatePrefectureSummary = (patients, manualPrefectureData) => {
 
   for (let prefectureName of _.keys(prefectureSummary)) {
     let prefecture = prefectureSummary[prefectureName]
-    const firstDay = moment('2020-01-08')
+    const firstDay = moment('2020-01-31')
     const dailyConfirmed = generateDailyStatsForPrefecture(prefecture.patients, firstDay)
     if (dailyConfirmed && dailyConfirmed.length) {
       prefecture.dailyConfirmedCount = dailyConfirmed
@@ -165,10 +165,10 @@ const generatePrefectureSummary = (patients, manualPrefectureData) => {
 
   // Import manual data.
   for (let row of manualPrefectureData) {
-    if (prefectureSummary[row.prefecture]) {
-      prefectureSummary[row.prefecture].recovered = safeParseInt(row.recovered)
-      prefectureSummary[row.prefecture].deaths = safeParseInt(row.deaths)
-      prefectureSummary[row.prefecture].name_ja = row.prefectureja
+    if (prefectureSummary[row.district]) {
+      prefectureSummary[row.district].recovered = safeParseInt(row.recovered)
+      prefectureSummary[row.district].deaths = safeParseInt(row.deaths)
+      prefectureSummary[row.district].name_ja = row.districtml
     }
   }
 
@@ -188,7 +188,7 @@ const generatePrefectureSummary = (patients, manualPrefectureData) => {
 }
 
 const generateDailyStatsForPrefecture = (patients, firstDay) => {
-  const lastDay = moment().utcOffset(540)
+  const lastDay = moment().utcOffset(330)
   let day = moment(firstDay)
   let daily = []
   while (day <= lastDay) {

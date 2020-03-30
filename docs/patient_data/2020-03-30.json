@@ -10,6 +10,11 @@
     "patientStatus": "Recovered",
     "notes": "Discharged on 13/03/2020",
     "knownCluster": "Wuhan, China",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -23,6 +28,11 @@
     "patientStatus": "Recovered",
     "notes": "Discharged on 13/03/2020",
     "knownCluster": "Wuhan, China",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -36,6 +46,11 @@
     "patientStatus": "Recovered",
     "notes": "Discharged on 13/03/2020",
     "knownCluster": "Wuhan, China",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -48,6 +63,11 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Recovered",
     "knownCluster": "Venice, Italy",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -60,6 +80,11 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Recovered",
     "knownCluster": "Venice, Italy",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -72,6 +97,11 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Recovered",
     "knownCluster": "Venice, Italy",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -85,7 +115,11 @@
     "patientStatus": "Recovered",
     "notes": "Went to Ranni Gate Hotel Bar on 5/3/2020",
     "knownCluster": "Pathanamthitta",
-    "mhlwPatientNumber": "5",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -98,7 +132,11 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Recovered",
     "knownCluster": "Pathanamthitta",
-    "mhlwPatientNumber": "5",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -111,6 +149,11 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Recovered",
     "knownCluster": "Venice, Italy",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -123,7 +166,11 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Recovered",
     "knownCluster": "Venice, Italy",
-    "mhlwPatientNumber": "9",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -136,7 +183,11 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Recovered",
     "knownCluster": "Venice, Italy",
-    "mhlwPatientNumber": "9",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -148,7 +199,11 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Recovered",
     "knownCluster": "Flight from Italy",
-    "mhlwPatientNumber": "5",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -160,7 +215,11 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Recovered",
     "knownCluster": "Flight from Italy",
-    "mhlwPatientNumber": "5",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -172,7 +231,11 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "knownCluster": "Pathanamthitta",
-    "mhlwPatientNumber": "5",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -184,7 +247,11 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "knownCluster": "Pathanamthitta",
-    "mhlwPatientNumber": "5",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -197,7 +264,11 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "knownCluster": "Pathanamthitta",
-    "mhlwPatientNumber": "5",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -210,7 +281,11 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "knownCluster": "Pathanamthitta",
-    "mhlwPatientNumber": "5",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -222,6 +297,11 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Recovered",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -233,6 +313,11 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Recovered",
     "knownCluster": "Qatar",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -245,6 +330,11 @@
     "patientStatus": "Recovered",
     "notes": "Traveled from Italy",
     "knownCluster": "Italy",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -257,6 +347,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Traveled via Dubai",
     "knownCluster": "Italy",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -270,6 +365,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Traveled from London via Baharin",
     "knownCluster": "London",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -283,6 +383,11 @@
     "patientStatus": "Recovered",
     "notes": "Travelled from Dubai, British citizen who had resided in Munnar resort",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -296,6 +401,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Spain, Doctor",
     "knownCluster": "Spain",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -308,6 +418,11 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Traveled from Middle East",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -320,6 +435,11 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Traveled from Middle East",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -332,6 +452,11 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Traveled from Middle East",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -345,6 +470,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai via Kozhikode Air India Express IX 344",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -358,7 +488,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai. UK Tourist",
     "knownCluster": "Dubai",
-    "mhlwPatientNumber": "23",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -372,7 +506,11 @@
     "patientStatus": "Recovered",
     "notes": "Travelled from Dubai. UK Tourist",
     "knownCluster": "Dubai",
-    "mhlwPatientNumber": "23",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -386,7 +524,11 @@
     "patientStatus": "Recovered",
     "notes": "Travelled from Dubai. UK Tourist",
     "knownCluster": "Dubai",
-    "mhlwPatientNumber": "23",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -400,7 +542,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai. UK Tourist",
     "knownCluster": "Dubai",
-    "mhlwPatientNumber": "23",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -414,7 +560,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai. UK Tourist",
     "knownCluster": "Dubai",
-    "mhlwPatientNumber": "23",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -428,6 +578,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UK. Palakkad native",
     "knownCluster": "UK",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -441,6 +596,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah ",
     "knownCluster": "Sharjah",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -454,6 +614,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai via Mangalore",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -467,7 +632,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled in Taxi with P25",
     "knownCluster": "Kasaragod",
-    "mhlwPatientNumber": "25",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -481,7 +650,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Relatives of P25",
     "knownCluster": "Kasaragod",
-    "mhlwPatientNumber": "25",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -495,7 +668,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Relatives of P25",
     "knownCluster": "Kasaragod",
-    "mhlwPatientNumber": "25",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -508,7 +685,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Relatives of P25",
     "knownCluster": "Kasaragod",
-    "mhlwPatientNumber": "25",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -521,6 +702,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah IX 746",
     "knownCluster": "Sharjah",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -533,6 +719,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai, Air India Express IX 344",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -545,6 +736,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai, SG54",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -557,6 +753,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -569,6 +770,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -581,6 +787,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -594,6 +805,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Landed in Mangalore airport, had been to Kasturba Medical College Attavar\t",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -607,6 +823,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -620,6 +841,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -633,6 +859,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -646,6 +877,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -659,6 +895,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -672,6 +913,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai AI 938 admitted in Kozhikode M",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -685,6 +931,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -698,6 +949,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -711,6 +967,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -724,6 +985,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -736,6 +1002,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -748,6 +1019,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -761,6 +1037,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abhudhabi via Air India IX 348 ",
     "knownCluster": "Abu Dhabi",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -774,6 +1055,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai via Air Arabia G9 425",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -787,6 +1073,11 @@
     "patientStatus": "Hospitalized",
     "notes": "ravelled from Abu Dhabi, EY 250",
     "knownCluster": "Abu Dhabi",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -800,6 +1091,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai AI 938, Taken to hospital directly from the airport.        ",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -813,6 +1109,11 @@
     "patientStatus": "Deceased",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -826,6 +1127,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from United Kingdom",
     "knownCluster": "UK",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -838,6 +1144,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -850,6 +1161,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -863,6 +1179,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -876,6 +1197,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -889,6 +1215,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -902,6 +1233,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -915,6 +1251,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -928,6 +1269,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -941,6 +1287,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -953,6 +1304,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -965,6 +1321,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -977,6 +1338,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -989,6 +1355,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1001,6 +1372,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1013,6 +1389,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1025,6 +1406,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1037,6 +1423,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1049,6 +1440,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1061,6 +1457,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1073,6 +1474,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1086,6 +1492,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1098,6 +1509,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1110,6 +1526,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1122,6 +1543,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1134,6 +1560,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1146,6 +1577,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1159,7 +1595,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UK, British tourist among those who visited Munnar, Wife of P23",
     "knownCluster": "Dubai",
-    "mhlwPatientNumber": "23",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1172,6 +1612,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai, Emirates flight, been in isolation since landed yesterday at Kochi airport\t",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1185,6 +1630,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from France",
     "knownCluster": "France",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1197,6 +1647,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar, Qatar Airways QR 506",
     "knownCluster": "Qatar",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1209,6 +1664,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai, Indigo 6E: 89",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1221,6 +1681,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai, Air India AI 906 landed at Che",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1233,6 +1698,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UK",
     "knownCluster": "UK",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1245,6 +1715,11 @@
     "patientStatus": "Hospitalized",
     "notes": "ravelled from Dubai Air India AI 938",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1255,6 +1730,11 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1267,6 +1747,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah Air Arabia G9 454, Admitted in Kozhikode\t\t\t",
     "knownCluster": "Sharjah",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1279,6 +1764,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1291,6 +1781,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1303,6 +1798,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai Emirates EK 0532",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1315,6 +1815,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar to Goa Oman Air WY 662 and from there by train to Alappuzha",
     "knownCluster": "Qatar",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1328,7 +1833,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Close relative of P64",
     "knownCluster": "Ernakulam",
-    "mhlwPatientNumber": "64",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1341,6 +1850,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Nurse at Kottayam Medical College",
     "knownCluster": "Kottayam",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1353,6 +1867,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission likely",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1363,6 +1882,11 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1375,6 +1899,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Brazil via Dubai Air India AI 425",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1387,6 +1916,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai Air India AI X 344",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1399,6 +1933,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1411,6 +1950,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UK",
     "knownCluster": "UK",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1423,6 +1967,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1435,6 +1984,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai SG 18 ",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1448,6 +2002,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from France via Delhi, Kochi",
     "knownCluster": "France",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1461,6 +2020,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from France via Delhi, Kochi",
     "knownCluster": "France",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1474,7 +2038,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission from P64",
     "knownCluster": "Ernakulam",
-    "mhlwPatientNumber": "64",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1487,6 +2055,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1499,6 +2072,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1511,6 +2089,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1523,6 +2106,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Bangalore (Emirates EK 566) and from there by Road",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1535,6 +2123,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai Air India AI 938 on March 19",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1547,6 +2140,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai Air India AI 938 on March 17",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1559,6 +2157,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road\t",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1571,6 +2174,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai SG 54",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1583,6 +2191,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai SG 54",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1595,6 +2208,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai landed in Bangalore airport from there in a private vehicle\t",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1607,6 +2225,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai landed in Bangalore airport from there in a private vehicle",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1619,7 +2242,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled with P48",
     "knownCluster": "Flight",
-    "mhlwPatientNumber": "48",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1633,6 +2260,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abhu Dhabi ",
     "knownCluster": "Abu Dhabi",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1646,6 +2278,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to bangalore (Emirates EK 564) and from there to Kozhikode in a goods vehicle",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1659,6 +2296,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai via Sharjah Air India AI 968, Admitted to Govt. Medial College Thiruvanathapuram",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1670,6 +2312,11 @@
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1683,7 +2330,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Husband of P94",
     "knownCluster": "Thrissur",
-    "mhlwPatientNumber": "94",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1695,6 +2346,11 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1707,6 +2363,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abhudhabi EY 254 on 22 March landed at Kozhikode Airpot",
     "knownCluster": "Abu Dhabi",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1719,6 +2380,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai Emirates EK 566 landed at Bengaluru",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1731,6 +2397,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai Ettihad EY 254 landed at Kozhikode",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1741,6 +2412,11 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1751,6 +2427,11 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1763,6 +2444,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1776,6 +2462,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1789,6 +2480,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1802,6 +2498,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1815,6 +2516,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1828,6 +2534,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1841,6 +2552,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1854,6 +2570,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1867,6 +2588,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1880,6 +2606,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1893,6 +2624,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1906,6 +2642,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1919,6 +2660,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1932,6 +2678,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1945,6 +2696,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1958,6 +2714,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1971,6 +2732,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1984,6 +2750,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -1997,6 +2768,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2010,6 +2786,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2023,6 +2804,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from KSA via Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2034,6 +2820,11 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2047,6 +2838,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2060,6 +2856,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2073,6 +2874,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2086,6 +2892,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2099,6 +2910,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2112,6 +2928,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2125,6 +2946,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2138,6 +2964,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2151,6 +2982,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2164,6 +3000,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2177,6 +3018,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2190,6 +3036,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2203,6 +3054,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2213,6 +3069,11 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2223,16 +3084,28 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
     "patientId": 179,
     "dateAnnounced": "2020-03-28",
     "ageBracket": -1,
-    "residence": "Palakkad",
+    "residence": "Ottappalam",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai landed at Kozhikode airport, travelled in same flight as another Covid19 positve patient",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2243,6 +3116,11 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2253,6 +3131,11 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2263,56 +3146,96 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
     "patientId": 183,
     "dateAnnounced": "2020-03-29",
-    "ageBracket": -1,
-    "residence": "Kannur",
+    "ageBracket": 30,
+    "residence": "Maradu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Emirates EK 568 landed at Kozhikode",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
     "patientId": 184,
     "dateAnnounced": "2020-03-29",
-    "ageBracket": -1,
-    "residence": "Kannur",
+    "ageBracket": 45,
+    "residence": "Maradu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Sharjah AIr India express IX 354 landed at Kozhikode",
+    "knownCluster": "Sharjah",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
     "patientId": 185,
     "dateAnnounced": "2020-03-29",
-    "ageBracket": -1,
-    "residence": "Kannur",
+    "ageBracket": 52,
+    "residence": "Maradu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Emirates EK 568 landed at BAngalore",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
     "patientId": 186,
     "dateAnnounced": "2020-03-29",
-    "ageBracket": -1,
-    "residence": "Kannur",
+    "ageBracket": 45,
+    "residence": "Temple Gate",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Air India AI 938 landed at Kozhikode",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
     "patientId": 187,
     "dateAnnounced": "2020-03-29",
-    "ageBracket": -1,
-    "residence": "Kannur",
+    "ageBracket": 40,
+    "residence": "Temple Gate",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Air India AI 938 landed at Kozhikode",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2323,6 +3246,13 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Air India AI 938 landed at Kozhikode",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2333,6 +3263,13 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Air India IX 346 landed at Kozhikode",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2343,6 +3280,13 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Emirates EK 532 landed at Kochi",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2356,6 +3300,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2369,6 +3318,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2376,12 +3330,17 @@
     "dateAnnounced": "2020-03-29",
     "ageBracket": 41,
     "gender": "M",
-    "residence": "Mogral",
+    "residence": "Chengala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2389,12 +3348,17 @@
     "dateAnnounced": "2020-03-29",
     "ageBracket": 50,
     "gender": "M",
-    "residence": "Chengala",
+    "residence": "Chattanchal",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2408,6 +3372,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2421,6 +3390,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2434,6 +3408,11 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2444,6 +3423,11 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2454,29 +3438,47 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "Health worker",
+    "notes": "Health Worker",
     "knownCluster": "Ernakulam",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
     "patientId": 200,
     "dateAnnounced": "2020-03-29",
-    "ageBracket": -1,
+    "ageBracket": 68,
+    "gender": "M",
     "residence": "Thiruvananthapuram",
-    "detectedCityTown": "Thiruvananthapuram",
+    "detectedCityTown": "Thiruvanathapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Currently in ICU",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
     "patientId": 201,
     "dateAnnounced": "2020-03-29",
     "ageBracket": -1,
-    "residence": "Malappuram",
+    "residence": "Manjeri",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Spice Jet SG 054",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   },
   {
@@ -2487,6 +3489,31 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai landed at Kochi airport",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 203,
+    "dateAnnounced": "2020-03-29",
+    "ageBracket": -1,
+    "gender": "M",
+    "residence": "Idukki",
+    "detectedCityTown": "Idukki",
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact with P134",
+    "knownCluster": "Idukki",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
     "confirmedPatient": true
   }
 ]
