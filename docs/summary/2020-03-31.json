@@ -70,10 +70,11 @@
         34,
         1,
         7,
-        17
+        17,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 17,
+      "newlyConfirmed": 0,
       "recovered": 1,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
@@ -146,10 +147,11 @@
         2,
         0,
         8,
-        11
+        11,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 11,
+      "newlyConfirmed": 0,
       "recovered": 1,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
@@ -222,6 +224,7 @@
         0,
         0,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -294,6 +297,7 @@
         1,
         0,
         2,
+        0,
         0,
         0,
         0,
@@ -375,6 +379,7 @@
         0,
         1,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -452,6 +457,7 @@
         0,
         2,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -528,6 +534,7 @@
         1,
         0,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -603,6 +610,7 @@
         1,
         0,
         1,
+        0,
         0,
         0,
         0
@@ -681,6 +689,7 @@
         0,
         1,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -758,10 +767,11 @@
         0,
         0,
         0,
-        2
+        2,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 2,
+      "newlyConfirmed": 0,
       "recovered": 1,
       "name_ja": "ഇടുക്കി",
       "name": "Idukki"
@@ -834,10 +844,11 @@
         0,
         0,
         0,
-        2
+        2,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 2,
+      "newlyConfirmed": 0,
       "recovered": 0,
       "name_ja": "വയനാട്",
       "name": "Wayanad"
@@ -905,6 +916,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -986,6 +998,7 @@
         1,
         1,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1057,6 +1070,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
