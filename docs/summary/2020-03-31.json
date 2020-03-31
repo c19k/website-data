@@ -316,8 +316,7 @@
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Malappuram": 9,
-        "Thiruvananthapuram": 1
+        "Malappuram": 10
       },
       "dailyConfirmedCount": [
         0,
@@ -392,7 +391,7 @@
       "confirmed": 8,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
-      "deaths": 0,
+      "deaths": 1,
       "confirmedByCity": {
         "Thiruvananthapuram": 7,
         "Thiruvanathapuram": 1
@@ -1267,5 +1266,5 @@
       "confirmedCumulative": 234
     }
   ],
-  "updated": "2020-03-30 19:55"
+  "updated": "2020-03-30 08:25"
 }
