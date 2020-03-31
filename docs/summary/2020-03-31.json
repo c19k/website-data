@@ -1264,7 +1264,16 @@
       "testedCumulative": 6991,
       "date": "2020-03-30",
       "confirmedCumulative": 234
+    },
+    {
+      "confirmed": 0,
+      "recoveredCumulative": 20,
+      "deceasedCumulative": 2,
+      "criticalCumulative": 3,
+      "testedCumulative": 6991,
+      "date": "2020-03-31",
+      "confirmedCumulative": 234
     }
   ],
-  "updated": "2020-03-31 10:30"
+  "updated": "2020-03-31 13:48"
 }
