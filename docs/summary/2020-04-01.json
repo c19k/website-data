@@ -620,10 +620,10 @@
         1,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 0,
       "name_ja": "പാലക്കാട്",
       "name": "Palakkad"
@@ -1291,23 +1291,14 @@
       "confirmedCumulative": 241
     },
     {
-      "confirmed": 23,
+      "confirmed": 24,
       "recoveredCumulative": 26,
       "deceasedCumulative": 2,
       "criticalCumulative": 3,
       "testedCumulative": 7965,
       "date": "2020-04-01",
-      "confirmedCumulative": 264
-    },
-    {
-      "confirmed": 1,
-      "recoveredCumulative": 26,
-      "deceasedCumulative": 2,
-      "criticalCumulative": 3,
-      "testedCumulative": 7965,
-      "date": "2020-04-02",
       "confirmedCumulative": 265
     }
   ],
-  "updated": "2020-04-01 18:27"
+  "updated": "2020-04-01 18:30"
 }
