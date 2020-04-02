@@ -324,9 +324,10 @@
       "cruiseWorker": 0,
       "deaths": 1,
       "confirmedByCity": {
-        "Thiruvananthapuram": 10,
+        "Thiruvananthapuram": 9,
         "Thiruvanathapuram": 1,
-        "Thiruvanthapuram": 1
+        "Thiruvanthapuram": 1,
+        "Malappuram": 1
       },
       "dailyConfirmedCount": [
         0,
