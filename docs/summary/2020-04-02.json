@@ -73,10 +73,10 @@
         17,
         2,
         12,
-        0
+        8
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 8,
       "recovered": 1,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
@@ -152,10 +152,10 @@
         11,
         1,
         2,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 3,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
@@ -310,10 +310,10 @@
         0,
         0,
         2,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 0,
       "name_ja": "മലപ്പുറം",
       "name": "Malappuram"
@@ -392,10 +392,10 @@
         0,
         2,
         2,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 3,
       "name_ja": "തിരുവനന്തപുരം",
       "name": "Thiruvananthapuram"
@@ -709,10 +709,10 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 1,
       "name_ja": "കോഴിക്കോട്",
       "name": "Kozhikode"
@@ -789,10 +789,10 @@
         2,
         0,
         0,
-        0
+        5
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 5,
       "recovered": 1,
       "name_ja": "ഇടുക്കി",
       "name": "Idukki"
@@ -868,10 +868,10 @@
         0,
         1,
         0,
-        0
+        2
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 2,
       "recovered": 0,
       "name_ja": "കൊല്ലം",
       "name": "Kollam"
@@ -1113,6 +1113,83 @@
       "recovered": 1,
       "name_ja": "ആലപ്പുഴ",
       "name": "Alappuzha"
+    },
+    {
+      "confirmed": 0,
+      "cruisePassenger": 0,
+      "cruiseWorker": 0,
+      "deaths": 0,
+      "confirmedByCity": {},
+      "dailyConfirmedCount": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "dailyConfirmedStartDate": "2020-01-31",
+      "newlyConfirmed": 2,
+      "recovered": 0,
+      "name_ja": "വ്യക്തമാക്കാത്ത",
+      "name": "Unspecified"
     }
   ],
   "daily": [
