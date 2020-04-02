@@ -4782,8 +4782,7 @@
   {
     "patientId": 280,
     "dateAnnounced": "2020-04-02",
-    "ageBracket": 27,
-    "gender": "F",
+    "ageBracket": -1,
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
