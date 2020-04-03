@@ -78,7 +78,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 7,
-      "recovered": 1,
+      "recovered": 4,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
@@ -158,7 +158,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 1,
-      "recovered": 3,
+      "recovered": 8,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -481,7 +481,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 7,
+      "recovered": 8,
       "name_ja": "പത്തനംതിട്ട",
       "name": "Pathanamthitta"
     },
@@ -642,7 +642,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1,
+      "recovered": 3,
       "name_ja": "ഇടുക്കി",
       "name": "Idukki"
     },
@@ -723,7 +723,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1,
+      "recovered": 3,
       "name_ja": "കോഴിക്കോട്",
       "name": "Kozhikode"
     },
@@ -1044,7 +1044,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 2,
+      "recovered": 3,
       "name_ja": "കോട്ടയം",
       "name": "Kottayam"
     },
@@ -1347,5 +1347,5 @@
       "confirmedCumulative": 295
     }
   ],
-  "updated": "2020-04-03 18:13"
+  "updated": "2020-04-03 18:20"
 }
