@@ -4800,7 +4800,9 @@
   {
     "patientId": 280,
     "dateAnnounced": "2020-04-02",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "F",
+    "residence": "Punalur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
