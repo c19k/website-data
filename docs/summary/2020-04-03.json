@@ -1,12 +1,12 @@
 {
   "prefectures": [
     {
-      "confirmed": 129,
+      "confirmed": 136,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 127,
+        "Kasaragod": 134,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -74,21 +74,21 @@
         2,
         12,
         8,
-        0
+        7
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 7,
       "recovered": 1,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
     {
-      "confirmed": 47,
+      "confirmed": 48,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kannur": 47
+        "Kannur": 48
       },
       "dailyConfirmedCount": [
         0,
@@ -154,10 +154,10 @@
         1,
         2,
         1,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 3,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
@@ -486,12 +486,12 @@
       "name": "Pathanamthitta"
     },
     {
-      "confirmed": 11,
+      "confirmed": 12,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Thrissur": 11
+        "Thrissur": 12
       },
       "dailyConfirmedCount": [
         1,
@@ -557,10 +557,10 @@
         1,
         2,
         1,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 2,
       "name_ja": "തൃശ്ശൂർ",
       "name": "Thrissur"
@@ -1338,14 +1338,14 @@
       "confirmedCumulative": 286
     },
     {
-      "confirmed": 0,
-      "recoveredCumulative": 28,
+      "confirmed": 9,
+      "recoveredCumulative": 42,
       "deceasedCumulative": 2,
       "criticalCumulative": 3,
-      "testedCumulative": 8456,
+      "testedCumulative": 9130,
       "date": "2020-04-03",
-      "confirmedCumulative": 286
+      "confirmedCumulative": 295
     }
   ],
-  "updated": "2020-04-03 06:30"
+  "updated": "2020-04-03 18:13"
 }
