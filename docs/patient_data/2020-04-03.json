@@ -1848,7 +1848,8 @@
   {
     "patientId": 107,
     "dateAnnounced": "2020-03-24",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "F",
     "residence": "Kottayam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
@@ -4718,12 +4719,14 @@
   {
     "patientId": 274,
     "dateAnnounced": "2020-04-02",
-    "ageBracket": -1,
+    "ageBracket": 7,
     "gender": "M",
-    "residence": "Bison Vally",
+    "residence": "Bison Valley",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Bison Valley",
     "charterFlightPassenger": false,
     "cruisePassengerDisembarked": false,
     "cruisePassengerInfectedOnboard": false,
@@ -4734,7 +4737,7 @@
   {
     "patientId": 275,
     "dateAnnounced": "2020-04-02",
-    "ageBracket": -1,
+    "ageBracket": 70,
     "gender": "F",
     "residence": "Churuli",
     "detectedCityTown": "Idukki",
@@ -4751,7 +4754,7 @@
   {
     "patientId": 276,
     "dateAnnounced": "2020-04-02",
-    "ageBracket": -1,
+    "ageBracket": 10,
     "gender": "M",
     "residence": "Churuli",
     "detectedCityTown": "Idukki",
@@ -4768,7 +4771,7 @@
   {
     "patientId": 277,
     "dateAnnounced": "2020-04-02",
-    "ageBracket": -1,
+    "ageBracket": 35,
     "gender": "F",
     "residence": "Churuli",
     "detectedCityTown": "Idukki",
