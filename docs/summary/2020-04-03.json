@@ -73,10 +73,11 @@
         17,
         2,
         12,
-        8
+        8,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 8,
+      "newlyConfirmed": 0,
       "recovered": 1,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
@@ -152,10 +153,11 @@
         11,
         1,
         2,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 3,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
@@ -231,6 +233,7 @@
         0,
         0,
         3,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -310,10 +313,11 @@
         0,
         0,
         2,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 1,
       "name_ja": "മലപ്പുറം",
       "name": "Malappuram"
@@ -392,10 +396,11 @@
         0,
         2,
         2,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 4,
       "name_ja": "തിരുവനന്തപുരം",
       "name": "Thiruvananthapuram"
@@ -471,10 +476,11 @@
         0,
         0,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 7,
       "name_ja": "പത്തനംതിട്ട",
       "name": "Pathanamthitta"
@@ -550,10 +556,11 @@
         0,
         1,
         2,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 2,
       "name_ja": "തൃശ്ശൂർ",
       "name": "Thrissur"
@@ -630,10 +637,11 @@
         2,
         0,
         0,
-        5
+        5,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 5,
+      "newlyConfirmed": 0,
       "recovered": 1,
       "name_ja": "ഇടുക്കി",
       "name": "Idukki"
@@ -710,10 +718,11 @@
         0,
         0,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 1,
       "name_ja": "കോഴിക്കോട്",
       "name": "Kozhikode"
@@ -789,6 +798,7 @@
         0,
         0,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -868,10 +878,11 @@
         0,
         1,
         0,
-        2
+        2,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 2,
+      "newlyConfirmed": 0,
       "recovered": 0,
       "name_ja": "കൊല്ലം",
       "name": "Kollam"
@@ -946,6 +957,7 @@
         0,
         0,
         2,
+        0,
         0,
         0,
         0
@@ -1027,6 +1039,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1098,6 +1111,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
