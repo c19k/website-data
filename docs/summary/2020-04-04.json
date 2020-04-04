@@ -79,7 +79,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 6,
-      "recovered": 4,
+      "recovered": 11,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
@@ -406,7 +406,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 4,
+      "recovered": 5,
       "name_ja": "തിരുവനന്തപുരം",
       "name": "Thiruvananthapuram"
     },
@@ -1362,13 +1362,13 @@
     },
     {
       "confirmed": 11,
-      "recoveredCumulative": 42,
+      "recoveredCumulative": 50,
       "deceasedCumulative": 2,
       "criticalCumulative": 3,
-      "testedCumulative": 9130,
+      "testedCumulative": 9744,
       "date": "2020-04-04",
       "confirmedCumulative": 306
     }
   ],
-  "updated": "2020-04-03 18:20"
+  "updated": "2020-04-03 18:30"
 }
