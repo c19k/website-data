@@ -162,7 +162,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 1,
-      "recovered": 15,
+      "recovered": 19,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -493,7 +493,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 5,
+      "recovered": 6,
       "name_ja": "തിരുവനന്തപുരം",
       "name": "Thiruvananthapuram"
     },
@@ -576,7 +576,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 5,
-      "recovered": 3,
+      "recovered": 4,
       "name_ja": "കോഴിക്കോട്",
       "name": "Kozhikode"
     },
@@ -1393,5 +1393,5 @@
       "confirmedCumulative": 314
     }
   ],
-  "updated": "2020-04-05 08:40"
+  "updated": "2020-04-05 17:40"
 }
