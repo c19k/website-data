@@ -75,10 +75,11 @@
         12,
         8,
         7,
-        6
+        6,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 6,
+      "newlyConfirmed": 0,
       "recovered": 4,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
@@ -156,10 +157,11 @@
         2,
         1,
         1,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 15,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
@@ -237,10 +239,11 @@
         3,
         0,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 5,
       "name_ja": "എറണാകുളം",
       "name": "Ernakulam"
@@ -317,6 +320,7 @@
         0,
         2,
         1,
+        0,
         0,
         0
       ],
@@ -402,6 +406,7 @@
         2,
         1,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -482,6 +487,7 @@
         0,
         0,
         1,
+        0,
         0,
         0
       ],
@@ -564,6 +570,7 @@
         2,
         1,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -646,6 +653,7 @@
         0,
         5,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -727,10 +735,11 @@
         1,
         0,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 0,
       "name_ja": "പാലക്കാട്",
       "name": "Palakkad"
@@ -808,6 +817,7 @@
         0,
         0,
         1,
+        0,
         0,
         0
       ],
@@ -890,10 +900,11 @@
         0,
         2,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 0,
       "name_ja": "കൊല്ലം",
       "name": "Kollam"
@@ -972,6 +983,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1043,6 +1055,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1134,10 +1147,11 @@
         0,
         0,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 1,
       "name_ja": "ആലപ്പുഴ",
       "name": "Alappuzha"
