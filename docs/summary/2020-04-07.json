@@ -1379,7 +1379,7 @@
       "confirmed": 24,
       "recoveredCumulative": 26,
       "deceasedCumulative": 2,
-      "criticalCumulative": 3,
+      "criticalCumulative": 1,
       "testedCumulative": 7965,
       "date": "2020-04-01",
       "confirmedCumulative": 265
@@ -1388,7 +1388,7 @@
       "confirmed": 21,
       "recoveredCumulative": 28,
       "deceasedCumulative": 2,
-      "criticalCumulative": 3,
+      "criticalCumulative": 1,
       "testedCumulative": 8456,
       "date": "2020-04-02",
       "confirmedCumulative": 286
@@ -1397,7 +1397,7 @@
       "confirmed": 9,
       "recoveredCumulative": 42,
       "deceasedCumulative": 2,
-      "criticalCumulative": 3,
+      "criticalCumulative": 1,
       "testedCumulative": 9130,
       "date": "2020-04-03",
       "confirmedCumulative": 295
@@ -1406,7 +1406,7 @@
       "confirmed": 11,
       "recoveredCumulative": 50,
       "deceasedCumulative": 2,
-      "criticalCumulative": 3,
+      "criticalCumulative": 1,
       "testedCumulative": 9744,
       "date": "2020-04-04",
       "confirmedCumulative": 306
@@ -1415,7 +1415,7 @@
       "confirmed": 8,
       "recoveredCumulative": 56,
       "deceasedCumulative": 2,
-      "criticalCumulative": 3,
+      "criticalCumulative": 1,
       "testedCumulative": 10221,
       "date": "2020-04-05",
       "confirmedCumulative": 314
@@ -1424,7 +1424,7 @@
       "confirmed": 13,
       "recoveredCumulative": 59,
       "deceasedCumulative": 2,
-      "criticalCumulative": 3,
+      "criticalCumulative": 1,
       "testedCumulative": 10716,
       "date": "2020-04-06",
       "confirmedCumulative": 327
@@ -1433,11 +1433,11 @@
       "confirmed": 9,
       "recoveredCumulative": 71,
       "deceasedCumulative": 2,
-      "criticalCumulative": 3,
+      "criticalCumulative": 1,
       "testedCumulative": 11232,
       "date": "2020-04-07",
       "confirmedCumulative": 336
     }
   ],
-  "updated": "2020-04-07 18:43"
+  "updated": "2020-04-07 19:29"
 }
