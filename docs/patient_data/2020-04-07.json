@@ -5747,9 +5747,9 @@
   {
     "patientId": 327,
     "dateAnnounced": "2020-04-06",
-    "ageBracket": -1,
+    "ageBracket": 60,
     "gender": "M",
-    "residence": "Nellikkala",
+    "residence": "Ilanthur",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
