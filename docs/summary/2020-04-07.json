@@ -1,12 +1,12 @@
 {
   "prefectures": [
     {
-      "confirmed": 152,
+      "confirmed": 156,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 150,
+        "Kasaragod": 154,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -78,21 +78,21 @@
         6,
         1,
         9,
-        0
+        4
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 5,
+      "newlyConfirmed": 4,
+      "recovered": 6,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
     {
-      "confirmed": 50,
+      "confirmed": 53,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kannur": 50
+        "Kannur": 53
       },
       "dailyConfirmedCount": [
         0,
@@ -162,11 +162,11 @@
         1,
         1,
         0,
-        0
+        3
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 20,
+      "newlyConfirmed": 3,
+      "recovered": 25,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -250,17 +250,17 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 5,
+      "recovered": 9,
       "name_ja": "എറണാകുളം",
       "name": "Ernakulam"
     },
     {
-      "confirmed": 15,
+      "confirmed": 16,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Malappuram": 15
+        "Malappuram": 16
       },
       "dailyConfirmedCount": [
         0,
@@ -330,10 +330,10 @@
         0,
         0,
         2,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 2,
       "name_ja": "മലപ്പുറം",
       "name": "Malappuram"
@@ -505,7 +505,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 5,
+      "recovered": 6,
       "name_ja": "തിരുവനന്തപുരം",
       "name": "Thiruvananthapuram"
     },
@@ -764,12 +764,12 @@
       "name": "Idukki"
     },
     {
-      "confirmed": 7,
+      "confirmed": 8,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kollam": 7
+        "Kollam": 8
       },
       "dailyConfirmedCount": [
         0,
@@ -839,10 +839,10 @@
         1,
         0,
         1,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 1,
       "name_ja": "കൊല്ലം",
       "name": "Kollam"
@@ -1180,7 +1180,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1,
+      "recovered": 2,
       "name_ja": "ആലപ്പുഴ",
       "name": "Alappuzha"
     }
@@ -1430,14 +1430,14 @@
       "confirmedCumulative": 327
     },
     {
-      "confirmed": 0,
-      "recoveredCumulative": 59,
+      "confirmed": 9,
+      "recoveredCumulative": 71,
       "deceasedCumulative": 2,
       "criticalCumulative": 3,
-      "testedCumulative": 10716,
+      "testedCumulative": 11232,
       "date": "2020-04-07",
-      "confirmedCumulative": 327
+      "confirmedCumulative": 336
     }
   ],
-  "updated": "2020-04-07 16:12"
+  "updated": "2020-04-07 18:10"
 }
