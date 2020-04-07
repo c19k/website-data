@@ -77,10 +77,11 @@
         7,
         6,
         1,
-        9
+        9,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 9,
+      "newlyConfirmed": 0,
       "recovered": 4,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
@@ -160,6 +161,7 @@
         1,
         1,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -242,6 +244,7 @@
         0,
         0,
         1,
+        0,
         0,
         0
       ],
@@ -326,10 +329,11 @@
         0,
         0,
         0,
-        2
+        2,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 2,
+      "newlyConfirmed": 0,
       "recovered": 1,
       "name_ja": "മലപ്പുറം",
       "name": "Malappuram"
@@ -409,10 +413,11 @@
         0,
         0,
         1,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 8,
       "name_ja": "പത്തനംതിട്ട",
       "name": "Pathanamthitta"
@@ -492,6 +497,7 @@
         2,
         2,
         1,
+        0,
         0,
         0,
         0,
@@ -579,6 +585,7 @@
         0,
         0,
         5,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -660,6 +667,7 @@
         2,
         1,
         1,
+        0,
         0,
         0,
         0
@@ -746,6 +754,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -829,10 +838,11 @@
         0,
         1,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 1,
       "name_ja": "കൊല്ലം",
       "name": "Kollam"
@@ -911,6 +921,7 @@
         0,
         0,
         1,
+        0,
         0,
         0
       ],
@@ -996,6 +1007,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1067,6 +1079,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1161,6 +1174,7 @@
         0,
         0,
         1,
+        0,
         0,
         0
       ],
