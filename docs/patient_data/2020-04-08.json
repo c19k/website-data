@@ -6031,7 +6031,9 @@
   {
     "patientId": 345,
     "dateAnnounced": "2020-04-08",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Chattanchal",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "charterFlightPassenger": false,
