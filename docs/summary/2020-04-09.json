@@ -517,7 +517,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 9,
+      "recovered": 8,
       "name_ja": "തിരുവനന്തപുരം",
       "name": "Thiruvananthapuram"
     },
@@ -863,7 +863,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1,
+      "recovered": 2,
       "name_ja": "കൊല്ലം",
       "name": "Kollam"
     },
@@ -1485,5 +1485,5 @@
       "confirmedCumulative": 345
     }
   ],
-  "updated": "2020-04-08 18:15"
+  "updated": "2020-04-09 12:22"
 }
