@@ -80,10 +80,11 @@
         9,
         4,
         1,
-        4
+        4,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 4,
+      "newlyConfirmed": 0,
       "recovered": 6,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
@@ -166,10 +167,11 @@
         0,
         3,
         4,
-        4
+        4,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 4,
+      "newlyConfirmed": 0,
       "recovered": 29,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
@@ -248,6 +250,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -338,10 +341,11 @@
         2,
         1,
         0,
-        2
+        2,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 2,
+      "newlyConfirmed": 0,
       "recovered": 4,
       "name_ja": "മലപ്പുറം",
       "name": "Malappuram"
@@ -424,6 +428,7 @@
         1,
         0,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -513,10 +518,11 @@
         0,
         0,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 8,
       "name_ja": "തിരുവനന്തപുരം",
       "name": "Thiruvananthapuram"
@@ -599,6 +605,7 @@
         0,
         0,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -686,6 +693,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -767,6 +775,7 @@
         0,
         0,
         5,
+        0,
         0,
         0,
         0,
@@ -859,10 +868,11 @@
         1,
         1,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 2,
       "name_ja": "കൊല്ലം",
       "name": "Kollam"
@@ -941,6 +951,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1031,6 +1042,7 @@
         0,
         0,
         2,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1118,6 +1130,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1189,6 +1202,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
