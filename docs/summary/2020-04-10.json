@@ -1,12 +1,12 @@
 {
   "prefectures": [
     {
-      "confirmed": 161,
+      "confirmed": 164,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 159,
+        "Kasaragod": 162,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -81,21 +81,21 @@
         4,
         1,
         4,
-        0
+        3
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 6,
+      "newlyConfirmed": 3,
+      "recovered": 23,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
     {
-      "confirmed": 61,
+      "confirmed": 63,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kannur": 61
+        "Kannur": 63
       },
       "dailyConfirmedCount": [
         0,
@@ -168,11 +168,11 @@
         3,
         4,
         4,
-        0
+        2
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 29,
+      "newlyConfirmed": 2,
+      "recovered": 35,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -259,17 +259,17 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 15,
+      "recovered": 16,
       "name_ja": "എറണാകുളം",
       "name": "Ernakulam"
     },
     {
-      "confirmed": 18,
+      "confirmed": 20,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Malappuram": 18
+        "Malappuram": 20
       },
       "dailyConfirmedCount": [
         0,
@@ -342,10 +342,10 @@
         1,
         0,
         2,
-        0
+        2
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 2,
       "recovered": 4,
       "name_ja": "മലപ്പുറം",
       "name": "Malappuram"
@@ -610,7 +610,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 6,
+      "recovered": 7,
       "name_ja": "തൃശ്ശൂർ",
       "name": "Thrissur"
     },
@@ -698,7 +698,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 5,
+      "recovered": 7,
       "name_ja": "കോഴിക്കോട്",
       "name": "Kozhikode"
     },
@@ -1499,14 +1499,14 @@
       "confirmedCumulative": 357
     },
     {
-      "confirmed": 0,
-      "recoveredCumulative": 97,
+      "confirmed": 7,
+      "recoveredCumulative": 124,
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
-      "testedCumulative": 12710,
+      "testedCumulative": 13339,
       "date": "2020-04-10",
-      "confirmedCumulative": 357
+      "confirmedCumulative": 364
     }
   ],
-  "updated": "2020-04-10 8:24"
+  "updated": "2020-04-10 18:35"
 }
