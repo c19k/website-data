@@ -192,7 +192,7 @@
   {
     "patientId": 12,
     "dateAnnounced": "2020-03-10",
-    "ageBracket": -1,
+    "ageBracket": 35,
     "gender": "M",
     "residence": "Chengalam",
     "detectedCityTown": "Kottayam",
@@ -210,7 +210,7 @@
   {
     "patientId": 13,
     "dateAnnounced": "2020-03-10",
-    "ageBracket": -1,
+    "ageBracket": 32,
     "gender": "F",
     "residence": "Chengalam",
     "detectedCityTown": "Kottayam",
@@ -229,6 +229,7 @@
     "patientId": 14,
     "dateAnnounced": "2020-03-10",
     "ageBracket": -1,
+    "gender": "M",
     "residence": "Kozhenchery",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
@@ -246,6 +247,7 @@
     "patientId": 15,
     "dateAnnounced": "2020-03-10",
     "ageBracket": -1,
+    "gender": "F",
     "residence": "Kozhenchery",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
