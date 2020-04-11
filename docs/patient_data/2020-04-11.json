@@ -5844,24 +5844,6 @@
   {
     "patientId": 332,
     "dateAnnounced": "2020-04-07",
-    "ageBracket": 71,
-    "gender": "M",
-    "residence": "Mahe",
-    "detectedCityTown": "Kannur",
-    "detectedPrefecture": "Kannur",
-    "patientStatus": "Deceased",
-    "notes": "Contact Transmission. Deceased on April 11",
-    "knownCluster": "Mahe",
-    "charterFlightPassenger": false,
-    "cruisePassengerDisembarked": false,
-    "cruisePassengerInfectedOnboard": false,
-    "cruiseQuarantineOfficer": false,
-    "detectedAtPort": false,
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 333,
-    "dateAnnounced": "2020-04-07",
     "ageBracket": 42,
     "gender": "M",
     "residence": "Chittariparambu",
@@ -5878,7 +5860,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 334,
+    "patientId": 333,
     "dateAnnounced": "2020-04-07",
     "ageBracket": 31,
     "gender": "M",
@@ -5896,7 +5878,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 335,
+    "patientId": 334,
     "dateAnnounced": "2020-04-07",
     "ageBracket": 52,
     "gender": "M",
@@ -5914,7 +5896,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 336,
+    "patientId": 335,
     "dateAnnounced": "2020-04-07",
     "ageBracket": 45,
     "gender": "F",
@@ -5932,7 +5914,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 337,
+    "patientId": 336,
     "dateAnnounced": "2020-04-08",
     "ageBracket": 11,
     "gender": "M",
@@ -5950,7 +5932,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 338,
+    "patientId": 337,
     "dateAnnounced": "2020-04-08",
     "ageBracket": 35,
     "gender": "M",
@@ -5968,7 +5950,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 339,
+    "patientId": 338,
     "dateAnnounced": "2020-04-08",
     "ageBracket": 32,
     "gender": "M",
@@ -5986,7 +5968,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 340,
+    "patientId": 339,
     "dateAnnounced": "2020-04-08",
     "ageBracket": 40,
     "gender": "M",
@@ -6004,7 +5986,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 341,
+    "patientId": 340,
     "dateAnnounced": "2020-04-08",
     "ageBracket": -1,
     "gender": "M",
@@ -6022,7 +6004,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 342,
+    "patientId": 341,
     "dateAnnounced": "2020-04-08",
     "ageBracket": -1,
     "gender": "M",
@@ -6040,7 +6022,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 343,
+    "patientId": 342,
     "dateAnnounced": "2020-04-08",
     "ageBracket": 27,
     "gender": "M",
@@ -6058,7 +6040,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 344,
+    "patientId": 343,
     "dateAnnounced": "2020-04-08",
     "ageBracket": 21,
     "gender": "F",
@@ -6076,7 +6058,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 345,
+    "patientId": 344,
     "dateAnnounced": "2020-04-08",
     "ageBracket": 55,
     "gender": "M",
@@ -6094,7 +6076,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 346,
+    "patientId": 345,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 19,
     "gender": "M",
@@ -6112,7 +6094,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 347,
+    "patientId": 346,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 14,
     "gender": "M",
@@ -6130,7 +6112,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 348,
+    "patientId": 347,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 8,
     "gender": "F",
@@ -6148,7 +6130,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 349,
+    "patientId": 348,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 46,
     "gender": "M",
@@ -6166,7 +6148,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 350,
+    "patientId": 349,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 70,
     "gender": "F",
@@ -6184,7 +6166,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 351,
+    "patientId": 350,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 31,
     "gender": "F",
@@ -6202,7 +6184,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 352,
+    "patientId": 351,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 25,
     "gender": "F",
@@ -6220,7 +6202,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 353,
+    "patientId": 352,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 13,
     "gender": "M",
@@ -6238,7 +6220,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 354,
+    "patientId": 353,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 42,
     "gender": "F",
@@ -6256,7 +6238,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 355,
+    "patientId": 354,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 30,
     "gender": "M",
@@ -6274,7 +6256,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 356,
+    "patientId": 355,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 21,
     "gender": "M",
@@ -6292,7 +6274,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 357,
+    "patientId": 356,
     "dateAnnounced": "2020-04-09",
     "ageBracket": 80,
     "gender": "F",
@@ -6310,7 +6292,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 358,
+    "patientId": 357,
     "dateAnnounced": "2020-04-10",
     "ageBracket": 52,
     "gender": "F",
@@ -6328,7 +6310,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 359,
+    "patientId": 358,
     "dateAnnounced": "2020-04-10",
     "ageBracket": 25,
     "gender": "F",
@@ -6346,7 +6328,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 360,
+    "patientId": 359,
     "dateAnnounced": "2020-04-10",
     "ageBracket": 17,
     "gender": "M",
@@ -6364,7 +6346,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 361,
+    "patientId": 360,
     "dateAnnounced": "2020-04-10",
     "ageBracket": 59,
     "gender": "F",
@@ -6382,7 +6364,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 362,
+    "patientId": 361,
     "dateAnnounced": "2020-04-10",
     "ageBracket": 60,
     "gender": "M",
@@ -6400,7 +6382,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 363,
+    "patientId": 362,
     "dateAnnounced": "2020-04-10",
     "ageBracket": 30,
     "gender": "M",
@@ -6418,7 +6400,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 364,
+    "patientId": 363,
     "dateAnnounced": "2020-04-10",
     "ageBracket": 48,
     "gender": "M",
@@ -6428,6 +6410,21 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Nizamudeen",
     "knownCluster": "Delhi",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 364,
+    "dateAnnounced": "2020-04-11",
+    "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "charterFlightPassenger": false,
     "cruisePassengerDisembarked": false,
     "cruisePassengerInfectedOnboard": false,
@@ -6529,9 +6526,9 @@
     "patientId": 371,
     "dateAnnounced": "2020-04-11",
     "ageBracket": -1,
-    "residence": "Kannur",
-    "detectedCityTown": "Kannur",
-    "detectedPrefecture": "Kannur",
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "charterFlightPassenger": false,
     "cruisePassengerDisembarked": false,
@@ -6557,21 +6554,6 @@
   },
   {
     "patientId": 373,
-    "dateAnnounced": "2020-04-11",
-    "ageBracket": -1,
-    "residence": "Kasaragod",
-    "detectedCityTown": "Kasaragod",
-    "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
-    "charterFlightPassenger": false,
-    "cruisePassengerDisembarked": false,
-    "cruisePassengerInfectedOnboard": false,
-    "cruiseQuarantineOfficer": false,
-    "detectedAtPort": false,
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 374,
     "dateAnnounced": "2020-04-11",
     "ageBracket": -1,
     "residence": "Kozhikode",

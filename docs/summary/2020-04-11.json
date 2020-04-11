@@ -91,12 +91,12 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 70,
+      "confirmed": 69,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kannur": 70
+        "Kannur": 69
       },
       "dailyConfirmedCount": [
         0,
@@ -166,7 +166,7 @@
         1,
         1,
         0,
-        3,
+        2,
         4,
         4,
         2,
@@ -1495,13 +1495,13 @@
       "confirmedCumulative": 327
     },
     {
-      "confirmed": 9,
+      "confirmed": 8,
       "recoveredCumulative": 71,
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 11232,
       "date": "2020-04-07",
-      "confirmedCumulative": 336
+      "confirmedCumulative": 335
     },
     {
       "confirmed": 9,
@@ -1510,7 +1510,7 @@
       "criticalCumulative": 1,
       "testedCumulative": 11986,
       "date": "2020-04-08",
-      "confirmedCumulative": 345
+      "confirmedCumulative": 344
     },
     {
       "confirmed": 12,
@@ -1519,7 +1519,7 @@
       "criticalCumulative": 1,
       "testedCumulative": 12710,
       "date": "2020-04-09",
-      "confirmedCumulative": 357
+      "confirmedCumulative": 356
     },
     {
       "confirmed": 7,
@@ -1528,7 +1528,7 @@
       "criticalCumulative": 1,
       "testedCumulative": 13339,
       "date": "2020-04-10",
-      "confirmedCumulative": 364
+      "confirmedCumulative": 363
     },
     {
       "confirmed": 10,
@@ -1537,8 +1537,8 @@
       "criticalCumulative": 1,
       "testedCumulative": 14163,
       "date": "2020-04-11",
-      "confirmedCumulative": 374
+      "confirmedCumulative": 373
     }
   ],
-  "updated": "2020-04-11 18:10"
+  "updated": "2020-04-11 18:48"
 }
