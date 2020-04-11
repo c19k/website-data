@@ -140,8 +140,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -583,8 +583,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1288,7 +1288,16 @@
       "confirmedCumulative": 17
     },
     {
-      "confirmed": 5,
+      "confirmed": 2,
+      "recoveredCumulative": 0,
+      "deceasedCumulative": 0,
+      "criticalCumulative": 0,
+      "testedCumulative": 1377,
+      "date": "2020-03-12",
+      "confirmedCumulative": 19
+    },
+    {
+      "confirmed": 3,
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
