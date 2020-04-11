@@ -94,7 +94,7 @@
       "confirmed": 63,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
-      "deaths": 0,
+      "deaths": 1,
       "confirmedByCity": {
         "Kannur": 63
       },
@@ -1524,12 +1524,12 @@
     {
       "confirmed": 0,
       "recoveredCumulative": 124,
-      "deceasedCumulative": 2,
+      "deceasedCumulative": 3,
       "criticalCumulative": 1,
       "testedCumulative": 13339,
       "date": "2020-04-11",
       "confirmedCumulative": 364
     }
   ],
-  "updated": "2020-04-10 18:46"
+  "updated": "2020-04-11 09:14"
 }
