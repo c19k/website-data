@@ -228,7 +228,7 @@
   {
     "patientId": 14,
     "dateAnnounced": "2020-03-10",
-    "ageBracket": -1,
+    "ageBracket": 52,
     "gender": "M",
     "residence": "Kozhenchery",
     "detectedCityTown": "Pathanamthitta",
@@ -246,7 +246,7 @@
   {
     "patientId": 15,
     "dateAnnounced": "2020-03-10",
-    "ageBracket": -1,
+    "ageBracket": 50,
     "gender": "F",
     "residence": "Kozhenchery",
     "detectedCityTown": "Pathanamthitta",
