@@ -86,18 +86,18 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 33,
+      "recovered": 61,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
     {
-      "confirmed": 72,
+      "confirmed": 73,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 69
+        "Kannur": 70
       },
       "dailyConfirmedCount": [
         0,
@@ -172,10 +172,10 @@
         4,
         2,
         7,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 36,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
@@ -354,17 +354,17 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 4,
+      "recovered": 10,
       "name_ja": "മലപ്പുറം",
       "name": "Malappuram"
     },
     {
-      "confirmed": 16,
+      "confirmed": 17,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Pathanamthitta": 16
+        "Pathanamthitta": 17
       },
       "dailyConfirmedCount": [
         0,
@@ -439,10 +439,10 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 8,
       "name_ja": "പത്തനംതിട്ട",
       "name": "Pathanamthitta"
@@ -625,7 +625,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 6,
+      "recovered": 7,
       "name_ja": "കോഴിക്കോട്",
       "name": "Kozhikode"
     },
@@ -804,7 +804,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 9,
+      "recovered": 10,
       "name_ja": "ഇടുക്കി",
       "name": "Idukki"
     },
@@ -1554,14 +1554,14 @@
       "confirmedCumulative": 373
     },
     {
-      "confirmed": 0,
-      "recoveredCumulative": 143,
+      "confirmed": 2,
+      "recoveredCumulative": 179,
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
-      "testedCumulative": 14163,
+      "testedCumulative": 14989,
       "date": "2020-04-12",
-      "confirmedCumulative": 373
+      "confirmedCumulative": 375
     }
   ],
-  "updated": "2020-04-12 08:32"
+  "updated": "2020-04-12 17:12"
 }

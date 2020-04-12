@@ -6601,5 +6601,41 @@
     "cruiseQuarantineOfficer": false,
     "detectedAtPort": false,
     "confirmedPatient": true
+  },
+  {
+    "patientId": 374,
+    "dateAnnounced": "2020-04-12",
+    "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 375,
+    "dateAnnounced": "2020-04-12",
+    "ageBracket": -1,
+    "gender": "M",
+    "residence": "Pathanamthitta",
+    "detectedCityTown": "Pathanamthitta",
+    "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Sharjah",
+    "knownCluster": "Sharjah",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
+    "confirmedPatient": true
   }
 ]
