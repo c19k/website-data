@@ -176,7 +176,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 35,
+      "recovered": 36,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -265,7 +265,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 16,
+      "recovered": 15,
       "name_ja": "എറണാകുളം",
       "name": "Ernakulam"
     },
@@ -1563,5 +1563,5 @@
       "confirmedCumulative": 373
     }
   ],
-  "updated": "2020-04-11 18:48"
+  "updated": "2020-04-12 08:32"
 }
