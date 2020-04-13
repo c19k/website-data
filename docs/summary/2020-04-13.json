@@ -92,13 +92,13 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 71,
+      "confirmed": 73,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Ernakulam": 1,
-        "Kannur": 70
+        "Kannur": 72
       },
       "dailyConfirmedCount": [
         0,
@@ -174,10 +174,10 @@
         2,
         7,
         1,
-        0
+        2
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 2,
       "recovered": 37,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
@@ -908,12 +908,12 @@
       "name": "Kollam"
     },
     {
-      "confirmed": 7,
+      "confirmed": 8,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Palakkad": 7
+        "Palakkad": 8
       },
       "dailyConfirmedCount": [
         0,
@@ -989,10 +989,10 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 4,
       "name_ja": "പാലക്കാട്",
       "name": "Palakkad"
@@ -1577,14 +1577,14 @@
       "confirmedCumulative": 375
     },
     {
-      "confirmed": 0,
+      "confirmed": 3,
       "recoveredCumulative": 198,
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 15683,
       "date": "2020-04-13",
-      "confirmedCumulative": 375
+      "confirmedCumulative": 378
     }
   ],
-  "updated": "2020-04-13 18:27"
+  "updated": "2020-04-13 18:45"
 }
