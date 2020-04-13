@@ -92,12 +92,12 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 73,
+      "confirmed": 71,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Ernakulam": 3,
+        "Ernakulam": 1,
         "Kannur": 70
       },
       "dailyConfirmedCount": [
@@ -140,7 +140,7 @@
         0,
         0,
         0,
-        3,
+        1,
         0,
         1,
         0,
@@ -183,12 +183,12 @@
       "name": "Kannur"
     },
     {
-      "confirmed": 22,
+      "confirmed": 24,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 1,
       "confirmedByCity": {
-        "Ernakulam": 22
+        "Ernakulam": 24
       },
       "dailyConfirmedCount": [
         0,
@@ -230,7 +230,7 @@
         0,
         0,
         0,
-        0,
+        2,
         0,
         0,
         0,
@@ -1586,5 +1586,5 @@
       "confirmedCumulative": 375
     }
   ],
-  "updated": "2020-04-13 07:52"
+  "updated": "2020-04-13 08:37"
 }
