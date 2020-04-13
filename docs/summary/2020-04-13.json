@@ -87,7 +87,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 61,
+      "recovered": 73,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
@@ -178,7 +178,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 36,
+      "recovered": 37,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -448,7 +448,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 8,
+      "recovered": 11,
       "name_ja": "പത്തനംതിട്ട",
       "name": "Pathanamthitta"
     },
@@ -722,7 +722,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 8,
+      "recovered": 11,
       "name_ja": "തൃശ്ശൂർ",
       "name": "Thrissur"
     },
@@ -1578,13 +1578,13 @@
     },
     {
       "confirmed": 0,
-      "recoveredCumulative": 179,
+      "recoveredCumulative": 198,
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
-      "testedCumulative": 14989,
+      "testedCumulative": 15683,
       "date": "2020-04-13",
       "confirmedCumulative": 375
     }
   ],
-  "updated": "2020-04-13 08:37"
+  "updated": "2020-04-13 18:27"
 }
