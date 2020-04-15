@@ -6835,5 +6835,22 @@
     "cruiseQuarantineOfficer": false,
     "detectedAtPort": false,
     "confirmedPatient": true
+  },
+  {
+    "patientId": 387,
+    "dateAnnounced": "2020-04-15",
+    "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kannur",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
+    "confirmedPatient": true
   }
 ]
