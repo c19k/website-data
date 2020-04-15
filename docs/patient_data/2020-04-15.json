@@ -6841,8 +6841,9 @@
   {
     "patientId": 387,
     "dateAnnounced": "2020-04-15",
-    "ageBracket": -1,
-    "residence": "Kannur",
+    "ageBracket": 70,
+    "gender": "F",
+    "residence": "Muriyad",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
