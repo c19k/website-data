@@ -16,14 +16,17 @@ const todayIndiaString = moment().utcOffset(330).format('YYYY-MM-DD')
 // lastUpdated: String representing when the data was last updated.
 //
 // @returns A dictionary with the prefecture and daily summaries.
-const summarize = (patientData, manualDailyData, manualPrefectureData, lastUpdated) => {
+const summarize = (patientData, manualDailyData, manualPrefectureData, lastUpdated, ageStatusData, genderStatusData) => {
   const patients = _.orderBy(patientData, ['dateAnnounced'], ['asc'])
   let prefectureSummary = generatePrefectureSummary(patients, manualPrefectureData)
   let dailySummary = generateDailySummary(patients, manualDailyData)
+  let ageStatus = generateAgeStatus(ageStatusData)
 
   return {
     prefectures: prefectureSummary,
     daily: dailySummary,
+    age: ageStatus,
+    gender: genderStatusData,
     updated: lastUpdated
   }
 }
@@ -36,6 +39,20 @@ const safeParseInt = v => {
     return 0
   }
   return result
+}
+
+const generateAgeStatus = (ageStatusData) => {
+  let ageStatus = []
+  for (let row of ageStatusData) {
+      let ageStatusGroup = {}
+      ageStatusGroup.ageGroup = row.agegroup
+      ageStatusGroup.female = safeParseInt(row.female)
+      ageStatusGroup.male = safeParseInt(row.male)
+      ageStatusGroup.unspecified = safeParseInt(row.unspecified)
+      ageStatusGroup.total = safeParseInt(row.total)
+      ageStatus.push(ageStatusGroup)
+  }
+  return ageStatus
 }
 
 // Generates the daily summary

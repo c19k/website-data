@@ -1701,5 +1701,90 @@
       "confirmedCumulative": 395
     }
   ],
+  "age": [
+    {
+      "ageGroup": "1-10",
+      "female": 4,
+      "male": 8,
+      "unspecified": 0,
+      "total": 12
+    },
+    {
+      "ageGroup": "11-20",
+      "female": 13,
+      "male": 15,
+      "unspecified": 0,
+      "total": 28
+    },
+    {
+      "ageGroup": "21-30",
+      "female": 20,
+      "male": 56,
+      "unspecified": 0,
+      "total": 76
+    },
+    {
+      "ageGroup": "31-40",
+      "female": 14,
+      "male": 69,
+      "unspecified": 0,
+      "total": 83
+    },
+    {
+      "ageGroup": "41-50",
+      "female": 7,
+      "male": 42,
+      "unspecified": 0,
+      "total": 49
+    },
+    {
+      "ageGroup": "51-60",
+      "female": 9,
+      "male": 27,
+      "unspecified": 0,
+      "total": 36
+    },
+    {
+      "ageGroup": "61-70",
+      "female": 8,
+      "male": 8,
+      "unspecified": 0,
+      "total": 16
+    },
+    {
+      "ageGroup": "71-80",
+      "female": 2,
+      "male": 1,
+      "unspecified": 0,
+      "total": 3
+    },
+    {
+      "ageGroup": "81-90",
+      "female": 1,
+      "male": 3,
+      "unspecified": 0,
+      "total": 4
+    },
+    {
+      "ageGroup": "91-100",
+      "female": 0,
+      "male": 1,
+      "unspecified": 0,
+      "total": 1
+    },
+    {
+      "ageGroup": "Unspecified",
+      "female": 12,
+      "male": 30,
+      "unspecified": 45,
+      "total": 87
+    }
+  ],
+  "gender": {
+    "female": 90,
+    "male": 260,
+    "unspecified": 45,
+    "total": 395
+  },
   "updated": "2020-04-18 08:16"
 }
