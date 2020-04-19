@@ -1,12 +1,12 @@
 {
   "prefectures": [
     {
-      "confirmed": 168,
+      "confirmed": 169,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 167,
+        "Kasaragod": 168,
         "Mangalore": 1
       },
       "dailyConfirmedCount": [
@@ -89,22 +89,22 @@
         1,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 115,
+      "newlyConfirmed": 1,
+      "recovered": 123,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
     {
-      "confirmed": 85,
+      "confirmed": 86,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Ernakulam": 1,
-        "Kannur": 84
+        "Kannur": 85
       },
       "dailyConfirmedCount": [
         0,
@@ -186,11 +186,11 @@
         4,
         0,
         3,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 38,
+      "newlyConfirmed": 1,
+      "recovered": 41,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -479,7 +479,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 13,
+      "recovered": 14,
       "name_ja": "മലപ്പുറം",
       "name": "Malappuram"
     },
@@ -770,7 +770,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 12,
+      "recovered": 13,
       "name_ja": "തൃശ്ശൂർ",
       "name": "Thrissur"
     },
@@ -1715,13 +1715,13 @@
       "confirmedCumulative": 399
     },
     {
-      "confirmed": 0,
-      "recoveredCumulative": 257,
+      "confirmed": 2,
+      "recoveredCumulative": 270,
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
-      "testedCumulative": 18744,
+      "testedCumulative": 19351,
       "date": "2020-04-19",
-      "confirmedCumulative": 399
+      "confirmedCumulative": 401
     }
   ],
   "age": [
@@ -1807,7 +1807,7 @@
     "female": 93,
     "male": 265,
     "unspecified": 41,
-    "total": 399
+    "total": 401
   },
-  "updated": "2020-04-19 08:17"
+  "updated": "2020-04-19 18:11"
 }

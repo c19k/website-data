@@ -7086,5 +7086,35 @@
     "cruiseQuarantineOfficer": false,
     "detectedAtPort": false,
     "confirmedPatient": true
+  },
+  {
+    "patientId": 400,
+    "dateAnnounced": "2020-04-19",
+    "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 401,
+    "dateAnnounced": "2020-04-19",
+    "ageBracket": -1,
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
+    "confirmedPatient": true
   }
 ]
