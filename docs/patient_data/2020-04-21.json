@@ -3130,7 +3130,8 @@
   {
     "patientId": 178,
     "dateAnnounced": "2020-03-28",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
     "residence": "Thiruvananthapuram",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
@@ -3182,7 +3183,8 @@
   {
     "patientId": 181,
     "dateAnnounced": "2020-03-28",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
     "residence": "Malappuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
