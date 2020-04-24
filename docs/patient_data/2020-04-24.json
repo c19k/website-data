@@ -7925,6 +7925,8 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Sharjah",
+    "knownCluster": "Sharjah",
     "charterFlightPassenger": false,
     "cruisePassengerDisembarked": false,
     "cruisePassengerInfectedOnboard": false,
