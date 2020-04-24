@@ -1,12 +1,12 @@
 {
   "prefectures": [
     {
-      "confirmed": 172,
+      "confirmed": 175,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 171,
+        "Kasaragod": 174,
         "Mangalore": 1
       },
       "dailyConfirmedCount": [
@@ -94,11 +94,11 @@
         3,
         0,
         0,
-        0
+        3
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 152,
+      "newlyConfirmed": 3,
+      "recovered": 157,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
@@ -200,7 +200,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 49,
+      "recovered": 52,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -504,7 +504,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 15,
+      "recovered": 18,
       "name_ja": "മലപ്പുറം",
       "name": "Malappuram"
     },
@@ -605,7 +605,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 11,
+      "recovered": 14,
       "name_ja": "പത്തനംതിട്ട",
       "name": "Pathanamthitta"
     },
@@ -1114,7 +1114,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 4,
+      "recovered": 5,
       "name_ja": "കൊല്ലം",
       "name": "Kollam"
     },
@@ -1830,13 +1830,13 @@
       "confirmedCumulative": 447
     },
     {
-      "confirmed": 0,
-      "recoveredCumulative": 316,
+      "confirmed": 3,
+      "recoveredCumulative": 331,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
-      "testedCumulative": 21334,
+      "testedCumulative": 21941,
       "date": "2020-04-24",
-      "confirmedCumulative": 447
+      "confirmedCumulative": 450
     }
   ],
   "age": [
@@ -1922,7 +1922,7 @@
     "female": 105,
     "male": 304,
     "unspecified": 38,
-    "total": 447
+    "total": 450
   },
-  "updated": "2020-04-24 08:53"
+  "updated": "2020-04-24 17:10"
 }

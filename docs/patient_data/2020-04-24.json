@@ -7949,5 +7949,53 @@
     "cruiseQuarantineOfficer": false,
     "detectedAtPort": false,
     "confirmedPatient": true
+  },
+  {
+    "patientId": 448,
+    "dateAnnounced": "2020-04-24",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 449,
+    "dateAnnounced": "2020-04-24",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 450,
+    "dateAnnounced": "2020-04-24",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
+    "charterFlightPassenger": false,
+    "cruisePassengerDisembarked": false,
+    "cruisePassengerInfectedOnboard": false,
+    "cruiseQuarantineOfficer": false,
+    "detectedAtPort": false,
+    "confirmedPatient": true
   }
 ]
