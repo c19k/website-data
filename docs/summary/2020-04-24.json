@@ -411,7 +411,7 @@
       "confirmed": 22,
       "cruisePassenger": 0,
       "cruiseWorker": 0,
-      "deaths": 0,
+      "deaths": 1,
       "confirmedByCity": {
         "Malappuram": 22
       },
@@ -1832,7 +1832,7 @@
     {
       "confirmed": 0,
       "recoveredCumulative": 316,
-      "deceasedCumulative": 2,
+      "deceasedCumulative": 3,
       "criticalCumulative": 1,
       "testedCumulative": 21334,
       "date": "2020-04-24",
@@ -1924,5 +1924,5 @@
     "unspecified": 38,
     "total": 447
   },
-  "updated": "2020-04-24 08:08"
+  "updated": "2020-04-24 08:53"
 }
