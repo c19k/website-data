@@ -100,6 +100,7 @@ const generateDailySummary = (patients, manualDailyData) => {
   // TODO: deceased, critical should be pulled out of our patient
   //       data. But those numbers are incomplete.
   for (let row of manualDailyData) {
+    console.log(row);
     if (dailySummary[row.date]) {
       dailySummary[row.date].recoveredCumulative = safeParseInt(row.recovered)
       dailySummary[row.date].deceasedCumulative = safeParseInt(row.deceased)
@@ -162,13 +163,13 @@ const generateDailySummary = (patients, manualDailyData) => {
       thisDay.testedCumulative = previousDay.testedCumulative
     }
     if (thisDay.observationCumulative == 0) {
-      thisDay.testedCumulative = previousDay.observationCumulative
+      thisDay.observationCumulative = previousDay.observationCumulative
     }
     if (thisDay.homeObservationCumulative == 0) {
-      thisDay.testedCumulative = previousDay.homeObservationCumulative
+      thisDay.homeObservationCumulative = previousDay.homeObservationCumulative
     }
     if (thisDay.hosptilisedCumulative == 0) {
-      thisDay.testedCumulative = previousDay.hosptilisedCumulative
+      thisDay.hosptilisedCumulative = previousDay.hosptilisedCumulative
     }
     if (thisDay.activeCumulative == 0) {
       thisDay.activeCumulative = previousDay.activeCumulative
