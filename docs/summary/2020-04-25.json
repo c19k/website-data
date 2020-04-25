@@ -2,8 +2,6 @@
   "prefectures": [
     {
       "confirmed": 175,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Kasaragod": 174,
@@ -105,8 +103,6 @@
     },
     {
       "confirmed": 110,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Ernakulam": 1,
@@ -208,8 +204,6 @@
     },
     {
       "confirmed": 24,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Kozhikode": 23,
@@ -311,8 +305,6 @@
     },
     {
       "confirmed": 24,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 1,
       "confirmedByCity": {
         "Ernakulam": 24
@@ -413,8 +405,6 @@
     },
     {
       "confirmed": 22,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 1,
       "confirmedByCity": {
         "Malappuram": 22
@@ -515,8 +505,6 @@
     },
     {
       "confirmed": 17,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Pathanamthitta": 17
@@ -617,8 +605,6 @@
     },
     {
       "confirmed": 15,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 1,
       "confirmedByCity": {
         "Thiruvananthapuram": 12,
@@ -722,8 +708,6 @@
     },
     {
       "confirmed": 14,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Kollam": 14
@@ -824,8 +808,6 @@
     },
     {
       "confirmed": 14,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Munnar": 1,
@@ -927,8 +909,6 @@
     },
     {
       "confirmed": 13,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Thrissur": 13
@@ -1029,8 +1009,6 @@
     },
     {
       "confirmed": 12,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Palakkad": 12
@@ -1131,8 +1109,6 @@
     },
     {
       "confirmed": 9,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Kottayam": 9
@@ -1233,8 +1209,6 @@
     },
     {
       "confirmed": 5,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Alappuzha": 5
@@ -1335,8 +1309,6 @@
     },
     {
       "confirmed": 3,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Manathawady": 1,
