@@ -2,8 +2,6 @@
   "prefectures": [
     {
       "confirmed": 175,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Kasaragod": 174,
@@ -105,8 +103,6 @@
     },
     {
       "confirmed": 110,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Ernakulam": 1,
@@ -208,8 +204,6 @@
     },
     {
       "confirmed": 24,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Kozhikode": 23,
@@ -311,8 +305,6 @@
     },
     {
       "confirmed": 24,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 1,
       "confirmedByCity": {
         "Ernakulam": 24
@@ -413,8 +405,6 @@
     },
     {
       "confirmed": 22,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 1,
       "confirmedByCity": {
         "Malappuram": 22
@@ -515,8 +505,6 @@
     },
     {
       "confirmed": 17,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Pathanamthitta": 17
@@ -617,8 +605,6 @@
     },
     {
       "confirmed": 15,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 1,
       "confirmedByCity": {
         "Thiruvananthapuram": 12,
@@ -722,8 +708,6 @@
     },
     {
       "confirmed": 14,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Kollam": 14
@@ -824,8 +808,6 @@
     },
     {
       "confirmed": 14,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Munnar": 1,
@@ -927,8 +909,6 @@
     },
     {
       "confirmed": 13,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Thrissur": 13
@@ -1029,8 +1009,6 @@
     },
     {
       "confirmed": 12,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Palakkad": 12
@@ -1131,8 +1109,6 @@
     },
     {
       "confirmed": 9,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Kottayam": 9
@@ -1233,8 +1209,6 @@
     },
     {
       "confirmed": 5,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Alappuzha": 5
@@ -1335,8 +1309,6 @@
     },
     {
       "confirmed": 3,
-      "cruisePassenger": 0,
-      "cruiseWorker": 0,
       "deaths": 0,
       "confirmedByCity": {
         "Manathawady": 1,
@@ -1444,6 +1416,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 0,
+      "observationCumulative": 1471,
+      "homeObservationCumulative": 1421,
+      "hosptilisedCumulative": 50,
       "date": "2020-01-31",
       "confirmedCumulative": 1
     },
@@ -1453,6 +1428,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 106,
+      "observationCumulative": 1999,
+      "homeObservationCumulative": 1924,
+      "hosptilisedCumulative": 75,
       "date": "2020-02-02",
       "confirmedCumulative": 2
     },
@@ -1462,6 +1440,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 140,
+      "observationCumulative": 2239,
+      "homeObservationCumulative": 2155,
+      "hosptilisedCumulative": 84,
       "date": "2020-02-03",
       "confirmedCumulative": 3
     },
@@ -1471,6 +1452,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 729,
+      "observationCumulative": 732,
+      "homeObservationCumulative": 648,
+      "hosptilisedCumulative": 84,
       "date": "2020-03-08",
       "confirmedCumulative": 8
     },
@@ -1480,6 +1464,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 980,
+      "observationCumulative": 1495,
+      "homeObservationCumulative": 1236,
+      "hosptilisedCumulative": 259,
       "date": "2020-03-10",
       "confirmedCumulative": 17
     },
@@ -1489,6 +1476,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 1377,
+      "observationCumulative": 4180,
+      "homeObservationCumulative": 3910,
+      "hosptilisedCumulative": 270,
       "date": "2020-03-12",
       "confirmedCumulative": 19
     },
@@ -1498,6 +1488,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 1715,
+      "observationCumulative": 5468,
+      "homeObservationCumulative": 5191,
+      "hosptilisedCumulative": 277,
       "date": "2020-03-13",
       "confirmedCumulative": 22
     },
@@ -1507,6 +1500,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 2147,
+      "observationCumulative": 10944,
+      "homeObservationCumulative": 10655,
+      "hosptilisedCumulative": 289,
       "date": "2020-03-15",
       "confirmedCumulative": 24
     },
@@ -1516,6 +1512,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 2297,
+      "observationCumulative": 12740,
+      "homeObservationCumulative": 12470,
+      "hosptilisedCumulative": 270,
       "date": "2020-03-16",
       "confirmedCumulative": 27
     },
@@ -1525,6 +1524,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 2921,
+      "observationCumulative": 31173,
+      "homeObservationCumulative": 30936,
+      "hosptilisedCumulative": 237,
       "date": "2020-03-19",
       "confirmedCumulative": 28
     },
@@ -1534,6 +1536,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 3436,
+      "observationCumulative": 44390,
+      "homeObservationCumulative": 44165,
+      "hosptilisedCumulative": 225,
       "date": "2020-03-20",
       "confirmedCumulative": 40
     },
@@ -1543,6 +1548,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 3716,
+      "observationCumulative": 53013,
+      "homeObservationCumulative": 52785,
+      "hosptilisedCumulative": 228,
       "date": "2020-03-21",
       "confirmedCumulative": 52
     },
@@ -1552,6 +1560,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 4035,
+      "observationCumulative": 59295,
+      "homeObservationCumulative": 58981,
+      "hosptilisedCumulative": 314,
       "date": "2020-03-22",
       "confirmedCumulative": 67
     },
@@ -1561,6 +1572,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 4291,
+      "observationCumulative": 64320,
+      "homeObservationCumulative": 63937,
+      "hosptilisedCumulative": 383,
       "date": "2020-03-23",
       "confirmedCumulative": 95
     },
@@ -1570,6 +1584,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 4516,
+      "observationCumulative": 72460,
+      "homeObservationCumulative": 71994,
+      "hosptilisedCumulative": 466,
       "date": "2020-03-24",
       "confirmedCumulative": 109
     },
@@ -1579,6 +1596,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 0,
       "testedCumulative": 4902,
+      "observationCumulative": 76542,
+      "homeObservationCumulative": 76010,
+      "hosptilisedCumulative": 532,
       "date": "2020-03-25",
       "confirmedCumulative": 118
     },
@@ -1588,6 +1608,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 15,
       "testedCumulative": 5342,
+      "observationCumulative": 102003,
+      "homeObservationCumulative": 101402,
+      "hosptilisedCumulative": 601,
       "date": "2020-03-26",
       "confirmedCumulative": 137
     },
@@ -1597,6 +1620,9 @@
       "deceasedCumulative": 0,
       "criticalCumulative": 6,
       "testedCumulative": 5679,
+      "observationCumulative": 110299,
+      "homeObservationCumulative": 109683,
+      "hosptilisedCumulative": 616,
       "date": "2020-03-27",
       "confirmedCumulative": 176
     },
@@ -1606,6 +1632,9 @@
       "deceasedCumulative": 1,
       "criticalCumulative": 4,
       "testedCumulative": 6067,
+      "observationCumulative": 134370,
+      "homeObservationCumulative": 133750,
+      "hosptilisedCumulative": 620,
       "date": "2020-03-28",
       "confirmedCumulative": 182
     },
@@ -1615,6 +1644,9 @@
       "deceasedCumulative": 1,
       "criticalCumulative": 4,
       "testedCumulative": 6690,
+      "observationCumulative": 141211,
+      "homeObservationCumulative": 140618,
+      "hosptilisedCumulative": 593,
       "date": "2020-03-29",
       "confirmedCumulative": 202
     },
@@ -1624,6 +1656,9 @@
       "deceasedCumulative": 1,
       "criticalCumulative": 4,
       "testedCumulative": 6991,
+      "observationCumulative": 157283,
+      "homeObservationCumulative": 156660,
+      "hosptilisedCumulative": 623,
       "date": "2020-03-30",
       "confirmedCumulative": 234
     },
@@ -1633,6 +1668,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 3,
       "testedCumulative": 7485,
+      "observationCumulative": 163129,
+      "homeObservationCumulative": 162471,
+      "hosptilisedCumulative": 658,
       "date": "2020-03-31",
       "confirmedCumulative": 241
     },
@@ -1642,6 +1680,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 7965,
+      "observationCumulative": 164130,
+      "homeObservationCumulative": 163508,
+      "hosptilisedCumulative": 622,
       "date": "2020-04-01",
       "confirmedCumulative": 265
     },
@@ -1651,6 +1692,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 8456,
+      "observationCumulative": 165934,
+      "homeObservationCumulative": 165291,
+      "hosptilisedCumulative": 643,
       "date": "2020-04-02",
       "confirmedCumulative": 286
     },
@@ -1660,6 +1704,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 9130,
+      "observationCumulative": 169997,
+      "homeObservationCumulative": 169291,
+      "hosptilisedCumulative": 706,
       "date": "2020-04-03",
       "confirmedCumulative": 295
     },
@@ -1669,6 +1716,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 9744,
+      "observationCumulative": 171355,
+      "homeObservationCumulative": 170621,
+      "hosptilisedCumulative": 734,
       "date": "2020-04-04",
       "confirmedCumulative": 306
     },
@@ -1678,6 +1728,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 10221,
+      "observationCumulative": 158617,
+      "homeObservationCumulative": 157841,
+      "hosptilisedCumulative": 776,
       "date": "2020-04-05",
       "confirmedCumulative": 314
     },
@@ -1687,6 +1740,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 10716,
+      "observationCumulative": 152804,
+      "homeObservationCumulative": 152009,
+      "hosptilisedCumulative": 795,
       "date": "2020-04-06",
       "confirmedCumulative": 327
     },
@@ -1696,6 +1752,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 11232,
+      "observationCumulative": 146686,
+      "homeObservationCumulative": 145934,
+      "hosptilisedCumulative": 752,
       "date": "2020-04-07",
       "confirmedCumulative": 335
     },
@@ -1705,6 +1764,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 11986,
+      "observationCumulative": 140474,
+      "homeObservationCumulative": 139725,
+      "hosptilisedCumulative": 749,
       "date": "2020-04-08",
       "confirmedCumulative": 344
     },
@@ -1714,6 +1776,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 12710,
+      "observationCumulative": 136195,
+      "homeObservationCumulative": 135472,
+      "hosptilisedCumulative": 723,
       "date": "2020-04-09",
       "confirmedCumulative": 356
     },
@@ -1723,6 +1788,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 13339,
+      "observationCumulative": 129751,
+      "homeObservationCumulative": 129021,
+      "hosptilisedCumulative": 730,
       "date": "2020-04-10",
       "confirmedCumulative": 363
     },
@@ -1732,6 +1800,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 14163,
+      "observationCumulative": 123490,
+      "homeObservationCumulative": 122676,
+      "hosptilisedCumulative": 814,
       "date": "2020-04-11",
       "confirmedCumulative": 373
     },
@@ -1741,6 +1812,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 14989,
+      "observationCumulative": 116941,
+      "homeObservationCumulative": 116125,
+      "hosptilisedCumulative": 816,
       "date": "2020-04-12",
       "confirmedCumulative": 375
     },
@@ -1750,6 +1824,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 15683,
+      "observationCumulative": 112183,
+      "homeObservationCumulative": 111468,
+      "hosptilisedCumulative": 715,
       "date": "2020-04-13",
       "confirmedCumulative": 378
     },
@@ -1759,6 +1836,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 16235,
+      "observationCumulative": 107075,
+      "homeObservationCumulative": 106511,
+      "hosptilisedCumulative": 564,
       "date": "2020-04-14",
       "confirmedCumulative": 386
     },
@@ -1768,6 +1848,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 16475,
+      "observationCumulative": 97464,
+      "homeObservationCumulative": 96942,
+      "hosptilisedCumulative": 522,
       "date": "2020-04-15",
       "confirmedCumulative": 387
     },
@@ -1777,6 +1860,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 17400,
+      "observationCumulative": 88885,
+      "homeObservationCumulative": 88332,
+      "hosptilisedCumulative": 532,
       "date": "2020-04-16",
       "confirmedCumulative": 394
     },
@@ -1786,6 +1872,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 18029,
+      "observationCumulative": 78980,
+      "homeObservationCumulative": 78454,
+      "hosptilisedCumulative": 526,
       "date": "2020-04-17",
       "confirmedCumulative": 395
     },
@@ -1795,6 +1884,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 18744,
+      "observationCumulative": 67190,
+      "homeObservationCumulative": 66686,
+      "hosptilisedCumulative": 504,
       "date": "2020-04-18",
       "confirmedCumulative": 399
     },
@@ -1804,6 +1896,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 19351,
+      "observationCumulative": 55590,
+      "homeObservationCumulative": 55129,
+      "hosptilisedCumulative": 461,
       "date": "2020-04-19",
       "confirmedCumulative": 401
     },
@@ -1813,6 +1908,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 19756,
+      "observationCumulative": 46323,
+      "homeObservationCumulative": 45925,
+      "hosptilisedCumulative": 398,
       "date": "2020-04-20",
       "confirmedCumulative": 407
     },
@@ -1822,6 +1920,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 20252,
+      "observationCumulative": 36667,
+      "homeObservationCumulative": 36335,
+      "hosptilisedCumulative": 332,
       "date": "2020-04-21",
       "confirmedCumulative": 426
     },
@@ -1831,6 +1932,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 20821,
+      "observationCumulative": 29150,
+      "homeObservationCumulative": 28804,
+      "hosptilisedCumulative": 346,
       "date": "2020-04-22",
       "confirmedCumulative": 437
     },
@@ -1840,6 +1944,9 @@
       "deceasedCumulative": 2,
       "criticalCumulative": 1,
       "testedCumulative": 21334,
+      "observationCumulative": 23876,
+      "homeObservationCumulative": 23439,
+      "hosptilisedCumulative": 437,
       "date": "2020-04-23",
       "confirmedCumulative": 447
     },
@@ -1849,6 +1956,9 @@
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
       "testedCumulative": 21941,
+      "observationCumulative": 21725,
+      "homeObservationCumulative": 21243,
+      "hosptilisedCumulative": 482,
       "date": "2020-04-24",
       "confirmedCumulative": 450
     },
@@ -1858,6 +1968,9 @@
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
       "testedCumulative": 22360,
+      "observationCumulative": 21044,
+      "homeObservationCumulative": 20580,
+      "hosptilisedCumulative": 464,
       "date": "2020-04-25",
       "confirmedCumulative": 457
     }
