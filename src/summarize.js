@@ -72,7 +72,8 @@ const generateDailySummary = (patients, manualDailyData) => {
         testedCumulative: 0,
         observationCumulative: 0,
         homeObservationCumulative: 0,
-        hosptilisedCumulative:0
+        hosptilisedCumulative:0,
+        activeCumulative:0,
       }
     }
 
@@ -85,7 +86,8 @@ const generateDailySummary = (patients, manualDailyData) => {
         testedCumulative: 0,
         observationCumulative: 0,
         homeObservationCumulative: 0,
-        hosptilisedCumulative:0
+        hosptilisedCumulative:0,
+        activeCumulative:0,
       }
     }
 
@@ -106,6 +108,7 @@ const generateDailySummary = (patients, manualDailyData) => {
       dailySummary[row.date].observationCumulative = safeParseInt(row.observation)
       dailySummary[row.date].homeObservationCumulative = safeParseInt(row.homeobservation)
       dailySummary[row.date].hosptilisedCumulative = safeParseInt(row.hosptilised)
+      dailySummary[row.date].activeCumulative = safeParseInt(row.active)
     }
   }
 
@@ -143,6 +146,9 @@ const generateDailySummary = (patients, manualDailyData) => {
     }
     if (thisDay.testedCumulative == 0) {
       thisDay.testedCumulative = previousDay.hosptilisedCumulative
+    }
+    if (thisDay.activeCumulative == 0) {
+      thisDay.activeCumulative = previousDay.activeCumulative
     }
   }
 
