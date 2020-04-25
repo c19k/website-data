@@ -161,13 +161,13 @@ const generateDailySummary = (patients, manualDailyData) => {
     if (thisDay.testedCumulative == 0) {
       thisDay.testedCumulative = previousDay.testedCumulative
     }
-    if (thisDay.testedCumulative == 0) {
+    if (thisDay.observationCumulative == 0) {
       thisDay.testedCumulative = previousDay.observationCumulative
     }
-    if (thisDay.testedCumulative == 0) {
+    if (thisDay.homeObservationCumulative == 0) {
       thisDay.testedCumulative = previousDay.homeObservationCumulative
     }
-    if (thisDay.testedCumulative == 0) {
+    if (thisDay.hosptilisedCumulative == 0) {
       thisDay.testedCumulative = previousDay.hosptilisedCumulative
     }
     if (thisDay.activeCumulative == 0) {
