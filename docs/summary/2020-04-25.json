@@ -99,7 +99,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 157,
+      "recovered": 159,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
@@ -198,11 +198,11 @@
         7,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 52,
+      "newlyConfirmed": 1,
+      "recovered": 54,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -305,7 +305,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 13,
+      "recovered": 15,
       "name_ja": "കോഴിക്കോട്",
       "name": "Kozhikode"
     },
@@ -1121,10 +1121,10 @@
         0,
         1,
         0,
-        0
+        3
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 3,
       "recovered": 5,
       "name_ja": "കൊല്ലം",
       "name": "Kollam"
@@ -1223,10 +1223,10 @@
         1,
         2,
         0,
-        0
+        3
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 3,
       "recovered": 3,
       "name_ja": "കോട്ടയം",
       "name": "Kottayam"
@@ -1432,7 +1432,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 2,
+      "recovered": 3,
       "name_ja": "വയനാട്",
       "name": "Wayanad"
     }
@@ -1854,10 +1854,10 @@
     },
     {
       "confirmed": 0,
-      "recoveredCumulative": 331,
+      "recoveredCumulative": 338,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
-      "testedCumulative": 21941,
+      "testedCumulative": 22360,
       "date": "2020-04-25",
       "confirmedCumulative": 450
     }
@@ -1947,5 +1947,5 @@
     "unspecified": 38,
     "total": 450
   },
-  "updated": "2020-04-25 07:58"
+  "updated": "2020-04-25 17:24"
 }
