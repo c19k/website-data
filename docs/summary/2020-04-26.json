@@ -2314,16 +2314,16 @@
     },
     {
       "ageGroup": "Unspecified",
-      "female": 10,
+      "female": 11,
       "male": 29,
-      "unspecified": 38,
-      "total": 77
+      "unspecified": 43,
+      "total": 83
     }
   ],
   "gender": {
     "female": 115,
     "male": 310,
-    "unspecified": 38,
+    "unspecified": 43,
     "total": 468
   },
   "updated": "2020-04-26 18:18"
