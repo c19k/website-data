@@ -5967,5 +5967,118 @@
     "notes": "Contact Transmission",
     "knownCluster": "Kannur",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 458,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Idukki",
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Spain",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 459,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Idukki",
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 460,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Idukki",
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 461,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": 41,
+    "gender": "F",
+    "detectedCityTown": "Idukki",
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission to Health Worker",
+    "knownCluster": "Idukki",
+    "dhsPatientNumber": "438",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 462,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Idukki",
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 463,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Idukki",
+    "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 464,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission to Health Worker",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 465,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission to Health Worker",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 466,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 467,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 468,
+    "dateAnnounced": "2020-04-26",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from outside the state",
+    "confirmedPatient": true
   }
 ]
