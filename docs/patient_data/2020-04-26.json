@@ -5884,8 +5884,8 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
-    "notes": "Contact Transmission",
-    "knownCluster": "Kottayam",
+    "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
     "confirmedPatient": true
   },
   {
@@ -5897,8 +5897,8 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
-    "notes": "Contact Transmission",
-    "knownCluster": "Kottayam",
+    "notes": "Travelled from Sharjah in March",
+    "knownCluster": "Sharjah",
     "confirmedPatient": true
   },
   {
@@ -5930,8 +5930,9 @@
   {
     "patientId": 455,
     "dateAnnounced": "2020-04-25",
-    "ageBracket": -1,
-    "residence": "Kollam",
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Ambalakkadav",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
