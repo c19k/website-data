@@ -2297,16 +2297,16 @@
     {
       "ageGroup": "31-40",
       "female": 17,
-      "male": 87,
+      "male": 89,
       "unspecified": 0,
-      "total": 104
+      "total": 106
     },
     {
       "ageGroup": "41-50",
-      "female": 10,
+      "female": 11,
       "male": 54,
       "unspecified": 0,
-      "total": 64
+      "total": 65
     },
     {
       "ageGroup": "51-60",
@@ -2352,8 +2352,8 @@
     }
   ],
   "gender": {
-    "female": 121,
-    "male": 319,
+    "female": 122,
+    "male": 321,
     "unspecified": 38,
     "total": 481
   },
