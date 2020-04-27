@@ -94,6 +94,7 @@
         0,
         3,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -196,6 +197,7 @@
         0,
         0,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -298,6 +300,7 @@
         2,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -378,6 +381,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -500,6 +504,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -602,10 +607,11 @@
         4,
         0,
         0,
-        6
+        6,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 6,
+      "newlyConfirmed": 0,
       "recovered": 10,
       "name_ja": "ഇടുക്കി",
       "name": "Idukki"
@@ -690,6 +696,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -807,6 +814,7 @@
         1,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -908,6 +916,7 @@
         1,
         0,
         3,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1009,10 +1018,11 @@
         2,
         0,
         3,
-        5
+        5,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 5,
+      "newlyConfirmed": 0,
       "recovered": 3,
       "name_ja": "കോട്ടയം",
       "name": "Kottayam"
@@ -1093,6 +1103,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1211,6 +1222,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1312,6 +1324,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1388,6 +1401,7 @@
         0,
         0,
         2,
+        0,
         0,
         0,
         0,
