@@ -6190,24 +6190,34 @@
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on 14 April",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 477,
     "dateAnnounced": "2020-04-27",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Devikulam",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tirupur on April 11",
+    "knownCluster": "Tirupur",
     "confirmedPatient": true
   },
   {
     "patientId": 478,
     "dateAnnounced": "2020-04-27",
-    "ageBracket": -1,
+    "ageBracket": 60,
+    "gender": "M",
+    "residence": "Munnar",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Idukki",
     "confirmedPatient": true
   },
   {
