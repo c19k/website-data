@@ -6302,45 +6302,53 @@
   {
     "patientId": 482,
     "dateAnnounced": "2020-04-28",
-    "ageBracket": -1,
+    "ageBracket": 21,
     "gender": "M",
     "residence": "Muriyad",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
     "patientId": 483,
     "dateAnnounced": "2020-04-28",
-    "ageBracket": -1,
+    "ageBracket": 40,
     "gender": "M",
     "residence": "Muriyad",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kannur",
     "confirmedPatient": true
   },
   {
     "patientId": 484,
     "dateAnnounced": "2020-04-28",
-    "ageBracket": -1,
-    "gender": "M",
+    "ageBracket": 20,
+    "gender": "F",
     "residence": "Cheruvancheri",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
     "patientId": 485,
     "dateAnnounced": "2020-04-28",
-    "ageBracket": -1,
+    "ageBracket": 24,
     "gender": "M",
     "residence": "Ajanur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contanct Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   }
 ]
