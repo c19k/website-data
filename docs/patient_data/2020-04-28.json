@@ -5095,15 +5095,16 @@
   {
     "patientId": 391,
     "dateAnnounced": "2020-04-16",
-    "ageBracket": 27,
+    "ageBracket": 29,
     "gender": "F",
     "residence": "Cheruvancheri",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Tramsmission",
     "knownCluster": "Kannur",
     "dhsPatientNumber": "337",
+    "oeceasedOn": "2020-04-27",
     "confirmedPatient": true
   },
   {
@@ -5340,6 +5341,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on March 19 via Karippur",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-04-27",
     "confirmedPatient": true
   },
   {
@@ -5363,9 +5365,10 @@
     "residence": "Muthiyanga",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai via Sharja on March 21 via Kannur",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-04-27",
     "confirmedPatient": true
   },
   {
@@ -5376,15 +5379,16 @@
     "residence": "Chapparappadav",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Ajman on March 21 via Bangalore",
     "knownCluster": "Ajman",
+    "releasedOn": "2020-04-27",
     "confirmedPatient": true
   },
   {
     "patientId": 413,
     "dateAnnounced": "2020-04-21",
-    "ageBracket": 54,
+    "ageBracket": 51,
     "gender": "M",
     "residence": "Chendayad",
     "detectedCityTown": "Kannur",
@@ -5392,6 +5396,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on March 18 via Karippur",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-04-27",
     "confirmedPatient": true
   },
   {
