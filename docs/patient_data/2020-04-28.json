@@ -1718,12 +1718,13 @@
     "dateAnnounced": "2020-03-26",
     "ageBracket": 39,
     "gender": "M",
-    "residence": "Malappuram",
+    "residence": "Thirur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai to bangalore (Emirates EK 564) and from there to Kozhikode in a goods vehicle",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-04-26",
     "confirmedPatient": true
   },
   {
@@ -4614,9 +4615,10 @@
     "residence": "Thirur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai on March 19 on AI938 to Kozhikode",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-04-27",
     "confirmedPatient": true
   },
   {
