@@ -4209,9 +4209,10 @@
     "residence": "Kooriyaad",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Recovered",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Nizamudeen",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-04-26",
     "confirmedPatient": true
   },
   {
@@ -4352,9 +4353,10 @@
     "residence": "Vengara",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Nizamudeen with family",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-04-26",
     "confirmedPatient": true
   },
   {
@@ -4598,9 +4600,10 @@
     "residence": "Mampuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled along with family from Nizamudeen",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-04-26",
     "confirmedPatient": true
   },
   {
@@ -4638,9 +4641,10 @@
     "residence": "Manakkad",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contant Transmission",
     "knownCluster": "Thiruvananthapuram",
+    "releasedOn": "2020-04-26",
     "confirmedPatient": true
   },
   {
@@ -4718,9 +4722,10 @@
     "residence": "Chunkathara",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Nizamudeen",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-04-26",
     "confirmedPatient": true
   },
   {
@@ -5007,7 +5012,7 @@
     "residence": "Edacheri",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kozhikode",
     "dhsPatientNumber": "385",
@@ -5104,7 +5109,7 @@
     "notes": "Contact Tramsmission",
     "knownCluster": "Kannur",
     "dhsPatientNumber": "337",
-    "oeceasedOn": "2020-04-27",
+    "releasedOn": "2020-04-27",
     "confirmedPatient": true
   },
   {
@@ -5115,7 +5120,7 @@
     "residence": "Edacheri",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
     "confirmedPatient": true
@@ -5338,7 +5343,7 @@
     "residence": "Pathipalam",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai on March 19 via Karippur",
     "knownCluster": "Dubai",
     "releasedOn": "2020-04-27",
@@ -5393,7 +5398,7 @@
     "residence": "Chendayad",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai on March 18 via Karippur",
     "knownCluster": "Dubai",
     "releasedOn": "2020-04-27",
@@ -6289,6 +6294,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kannur",
+    "dhsPatientNumber": "429",
     "confirmedPatient": true
   }
 ]
