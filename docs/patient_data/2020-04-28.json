@@ -6298,5 +6298,45 @@
     "knownCluster": "Kannur",
     "dhsPatientNumber": "429",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 482,
+    "dateAnnounced": "2020-04-28",
+    "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 483,
+    "dateAnnounced": "2020-04-28",
+    "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 484,
+    "dateAnnounced": "2020-04-28",
+    "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 485,
+    "dateAnnounced": "2020-04-28",
+    "ageBracket": -1,
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
   }
 ]

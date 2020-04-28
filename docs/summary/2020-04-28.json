@@ -1,10 +1,10 @@
 {
   "prefectures": [
     {
-      "confirmed": 175,
+      "confirmed": 176,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 174,
+        "Kasaragod": 175,
         "Mangalore": 1
       },
       "dailyConfirmedCount": [
@@ -96,20 +96,20 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 160,
+      "newlyConfirmed": 1,
+      "recovered": 162,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
     },
     {
-      "confirmed": 111,
+      "confirmed": 114,
       "deaths": 0,
       "confirmedByCity": {
         "Ernakulam": 1,
-        "Kannur": 110
+        "Kannur": 113
       },
       "dailyConfirmedCount": [
         0,
@@ -200,11 +200,11 @@
         1,
         0,
         1,
-        0
+        3
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 61,
+      "newlyConfirmed": 3,
+      "recovered": 63,
       "name_ja": "കണ്ണൂർ",
       "name": "Kannur"
     },
@@ -2286,21 +2286,21 @@
       "confirmedCumulativeAvg7d": 432
     },
     {
-      "confirmed": 0,
-      "recoveredCumulative": 355,
+      "confirmed": 4,
+      "recoveredCumulative": 359,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
-      "testedCumulative": 23271,
-      "observationCumulative": 20301,
-      "homeObservationCumulative": 19812,
-      "hosptilisedCumulative": 489,
+      "testedCumulative": 23980,
+      "observationCumulative": 20773,
+      "homeObservationCumulative": 20255,
+      "hosptilisedCumulative": 518,
       "activeCumulative": 123,
       "date": "2020-04-28",
-      "confirmedCumulative": 481,
-      "confirmedAvg3d": 8,
-      "confirmedCumulativeAvg3d": 463,
-      "confirmedAvg7d": 7,
-      "confirmedCumulativeAvg7d": 439
+      "confirmedCumulative": 485,
+      "confirmedAvg3d": 9,
+      "confirmedCumulativeAvg3d": 464,
+      "confirmedAvg7d": 8,
+      "confirmedCumulativeAvg7d": 440
     }
   ],
   "age": [
@@ -2386,7 +2386,7 @@
     "female": 122,
     "male": 321,
     "unspecified": 38,
-    "total": 481
+    "total": 485
   },
-  "updated": "2020-04-27 19:44"
+  "updated": "2020-04-28 17:13"
 }
