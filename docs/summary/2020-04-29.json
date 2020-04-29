@@ -103,6 +103,8 @@
       "newlyConfirmed": 0,
       "recovered": 162,
       "name_ja": "കാസർഗോഡ്",
+      "zone": "Red",
+      "zoneUpdatedOn": "",
       "name": "Kasaragod"
     },
     {
@@ -208,6 +210,8 @@
       "newlyConfirmed": 0,
       "recovered": 63,
       "name_ja": "കണ്ണൂർ",
+      "zone": "Red",
+      "zoneUpdatedOn": "",
       "name": "Kannur"
     },
     {
@@ -313,6 +317,8 @@
       "newlyConfirmed": 0,
       "recovered": 19,
       "name_ja": "കോഴിക്കോട്",
+      "zone": "Red",
+      "zoneUpdatedOn": "",
       "name": "Kozhikode"
     },
     {
@@ -418,6 +424,8 @@
       "newlyConfirmed": 0,
       "recovered": 10,
       "name_ja": "ഇടുക്കി",
+      "zone": "Red",
+      "zoneUpdatedOn": "",
       "name": "Idukki"
     },
     {
@@ -522,6 +530,8 @@
       "newlyConfirmed": 0,
       "recovered": 21,
       "name_ja": "എറണാകുളം",
+      "zone": "Orange",
+      "zoneUpdatedOn": "",
       "name": "Ernakulam"
     },
     {
@@ -626,6 +636,8 @@
       "newlyConfirmed": 0,
       "recovered": 20,
       "name_ja": "മലപ്പുറം",
+      "zone": "Red",
+      "zoneUpdatedOn": "",
       "name": "Malappuram"
     },
     {
@@ -730,6 +742,8 @@
       "newlyConfirmed": 0,
       "recovered": 3,
       "name_ja": "കോട്ടയം",
+      "zone": "Red",
+      "zoneUpdatedOn": "",
       "name": "Kottayam"
     },
     {
@@ -834,6 +848,8 @@
       "newlyConfirmed": 0,
       "recovered": 14,
       "name_ja": "പത്തനംതിട്ട",
+      "zone": "Orange",
+      "zoneUpdatedOn": "",
       "name": "Pathanamthitta"
     },
     {
@@ -941,6 +957,8 @@
       "newlyConfirmed": 0,
       "recovered": 14,
       "name_ja": "തിരുവനന്തപുരം",
+      "zone": "Orange",
+      "zoneUpdatedOn": "",
       "name": "Thiruvananthapuram"
     },
     {
@@ -1045,6 +1063,8 @@
       "newlyConfirmed": 0,
       "recovered": 5,
       "name_ja": "കൊല്ലം",
+      "zone": "Orange",
+      "zoneUpdatedOn": "",
       "name": "Kollam"
     },
     {
@@ -1149,6 +1169,8 @@
       "newlyConfirmed": 0,
       "recovered": 7,
       "name_ja": "പാലക്കാട്",
+      "zone": "Orange",
+      "zoneUpdatedOn": "",
       "name": "Palakkad"
     },
     {
@@ -1253,6 +1275,8 @@
       "newlyConfirmed": 0,
       "recovered": 13,
       "name_ja": "തൃശ്ശൂർ",
+      "zone": "Orange",
+      "zoneUpdatedOn": "",
       "name": "Thrissur"
     },
     {
@@ -1357,6 +1381,8 @@
       "newlyConfirmed": 0,
       "recovered": 5,
       "name_ja": "ആലപ്പുഴ",
+      "zone": "Orange",
+      "zoneUpdatedOn": "",
       "name": "Alappuzha"
     },
     {
@@ -1462,6 +1488,8 @@
       "newlyConfirmed": 0,
       "recovered": 3,
       "name_ja": "വയനാട്",
+      "zone": "Orange",
+      "zoneUpdatedOn": "",
       "name": "Wayanad"
     }
   ],
