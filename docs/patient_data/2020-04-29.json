@@ -6426,8 +6426,9 @@
   {
     "patientId": 492,
     "dateAnnounced": "2020-04-29",
-    "ageBracket": -1,
-    "residence": "Thiruvananthapuram",
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Neyyattinkara",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -6438,8 +6439,9 @@
   {
     "patientId": 493,
     "dateAnnounced": "2020-04-29",
-    "ageBracket": -1,
-    "residence": "Thiruvananthapuram",
+    "ageBracket": 68,
+    "gender": "M",
+    "residence": "Meleppala",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
