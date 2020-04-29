@@ -6350,5 +6350,123 @@
     "notes": "Contanct Transmission",
     "knownCluster": "Kasaragod",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 486,
+    "dateAnnounced": "2020-04-29",
+    "ageBracket": -1,
+    "residence": "Kollam",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contanct Transmission",
+    "knownCluster": "Kollam",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 487,
+    "dateAnnounced": "2020-04-29",
+    "ageBracket": -1,
+    "residence": "Kollam",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contanct Transmission",
+    "knownCluster": "Kollam",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 488,
+    "dateAnnounced": "2020-04-29",
+    "ageBracket": -1,
+    "residence": "Kollam",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contanct Transmission",
+    "knownCluster": "Kollam",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 489,
+    "dateAnnounced": "2020-04-29",
+    "ageBracket": -1,
+    "residence": "Kollam",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contanct Transmission",
+    "knownCluster": "Kollam",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 490,
+    "dateAnnounced": "2020-04-29",
+    "ageBracket": -1,
+    "residence": "Kollam",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contanct Transmission",
+    "knownCluster": "Kollam",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 491,
+    "dateAnnounced": "2020-04-29",
+    "ageBracket": -1,
+    "residence": "Kollam",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Andhra",
+    "knownCluster": "Andra Pradesh",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 492,
+    "dateAnnounced": "2020-04-29",
+    "ageBracket": -1,
+    "residence": "Thiruvananthapuram",
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN",
+    "knownCluster": "Tamil Nadu",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 493,
+    "dateAnnounced": "2020-04-29",
+    "ageBracket": -1,
+    "residence": "Thiruvananthapuram",
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 494,
+    "dateAnnounced": "2020-04-29",
+    "ageBracket": -1,
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 495,
+    "dateAnnounced": "2020-04-29",
+    "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission to Media Personnel",
+    "confirmedPatient": true
   }
 ]
