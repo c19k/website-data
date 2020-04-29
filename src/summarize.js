@@ -248,6 +248,8 @@ const generatePrefectureSummary = (patients, manualPrefectureData) => {
       prefectureSummary[row.district].recovered = safeParseInt(row.recovered)
       prefectureSummary[row.district].deaths = safeParseInt(row.deaths)
       prefectureSummary[row.district].name_ja = row.districtml
+      prefectureSummary[row.district].zone = row.zone
+      prefectureSummary[row.district].zoneUpdatedOn = row.zoneupdatedon
     }
   }
 
