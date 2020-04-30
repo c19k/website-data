@@ -557,7 +557,7 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Sharjah IX 746",
     "knownCluster": "Sharjah",
     "confirmedPatient": true
@@ -569,7 +569,7 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai, Air India Express IX 344",
     "knownCluster": "Dubai",
     "confirmedPatient": true
@@ -581,7 +581,7 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai, SG54",
     "knownCluster": "Dubai",
     "confirmedPatient": true
@@ -593,9 +593,10 @@
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -605,9 +606,10 @@
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -617,9 +619,10 @@
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -630,9 +633,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Mangalore",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Recovered",
+    "patientStatus": "Discharged",
     "notes": "Landed in Mangalore airport, had been to Kasturba Medical College Attavar\t",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -643,9 +647,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -656,9 +661,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -669,9 +675,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -682,9 +689,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -695,9 +703,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -708,9 +717,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai AI 938 admitted in Kozhikode M",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -721,9 +731,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -734,9 +745,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -761,9 +773,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Middle East",
     "knownCluster": "Middle East",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -774,9 +787,10 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -787,9 +801,10 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -800,9 +815,10 @@
     "residence": "Vengara",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abhudhabi via Air India IX 348 ",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -813,9 +829,10 @@
     "residence": "Kadalundi",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai via Air Arabia G9 425",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -826,9 +843,10 @@
     "residence": "Kozhikode",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "ravelled from Abu Dhabi, EY 250",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -839,9 +857,10 @@
     "residence": "Kozhikode",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai AI 938, Taken to hospital directly from the airport.        ",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -868,6 +887,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from United Kingdom on April 7",
     "knownCluster": "UK",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -878,9 +898,10 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -891,9 +912,10 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -904,9 +926,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -959,9 +982,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -972,9 +996,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -985,9 +1010,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -998,9 +1024,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1011,9 +1038,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1024,9 +1052,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1037,9 +1066,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1050,9 +1080,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1063,9 +1094,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1076,9 +1108,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1089,9 +1122,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1102,9 +1136,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1115,9 +1150,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1128,9 +1164,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1141,9 +1178,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1153,9 +1191,10 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1165,9 +1204,10 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1177,9 +1217,10 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1189,9 +1230,10 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1201,9 +1243,10 @@
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1218,6 +1261,7 @@
     "notes": "Travelled from UK, British tourist among those who visited Munnar, Wife of P23. Disc on Apr 7",
     "knownCluster": "Dubai",
     "dhsPatientNumber": "23",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1228,9 +1272,10 @@
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai, Emirates flight, been in isolation since landed yesterday at Kochi airport\t",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1241,9 +1286,10 @@
     "residence": "Thrissur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from France",
     "knownCluster": "France",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1253,9 +1299,10 @@
     "residence": "Pathanamthitta",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Qatar, Qatar Airways QR 506",
     "knownCluster": "Qatar",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1265,9 +1312,10 @@
     "residence": "Kozhikode",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai, Indigo 6E: 89",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1277,9 +1325,10 @@
     "residence": "Kozhikode",
     "detectedCityTown": "Chennai",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai, Air India AI 906 landed at Che",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1292,6 +1341,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from UK",
     "knownCluster": "UK",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1315,7 +1365,8 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1325,9 +1376,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Sharjah Air Arabia G9 454, Admitted in Kozhikode\t\t\t",
     "knownCluster": "Sharjah",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1337,9 +1389,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1349,9 +1402,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1361,9 +1415,10 @@
     "residence": "Malappuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Emirates EK 0532",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1376,6 +1431,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Qatar to Goa Oman Air WY 662 and from there by train to Alappuzha",
     "knownCluster": "Qatar",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1386,10 +1442,11 @@
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Close relative of P64",
     "knownCluster": "Ernakulam",
     "dhsPatientNumber": "64",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1403,6 +1460,7 @@
     "patientStatus": "Discharged",
     "notes": "Nurse at Kottayam Medical College",
     "knownCluster": "Kottayam",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1412,9 +1470,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission likely",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1424,7 +1483,8 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1498,7 +1558,7 @@
     "residence": "Thodupuzha",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
-    "patientStatus": "Discharged",
+    "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Kochi in SpiceJet SG 18 ",
     "knownCluster": "Dubai",
     "confirmedPatient": true
@@ -1511,7 +1571,7 @@
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Discharged",
+    "patientStatus": "Hospitalized",
     "notes": "Travelled from France via Delhi, Kochi",
     "knownCluster": "France",
     "confirmedPatient": true
@@ -1524,7 +1584,7 @@
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Discharged",
+    "patientStatus": "Hospitalized",
     "notes": "Travelled from France via Delhi, Kochi",
     "knownCluster": "France",
     "confirmedPatient": true
@@ -1537,7 +1597,7 @@
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Discharged",
+    "patientStatus": "Hospitalized",
     "notes": "Contact Transmission from P64",
     "knownCluster": "Ernakulam",
     "dhsPatientNumber": "64",
@@ -1668,9 +1728,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai landed in Bangalore airport from there in a private vehicle\t",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1681,9 +1742,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai landed in Bangalore airport from there in a private vehicle",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1698,6 +1760,7 @@
     "notes": "Travelled with P48 Dis on April 05",
     "knownCluster": "Flight",
     "dhsPatientNumber": "48",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1708,9 +1771,10 @@
     "residence": "Malappuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abhu Dhabi ",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1735,9 +1799,10 @@
     "residence": "Malappuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai via Sharjah Air India AI 968, Admitted to Govt. Medial College Thiruvanathapuram",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1750,6 +1815,7 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Discharged",
     "notes": "Political leader discharged on April 03",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1760,10 +1826,11 @@
     "residence": "Thrissur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Husband of P94",
     "knownCluster": "Thrissur",
     "dhsPatientNumber": "94",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1774,7 +1841,8 @@
     "residence": "Thrissur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1788,6 +1856,7 @@
     "patientStatus": "Discharged",
     "notes": "Dubai on 22nd March - Abudabi Airport - Flight No. EY254. Disc on April 8",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1797,9 +1866,10 @@
     "residence": "Sivapuram",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Emirates EK 566 landed at Bengaluru",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1809,9 +1879,10 @@
     "residence": "Mokeri",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Ettihad EY 254 landed at Kozhikode",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1822,9 +1893,10 @@
     "residence": "Chavakkad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai on 17th March",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1836,6 +1908,7 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Discharged",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1849,6 +1922,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Dubai to Tvm",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1859,9 +1933,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1872,9 +1947,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1899,9 +1975,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1912,9 +1989,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1925,9 +2003,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1938,9 +2017,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1951,9 +2031,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1964,9 +2045,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1977,9 +2059,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -1990,9 +2073,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2003,9 +2087,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2016,9 +2101,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2043,9 +2129,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2056,9 +2143,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2069,9 +2157,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2082,9 +2171,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2095,9 +2185,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2108,9 +2199,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from KSA via Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2120,8 +2212,9 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2132,9 +2225,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2145,9 +2239,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2158,9 +2253,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2171,9 +2267,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2184,9 +2281,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2197,9 +2295,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2210,9 +2309,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2223,9 +2323,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2236,9 +2337,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2263,9 +2365,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2276,9 +2379,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2289,9 +2393,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2379,9 +2484,10 @@
     "residence": "Maradu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Emirates EK 568 landed at Kozhikode",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2392,9 +2498,10 @@
     "residence": "Maradu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Sharjah AIr India express IX 354 landed at Kozhikode",
     "knownCluster": "Sharjah",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2405,9 +2512,10 @@
     "residence": "Maradu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Emirates EK 568 landed at BAngalore",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2418,9 +2526,10 @@
     "residence": "Temple Gate",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Air India AI 938 landed at Kozhikode",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2431,9 +2540,10 @@
     "residence": "Temple Gate",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Air India AI 938 landed at Kozhikode",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2444,9 +2554,10 @@
     "residence": "Marantheri",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai EK 532 to Kochi on March 22",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2457,9 +2568,10 @@
     "residence": "Kudiyanmala",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from IX 346 from Dubai tot Kozhikode on March 20",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2470,9 +2582,10 @@
     "residence": "Kolayadu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai to Karipur AI 938 March 21",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2483,9 +2596,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2510,9 +2624,10 @@
     "residence": "Chengala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2523,9 +2638,10 @@
     "residence": "Chattanchal",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2536,9 +2652,10 @@
     "residence": "Chattanchal",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2549,9 +2666,10 @@
     "residence": "Madhur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2576,9 +2694,10 @@
     "residence": "Chalakkudi",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mauritius via Mubai to Kochi on Mar 23",
     "knownCluster": "Mauritius",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -2589,9 +2708,10 @@
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Health Worker on Airport Duty",
     "knownCluster": "Ernakulam",
+    "releasedOn": "Unspecified",
     "confirmedPatient": true
   },
   {
