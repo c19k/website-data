@@ -392,7 +392,7 @@
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "knownCluster": "Dubai",
     "dhsPatientNumber": "23",
     "confirmedPatient": true
@@ -433,7 +433,7 @@
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "knownCluster": "Dubai",
     "dhsPatientNumber": "23",
     "confirmedPatient": true
@@ -446,7 +446,7 @@
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "knownCluster": "Dubai",
     "dhsPatientNumber": "23",
     "confirmedPatient": true
@@ -459,7 +459,7 @@
     "residence": "Palakkad",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from UK. Palakkad native",
     "knownCluster": "UK",
     "confirmedPatient": true
@@ -472,7 +472,7 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Sharjah ",
     "knownCluster": "Sharjah",
     "confirmedPatient": true
