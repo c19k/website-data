@@ -6602,5 +6602,27 @@
     "notes": "Contact Transmission to Media Personnel",
     "knownCluster": "Kasaragod",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 496,
+    "dateAnnounced": "2020-04-30",
+    "ageBracket": -1,
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "knownCluster": "Kasaragod",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 497,
+    "dateAnnounced": "2020-04-30",
+    "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "knownCluster": "Malappuram",
+    "confirmedPatient": true
   }
 ]
