@@ -6402,7 +6402,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Mummai on April 11 to reach on April 15",
+    "notes": "Travelled from Mumbai on April 11 to reach on April 15",
     "knownCluster": "Mumbai",
     "confirmedPatient": true
   },
@@ -6619,12 +6619,14 @@
   {
     "patientId": 497,
     "dateAnnounced": "2020-04-30",
-    "ageBracket": -1,
-    "residence": "Malappuram",
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Edappal",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "knownCluster": "Malappuram",
+    "notes": "Travelled from Mumbai on April 11 to reach on April 15",
+    "knownCluster": "Mumbai",
     "confirmedPatient": true
   }
 ]
