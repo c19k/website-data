@@ -6606,12 +6606,14 @@
   {
     "patientId": 496,
     "dateAnnounced": "2020-04-30",
-    "ageBracket": -1,
-    "residence": "Kasaragod",
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Mogral",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
-    "knownCluster": "Kasaragod",
+    "notes": "Travelled from abroad on March 21",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
