@@ -111,10 +111,10 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 116,
+      "confirmed": 115,
       "deaths": 0,
       "confirmedByCity": {
-        "Kannur": 116
+        "Kannur": 115
       },
       "dailyConfirmedCount": [
         0,
@@ -156,7 +156,7 @@
         0,
         0,
         0,
-        3,
+        2,
         0,
         1,
         0,
@@ -549,10 +549,10 @@
       "name": "Idukki"
     },
     {
-      "confirmed": 22,
+      "confirmed": 23,
       "deaths": 1,
       "confirmedByCity": {
-        "Ernakulam": 22
+        "Ernakulam": 23
       },
       "dailyConfirmedCount": [
         0,
@@ -594,7 +594,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,
