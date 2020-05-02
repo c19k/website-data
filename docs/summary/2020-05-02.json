@@ -2438,14 +2438,14 @@
     },
     {
       "confirmed": 0,
-      "recoveredCumulative": 383,
+      "recoveredCumulative": 392,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
-      "testedCumulative": 30609,
-      "observationCumulative": 20711,
-      "homeObservationCumulative": 20285,
-      "hosptilisedCumulative": 426,
-      "activeCumulative": 111,
+      "testedCumulative": 32140,
+      "observationCumulative": 21499,
+      "homeObservationCumulative": 21067,
+      "hosptilisedCumulative": 432,
+      "activeCumulative": 102,
       "date": "2020-05-02",
       "confirmedCumulative": 497,
       "confirmedAvg3d": 4,
@@ -2539,5 +2539,5 @@
     "unspecified": 38,
     "total": 497
   },
-  "updated": "2020-05-02 12:43"
+  "updated": "2020-05-02 12:59"
 }
