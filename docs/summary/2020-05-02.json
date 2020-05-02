@@ -2510,9 +2510,9 @@
     {
       "ageGroup": "51-60",
       "female": 16,
-      "male": 37,
+      "male": 38,
       "unspecified": 0,
-      "total": 53
+      "total": 54
     },
     {
       "ageGroup": "61-70",
@@ -2546,14 +2546,14 @@
       "ageGroup": "Unspecified",
       "female": 11,
       "male": 30,
-      "unspecified": 40,
-      "total": 81
+      "unspecified": 39,
+      "total": 80
     }
   ],
   "gender": {
     "female": 124,
-    "male": 335,
-    "unspecified": 40,
+    "male": 336,
+    "unspecified": 39,
     "total": 499
   },
   "updated": "2020-05-02 17:05"

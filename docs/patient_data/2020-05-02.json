@@ -6632,11 +6632,14 @@
   {
     "patientId": 498,
     "dateAnnounced": "2020-05-02",
-    "ageBracket": -1,
-    "residence": "Wayanad",
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Mananthawady",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on 26th April ",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
