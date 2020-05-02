@@ -111,10 +111,10 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 117,
+      "confirmed": 118,
       "deaths": 0,
       "confirmedByCity": {
-        "Kannur": 117
+        "Kannur": 118
       },
       "dailyConfirmedCount": [
         0,
@@ -209,11 +209,11 @@
         1,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
-      "recovered": 75,
+      "newlyConfirmed": 1,
+      "recovered": 81,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-04-16",
@@ -542,7 +542,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 10,
+      "recovered": 12,
       "name_ja": "ഇടുക്കി",
       "zone": "Red",
       "zoneUpdatedOn": "2020-04-27",
@@ -1424,11 +1424,11 @@
       "name": "Alappuzha"
     },
     {
-      "confirmed": 3,
+      "confirmed": 4,
       "deaths": 0,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 2
+        "Wayanad": 3
       },
       "dailyConfirmedCount": [
         0,
@@ -1523,10 +1523,10 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 3,
       "name_ja": "വയനാട്",
       "zone": "Orange",
@@ -2437,21 +2437,21 @@
       "confirmedCumulativeAvg7d": 456
     },
     {
-      "confirmed": 0,
-      "recoveredCumulative": 392,
+      "confirmed": 2,
+      "recoveredCumulative": 400,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
-      "testedCumulative": 32140,
-      "observationCumulative": 21499,
-      "homeObservationCumulative": 21067,
-      "hosptilisedCumulative": 432,
-      "activeCumulative": 102,
+      "testedCumulative": 33276,
+      "observationCumulative": 21894,
+      "homeObservationCumulative": 21494,
+      "hosptilisedCumulative": 410,
+      "activeCumulative": 96,
       "date": "2020-05-02",
-      "confirmedCumulative": 497,
+      "confirmedCumulative": 499,
       "confirmedAvg3d": 4,
       "confirmedCumulativeAvg3d": 483,
-      "confirmedAvg7d": 6,
-      "confirmedCumulativeAvg7d": 462
+      "confirmedAvg7d": 7,
+      "confirmedCumulativeAvg7d": 463
     }
   ],
   "age": [
@@ -2529,15 +2529,15 @@
       "ageGroup": "Unspecified",
       "female": 11,
       "male": 30,
-      "unspecified": 38,
-      "total": 79
+      "unspecified": 40,
+      "total": 81
     }
   ],
   "gender": {
     "female": 124,
     "male": 335,
-    "unspecified": 38,
-    "total": 497
+    "unspecified": 40,
+    "total": 499
   },
-  "updated": "2020-05-02 12:59"
+  "updated": "2020-05-02 17:05"
 }
