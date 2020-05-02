@@ -6645,11 +6645,14 @@
   {
     "patientId": 499,
     "dateAnnounced": "2020-05-02",
-    "ageBracket": -1,
-    "residence": "Kannur",
+    "ageBracket": 25,
+    "gender": "M",
+    "residence": "Muriyad",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kannur",
     "confirmedPatient": true
   }
 ]
