@@ -106,8 +106,8 @@
       "newlyConfirmed": 0,
       "recovered": 171,
       "name_ja": "കാസർഗോഡ്",
-      "zone": "Red",
-      "zoneUpdatedOn": "2020-04-16",
+      "zone": "Orange",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Kasaragod"
     },
     {
@@ -216,7 +216,7 @@
       "recovered": 81,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
-      "zoneUpdatedOn": "2020-04-16",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Kannur"
     },
     {
@@ -325,8 +325,8 @@
       "newlyConfirmed": 0,
       "recovered": 21,
       "name_ja": "കോഴിക്കോട്",
-      "zone": "Red",
-      "zoneUpdatedOn": "2020-04-16",
+      "zone": "Orange",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Kozhikode"
     },
     {
@@ -434,8 +434,8 @@
       "newlyConfirmed": 0,
       "recovered": 21,
       "name_ja": "മലപ്പുറം",
-      "zone": "Red",
-      "zoneUpdatedOn": "2020-04-16",
+      "zone": "Orange",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Malappuram"
     },
     {
@@ -544,8 +544,8 @@
       "newlyConfirmed": 0,
       "recovered": 12,
       "name_ja": "ഇടുക്കി",
-      "zone": "Red",
-      "zoneUpdatedOn": "2020-04-27",
+      "zone": "Orange",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Idukki"
     },
     {
@@ -653,8 +653,8 @@
       "newlyConfirmed": 0,
       "recovered": 21,
       "name_ja": "എറണാകുളം",
-      "zone": "Orange",
-      "zoneUpdatedOn": "2020-04-16",
+      "zone": "Green",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Ernakulam"
     },
     {
@@ -763,7 +763,7 @@
       "recovered": 8,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
-      "zoneUpdatedOn": "2020-04-16",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Kollam"
     },
     {
@@ -872,7 +872,7 @@
       "recovered": 3,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
-      "zoneUpdatedOn": "2020-04-27",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Kottayam"
     },
     {
@@ -984,7 +984,7 @@
       "recovered": 14,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
-      "zoneUpdatedOn": "2020-04-16",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Thiruvananthapuram"
     },
     {
@@ -1093,7 +1093,7 @@
       "recovered": 16,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
-      "zoneUpdatedOn": "2020-04-16",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Pathanamthitta"
     },
     {
@@ -1202,7 +1202,7 @@
       "recovered": 11,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
-      "zoneUpdatedOn": "2020-04-16",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Palakkad"
     },
     {
@@ -1310,8 +1310,8 @@
       "newlyConfirmed": 0,
       "recovered": 13,
       "name_ja": "തൃശ്ശൂർ",
-      "zone": "Orange",
-      "zoneUpdatedOn": "2020-04-16",
+      "zone": "Green",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Thrissur"
     },
     {
@@ -1419,8 +1419,8 @@
       "newlyConfirmed": 0,
       "recovered": 5,
       "name_ja": "ആലപ്പുഴ",
-      "zone": "Orange",
-      "zoneUpdatedOn": "2020-04-16",
+      "zone": "Green",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Alappuzha"
     },
     {
@@ -1530,7 +1530,7 @@
       "recovered": 3,
       "name_ja": "വയനാട്",
       "zone": "Orange",
-      "zoneUpdatedOn": "2020-04-16",
+      "zoneUpdatedOn": "2020-05-02",
       "name": "Wayanad"
     }
   ],
@@ -2556,5 +2556,5 @@
     "unspecified": 39,
     "total": 499
   },
-  "updated": "2020-05-02 17:05"
+  "updated": "2020-05-02 20:04"
 }
