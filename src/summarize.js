@@ -170,9 +170,9 @@ const generateDailySummary = (patients, manualDailyData) => {
     if (thisDay.hosptilisedCumulative == 0) {
       thisDay.hosptilisedCumulative = previousDay.hosptilisedCumulative
     }
-    if (thisDay.activeCumulative == 0) {
-      thisDay.activeCumulative = previousDay.activeCumulative
-    }
+    // if (thisDay.activeCumulative == 0) {
+    //   thisDay.activeCumulative = previousDay.activeCumulative
+    // }
   }
 
 
