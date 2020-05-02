@@ -100,7 +100,30 @@ const generateDailySummary = (patients, manualDailyData) => {
   // TODO: deceased, critical should be pulled out of our patient
   //       data. But those numbers are incomplete.
   for (let row of manualDailyData) {
-    if (dailySummary[row.date]) {
+    
+    let dateTs = moment(row.date).format('X');
+    let aprilTs = moment('2020-04-01').format('X');
+    let isBeforeAprilFirst = aprilTs > dateTs;
+    //no need to add entry if the number of confirmed cases are 0 for that date
+    //and the date is before april 1st
+    if (isBeforeAprilFirst && !dailySummary[row.date]) {
+      continue;
+    } 
+    
+      if (!dailySummary[row.date]) {
+        dailySummary[row.date] = {
+          confirmed: 0,
+          recoveredCumulative: 0,
+          deceasedCumulative: 0,
+          criticalCumulative: 0,
+          testedCumulative: 0,
+          observationCumulative: 0,
+          homeObservationCumulative: 0,
+          hosptilisedCumulative: 0,
+          activeCumulative: 0,
+        };
+      }
+    
       dailySummary[row.date].recoveredCumulative = safeParseInt(row.recovered)
       dailySummary[row.date].deceasedCumulative = safeParseInt(row.deceased)
       dailySummary[row.date].criticalCumulative = safeParseInt(row.critical)
@@ -109,7 +132,7 @@ const generateDailySummary = (patients, manualDailyData) => {
       dailySummary[row.date].homeObservationCumulative = safeParseInt(row.homeobservation)
       dailySummary[row.date].hosptilisedCumulative = safeParseInt(row.hosptilised)
       dailySummary[row.date].activeCumulative = safeParseInt(row.active)
-    }
+    
   }
 
   let orderedDailySummary = 
@@ -170,9 +193,9 @@ const generateDailySummary = (patients, manualDailyData) => {
     if (thisDay.hosptilisedCumulative == 0) {
       thisDay.hosptilisedCumulative = previousDay.hosptilisedCumulative
     }
-    // if (thisDay.activeCumulative == 0) {
-    //   thisDay.activeCumulative = previousDay.activeCumulative
-    // }
+    if (thisDay.activeCumulative == 0) {
+      thisDay.activeCumulative = previousDay.activeCumulative
+    }
   }
 
 
