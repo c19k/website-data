@@ -2437,6 +2437,23 @@
       "confirmedCumulativeAvg7d": 456
     },
     {
+      "confirmed": 0,
+      "recoveredCumulative": 392,
+      "deceasedCumulative": 3,
+      "criticalCumulative": 1,
+      "testedCumulative": 32140,
+      "observationCumulative": 21499,
+      "homeObservationCumulative": 21067,
+      "hosptilisedCumulative": 432,
+      "activeCumulative": 102,
+      "date": "2020-05-01",
+      "confirmedCumulative": 497,
+      "confirmedAvg3d": 4,
+      "confirmedCumulativeAvg3d": 483,
+      "confirmedAvg7d": 6,
+      "confirmedCumulativeAvg7d": 462
+    },
+    {
       "confirmed": 2,
       "recoveredCumulative": 400,
       "deceasedCumulative": 3,
@@ -2448,10 +2465,10 @@
       "activeCumulative": 96,
       "date": "2020-05-02",
       "confirmedCumulative": 499,
-      "confirmedAvg3d": 4,
-      "confirmedCumulativeAvg3d": 483,
-      "confirmedAvg7d": 7,
-      "confirmedCumulativeAvg7d": 463
+      "confirmedAvg3d": 1,
+      "confirmedCumulativeAvg3d": 484,
+      "confirmedAvg7d": 6,
+      "confirmedCumulativeAvg7d": 468
     }
   ],
   "age": [
