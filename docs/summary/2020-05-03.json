@@ -105,7 +105,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 171,
+      "recovered": 172,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -2486,14 +2486,14 @@
     },
     {
       "confirmed": 0,
-      "recoveredCumulative": 400,
+      "recoveredCumulative": 401,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
-      "testedCumulative": 33276,
-      "observationCumulative": 21894,
-      "homeObservationCumulative": 21494,
-      "hosptilisedCumulative": 410,
-      "activeCumulative": 96,
+      "testedCumulative": 34608,
+      "observationCumulative": 21720,
+      "homeObservationCumulative": 21332,
+      "hosptilisedCumulative": 388,
+      "activeCumulative": 95,
       "date": "2020-05-03",
       "confirmedCumulative": 499,
       "confirmedAvg3d": 0,
@@ -2587,5 +2587,5 @@
     "unspecified": 38,
     "total": 499
   },
-  "updated": "2020-05-03 15:52"
+  "updated": "2020-05-03 17:15"
 }
