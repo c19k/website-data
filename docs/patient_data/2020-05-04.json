@@ -4560,6 +4560,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Qatar to Delhi, Aligarh, Nizamudeen",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-04-17",
     "confirmedPatient": true
   },
   {
@@ -4573,7 +4574,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Bangalore on EK568 and to Tvm on Indigo GE 379",
     "knownCluster": "Dubai",
-    "releasedOn": "2020-04-17",
+    "releasedOn": "2020-04-21",
     "confirmedPatient": true
   },
   {
