@@ -62,7 +62,7 @@ Individal District data:
       "dailyConfirmedCount": [...],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 159,
+      "recovered": 158,
       "name_ja": "കാസർഗോഡ്",
       "name": "Kasaragod"
 ]    
