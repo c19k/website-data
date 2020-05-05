@@ -6660,5 +6660,47 @@
     "notes": "Contact Transmission",
     "knownCluster": "Kannur",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 500,
+    "dateAnnounced": "2020-05-05",
+    "ageBracket": -1,
+    "gender": "F",
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 501,
+    "dateAnnounced": "2020-05-05",
+    "ageBracket": -1,
+    "gender": "F",
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 502,
+    "dateAnnounced": "2020-05-05",
+    "ageBracket": -1,
+    "gender": "M",
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
   }
 ]
