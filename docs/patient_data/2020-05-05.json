@@ -6664,7 +6664,7 @@
   {
     "patientId": 500,
     "dateAnnounced": "2020-05-05",
-    "ageBracket": -1,
+    "ageBracket": 84,
     "gender": "F",
     "residence": "Wayanad",
     "detectedCityTown": "Wayanad",
@@ -6678,7 +6678,7 @@
   {
     "patientId": 501,
     "dateAnnounced": "2020-05-05",
-    "ageBracket": -1,
+    "ageBracket": 42,
     "gender": "F",
     "residence": "Wayanad",
     "detectedCityTown": "Wayanad",
@@ -6692,7 +6692,7 @@
   {
     "patientId": 502,
     "dateAnnounced": "2020-05-05",
-    "ageBracket": -1,
+    "ageBracket": 20,
     "gender": "M",
     "residence": "Wayanad",
     "detectedCityTown": "Wayanad",
