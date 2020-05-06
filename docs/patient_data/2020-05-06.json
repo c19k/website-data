@@ -1,16 +1,16 @@
 [
   {
     "patientId": 1,
-    "dateAnnounced": "2020-01-31",
+    "dateAnnounced": "2020-01-30",
     "ageBracket": 20,
     "gender": "F",
     "residence": "Thrissur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Discharged",
-    "notes": "Discharged on 13/03/2020",
+    "notes": "Discharged on 20/02/2020",
     "knownCluster": "Wuhan, China",
-    "releasedOn": "2020-03-13",
+    "releasedOn": "2020-02-20",
     "confirmedPatient": true
   },
   {
@@ -22,9 +22,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Discharged",
-    "notes": "Discharged on 13/03/2020",
+    "notes": "Discharged on 13/02/2020",
     "knownCluster": "Wuhan, China",
-    "releasedOn": "2020-03-13",
+    "releasedOn": "2020-02-13",
     "confirmedPatient": true
   },
   {
@@ -36,9 +36,9 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
-    "notes": "Discharged on 13/03/2020",
+    "notes": "Discharged on 13/02/2020",
     "knownCluster": "Wuhan, China",
-    "releasedOn": "2020-03-13",
+    "releasedOn": "2020-02-13",
     "confirmedPatient": true
   },
   {
