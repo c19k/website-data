@@ -2645,7 +2645,7 @@
       "homeObservationCumulative": 14402,
       "hosptilisedCumulative": 268,
       "activeCumulative": 30,
-      "status": "Reviewing",
+      "status": "Finalised",
       "date": "2020-05-06",
       "confirmedCumulative": 502,
       "confirmedAvg3d": 1,
@@ -2739,5 +2739,5 @@
     "unspecified": 38,
     "total": 502
   },
-  "updated": "2020-05-06 17:06"
+  "updated": "2020-05-06 17:22"
 }
