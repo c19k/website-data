@@ -1367,6 +1367,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -1377,15 +1378,17 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
-    "notes": "Travelled from Sharjah Air Arabia G9 454, Admitted in Kozhikode\t\t\t",
+    "notes": "Travelled from Sharjah Air Arabia G9 454, Admitted in Kozhikode                        ",
     "knownCluster": "Sharjah",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
     "patientId": 102,
     "dateAnnounced": "2020-03-24",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
@@ -1393,12 +1396,14 @@
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
     "patientId": 103,
     "dateAnnounced": "2020-03-24",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
@@ -1406,6 +1411,7 @@
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -1474,6 +1480,7 @@
     "notes": "Contact Transmission likely",
     "knownCluster": "Kasaragod",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -1485,6 +1492,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
