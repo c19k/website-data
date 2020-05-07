@@ -387,8 +387,8 @@
   {
     "patientId": 29,
     "dateAnnounced": "2020-03-20",
-    "ageBracket": -1,
-    "gender": "F",
+    "ageBracket": 76,
+    "gender": "M",
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
@@ -401,8 +401,8 @@
   {
     "patientId": 30,
     "dateAnnounced": "2020-03-20",
-    "ageBracket": -1,
-    "gender": "M",
+    "ageBracket": 75,
+    "gender": "F",
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
@@ -415,8 +415,8 @@
   {
     "patientId": 31,
     "dateAnnounced": "2020-03-20",
-    "ageBracket": -1,
-    "gender": "M",
+    "ageBracket": 83,
+    "gender": "F",
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
@@ -429,7 +429,7 @@
   {
     "patientId": 32,
     "dateAnnounced": "2020-03-20",
-    "ageBracket": -1,
+    "ageBracket": 61,
     "gender": "M",
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
@@ -443,7 +443,7 @@
   {
     "patientId": 33,
     "dateAnnounced": "2020-03-20",
-    "ageBracket": -1,
+    "ageBracket": 63,
     "gender": "M",
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
