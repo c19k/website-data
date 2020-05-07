@@ -2760,15 +2760,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 10,
-      "male": 25,
-      "unspecified": 33,
+      "male": 26,
+      "unspecified": 32,
       "total": 68
     }
   ],
   "gender": {
     "female": 127,
-    "male": 342,
-    "unspecified": 33,
+    "male": 343,
+    "unspecified": 32,
     "total": 502
   },
   "updated": "2020-05-07 17:42"

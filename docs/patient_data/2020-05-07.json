@@ -2227,12 +2227,14 @@
     "patientId": 163,
     "dateAnnounced": "2020-03-27",
     "ageBracket": -1,
+    "gender": "M",
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=158051175664719&id=100507158085788&__cft__[0]=AZWgrks_EuvvOKHS2zhjMX--5AwAn6y5PP2GWm5w6FwxU3LUS6R3knekbv3jDb6sLc4NR-ZQ-p1w9FnVinXZgkg7XhTs_iIvOlwYhomf_KkKi1-V7ob9Vy4-v1ynG5XNBbdPxiPOZOOtsZEqEL8job1OE_ilHlA25A6gySwd2PdJZw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
