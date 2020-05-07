@@ -2475,18 +2475,25 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Discharged",
+    "notes": "Travelled from Dubai. Parammal (Malappuram) native",
+    "knownCluster": "Dubai",
     "releasedOn": "2020-04-02",
+    "sourceURL": "https://epaper.deshabhimani.com/c/50412355",
     "confirmedPatient": true
   },
   {
     "patientId": 182,
     "dateAnnounced": "2020-03-28",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
+    "notes": "Travelled from Dubai (Chengala native)",
+    "knownCluster": "Dubai",
     "releasedOn": "2020-04-02",
+    "sourceURL": "https://cache.epapr.in/2612937/e1847f74-e706-4437-bed4-b4e5466d2453/page.jpg",
     "confirmedPatient": true
   },
   {
@@ -2780,6 +2787,7 @@
     "notes": "Contact Transmission",
     "knownCluster": "Kanhangad",
     "releasedOn": "2020-04-20",
+    "sourceURL": "https://epaper.deshabhimani.com/c/50494779",
     "confirmedPatient": true
   },
   {
@@ -2846,8 +2854,6 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
-    "notes": "Contact Transmission",
-    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
