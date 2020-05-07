@@ -109,7 +109,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 175,
+      "recovered": 177,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -223,7 +223,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 100,
+      "recovered": 103,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -2669,14 +2669,15 @@
     },
     {
       "confirmed": 0,
-      "recoveredCumulative": 469,
+      "recoveredCumulative": 474,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
-      "testedCumulative": 37546,
-      "observationCumulative": 14670,
-      "homeObservationCumulative": 14402,
-      "hosptilisedCumulative": 268,
-      "activeCumulative": 30,
+      "testedCumulative": 38206,
+      "observationCumulative": 16693,
+      "homeObservationCumulative": 16383,
+      "hosptilisedCumulative": 310,
+      "activeCumulative": 25,
+      "status": "Reviewing",
       "date": "2020-05-07",
       "confirmedCumulative": 502,
       "confirmedAvg3d": 1,
@@ -2710,9 +2711,9 @@
     {
       "ageGroup": "31-40",
       "female": 17,
-      "male": 92,
+      "male": 93,
       "unspecified": 0,
-      "total": 109
+      "total": 110
     },
     {
       "ageGroup": "41-50",
@@ -2759,9 +2760,9 @@
     {
       "ageGroup": "Unspecified",
       "female": 11,
-      "male": 30,
+      "male": 29,
       "unspecified": 35,
-      "total": 76
+      "total": 75
     }
   ],
   "gender": {
@@ -2770,5 +2771,5 @@
     "unspecified": 35,
     "total": 502
   },
-  "updated": "2020-05-07 09:02"
+  "updated": "2020-05-07 17:09"
 }
