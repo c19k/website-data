@@ -1876,7 +1876,8 @@
   {
     "patientId": 138,
     "dateAnnounced": "2020-03-27",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
     "residence": "Sivapuram",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
@@ -1884,12 +1885,14 @@
     "notes": "Travelled from Dubai Emirates EK 566 landed at Bengaluru",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.deshabhimani.com/news/kerala/news-kannurkerala-28-03-2020/862526",
     "confirmedPatient": true
   },
   {
     "patientId": 139,
     "dateAnnounced": "2020-03-27",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
     "residence": "Mokeri",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
@@ -1897,6 +1900,7 @@
     "notes": "Travelled from Dubai Ettihad EY 254 landed at Kozhikode",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.deshabhimani.com/news/kerala/news-kannurkerala-28-03-2020/862526",
     "confirmedPatient": true
   },
   {
