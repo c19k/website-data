@@ -3683,7 +3683,8 @@
     "residence": "Uduma",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
+    "releasedOn": "2020-05-04",
     "confirmedPatient": true
   },
   {
