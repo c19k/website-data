@@ -6593,11 +6593,11 @@
     "patientId": 491,
     "dateAnnounced": "2020-04-29",
     "ageBracket": 52,
-    "gender": "M",
+    "gender": "F",
     "residence": "Parippally",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission to Health Worker",
     "knownCluster": "Kollam",
     "confirmedPatient": true
