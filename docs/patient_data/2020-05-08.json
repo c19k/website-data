@@ -51,12 +51,12 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Discharged",
     "knownCluster": "Venice, Italy",
-    "sourceURL": "One on 27 March",
+    "releasedOn": "2020-03-27",
     "confirmedPatient": true
   },
   {
     "patientId": 5,
-    "dateAnnounced": "2020-03-10",
+    "dateAnnounced": "2020-03-09",
     "ageBracket": 54,
     "gender": "M",
     "residence": "Ranni",
@@ -68,7 +68,7 @@
   },
   {
     "patientId": 6,
-    "dateAnnounced": "2020-03-11",
+    "dateAnnounced": "2020-03-09",
     "ageBracket": 53,
     "gender": "F",
     "residence": "Ranni",
@@ -80,7 +80,7 @@
   },
   {
     "patientId": 7,
-    "dateAnnounced": "2020-03-12",
+    "dateAnnounced": "2020-03-09",
     "ageBracket": 65,
     "gender": "M",
     "residence": "Ranni",
@@ -94,7 +94,7 @@
   },
   {
     "patientId": 8,
-    "dateAnnounced": "2020-03-13",
+    "dateAnnounced": "2020-03-09",
     "ageBracket": 61,
     "gender": "F",
     "residence": "Ranni",
