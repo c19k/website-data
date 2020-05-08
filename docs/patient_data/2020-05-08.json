@@ -356,6 +356,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Traveled from Saudi Arabia on AI960 to Karipur on March 9",
     "knownCluster": "Jeddah",
+    "releasedOn": "2020-04-05",
     "confirmedPatient": true
   },
   {
@@ -369,6 +370,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Traveled from Saudi Arabia on AI960 to Karipur on March 10",
     "knownCluster": "Jeddah",
+    "releasedOn": "2020-04-02",
     "confirmedPatient": true
   },
   {
@@ -1423,7 +1425,7 @@
   {
     "patientId": 104,
     "dateAnnounced": "2020-03-24",
-    "ageBracket": 22,
+    "ageBracket": 28,
     "gender": "M",
     "residence": "Tanur",
     "detectedCityTown": "Malappuram",
@@ -1431,7 +1433,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Emirates EK 0532, from Manchester",
     "knownCluster": "Dubai",
-    "releasedOn": "Unspecified",
+    "releasedOn": "2020-04-12",
     "sourceURL": "https://epaper.deshabhimani.com/c/50291660",
     "confirmedPatient": true
   },
