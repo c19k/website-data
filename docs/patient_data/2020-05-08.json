@@ -1519,14 +1519,15 @@
   {
     "patientId": 111,
     "dateAnnounced": "2020-03-25",
-    "ageBracket": -1,
+    "ageBracket": 33,
     "gender": "M",
-    "residence": "Palakkad",
+    "residence": "Kottopadam",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai Air India AI X 344",
     "knownCluster": "Dubai",
+    "sourceURL": "https://epaper.deshabhimani.com/c/51468667",
     "confirmedPatient": true
   },
   {
