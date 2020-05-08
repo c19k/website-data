@@ -5853,7 +5853,7 @@
     "dateAnnounced": "2020-04-22",
     "ageBracket": 65,
     "gender": "F",
-    "residence": "Kottayam",
+    "residence": "Pala",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
@@ -5936,9 +5936,10 @@
     "residence": "Kottayam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kottayam",
+    "releasedOn": "2020-05-04",
     "confirmedPatient": true
   },
   {
@@ -5949,9 +5950,10 @@
     "residence": "Kottayam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kottayam",
+    "releasedOn": "2020-05-04",
     "confirmedPatient": true
   },
   {
