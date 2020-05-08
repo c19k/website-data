@@ -5797,6 +5797,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-05-04",
     "confirmedPatient": true
   },
   {
@@ -5833,7 +5834,7 @@
     "residence": "Vadakara",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Delhi",
     "confirmedPatient": true
@@ -5846,10 +5847,11 @@
     "residence": "Kozhikode",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission to Health Worker",
     "knownCluster": "Kozhikode",
     "dhsPatientNumber": "373",
+    "releasedOn": "2020-05-04",
     "confirmedPatient": true
   },
   {
@@ -5860,7 +5862,7 @@
     "residence": "Pala",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Australia to Delhi on March 20 then by Road",
     "knownCluster": "Australia",
     "releasedOn": "2020-05-06",
