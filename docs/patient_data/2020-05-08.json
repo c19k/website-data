@@ -6154,6 +6154,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission. Travelled from Malappuram on March 23",
     "knownCluster": "Malappuram",
+    "releasedOn": "2020-05-06",
     "confirmedPatient": true
   },
   {
@@ -6164,9 +6165,10 @@
     "residence": "Uppukandam",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Germany via Spain and Abudhabi on 15th March",
     "knownCluster": "Spain",
+    "releasedOn": "2020-05-06",
     "confirmedPatient": true
   },
   {
@@ -6191,9 +6193,10 @@
     "residence": "Elappara",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Thirunelveli on 12th April.",
     "knownCluster": "Thirunelveli",
+    "releasedOn": "2020-05-06",
     "confirmedPatient": true
   },
   {
