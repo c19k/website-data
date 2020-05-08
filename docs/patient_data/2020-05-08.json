@@ -1850,7 +1850,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Discharged",
     "notes": "Husband of P94",
-    "knownCluster": "Thrissur",
+    "knownCluster": "Thrissur (Or Paris)",
     "dhsPatientNumber": "94",
     "releasedOn": "Unspecified",
     "confirmedPatient": true
@@ -6751,14 +6751,15 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 502,
+    "patientId": 503,
     "dateAnnounced": "2020-05-08",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "F",
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Chennai",
+    "notes": "Contact Transmission",
     "knownCluster": "Chennai",
     "confirmedPatient": true
   }
