@@ -225,7 +225,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 103,
+      "recovered": 113,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -579,10 +579,10 @@
       "name": "Idukki"
     },
     {
-      "confirmed": 22,
+      "confirmed": 23,
       "deaths": 1,
       "confirmedByCity": {
-        "Ernakulam": 22
+        "Ernakulam": 23
       },
       "dailyConfirmedCount": [
         0,
@@ -683,10 +683,10 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 21,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
@@ -2682,17 +2682,18 @@
       "confirmedCumulativeAvg7d": 476
     },
     {
-      "confirmed": 0,
-      "recoveredCumulative": 474,
+      "confirmed": 1,
+      "recoveredCumulative": 484,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
-      "testedCumulative": 38206,
-      "observationCumulative": 16693,
-      "homeObservationCumulative": 16383,
-      "hosptilisedCumulative": 310,
-      "activeCumulative": 25,
+      "testedCumulative": 39236,
+      "observationCumulative": 20157,
+      "homeObservationCumulative": 19810,
+      "hosptilisedCumulative": 347,
+      "activeCumulative": 16,
+      "status": "Finalised",
       "date": "2020-05-08",
-      "confirmedCumulative": 502,
+      "confirmedCumulative": 503,
       "confirmedAvg3d": 0,
       "confirmedCumulativeAvg3d": 486,
       "confirmedAvg7d": 0,
@@ -2774,15 +2775,15 @@
       "ageGroup": "Unspecified",
       "female": 10,
       "male": 25,
-      "unspecified": 30,
-      "total": 65
+      "unspecified": 31,
+      "total": 66
     }
   ],
   "gender": {
     "female": 128,
     "male": 344,
-    "unspecified": 30,
-    "total": 502
+    "unspecified": 31,
+    "total": 503
   },
-  "updated": "2020-05-08 09:16"
+  "updated": "2020-05-08 17:13"
 }

@@ -6749,5 +6749,17 @@
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 502,
+    "dateAnnounced": "2020-05-08",
+    "ageBracket": -1,
+    "residence": "Ernakulam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
+    "confirmedPatient": true
   }
 ]
