@@ -3826,10 +3826,10 @@
     "residence": "Perinthalmanna",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Deceased",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission from Son who came from Umra",
     "knownCluster": "Perinthalmanna",
-    "oeceasedOn": "2020-04-18",
+    "releasedOn": "2020-04-12",
     "confirmedPatient": true
   },
   {
@@ -6508,9 +6508,10 @@
     "residence": "Ajanur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "2020-05-04",
     "confirmedPatient": true
   },
   {
