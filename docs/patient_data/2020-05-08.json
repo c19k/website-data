@@ -1301,7 +1301,8 @@
   {
     "patientId": 95,
     "dateAnnounced": "2020-03-23",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
     "residence": "Pathanamthitta",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
