@@ -132,6 +132,7 @@ const generateDailySummary = (patients, manualDailyData) => {
       dailySummary[row.date].homeObservationCumulative = safeParseInt(row.homeobservation)
       dailySummary[row.date].hosptilisedCumulative = safeParseInt(row.hosptilised)
       dailySummary[row.date].activeCumulative = safeParseInt(row.active)
+      dailySummary[row.date].status = row.status
     
   }
 

@@ -1,16 +1,16 @@
 [
   {
     "patientId": 1,
-    "dateAnnounced": "2020-01-31",
+    "dateAnnounced": "2020-01-30",
     "ageBracket": 20,
     "gender": "F",
     "residence": "Thrissur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Discharged",
-    "notes": "Discharged on 13/03/2020",
+    "notes": "Discharged on 20/02/2020",
     "knownCluster": "Wuhan, China",
-    "releasedOn": "2020-03-13",
+    "releasedOn": "2020-02-20",
     "confirmedPatient": true
   },
   {
@@ -22,9 +22,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Discharged",
-    "notes": "Discharged on 13/03/2020",
+    "notes": "Discharged on 13/02/2020",
     "knownCluster": "Wuhan, China",
-    "releasedOn": "2020-03-13",
+    "releasedOn": "2020-02-13",
     "confirmedPatient": true
   },
   {
@@ -36,9 +36,9 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
-    "notes": "Discharged on 13/03/2020",
+    "notes": "Discharged on 16/02/2020",
     "knownCluster": "Wuhan, China",
-    "releasedOn": "2020-03-13",
+    "releasedOn": "2020-02-16",
     "confirmedPatient": true
   },
   {
@@ -4560,6 +4560,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Qatar to Delhi, Aligarh, Nizamudeen",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-04-17",
     "confirmedPatient": true
   },
   {
@@ -4573,7 +4574,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Bangalore on EK568 and to Tvm on Indigo GE 379",
     "knownCluster": "Dubai",
-    "releasedOn": "2020-04-17",
+    "releasedOn": "2020-04-21",
     "confirmedPatient": true
   },
   {
@@ -6658,6 +6659,48 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kannur",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 500,
+    "dateAnnounced": "2020-05-05",
+    "ageBracket": 84,
+    "gender": "F",
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 501,
+    "dateAnnounced": "2020-05-05",
+    "ageBracket": 42,
+    "gender": "F",
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 502,
+    "dateAnnounced": "2020-05-05",
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
     "confirmedPatient": true
   }
 ]

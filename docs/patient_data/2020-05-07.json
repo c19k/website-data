@@ -1,16 +1,16 @@
 [
   {
     "patientId": 1,
-    "dateAnnounced": "2020-01-31",
+    "dateAnnounced": "2020-01-30",
     "ageBracket": 20,
     "gender": "F",
     "residence": "Thrissur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Discharged",
-    "notes": "Discharged on 13/03/2020",
+    "notes": "Discharged on 20/02/2020",
     "knownCluster": "Wuhan, China",
-    "releasedOn": "2020-03-13",
+    "releasedOn": "2020-02-20",
     "confirmedPatient": true
   },
   {
@@ -22,9 +22,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Discharged",
-    "notes": "Discharged on 13/03/2020",
+    "notes": "Discharged on 13/02/2020",
     "knownCluster": "Wuhan, China",
-    "releasedOn": "2020-03-13",
+    "releasedOn": "2020-02-13",
     "confirmedPatient": true
   },
   {
@@ -36,9 +36,9 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
-    "notes": "Discharged on 13/03/2020",
+    "notes": "Discharged on 16/02/2020",
     "knownCluster": "Wuhan, China",
-    "releasedOn": "2020-03-13",
+    "releasedOn": "2020-02-16",
     "confirmedPatient": true
   },
   {
@@ -387,12 +387,13 @@
   {
     "patientId": 29,
     "dateAnnounced": "2020-03-20",
-    "ageBracket": -1,
-    "gender": "F",
+    "ageBracket": 76,
+    "gender": "M",
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Discharged",
+    "notes": "UK Tourist who came with P23, via Dubai",
     "knownCluster": "Dubai",
     "dhsPatientNumber": "23",
     "confirmedPatient": true
@@ -400,13 +401,13 @@
   {
     "patientId": 30,
     "dateAnnounced": "2020-03-20",
-    "ageBracket": -1,
-    "gender": "M",
+    "ageBracket": 75,
+    "gender": "F",
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Discharged",
-    "notes": "Travelled from Dubai. UK Tourist",
+    "notes": "UK Tourist who came with P23, via Dubai",
     "knownCluster": "Dubai",
     "dhsPatientNumber": "23",
     "confirmedPatient": true
@@ -414,13 +415,13 @@
   {
     "patientId": 31,
     "dateAnnounced": "2020-03-20",
-    "ageBracket": -1,
-    "gender": "M",
+    "ageBracket": 83,
+    "gender": "F",
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Discharged",
-    "notes": "Travelled from Dubai. UK Tourist",
+    "notes": "UK Tourist who came with P23, via Dubai",
     "knownCluster": "Dubai",
     "dhsPatientNumber": "23",
     "confirmedPatient": true
@@ -428,12 +429,13 @@
   {
     "patientId": 32,
     "dateAnnounced": "2020-03-20",
-    "ageBracket": -1,
+    "ageBracket": 61,
     "gender": "M",
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Discharged",
+    "notes": "UK Tourist who came with P23, via Dubai",
     "knownCluster": "Dubai",
     "dhsPatientNumber": "23",
     "confirmedPatient": true
@@ -441,12 +443,13 @@
   {
     "patientId": 33,
     "dateAnnounced": "2020-03-20",
-    "ageBracket": -1,
+    "ageBracket": 63,
     "gender": "M",
     "residence": "Kochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Discharged",
+    "notes": "UK Tourist who came with P23, via Dubai",
     "knownCluster": "Dubai",
     "dhsPatientNumber": "23",
     "confirmedPatient": true
@@ -1366,7 +1369,10 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
+    "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -1377,15 +1383,17 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
-    "notes": "Travelled from Sharjah Air Arabia G9 454, Admitted in Kozhikode\t\t\t",
+    "notes": "Travelled from Sharjah Air Arabia G9 454, Admitted in Kozhikode                        ",
     "knownCluster": "Sharjah",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
     "patientId": 102,
     "dateAnnounced": "2020-03-24",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
@@ -1393,12 +1401,14 @@
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
     "patientId": 103,
     "dateAnnounced": "2020-03-24",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
@@ -1406,19 +1416,22 @@
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
     "patientId": 104,
     "dateAnnounced": "2020-03-24",
-    "ageBracket": -1,
-    "residence": "Malappuram",
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Tanur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Discharged",
-    "notes": "Travelled from Dubai Emirates EK 0532",
+    "notes": "Travelled from Dubai Emirates EK 0532, from Manchester",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://epaper.deshabhimani.com/c/50291660",
     "confirmedPatient": true
   },
   {
@@ -1474,6 +1487,7 @@
     "notes": "Contact Transmission likely",
     "knownCluster": "Kasaragod",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -1484,7 +1498,9 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
+    "notes": "Contact Transmission",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=115490770086543&id=113385236963763&__cft__[0]=AZXLiSjrljmu2W58vDL4Mvp_jp0-WuAK18x4t0Dwhp6y-XuFyJX0eAOsrx5acFqwZua_R_E0_w4DTtdLt-yWRPHSRdn55oIy29GJs1MJiVwEDvqRrKYO7OFKeEeCeHsQd4u9vue7bktqgJN2gzuddtpo2gaVX9lSnsheryWW1uDlnw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -1862,7 +1878,8 @@
   {
     "patientId": 138,
     "dateAnnounced": "2020-03-27",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
     "residence": "Sivapuram",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
@@ -1870,12 +1887,14 @@
     "notes": "Travelled from Dubai Emirates EK 566 landed at Bengaluru",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.deshabhimani.com/news/kerala/news-kannurkerala-28-03-2020/862526",
     "confirmedPatient": true
   },
   {
     "patientId": 139,
     "dateAnnounced": "2020-03-27",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
     "residence": "Mokeri",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
@@ -1883,6 +1902,7 @@
     "notes": "Travelled from Dubai Ettihad EY 254 landed at Kozhikode",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.deshabhimani.com/news/kerala/news-kannurkerala-28-03-2020/862526",
     "confirmedPatient": true
   },
   {
@@ -2209,12 +2229,14 @@
     "patientId": 163,
     "dateAnnounced": "2020-03-27",
     "ageBracket": -1,
+    "gender": "M",
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
     "knownCluster": "Dubai",
     "releasedOn": "Unspecified",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=158051175664719&id=100507158085788&__cft__[0]=AZWgrks_EuvvOKHS2zhjMX--5AwAn6y5PP2GWm5w6FwxU3LUS6R3knekbv3jDb6sLc4NR-ZQ-p1w9FnVinXZgkg7XhTs_iIvOlwYhomf_KkKi1-V7ob9Vy4-v1ynG5XNBbdPxiPOZOOtsZEqEL8job1OE_ilHlA25A6gySwd2PdJZw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -2409,6 +2431,7 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Discharged",
     "notes": "Discharged on April 02",
+    "knownCluster": "Dubai",
     "releasedOn": "2020-04-02",
     "confirmedPatient": true
   },
@@ -2422,6 +2445,7 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Discharged",
     "notes": "Discharged on April 02",
+    "knownCluster": "UK",
     "releasedOn": "2020-04-02",
     "confirmedPatient": true
   },
@@ -2462,18 +2486,25 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Discharged",
+    "notes": "Travelled from Dubai. Parammal (Malappuram) native",
+    "knownCluster": "Dubai",
     "releasedOn": "2020-04-02",
+    "sourceURL": "https://epaper.deshabhimani.com/c/50412355",
     "confirmedPatient": true
   },
   {
     "patientId": 182,
     "dateAnnounced": "2020-03-28",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
+    "notes": "Travelled from Dubai (Chengala native)",
+    "knownCluster": "Dubai",
     "releasedOn": "2020-04-02",
+    "sourceURL": "https://cache.epapr.in/2612937/e1847f74-e706-4437-bed4-b4e5466d2453/page.jpg",
     "confirmedPatient": true
   },
   {
@@ -2767,6 +2798,7 @@
     "notes": "Contact Transmission",
     "knownCluster": "Kanhangad",
     "releasedOn": "2020-04-20",
+    "sourceURL": "https://epaper.deshabhimani.com/c/50494779",
     "confirmedPatient": true
   },
   {
@@ -2833,8 +2865,6 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
-    "notes": "Contact Transmission",
-    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -4560,6 +4590,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Qatar to Delhi, Aligarh, Nizamudeen",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-04-17",
     "confirmedPatient": true
   },
   {
@@ -4573,7 +4604,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Bangalore on EK568 and to Tvm on Indigo GE 379",
     "knownCluster": "Dubai",
-    "releasedOn": "2020-04-17",
+    "releasedOn": "2020-04-21",
     "confirmedPatient": true
   },
   {
@@ -6598,7 +6629,7 @@
   {
     "patientId": 495,
     "dateAnnounced": "2020-04-29",
-    "ageBracket": -1,
+    "ageBracket": 24,
     "gender": "M",
     "residence": "Kannur",
     "detectedCityTown": "Kannur",
@@ -6658,6 +6689,48 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kannur",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 500,
+    "dateAnnounced": "2020-05-05",
+    "ageBracket": 84,
+    "gender": "F",
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 501,
+    "dateAnnounced": "2020-05-05",
+    "ageBracket": 42,
+    "gender": "F",
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 502,
+    "dateAnnounced": "2020-05-05",
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
     "confirmedPatient": true
   }
 ]
