@@ -121,7 +121,8 @@
       "confirmed": 118,
       "deaths": 0,
       "confirmedByCity": {
-        "Kannur": 118
+        "Ernakulam": 3,
+        "Kannur": 115
       },
       "dailyConfirmedCount": [
         0,
@@ -935,10 +936,9 @@
       "confirmed": 17,
       "deaths": 1,
       "confirmedByCity": {
-        "Thiruvananthapuram": 14,
+        "Thiruvananthapuram": 15,
         "Thiruvanathapuram": 1,
-        "Thiruvanthapuram": 1,
-        "Malappuram": 1
+        "Thiruvanthapuram": 1
       },
       "dailyConfirmedCount": [
         0,
@@ -2749,23 +2749,23 @@
     {
       "ageGroup": "21-30",
       "female": 28,
-      "male": 80,
+      "male": 79,
       "unspecified": 0,
-      "total": 108
+      "total": 107
     },
     {
       "ageGroup": "31-40",
-      "female": 17,
+      "female": 18,
       "male": 94,
       "unspecified": 0,
-      "total": 111
+      "total": 112
     },
     {
       "ageGroup": "41-50",
-      "female": 13,
+      "female": 12,
       "male": 58,
       "unspecified": 0,
-      "total": 71
+      "total": 70
     },
     {
       "ageGroup": "51-60",
@@ -2777,16 +2777,16 @@
     {
       "ageGroup": "61-70",
       "female": 11,
-      "male": 15,
+      "male": 16,
       "unspecified": 0,
-      "total": 26
+      "total": 27
     },
     {
       "ageGroup": "71-80",
       "female": 3,
-      "male": 3,
+      "male": 2,
       "unspecified": 0,
-      "total": 6
+      "total": 5
     },
     {
       "ageGroup": "81-90",
@@ -2805,16 +2805,16 @@
     {
       "ageGroup": "Unspecified",
       "female": 10,
-      "male": 25,
-      "unspecified": 28,
-      "total": 63
+      "male": 46,
+      "unspecified": 8,
+      "total": 64
     }
   ],
   "gender": {
     "female": 129,
-    "male": 346,
-    "unspecified": 28,
+    "male": 366,
+    "unspecified": 8,
     "total": 503
   },
-  "updated": "2020-05-08 23:38"
+  "updated": "2020-05-09 12:25"
 }
