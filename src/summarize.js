@@ -16,19 +16,21 @@ const todayIndiaString = moment().utcOffset(330).format('YYYY-MM-DD')
 // lastUpdated: String representing when the data was last updated.
 //
 // @returns A dictionary with the prefecture and daily summaries.
-const summarize = (patientData, manualDailyData, manualPrefectureData, lastUpdated, ageStatusData, genderStatusData) => {
+const summarize = (patientData, manualDailyData, manualPrefectureData, lastUpdated, ageStatusData, genderStatusData, underObservationData) => {
   const patients = _.orderBy(patientData, ['dateAnnounced'], ['asc'])
   let prefectureSummary = generatePrefectureSummary(patients, manualPrefectureData)
   let dailySummary = generateDailySummary(patients, manualDailyData)
   let ageStatus = generateAgeStatus(ageStatusData)
+  let underObservationSummary = generateUnderObservationSummary(underObservationData);
 
   return {
+    updated: lastUpdated,
     prefectures: prefectureSummary,
     daily: dailySummary,
     age: ageStatus,
     gender: genderStatusData,
-    updated: lastUpdated
-  }
+    underObservation: underObservationSummary,
+  };
 }
 
 
@@ -304,6 +306,108 @@ const generateDailyStatsForPrefecture = (patients, firstDay) => {
   }
   return daily
 }
+
+const generateUnderObservationSummary = (underObservationData) => {
+  let underObservationMap = {};
+  for (let row of underObservationData) {
+    let district = row["district"];
+    let date = row["date"];
+    if (underObservationMap[date]) {
+      underObservationMap[date][district] = row;
+    } else {
+      underObservationMap[date] = {};
+      underObservationMap[date][district] = row;
+    }
+  }
+  let validDates = Object.keys(underObservationMap);
+  validDates.sort();
+
+  let summarisedData = {};
+
+  for (let i = 0; i < validDates.length; i++) {
+    let date = validDates[i];
+    let prevDate = i == 0 ? false : validDates[i - 1];
+    let dataForDate = underObservationMap[date];
+    let dataForPreviousDate = i == 0 ? false : underObservationMap[prevDate];
+    let totalForDate = {
+      peopleunderobservation: 0,
+      homeisolation: 0,
+      hospitalisolation: 0,
+    };
+
+    let dateSummary = {};
+
+    for (district in dataForDate) {
+      let prevDayPeopleUnderObservation =
+        i == 0
+          ? 0
+          : safeParseInt(dataForPreviousDate[district]["peopleunderobservation"]);
+      let prevDayPeopleHomeIsolation =
+        i == 0 ? 0 : safeParseInt(dataForPreviousDate[district]["homeisolation"]);
+      let prevDayPeopleHospitalIsolation =
+        i == 0
+          ? 0
+          : safeParseInt(dataForPreviousDate[district]["hospitalisolation"]);
+
+      let deltaPeopleUnderObservation =
+        safeParseInt(dataForDate[district]["peopleunderobservation"]) -
+        prevDayPeopleUnderObservation;
+
+      let deltaHomeIsolation =
+        safeParseInt(dataForDate[district]["homeisolation"]) -
+        prevDayPeopleHomeIsolation;
+
+      let deltaHospitalIsolation =
+        safeParseInt(dataForDate[district]["hospitalisolation"]) -
+        prevDayPeopleHospitalIsolation;
+
+      totalForDate.homeisolation += safeParseInt(
+        dataForDate[district]["homeisolation"]
+      );
+      totalForDate.hospitalisolation += safeParseInt(
+        dataForDate[district]["hospitalisolation"]
+      );
+      totalForDate.peopleunderobservation += safeParseInt(
+        dataForDate[district]["peopleunderobservation"]
+      );
+
+      dateSummary[district] = {
+        homeisolation: safeParseInt(dataForDate[district]["homeisolation"]),
+        hospitalisolation: safeParseInt(dataForDate[district]["hospitalisolation"]),
+        peopleunderobservation: safeParseInt(dataForDate[district]["peopleunderobservation"]),
+        deltaPeopleUnderObservation,
+        deltaHomeIsolation,
+        deltaHospitalIsolation,
+      };
+    }
+    let previousDaySummary = summarisedData[prevDate] ? summarisedData[prevDate] : false;
+    if (previousDaySummary && previousDaySummary["total"]) {
+      totalForDate.deltaPeopleUnderObservation =
+        totalForDate["homeisolation"] -
+        safeParseInt(previousDaySummary["total"]["homeisolation"]);
+      totalForDate.deltaHomeIsolation =
+        totalForDate["hospitalisolation"] -
+        safeParseInt(previousDaySummary["total"]["hospitalisolation"]);
+      totalForDate.deltaHospitalIsolation =
+        totalForDate["peopleunderobservation"] -
+        safeParseInt(previousDaySummary["total"]["peopleunderobservation"]);
+    } else {
+      totalForDate.deltaPeopleUnderObservation = safeParseInt(
+        totalForDate["homeisolation"]
+      );
+      totalForDate.deltaHomeIsolation = safeParseInt(
+        totalForDate["hospitalisolation"]
+      );
+      totalForDate.deltaHospitalIsolation = safeParseInt(
+        totalForDate["peopleunderobservation"]
+      );
+    }
+    dateSummary["total"] = totalForDate;
+
+    summarisedData[date] = dateSummary;
+  }
+  return summarisedData;
+};
 
 exports.summarize = summarize;
 
