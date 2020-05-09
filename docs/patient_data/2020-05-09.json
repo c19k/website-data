@@ -6978,5 +6978,29 @@
     "notes": "Contact Transmission",
     "knownCluster": "Chennai",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 504,
+    "dateAnnounced": "2020-05-09",
+    "ageBracket": -1,
+    "residence": "Ernakulam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 505,
+    "dateAnnounced": "2020-05-09",
+    "ageBracket": -1,
+    "residence": "Kozhikode",
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
+    "confirmedPatient": true
   }
 ]
