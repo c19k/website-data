@@ -6414,6 +6414,7 @@
     "notes": "Contact Transmission",
     "knownCluster": "Idukki",
     "dhsPatientNumber": "438",
+    "releasedOn": "2020-05-09",
     "confirmedPatient": true
   },
   {
@@ -6987,8 +6988,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Dubai",
-    "knownCluster": "Dubai",
+    "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
@@ -6999,8 +7000,8 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Abu Dhabi",
-    "knownCluster": "Abu Dhabi",
+    "notes": "Travelled from Dubai, IX344 Dubai Kozhikode flight on 7 May 2020",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   }
 ]
