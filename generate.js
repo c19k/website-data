@@ -7,12 +7,17 @@ const FetchPrefectureSummary = require('./src/fetch_prefecture_summary.js')
 const FetchLastUpdated = require('./src/fetch_last_updated.js')
 const FetchAgeStatus = require('./src/fetch_age_status.js')
 const FetchGenderStatus = require('./src/fetch_gender_status.js')
+const FetchUnderObservation = require("./src/fetch_under_observation.js");
+
 const Summarize = require('./src/summarize.js')
 
 const fetchAndSummarize = async (dateString) => {
   const daily = await FetchDailySummary.fetchDailySummary()
   const prefectures = await FetchPrefectureSummary.fetchPrefectureSummary()
   const lastUpdated = await FetchLastUpdated.fetchLastUpdated()
+
+  //Under observation
+  const underObervation = await FetchUnderObservation.fetchUnderObservation();
 
   // Age and gender
   const ageStatusData =  await FetchAgeStatus.fetchAgeStatus()
@@ -24,7 +29,7 @@ const fetchAndSummarize = async (dateString) => {
   fs.writeFileSync(patientOutputFilename, JSON.stringify(patients, null, '  '))
 
   // Generate and write summary to JSON.
-  const summary = Summarize.summarize(patients, daily, prefectures, lastUpdated, ageStatusData, genderStatusData)
+  const summary = Summarize.summarize(patients, daily, prefectures, lastUpdated, ageStatusData, genderStatusData, underObervation)
   const summaryOutputFilename = `./docs/summary/${dateString}.json`
   fs.writeFileSync(summaryOutputFilename, JSON.stringify(summary, null, '  '))
 }
