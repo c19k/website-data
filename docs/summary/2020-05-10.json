@@ -2837,16 +2837,16 @@
     },
     {
       "ageGroup": "Unspecified",
-      "female": 10,
-      "male": 54,
-      "unspecified": 2,
+      "female": 11,
+      "male": 55,
+      "unspecified": 0,
       "total": 66
     }
   ],
   "gender": {
-    "female": 130,
-    "male": 380,
-    "unspecified": 2,
+    "female": 131,
+    "male": 381,
+    "unspecified": 0,
     "total": 512
   },
   "updated": "2020-05-10 18:29"
