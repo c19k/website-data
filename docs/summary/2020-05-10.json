@@ -2755,7 +2755,7 @@
       "homeObservationCumulative": 26350,
       "hosptilisedCumulative": 362,
       "activeCumulative": 20,
-      "status": "Updating",
+      "status": "Finalised",
       "date": "2020-05-10",
       "confirmedCumulative": 512,
       "confirmedAvg3d": 3,
@@ -2775,16 +2775,16 @@
     {
       "ageGroup": "10-19",
       "female": 17,
-      "male": 20,
+      "male": 21,
       "unspecified": 0,
-      "total": 37
+      "total": 38
     },
     {
       "ageGroup": "20-29",
       "female": 28,
-      "male": 80,
+      "male": 81,
       "unspecified": 0,
-      "total": 108
+      "total": 109
     },
     {
       "ageGroup": "30-39",
@@ -2839,15 +2839,15 @@
       "ageGroup": "Unspecified",
       "female": 10,
       "male": 54,
-      "unspecified": 5,
-      "total": 69
+      "unspecified": 3,
+      "total": 67
     }
   ],
   "gender": {
     "female": 129,
-    "male": 378,
-    "unspecified": 5,
+    "male": 380,
+    "unspecified": 3,
     "total": 512
   },
-  "updated": "2020-05-10 5:31"
+  "updated": "2020-05-10 17:55"
 }

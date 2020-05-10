@@ -7093,21 +7093,26 @@
   {
     "patientId": 506,
     "dateAnnounced": "2020-05-10",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "M",
     "residence": "Wayanad",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "notes": "Headload worker at Koyambedu Market Chennai",
+    "knownCluster": "Koyamnedu",
     "confirmedPatient": true
   },
   {
     "patientId": 507,
     "dateAnnounced": "2020-05-10",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "M",
     "residence": "Wayanad",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "notes": "P 502's friend",
     "confirmedPatient": true
   },
   {
@@ -7117,7 +7122,7 @@
     "residence": "Wayanad",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Unspecified",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -7162,7 +7167,7 @@
     "dateAnnounced": "2020-05-10",
     "ageBracket": 34,
     "gender": "M",
-    "residence": "Malappuram",
+    "residence": "Angadippuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
