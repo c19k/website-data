@@ -7089,5 +7089,75 @@
     "notes": "Travelled from Dubai, IX344 Dubai Kozhikode flight on 7 May 2020 (Native of Chappanangadi, Kottakkal, Malappuram)",
     "knownCluster": "Dubai",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 506,
+    "dateAnnounced": "2020-05-10",
+    "ageBracket": -1,
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Unspecified",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 507,
+    "dateAnnounced": "2020-05-10",
+    "ageBracket": -1,
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Unspecified",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 508,
+    "dateAnnounced": "2020-05-10",
+    "ageBracket": -1,
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Unspecified",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 509,
+    "dateAnnounced": "2020-05-10",
+    "ageBracket": -1,
+    "residence": "Thrissur",
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Unspecified",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 510,
+    "dateAnnounced": "2020-05-10",
+    "ageBracket": -1,
+    "residence": "Thrissur",
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Unspecified",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 511,
+    "dateAnnounced": "2020-05-10",
+    "ageBracket": -1,
+    "residence": "Ernakulam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Unspecified",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 512,
+    "dateAnnounced": "2020-05-10",
+    "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Unspecified",
+    "confirmedPatient": true
   }
 ]
