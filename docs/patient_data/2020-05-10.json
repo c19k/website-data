@@ -7128,6 +7128,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Unspecified",
+    "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
@@ -7138,26 +7140,34 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Unspecified",
+    "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 511,
     "dateAnnounced": "2020-05-10",
-    "ageBracket": -1,
+    "ageBracket": 5,
+    "gender": "M",
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "notes": "Son of P503, came from Chennai",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 512,
     "dateAnnounced": "2020-05-10",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
     "residence": "Malappuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Unspecified",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   }
 ]
