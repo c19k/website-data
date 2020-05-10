@@ -3337,9 +3337,10 @@
     "residence": "Kottayampoil",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai on March 22 to Kzd Airport",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-05-10",
     "confirmedPatient": true
   },
   {
@@ -5355,6 +5356,7 @@
     "notes": "Contact Transmission",
     "knownCluster": "Kannur",
     "dhsPatientNumber": "232",
+    "releasedOn": "2020-05-10",
     "confirmedPatient": true
   },
   {
