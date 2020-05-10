@@ -5903,9 +5903,10 @@
     "residence": "Kuzhalmandam",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from TN",
     "knownCluster": "Salem",
+    "releasedOn": "2020-05-10",
     "confirmedPatient": true
   },
   {
