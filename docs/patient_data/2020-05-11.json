@@ -7195,8 +7195,9 @@
   {
     "patientId": 513,
     "dateAnnounced": "2020-05-11",
-    "ageBracket": -1,
-    "residence": "Kasaragod",
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Kumbala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
@@ -7207,8 +7208,9 @@
   {
     "patientId": 514,
     "dateAnnounced": "2020-05-11",
-    "ageBracket": -1,
-    "residence": "Kasaragod",
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Kumbala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
@@ -7243,12 +7245,13 @@
   {
     "patientId": 517,
     "dateAnnounced": "2020-05-11",
-    "ageBracket": -1,
-    "residence": "Palakkad",
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Srikrishnapuram",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from TN",
+    "notes": "Travelled from TN on May 6",
     "knownCluster": "Tamil Nadu",
     "confirmedPatient": true
   },
@@ -7263,6 +7266,7 @@
     "notes": "Contact Transmission",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "sourceURL": "http://opennewser.com/home/get_news/26129",
     "confirmedPatient": true
   },
   {
@@ -7270,11 +7274,11 @@
     "dateAnnounced": "2020-05-11",
     "ageBracket": 40,
     "gender": "M",
-    "residence": "Malappuram",
+    "residence": "Nilambur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait May 9",
+    "notes": "Travelled from Kuwait to Kochi, IX 396, May 9",
     "knownCluster": "Kuwait",
     "confirmedPatient": true
   }

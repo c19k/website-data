@@ -2782,7 +2782,7 @@
       "recoveredCumulative": 489,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
-      "testedCumulative": 41279,
+      "testedCumulative": 41700,
       "observationCumulative": 27986,
       "homeObservationCumulative": 27545,
       "hosptilisedCumulative": 441,
@@ -2828,9 +2828,9 @@
     {
       "ageGroup": "40-49",
       "female": 13,
-      "male": 58,
+      "male": 61,
       "unspecified": 0,
-      "total": 71
+      "total": 74
     },
     {
       "ageGroup": "50-59",
@@ -2871,15 +2871,15 @@
       "ageGroup": "Unspecified",
       "female": 9,
       "male": 54,
-      "unspecified": 5,
-      "total": 68
+      "unspecified": 2,
+      "total": 65
     }
   ],
   "gender": {
     "female": 131,
-    "male": 383,
-    "unspecified": 5,
+    "male": 386,
+    "unspecified": 2,
     "total": 519
   },
-  "updated": "2020-05-11 17:14"
+  "updated": "2020-05-11 17:17"
 }
