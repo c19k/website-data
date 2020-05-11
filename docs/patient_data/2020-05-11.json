@@ -7136,9 +7136,9 @@
   {
     "patientId": 509,
     "dateAnnounced": "2020-05-10",
-    "ageBracket": -1,
+    "ageBracket": 26,
     "gender": "M",
-    "residence": "Thrissur",
+    "residence": "Chavakkad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
@@ -7150,9 +7150,9 @@
   {
     "patientId": 510,
     "dateAnnounced": "2020-05-10",
-    "ageBracket": -1,
+    "ageBracket": 22,
     "gender": "F",
-    "residence": "Thrissur",
+    "residence": "Chavakkad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
