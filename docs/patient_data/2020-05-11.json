@@ -3191,6 +3191,7 @@
     "patientStatus": "Discharged",
     "notes": "Bengaluru Airport on 22nd March",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-04-05",
     "confirmedPatient": true
   },
   {
@@ -3204,6 +3205,7 @@
     "patientStatus": "Discharged",
     "notes": "Trivandrum Airport on 22nd March.",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-04-04",
     "confirmedPatient": true
   },
   {
@@ -3217,6 +3219,7 @@
     "patientStatus": "Discharged",
     "notes": "Thiruvananthapuram Airport on 19th March.",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-04-16",
     "confirmedPatient": true
   },
   {
