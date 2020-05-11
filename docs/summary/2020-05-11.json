@@ -2835,16 +2835,16 @@
     {
       "ageGroup": "50-59",
       "female": 17,
-      "male": 38,
+      "male": 39,
       "unspecified": 0,
-      "total": 55
+      "total": 56
     },
     {
       "ageGroup": "60-69",
       "female": 11,
-      "male": 16,
+      "male": 17,
       "unspecified": 0,
-      "total": 27
+      "total": 28
     },
     {
       "ageGroup": "70-79",
@@ -2871,15 +2871,15 @@
       "ageGroup": "Unspecified",
       "female": 9,
       "male": 54,
-      "unspecified": 2,
-      "total": 65
+      "unspecified": 0,
+      "total": 63
     }
   ],
   "gender": {
     "female": 131,
-    "male": 386,
-    "unspecified": 2,
+    "male": 388,
+    "unspecified": 0,
     "total": 519
   },
-  "updated": "2020-05-11 17:17"
+  "updated": "2020-05-11 17:32"
 }

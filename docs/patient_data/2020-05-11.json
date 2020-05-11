@@ -7203,6 +7203,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=171115291024974&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -7216,30 +7217,35 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=171115291024974&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 515,
     "dateAnnounced": "2020-05-11",
-    "ageBracket": -1,
-    "residence": "Kasaragod",
+    "ageBracket": 61,
+    "gender": "M",
+    "residence": "Mangalpadi",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=171115291024974&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 516,
     "dateAnnounced": "2020-05-11",
-    "ageBracket": -1,
-    "residence": "Kasaragod",
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Paivalike",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=171115291024974&id=100507158085788",
     "confirmedPatient": true
   },
   {
