@@ -1,10 +1,10 @@
 {
   "prefectures": [
     {
-      "confirmed": 178,
+      "confirmed": 182,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 177,
+        "Kasaragod": 181,
         "Mangalore": 1
       },
       "dailyConfirmedCount": [
@@ -109,10 +109,10 @@
         0,
         0,
         0,
-        0
+        4
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 4,
       "recovered": 178,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -239,10 +239,10 @@
       "name": "Kannur"
     },
     {
-      "confirmed": 27,
+      "confirmed": 28,
       "deaths": 1,
       "confirmedByCity": {
-        "Malappuram": 27
+        "Malappuram": 28
       },
       "dailyConfirmedCount": [
         0,
@@ -346,10 +346,10 @@
         0,
         2,
         1,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 23,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -1305,10 +1305,10 @@
       "name": "Thrissur"
     },
     {
-      "confirmed": 13,
+      "confirmed": 14,
       "deaths": 0,
       "confirmedByCity": {
-        "Palakkad": 13
+        "Palakkad": 14
       },
       "dailyConfirmedCount": [
         0,
@@ -1412,10 +1412,10 @@
         0,
         0,
         0,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 13,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
@@ -1423,11 +1423,11 @@
       "name": "Palakkad"
     },
     {
-      "confirmed": 10,
+      "confirmed": 11,
       "deaths": 0,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 9
+        "Wayanad": 10
       },
       "dailyConfirmedCount": [
         0,
@@ -1531,10 +1531,10 @@
         0,
         0,
         3,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 3,
       "name_ja": "വയനാട്",
       "zone": "Orange",
@@ -2778,21 +2778,22 @@
       "confirmedCumulativeAvg7d": 477
     },
     {
-      "confirmed": 0,
+      "confirmed": 7,
       "recoveredCumulative": 489,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
       "testedCumulative": 41279,
-      "observationCumulative": 26712,
-      "homeObservationCumulative": 26350,
-      "hosptilisedCumulative": 362,
-      "activeCumulative": 20,
+      "observationCumulative": 27986,
+      "homeObservationCumulative": 27545,
+      "hosptilisedCumulative": 441,
+      "activeCumulative": 27,
+      "status": "Finalised",
       "date": "2020-05-11",
-      "confirmedCumulative": 512,
-      "confirmedAvg3d": 3,
-      "confirmedCumulativeAvg3d": 493,
-      "confirmedAvg7d": 1,
-      "confirmedCumulativeAvg7d": 478
+      "confirmedCumulative": 519,
+      "confirmedAvg3d": 5,
+      "confirmedCumulativeAvg3d": 495,
+      "confirmedAvg7d": 2,
+      "confirmedCumulativeAvg7d": 479
     }
   ],
   "age": [
@@ -2820,9 +2821,9 @@
     {
       "ageGroup": "30-39",
       "female": 19,
-      "male": 96,
+      "male": 97,
       "unspecified": 0,
-      "total": 115
+      "total": 116
     },
     {
       "ageGroup": "40-49",
@@ -2870,15 +2871,15 @@
       "ageGroup": "Unspecified",
       "female": 9,
       "male": 54,
-      "unspecified": 0,
-      "total": 63
+      "unspecified": 5,
+      "total": 68
     }
   ],
   "gender": {
     "female": 131,
-    "male": 381,
-    "unspecified": 0,
-    "total": 512
+    "male": 383,
+    "unspecified": 5,
+    "total": 519
   },
-  "updated": "2020-05-11 09:15"
+  "updated": "2020-05-11 17:14"
 }

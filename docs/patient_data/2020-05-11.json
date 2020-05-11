@@ -7191,5 +7191,91 @@
     "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 513,
+    "dateAnnounced": "2020-05-11",
+    "ageBracket": -1,
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 514,
+    "dateAnnounced": "2020-05-11",
+    "ageBracket": -1,
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 515,
+    "dateAnnounced": "2020-05-11",
+    "ageBracket": -1,
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 516,
+    "dateAnnounced": "2020-05-11",
+    "ageBracket": -1,
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 517,
+    "dateAnnounced": "2020-05-11",
+    "ageBracket": -1,
+    "residence": "Palakkad",
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN",
+    "knownCluster": "Tamil Nadu",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 518,
+    "dateAnnounced": "2020-05-11",
+    "gender": "M",
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 519,
+    "dateAnnounced": "2020-05-11",
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait May 9",
+    "knownCluster": "Kuwait",
+    "confirmedPatient": true
   }
 ]
