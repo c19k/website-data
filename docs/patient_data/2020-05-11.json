@@ -1587,6 +1587,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-04-11",
     "confirmedPatient": true
   },
   {
@@ -2585,7 +2586,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Emirates EK 568 landed at Kozhikode",
     "knownCluster": "Dubai",
-    "releasedOn": "Unspecified",
+    "releasedOn": "2020-04-24",
     "confirmedPatient": true
   },
   {
@@ -2599,7 +2600,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Sharjah AIr India express IX 354 landed at Kozhikode",
     "knownCluster": "Sharjah",
-    "releasedOn": "Unspecified",
+    "releasedOn": "2020-05-02",
     "confirmedPatient": true
   },
   {
