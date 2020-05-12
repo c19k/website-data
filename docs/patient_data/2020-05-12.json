@@ -7287,5 +7287,55 @@
     "notes": "Travelled from Kuwait to Kochi, IX 396, May 9",
     "knownCluster": "Kuwait",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 520,
+    "dateAnnounced": "2020-05-12",
+    "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 521,
+    "dateAnnounced": "2020-05-12",
+    "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 522,
+    "dateAnnounced": "2020-05-12",
+    "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 523,
+    "dateAnnounced": "2020-05-12",
+    "ageBracket": -1,
+    "residence": "Pathanamthitta",
+    "detectedCityTown": "Pathanamthitta",
+    "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 524,
+    "dateAnnounced": "2020-05-12",
+    "ageBracket": -1,
+    "residence": "Kottayam",
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
   }
 ]
