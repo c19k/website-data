@@ -7331,11 +7331,14 @@
   {
     "patientId": 524,
     "dateAnnounced": "2020-05-12",
-    "ageBracket": -1,
-    "residence": "Kottayam",
+    "ageBracket": 2,
+    "gender": "M",
+    "residence": "Uzhavoor",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   }
 ]

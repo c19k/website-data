@@ -2832,9 +2832,9 @@
     {
       "ageGroup": "<10",
       "female": 7,
-      "male": 10,
+      "male": 11,
       "unspecified": 0,
-      "total": 17
+      "total": 18
     },
     {
       "ageGroup": "10-19",
@@ -2903,15 +2903,15 @@
       "ageGroup": "Unspecified",
       "female": 9,
       "male": 54,
-      "unspecified": 5,
-      "total": 68
+      "unspecified": 4,
+      "total": 67
     }
   ],
   "gender": {
     "female": 131,
-    "male": 388,
-    "unspecified": 5,
+    "male": 389,
+    "unspecified": 4,
     "total": 524
   },
-  "updated": "2020-05-12 17:15"
+  "updated": "2020-05-12 17:28"
 }
