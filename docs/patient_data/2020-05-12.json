@@ -7335,11 +7335,13 @@
     "dateAnnounced": "2020-05-12",
     "ageBracket": 69,
     "gender": "F",
-    "residence": "Pathanamthitta",
+    "residence": "Kottangal",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Abu Dhabi, on May 9",
+    "notes": "Travelled from Abu Dhabi, on May 7",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://pathanamthittamedia.com/covid-positive-report-pathanamthitta/",
     "confirmedPatient": true
   },
   {
