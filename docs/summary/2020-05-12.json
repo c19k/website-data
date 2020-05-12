@@ -803,10 +803,10 @@
     },
     {
       "ageGroup": "60-69",
-      "female": 11,
+      "female": 12,
       "male": 17,
       "unspecified": 0,
-      "total": 28
+      "total": 29
     },
     {
       "ageGroup": "70-79",
@@ -833,14 +833,14 @@
       "ageGroup": "Unspecified",
       "female": 9,
       "male": 54,
-      "unspecified": 1,
-      "total": 64
+      "unspecified": 0,
+      "total": 63
     }
   ],
   "gender": {
-    "female": 132,
+    "female": 133,
     "male": 391,
-    "unspecified": 1,
+    "unspecified": 0,
     "total": 524
   },
   "updated": "2020-05-12 18:12"
