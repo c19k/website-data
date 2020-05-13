@@ -7374,8 +7374,9 @@
   {
     "patientId": 526,
     "dateAnnounced": "2020-05-13",
-    "ageBracket": -1,
-    "residence": "Malappuram",
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Maranchery",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
