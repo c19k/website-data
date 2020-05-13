@@ -2863,10 +2863,10 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 7,
+      "female": 8,
       "male": 12,
       "unspecified": 0,
-      "total": 19
+      "total": 20
     },
     {
       "ageGroup": "10-19",
@@ -2877,17 +2877,17 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 31,
+      "female": 32,
       "male": 82,
       "unspecified": 0,
-      "total": 113
+      "total": 114
     },
     {
       "ageGroup": "30-39",
       "female": 19,
-      "male": 97,
+      "male": 98,
       "unspecified": 0,
-      "total": 116
+      "total": 117
     },
     {
       "ageGroup": "40-49",
@@ -2906,9 +2906,9 @@
     {
       "ageGroup": "60-69",
       "female": 12,
-      "male": 17,
+      "male": 18,
       "unspecified": 0,
-      "total": 29
+      "total": 30
     },
     {
       "ageGroup": "70-79",
@@ -2934,16 +2934,16 @@
     {
       "ageGroup": "Unspecified",
       "female": 9,
-      "male": 54,
-      "unspecified": 9,
-      "total": 72
+      "male": 56,
+      "unspecified": 3,
+      "total": 68
     }
   ],
   "gender": {
-    "female": 134,
-    "male": 391,
-    "unspecified": 9,
+    "female": 136,
+    "male": 395,
+    "unspecified": 3,
     "total": 534
   },
-  "updated": "2020-05-13 18:43"
+  "updated": "2020-05-13 18:53"
 }
