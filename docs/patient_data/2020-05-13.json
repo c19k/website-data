@@ -7356,5 +7356,18 @@
     "notes": "Travelled from Kuwait to Kochi, IX 396, May 9",
     "knownCluster": "Kuwait",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 525,
+    "dateAnnounced": "2020-05-13",
+    "ageBracket": 29,
+    "gender": "F",
+    "residence": "Uzhavoor",
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi, IX 396, May 9",
+    "knownCluster": "Kuwait",
+    "confirmedPatient": true
   }
 ]

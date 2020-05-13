@@ -725,10 +725,10 @@
       "name": "Idukki"
     },
     {
-      "confirmed": 21,
+      "confirmed": 22,
       "deaths": 0,
       "confirmedByCity": {
-        "Kottayam": 21
+        "Kottayam": 22
       },
       "dailyConfirmedCount": [
         0,
@@ -834,10 +834,10 @@
         0,
         0,
         1,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 20,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
@@ -2842,7 +2842,7 @@
       "confirmedCumulativeAvg7d": 482
     },
     {
-      "confirmed": 0,
+      "confirmed": 1,
       "recoveredCumulative": 489,
       "deceasedCumulative": 3,
       "criticalCumulative": 1,
@@ -2851,8 +2851,9 @@
       "homeObservationCumulative": 31143,
       "hosptilisedCumulative": 473,
       "activeCumulative": 32,
+      "status": "Updating",
       "date": "2020-05-13",
-      "confirmedCumulative": 524,
+      "confirmedCumulative": 525,
       "confirmedAvg3d": 4,
       "confirmedCumulativeAvg3d": 505,
       "confirmedAvg7d": 3,
@@ -2876,10 +2877,10 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 30,
+      "female": 31,
       "male": 82,
       "unspecified": 0,
-      "total": 112
+      "total": 113
     },
     {
       "ageGroup": "30-39",
@@ -2939,10 +2940,10 @@
     }
   ],
   "gender": {
-    "female": 133,
+    "female": 134,
     "male": 391,
     "unspecified": 0,
-    "total": 524
+    "total": 525
   },
-  "updated": "2020-05-13 10:15"
+  "updated": "2020-05-13 17:06"
 }
