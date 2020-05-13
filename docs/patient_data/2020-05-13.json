@@ -7448,7 +7448,7 @@
   {
     "patientId": 531,
     "dateAnnounced": "2020-05-13",
-    "ageBracket": -1,
+    "ageBracket": 42,
     "gender": "M",
     "residence": "Kelakam",
     "detectedCityTown": "Kannur",
@@ -7457,6 +7457,7 @@
     "notes": "Police Officer posted at Wayanad",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "sourceURL": "https://prdlive.kerala.gov.in/news/80782",
     "confirmedPatient": true
   },
   {
