@@ -7410,6 +7410,7 @@
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
     "confirmedPatient": true
   },
@@ -7421,6 +7422,7 @@
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
     "confirmedPatient": true
   },
@@ -7432,6 +7434,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
     "confirmedPatient": true
   },
@@ -7453,7 +7456,6 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "knownCluster": "Wayanad",
     "confirmedPatient": true
   },
   {
