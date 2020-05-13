@@ -2935,15 +2935,15 @@
       "ageGroup": "Unspecified",
       "female": 9,
       "male": 54,
-      "unspecified": 0,
-      "total": 63
+      "unspecified": 9,
+      "total": 72
     }
   ],
   "gender": {
     "female": 134,
     "male": 391,
-    "unspecified": 0,
-    "total": 525
+    "unspecified": 9,
+    "total": 534
   },
   "updated": "2020-05-13 17:19"
 }
