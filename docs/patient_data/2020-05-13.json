@@ -4231,9 +4231,10 @@
     "residence": "Oyoor",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Nizamuddin",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-05-13",
     "confirmedPatient": true
   },
   {
