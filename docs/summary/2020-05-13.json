@@ -2885,9 +2885,9 @@
     {
       "ageGroup": "30-39",
       "female": 19,
-      "male": 98,
+      "male": 100,
       "unspecified": 0,
-      "total": 117
+      "total": 119
     },
     {
       "ageGroup": "40-49",
@@ -2906,9 +2906,9 @@
     {
       "ageGroup": "60-69",
       "female": 12,
-      "male": 18,
+      "male": 19,
       "unspecified": 0,
-      "total": 30
+      "total": 31
     },
     {
       "ageGroup": "70-79",
@@ -2934,16 +2934,16 @@
     {
       "ageGroup": "Unspecified",
       "female": 9,
-      "male": 56,
-      "unspecified": 2,
-      "total": 67
+      "male": 55,
+      "unspecified": 0,
+      "total": 64
     }
   ],
   "gender": {
     "female": 136,
-    "male": 396,
-    "unspecified": 2,
+    "male": 398,
+    "unspecified": 0,
     "total": 534
   },
-  "updated": "2020-05-13 18:53"
+  "updated": "2020-05-13 19:19"
 }
