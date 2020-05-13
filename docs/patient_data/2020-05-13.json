@@ -7369,5 +7369,101 @@
     "notes": "Travelled from Kuwait to Kochi, IX 396, May 9",
     "knownCluster": "Kuwait",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 526,
+    "dateAnnounced": "2020-05-13",
+    "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 527,
+    "dateAnnounced": "2020-05-13",
+    "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 528,
+    "dateAnnounced": "2020-05-13",
+    "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 529,
+    "dateAnnounced": "2020-05-13",
+    "ageBracket": -1,
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 530,
+    "dateAnnounced": "2020-05-13",
+    "ageBracket": -1,
+    "residence": "Wayanad",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 531,
+    "dateAnnounced": "2020-05-13",
+    "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "dhsPatientNumber": "498",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 532,
+    "dateAnnounced": "2020-05-13",
+    "ageBracket": -1,
+    "residence": "Kozhikode",
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 533,
+    "dateAnnounced": "2020-05-13",
+    "ageBracket": -1,
+    "residence": "Palakkad",
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "knownCluster": "Wayanad",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 534,
+    "dateAnnounced": "2020-05-13",
+    "ageBracket": -1,
+    "residence": "Palakkad",
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
   }
 ]
