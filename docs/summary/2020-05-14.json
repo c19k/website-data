@@ -3076,6 +3076,14 @@
         "deltaHomeIsolation": 0,
         "deltaHospitalIsolation": 0
       },
+      "Thrissur": {
+        "homeisolation": 0,
+        "hospitalisolation": 0,
+        "peopleunderobservation": 0,
+        "deltaPeopleUnderObservation": 0,
+        "deltaHomeIsolation": 0,
+        "deltaHospitalIsolation": 0
+      },
       "total": {
         "peopleunderobservation": 0,
         "homeisolation": 0,
