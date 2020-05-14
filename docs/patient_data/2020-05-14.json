@@ -7717,6 +7717,8 @@
     "patientId": 556,
     "dateAnnounced": "2020-05-14",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Mattannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -7726,6 +7728,8 @@
     "patientId": 557,
     "dateAnnounced": "2020-05-14",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kadambur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -7743,7 +7747,9 @@
   {
     "patientId": 559,
     "dateAnnounced": "2020-05-14",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Karunapuram",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
@@ -7752,10 +7758,14 @@
   {
     "patientId": 560,
     "dateAnnounced": "2020-05-14",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "F",
+    "residence": "Naripata",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 8 to Karipur",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   }
 ]
