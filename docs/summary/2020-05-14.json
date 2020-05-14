@@ -977,7 +977,8 @@
       "confirmed": 19,
       "deaths": 0,
       "confirmedByCity": {
-        "Palakkad": 19
+        "Palakkad": 18,
+        "Ernakulam": 1
       },
       "dailyConfirmedCount": [
         0,
@@ -2910,31 +2911,31 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 33,
-      "male": 84,
+      "female": 34,
+      "male": 86,
       "unspecified": 0,
-      "total": 117
+      "total": 120
     },
     {
       "ageGroup": "30-39",
-      "female": 20,
-      "male": 103,
+      "female": 21,
+      "male": 105,
       "unspecified": 0,
-      "total": 123
+      "total": 126
     },
     {
       "ageGroup": "40-49",
       "female": 13,
-      "male": 65,
+      "male": 66,
       "unspecified": 0,
-      "total": 78
+      "total": 79
     },
     {
       "ageGroup": "50-59",
       "female": 17,
-      "male": 40,
+      "male": 41,
       "unspecified": 0,
-      "total": 57
+      "total": 58
     },
     {
       "ageGroup": "60-69",
@@ -2967,15 +2968,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 11,
-      "male": 57,
-      "unspecified": 9,
-      "total": 77
+      "male": 58,
+      "unspecified": 0,
+      "total": 69
     }
   ],
   "gender": {
-    "female": 140,
-    "male": 411,
-    "unspecified": 9,
+    "female": 142,
+    "male": 418,
+    "unspecified": 0,
     "total": 560
   },
   "underObservation": {
