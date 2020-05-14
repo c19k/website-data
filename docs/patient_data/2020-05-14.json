@@ -7648,8 +7648,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Abu Dhabi on May 7",
+    "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3295773207134763",
     "confirmedPatient": true
   },
   {
@@ -7661,8 +7662,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Dubai on May 7",
+    "notes": "Travelled from Dubai, IX344 Dubai Kozhikode flight on 7 May 2020 (Native of Chappanangadi, Kottakkal, Malappuram)",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3295773207134763",
     "confirmedPatient": true
   },
   {
@@ -7674,8 +7676,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Dubai on May 12",
+    "notes": "Travelled from Dubai to Kannur, IX 814 on May 12",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3295773207134763",
     "confirmedPatient": true
   },
   {
@@ -7689,6 +7692,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3295773207134763",
     "confirmedPatient": true
   },
   {
@@ -7700,9 +7704,10 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Mumbai",
+    "notes": "Travelled from Mumbai, SIL of P548",
     "knownCluster": "Mumbai",
     "dhsPatientNumber": "549",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3295773207134763",
     "confirmedPatient": true
   },
   {
@@ -7740,7 +7745,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Damam to Kochi",
+    "notes": "Travelled from Damam to Kochi, AI 1924, May 12 2020",
     "knownCluster": "Damam",
     "confirmedPatient": true
   },
@@ -7792,23 +7797,27 @@
   {
     "patientId": 556,
     "dateAnnounced": "2020-05-14",
-    "ageBracket": -1,
+    "ageBracket": 24,
     "gender": "M",
     "residence": "Mattannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 6",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 557,
     "dateAnnounced": "2020-05-14",
-    "ageBracket": -1,
+    "ageBracket": 20,
     "gender": "M",
     "residence": "Kadambur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 12 to Kannur",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
