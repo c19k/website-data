@@ -3357,10 +3357,11 @@
     "residence": "Prakulam",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kollam",
     "dhsPatientNumber": "180",
+    "releasedOn": "2020-05-14",
     "confirmedPatient": true
   },
   {
@@ -3925,9 +3926,10 @@
     "residence": "Punalur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Attended Thableegi Jamaat Meeting",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-05-14",
     "confirmedPatient": true
   },
   {
@@ -4652,9 +4654,10 @@
     "residence": "Chittariparambu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai via Bengaluru on March 21",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-05-14",
     "confirmedPatient": true
   },
   {
