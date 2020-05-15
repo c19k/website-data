@@ -7570,7 +7570,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
-    "notes": "Health worker at GH Kasaragod",
+    "notes": "Health worker at GH Kasaragod; XRay Technician, District Hospital (Kanhangad)",
     "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
@@ -7583,7 +7583,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
-    "notes": "Health worker at DH Kasaragod",
+    "notes": "Health worker at DH Kasaragod; Nurse, General Hospital",
     "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
@@ -7950,6 +7950,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai; Runs tea shop in Kanchipuram",
+    "knownCluster": "Chennai",
     "sourceURL": "https://www.facebook.com/990649497647157/posts/3298157483563002/",
     "confirmedPatient": true
   },
@@ -7963,6 +7964,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai with another person who turned positive on an earlier day. Runs tea shop in Chennai",
+    "knownCluster": "Chennai",
     "sourceURL": "https://www.facebook.com/990649497647157/posts/3298157483563002/",
     "confirmedPatient": true
   },
@@ -7976,6 +7978,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from.Chennai; bakery distributor in Triplicane",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
