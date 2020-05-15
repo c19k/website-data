@@ -7977,18 +7977,26 @@
     "patientId": 570,
     "dateAnnounced": "2020-05-15",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Purakkad",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Drove down from Navi Mumbai",
+    "knownCluster": "Navi Mumbai",
     "confirmedPatient": true
   },
   {
     "patientId": 571,
     "dateAnnounced": "2020-05-15",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Thrikkunnappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Dammam-Kochi, pregnant lady",
+    "knownCluster": "Dammam",
     "confirmedPatient": true
   },
   {
