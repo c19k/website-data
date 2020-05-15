@@ -7747,8 +7747,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Damam to Kochi, AI 1924, May 12 2020",
-    "knownCluster": "Damam",
+    "notes": "Travelled from Dammam to Kochi, AI 1924, May 12 2020",
+    "knownCluster": "Dammam",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=1004171559980667&id=233008147097016",
     "confirmedPatient": true
   },
@@ -8011,7 +8011,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled Dammam-Kochi",
+    "notes": "Pregnant; Travelled from Dammam to Kochi, AI 1924, May 12 2020",
     "knownCluster": "Dammam",
     "confirmedPatient": true
   },
@@ -8037,7 +8037,7 @@
     "patientId": 574,
     "dateAnnounced": "2020-05-15",
     "ageBracket": 25,
-    "gender": "Male",
+    "gender": "M",
     "residence": "Kuzhalmandam",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
@@ -8050,10 +8050,15 @@
   {
     "patientId": 575,
     "dateAnnounced": "2020-05-15",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Punalur ",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Jeddah-Kochi AI 964 on 14 May 2020",
+    "knownCluster": "Jeddah",
+    "sourceURL": "https://www.facebook.com/233008147097016/posts/1004809899916833/",
     "confirmedPatient": true
   },
   {
@@ -8065,9 +8070,9 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait",
+    "notes": "Travelled from Kuwait to Kozhikode IX 0394 on 13 May 2020",
     "knownCluster": "Kuwait",
-    "sourceURL": "https://m.facebook.com/story.php?story_fbid=172192010917302&id=100507158085788",
+    "sourceURL": "https://m.facebook.com/story.php?story_fbid=172192010917302&id=100507158085788 http://kasaragodchannel.com/?p=163363",
     "confirmedPatient": true
   }
 ]
