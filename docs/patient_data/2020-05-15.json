@@ -7870,46 +7870,71 @@
   {
     "patientId": 561,
     "dateAnnounced": "2020-05-15",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "F",
+    "residence": "Sultan Bathery",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai, married to P562",
+    "knownCluster": "Dubai",
+    "sourceURL": "http://opennewser.com/home/get_news/26231",
     "confirmedPatient": true
   },
   {
     "patientId": 562,
     "dateAnnounced": "2020-05-15",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Sultan Bathery",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai, married to P561",
+    "knownCluster": "Dubai",
+    "sourceURL": "http://opennewser.com/home/get_news/26231",
     "confirmedPatient": true
   },
   {
     "patientId": 563,
     "dateAnnounced": "2020-05-15",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Cheeral",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "P506's brother. Picked him up when he came from Koyambedu",
+    "sourceURL": "http://opennewser.com/home/get_news/26231",
     "confirmedPatient": true
   },
   {
     "patientId": 564,
     "dateAnnounced": "2020-05-15",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "residence": "Panavally",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Friend of P554 (who's the SIL of P498)",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "554",
+    "sourceURL": "http://opennewser.com/home/get_news/26231",
     "confirmedPatient": true
   },
   {
     "patientId": 565,
     "dateAnnounced": "2020-05-15",
-    "ageBracket": -1,
+    "ageBracket": 1,
+    "gender": "F",
+    "residence": "Panavally",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "P529's contact. P529 is P498's daughter",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "529",
+    "sourceURL": "http://opennewser.com/home/get_news/26231",
     "confirmedPatient": true
   },
   {
@@ -8013,6 +8038,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://m.facebook.com/story.php?story_fbid=172192010917302&id=100507158085788",
     "confirmedPatient": true
   }
 ]
