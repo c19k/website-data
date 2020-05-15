@@ -1,5 +1,5 @@
 {
-  "updated": "2020-05-15 13:25",
+  "updated": "2020-05-15 17:23",
   "prefectures": [
     {
       "confirmed": 192,
@@ -2917,6 +2917,7 @@
       "homeObservationCumulative": 36362,
       "hosptilisedCumulative": 548,
       "activeCumulative": 64,
+      "status": "Reviewing",
       "date": "2020-05-15",
       "confirmedCumulative": 560,
       "confirmedAvg3d": 12,
