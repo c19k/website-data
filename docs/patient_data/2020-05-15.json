@@ -7942,19 +7942,25 @@
   {
     "patientId": 566,
     "dateAnnounced": "2020-05-15",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Tanur Pariapuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 567,
     "dateAnnounced": "2020-05-15",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Tanur Pariapuram Olappedika",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
     "confirmedPatient": true
   },
   {
