@@ -7949,6 +7949,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai",
+    "sourceURL": "https://www.facebook.com/990649497647157/posts/3298157483563002/",
     "confirmedPatient": true
   },
   {
@@ -7961,24 +7962,31 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai",
+    "sourceURL": "https://www.facebook.com/990649497647157/posts/3298157483563002/",
     "confirmedPatient": true
   },
   {
     "patientId": 568,
     "dateAnnounced": "2020-05-15",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Tanur ",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from.Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 569,
     "dateAnnounced": "2020-05-15",
     "ageBracket": -1,
+    "residence": "Pulamanthol",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
