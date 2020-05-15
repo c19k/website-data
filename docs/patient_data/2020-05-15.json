@@ -7905,6 +7905,8 @@
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "notes": "P506's brother. Picked him up when he came from Koyambedu",
+    "knownCluster": "Wayanad",
+    "dhsPatientNumber": "506",
     "sourceURL": "http://opennewser.com/home/get_news/26231",
     "confirmedPatient": true
   },
@@ -7995,7 +7997,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled Dammam-Kochi, pregnant lady",
+    "notes": "Travelled Dammam-Kochi",
     "knownCluster": "Dammam",
     "confirmedPatient": true
   },
@@ -8020,10 +8022,15 @@
   {
     "patientId": 574,
     "dateAnnounced": "2020-05-15",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "Male",
+    "residence": "Kuzhalmandam",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/254481778529560/posts/593554847955583/",
     "confirmedPatient": true
   },
   {
