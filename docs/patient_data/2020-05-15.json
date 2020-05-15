@@ -8005,10 +8005,14 @@
   {
     "patientId": 576,
     "dateAnnounced": "2020-05-15",
-    "ageBracket": -1,
-    "detectedCityTown": "Kasaragod",
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Ajanur",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   }
 ]

@@ -5,8 +5,9 @@
       "confirmed": 193,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 192,
-        "Mangalore": 1
+        "Kasaragod": 191,
+        "Mangalore": 1,
+        "Kozhikode": 1
       },
       "dailyConfirmedCount": [
         0,
@@ -2951,9 +2952,9 @@
     {
       "ageGroup": "30-39",
       "female": 21,
-      "male": 106,
+      "male": 107,
       "unspecified": 0,
-      "total": 127
+      "total": 128
     },
     {
       "ageGroup": "40-49",
@@ -3001,14 +3002,14 @@
       "ageGroup": "Unspecified",
       "female": 11,
       "male": 54,
-      "unspecified": 16,
-      "total": 81
+      "unspecified": 15,
+      "total": 80
     }
   ],
   "gender": {
     "female": 142,
-    "male": 418,
-    "unspecified": 16,
+    "male": 419,
+    "unspecified": 15,
     "total": 576
   },
   "underObservation": {
