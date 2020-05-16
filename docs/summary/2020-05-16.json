@@ -1,5 +1,5 @@
 {
-  "updated": "2020-05-15 23:07",
+  "updated": "2020-05-16 16:59",
   "prefectures": [
     {
       "confirmed": 193,
@@ -2949,7 +2949,8 @@
       "observationCumulative": 48825,
       "homeObservationCumulative": 48287,
       "hosptilisedCumulative": 538,
-      "activeCumulative": 80,
+      "activeCumulative": 81,
+      "status": "Reviewing",
       "date": "2020-05-16",
       "confirmedCumulative": 576,
       "confirmedAvg3d": 14,
@@ -3041,7 +3042,7 @@
     "female": 145,
     "male": 431,
     "unspecified": 0,
-    "total": 576
+    "total": 577
   },
   "underObservation": {
     "10-May-20": {
