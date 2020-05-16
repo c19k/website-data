@@ -5156,7 +5156,7 @@
     "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kannur",
-    "releasedOn": "2020-04-21",
+    "releasedOn": "2020-04-25",
     "confirmedPatient": true
   },
   {
@@ -5170,6 +5170,7 @@
     "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kannur",
+    "releasedOn": "2020-05-16",
     "confirmedPatient": true
   },
   {
@@ -5183,7 +5184,7 @@
     "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kannur",
-    "releasedOn": "2020-05-16",
+    "releasedOn": "2020-04-21",
     "confirmedPatient": true
   },
   {
@@ -8105,6 +8106,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Brother of P578; Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/",
     "confirmedPatient": true
   },
   {
@@ -8118,6 +8120,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Brother of P577; Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/",
     "confirmedPatient": true
   },
   {
@@ -8131,6 +8134,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/",
     "confirmedPatient": true
   },
   {
@@ -8144,6 +8148,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Male ",
     "knownCluster": "Male",
+    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/",
     "confirmedPatient": true
   },
   {
