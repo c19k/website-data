@@ -8133,28 +8133,43 @@
   {
     "patientId": 581,
     "dateAnnounced": "2020-05-16",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Omassery",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait. Kuwait-Kozhikode IX 0394\ton 13 May 2020",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/three-tested-positive-for-covid-19-in-kozhikode-1.4763913",
     "confirmedPatient": true
   },
   {
     "patientId": 582,
     "dateAnnounced": "2020-05-16",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Perambra",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait. Kuwait-Kozhikode IX 0394\ton 13 May 2020",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/three-tested-positive-for-covid-19-in-kozhikode-1.4763913",
     "confirmedPatient": true
   },
   {
     "patientId": 583,
     "dateAnnounced": "2020-05-16",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "Narippatta",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/three-tested-positive-for-covid-19-in-kozhikode-1.4763913",
     "confirmedPatient": true
   },
   {
@@ -8196,6 +8211,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai with P587; both tender coconut sellers in Mumbai",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3301131329932284",
     "confirmedPatient": true
   },
   {
@@ -8209,6 +8225,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai with P586; both tender coconut sellers in Mumbai",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3301131329932284",
     "confirmedPatient": true
   }
 ]
