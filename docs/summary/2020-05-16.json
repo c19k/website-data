@@ -3033,15 +3033,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 12,
-      "male": 55,
-      "unspecified": 4,
+      "male": 59,
+      "unspecified": 0,
       "total": 71
     }
   ],
   "gender": {
     "female": 145,
-    "male": 438,
-    "unspecified": 4,
+    "male": 442,
+    "unspecified": 0,
     "total": 587
   },
   "underObservation": {
