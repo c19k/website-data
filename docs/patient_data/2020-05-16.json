@@ -4388,10 +4388,11 @@
     "residence": "Cheruvancheri",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission from Grandson P337",
     "knownCluster": "Kannur",
     "dhsPatientNumber": "336",
+    "releasedOn": "2020-05-16",
     "confirmedPatient": true
   },
   {
@@ -5179,9 +5180,10 @@
     "residence": "Mooriyad",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kannur",
+    "releasedOn": "2020-05-16",
     "confirmedPatient": true
   },
   {
@@ -7030,10 +7032,11 @@
     "residence": "Wayanad",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "releasedOn": "2020-05-16",
     "confirmedPatient": true
   },
   {
@@ -7058,10 +7061,11 @@
     "residence": "Wayanad",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "releasedOn": "2020-05-16",
     "confirmedPatient": true
   },
   {
@@ -8184,19 +8188,27 @@
   {
     "patientId": 586,
     "dateAnnounced": "2020-05-16",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Maranchery",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai with P587; both tender coconut sellers in Mumbai",
+    "knownCluster": "Mumbai",
     "confirmedPatient": true
   },
   {
     "patientId": 587,
     "dateAnnounced": "2020-05-16",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Maranchery",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai with P586; both tender coconut sellers in Mumbai",
+    "knownCluster": "Mumbai",
     "confirmedPatient": true
   }
 ]
