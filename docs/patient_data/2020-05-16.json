@@ -8156,19 +8156,29 @@
   {
     "patientId": 584,
     "dateAnnounced": "2020-05-16",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Karakkurissi",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai; runs juice shop in Chennai",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/254481778529560/posts/594178554559879/",
     "confirmedPatient": true
   },
   {
     "patientId": 585,
     "dateAnnounced": "2020-05-16",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "Pattambi",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Kozhikode IX344 on May 7 to Karipur",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/254481778529560/posts/594178554559879/",
     "confirmedPatient": true
   },
   {
