@@ -8152,7 +8152,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Male either by INS Jalashwa on May 10",
-    "knownCluster": "Male",
+    "knownCluster": "Maldives",
     "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/",
     "confirmedPatient": true
   },
@@ -8320,6 +8320,8 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai on May 14; husband runs a tea shop in Chennai",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/594781314499603?__cft__[0]=AZURIHfd6bJshXTnJQC4JUnoupDqXxoCFUfL868eiqVjIYHWf9CWOyCAy4qUgoaCH3Je9odJy0G-vBwtX5KuAMkE1_NWUPc3t2WIU-U5Ay58r3OPF8mKlC8xMHmXZfRKPMnST8wQNWRHAX4hCI1sOjSbspS29YZBATHDHCCZtooDGw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -8331,7 +8333,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Chennai on May 6 along with P550",
+    "notes": "Travelled from Chennai on May 6 along with P550; runs tea shop with brother at Mylapore",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/594781314499603?__cft__[0]=AZURIHfd6bJshXTnJQC4JUnoupDqXxoCFUfL868eiqVjIYHWf9CWOyCAy4qUgoaCH3Je9odJy0G-vBwtX5KuAMkE1_NWUPc3t2WIU-U5Ay58r3OPF8mKlC8xMHmXZfRKPMnST8wQNWRHAX4hCI1sOjSbspS29YZBATHDHCCZtooDGw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -8357,21 +8361,29 @@
   {
     "patientId": 596,
     "dateAnnounced": "2020-05-17",
-    "ageBracket": -1,
-    "residence": "Kannur",
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Pattiam",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://kannurvarthakal.in/17/05/2020/34989/#.XsE_B7wzbIU",
     "confirmedPatient": true
   },
   {
     "patientId": 597,
     "dateAnnounced": "2020-05-17",
-    "ageBracket": -1,
-    "residence": "Kannur",
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Malur Tholambra",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://kannurvarthakal.in/17/05/2020/34989/#.XsE_B7wzbIU",
     "confirmedPatient": true
   },
   {
@@ -8391,23 +8403,29 @@
   {
     "patientId": 599,
     "dateAnnounced": "2020-05-17",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
     "residence": "Thrissur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai; Trichur native working at a jewellry unit in Chennai; under treatment in Palakkad",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/594781314499603?__cft__[0]=AZURIHfd6bJshXTnJQC4JUnoupDqXxoCFUfL868eiqVjIYHWf9CWOyCAy4qUgoaCH3Je9odJy0G-vBwtX5KuAMkE1_NWUPc3t2WIU-U5Ay58r3OPF8mKlC8xMHmXZfRKPMnST8wQNWRHAX4hCI1sOjSbspS29YZBATHDHCCZtooDGw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
     "patientId": 600,
     "dateAnnounced": "2020-05-17",
-    "ageBracket": -1,
-    "residence": "UP",
+    "ageBracket": 25,
+    "gender": "M",
+    "residence": "Lucknow",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "Trvelled from Maldives",
+    "notes": "Travelled from Maldives via INS Magar, reached on 12 May 2020",
     "knownCluster": "Maldives",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1006278813103275",
     "confirmedPatient": true
   },
   {
@@ -8421,6 +8439,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Health Worker",
     "knownCluster": "Kollam",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1604380719714134",
     "confirmedPatient": true
   }
 ]
