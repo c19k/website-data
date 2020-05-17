@@ -8258,6 +8258,8 @@
     "patientId": 588,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8266,6 +8268,8 @@
     "patientId": 589,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8274,6 +8278,8 @@
     "patientId": 590,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8282,6 +8288,8 @@
     "patientId": 591,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Malappuram",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8290,6 +8298,8 @@
     "patientId": 592,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Palakkad",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8298,6 +8308,8 @@
     "patientId": 593,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Palakkad",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8306,6 +8318,8 @@
     "patientId": 594,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Kozhikode",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8314,6 +8328,8 @@
     "patientId": 595,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Kozhikode",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8322,6 +8338,8 @@
     "patientId": 596,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8330,6 +8348,8 @@
     "patientId": 597,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Kannur",
+    "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8338,6 +8358,8 @@
     "patientId": 598,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Kasaragod",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8346,6 +8368,8 @@
     "patientId": 599,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "Thrissur",
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -8354,16 +8378,25 @@
     "patientId": 600,
     "dateAnnounced": "2020-05-17",
     "ageBracket": -1,
+    "residence": "UP",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Trvelled from Maldives",
+    "knownCluster": "Maldives",
     "confirmedPatient": true
   },
   {
     "patientId": 601,
     "dateAnnounced": "2020-05-17",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "F",
+    "residence": "Kalluvathukkal",
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "knownCluster": "Kollam",
     "confirmedPatient": true
   }
 ]
