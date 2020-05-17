@@ -8357,11 +8357,15 @@
   {
     "patientId": 598,
     "dateAnnounced": "2020-05-17",
-    "ageBracket": -1,
-    "residence": "Kasaragod",
+    "ageBracket": 25,
+    "gender": "M",
+    "residence": "Pullur Periya",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=172770670859436&id=100507158085788",
     "confirmedPatient": true
   },
   {
