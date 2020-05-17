@@ -8257,7 +8257,8 @@
   {
     "patientId": 588,
     "dateAnnounced": "2020-05-17",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "M",
     "residence": "Malappuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
