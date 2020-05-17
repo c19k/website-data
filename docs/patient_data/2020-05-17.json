@@ -8111,7 +8111,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Brother of P578; Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
-    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/",
+    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/; https://www.manoramaonline.com/district-news/thrissur/2020/05/17/thrissur-four-people-tested-with-covid.html",
     "confirmedPatient": true
   },
   {
@@ -8125,7 +8125,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Brother of P577; Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
-    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/",
+    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/; https://www.manoramaonline.com/district-news/thrissur/2020/05/17/thrissur-four-people-tested-with-covid.html",
     "confirmedPatient": true
   },
   {
@@ -8139,7 +8139,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
-    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/",
+    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/; https://www.manoramaonline.com/district-news/thrissur/2020/05/17/thrissur-four-people-tested-with-covid.html",
     "confirmedPatient": true
   },
   {
@@ -8153,7 +8153,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Male either by INS Jalashwa on May 10",
     "knownCluster": "Maldives",
-    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/",
+    "sourceURL": "https://www.facebook.com/chalakudyvarthalive/videos/635782667153372/; https://www.manoramaonline.com/district-news/thrissur/2020/05/17/thrissur-four-people-tested-with-covid.html",
     "confirmedPatient": true
   },
   {
@@ -8165,7 +8165,7 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait. Kuwait-Kozhikode IX 0394\ton 13 May 2020",
+    "notes": "Travelled from Kuwait. Kuwait-Kozhikode IX 0394  on 13 May 2020",
     "knownCluster": "Kuwait",
     "sourceURL": "https://www.mathrubhumi.com/news/kerala/three-tested-positive-for-covid-19-in-kozhikode-1.4763913",
     "confirmedPatient": true
@@ -8341,21 +8341,27 @@
   {
     "patientId": 594,
     "dateAnnounced": "2020-05-17",
-    "ageBracket": -1,
-    "residence": "Kozhikode",
+    "ageBracket": 78,
+    "gender": "M",
+    "residence": "Nadapuram",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai Kozhikode IX344 on May 7 to Karipur",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
     "patientId": 595,
     "dateAnnounced": "2020-05-17",
-    "ageBracket": -1,
-    "residence": "Kozhikode",
+    "ageBracket": 23,
+    "gender": "F",
+    "residence": "Orkkatteri",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait. Kuwait-Kozhikode IX 0394  on 13 May 2020",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -8439,7 +8445,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Health Worker",
     "knownCluster": "Kollam",
-    "sourceURL": "https://www.facebook.com/dckollam/posts/1604380719714134",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/health-worker-tested-positive-for-covid-19-in-kollam-1.4766117",
     "confirmedPatient": true
   }
 ]
