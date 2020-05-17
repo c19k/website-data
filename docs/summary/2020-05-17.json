@@ -116,6 +116,7 @@
         0,
         10,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -240,6 +241,7 @@
         1,
         2,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -363,10 +365,11 @@
         3,
         5,
         4,
-        2
+        2,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 2,
+      "newlyConfirmed": 0,
       "recovered": 23,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -487,10 +490,11 @@
         1,
         1,
         2,
-        3
+        3,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 3,
+      "newlyConfirmed": 0,
       "recovered": 24,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -611,6 +615,7 @@
         0,
         1,
         0,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -729,6 +734,7 @@
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -858,10 +864,11 @@
         2,
         3,
         1,
-        2
+        2,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 2,
+      "newlyConfirmed": 0,
       "recovered": 13,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
@@ -979,6 +986,7 @@
         0,
         1,
         1,
+        0,
         0,
         0,
         0
@@ -1104,6 +1112,7 @@
         0,
         0,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1228,6 +1237,7 @@
         2,
         3,
         5,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1350,6 +1360,7 @@
         1,
         0,
         1,
+        0,
         0,
         0
       ],
@@ -1474,10 +1485,11 @@
         0,
         0,
         0,
-        4
+        4,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 4,
+      "newlyConfirmed": 0,
       "recovered": 13,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
@@ -1583,6 +1595,7 @@
         0,
         0,
         2,
+        0,
         0,
         0,
         0,
@@ -1722,6 +1735,7 @@
         0,
         0,
         2,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
