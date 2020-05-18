@@ -8651,19 +8651,29 @@
   {
     "patientId": 624,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Paivalake",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/173083607494809/",
     "confirmedPatient": true
   },
   {
     "patientId": 625,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Paivalake",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/173083607494809/",
     "confirmedPatient": true
   },
   {
@@ -8687,7 +8697,8 @@
   {
     "patientId": 628,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "F",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
@@ -8696,19 +8707,28 @@
   {
     "patientId": 629,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Pattambi Koppam",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/254481778529560/posts/595476134430121/",
     "confirmedPatient": true
   },
   {
     "patientId": 630,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Chelembra",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai where he works",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   }
 ]
