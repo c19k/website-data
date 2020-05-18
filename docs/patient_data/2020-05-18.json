@@ -8597,19 +8597,29 @@
   {
     "patientId": 618,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Pathanmthitta",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Qatar TRV on IX 0374",
+    "knownCluster": "Doha",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/177129500420774/",
     "confirmedPatient": true
   },
   {
     "patientId": 619,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "M",
+    "residence": "Pathanmthitta",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Dubai Kochi on IX 0434",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/177129500420774/",
     "confirmedPatient": true
   },
   {
