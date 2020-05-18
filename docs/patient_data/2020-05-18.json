@@ -8633,19 +8633,29 @@
   {
     "patientId": 622,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Athirumpuzha",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Abu Dhabi Kochi on May 7",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/889524668070829/posts/1155854458104514/",
     "confirmedPatient": true
   },
   {
     "patientId": 623,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Mundakkayam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/889524668070829/posts/1155854458104514/",
     "confirmedPatient": true
   },
   {
@@ -8699,9 +8709,13 @@
     "dateAnnounced": "2020-05-18",
     "ageBracket": 29,
     "gender": "F",
+    "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai to Kochi on 16 May IX434",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/233008147097016/posts/1007087823022374/",
     "confirmedPatient": true
   },
   {
