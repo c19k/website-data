@@ -3045,8 +3045,8 @@
       "ageGroup": "<10",
       "female": 9,
       "male": 15,
-      "unspecified": 0,
-      "total": 24
+      "unspecified": 1,
+      "total": 25
     },
     {
       "ageGroup": "10-19",
@@ -3115,8 +3115,8 @@
       "ageGroup": "Unspecified",
       "female": 14,
       "male": 58,
-      "unspecified": 4,
-      "total": 76
+      "unspecified": 3,
+      "total": 75
     }
   ],
   "gender": {
