@@ -8039,7 +8039,7 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "notes": "Contact of a Mananthawady patient who had come from Chennai",
+    "notes": "Travelled from Chennai with a Mananthawady patient ",
     "knownCluster": "Chennai",
     "sourceURL": "https://www.samakalikamalayalam.com/keralam/2020/may/15/%E0%B4%95%E0%B5%8B%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8B%E0%B4%9F%E0%B5%8D-%E0%B4%87%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%8D-%E0%B4%95%E0%B5%8B%E0%B4%B5%E0%B4%BF%E0%B4%A1%E0%B5%8D-%E0%B4%B8%E0%B5%8D%E0%B5%8D%E0%B4%A5%E0%B4%BF%E0%B4%B0%E0%B5%80%E0%B4%95%E0%B4%B0%E0%B4%BF%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%A4%E0%B5%8D-2-%E0%B4%AA%E0%B5%87%E0%B4%B0%E0%B5%8Dzwj%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D-%E0%B4%92%E0%B4%B0%E0%B4%BE%E0%B4%B3%E0%B5%8Dzwj-%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%B5%E0%B4%BE%E0%B4%B8%E0%B4%BF-87523.html",
     "confirmedPatient": true
@@ -8448,6 +8448,267 @@
     "notes": "Health Worker",
     "knownCluster": "Kollam",
     "sourceURL": "https://www.mathrubhumi.com/news/kerala/health-worker-tested-positive-for-covid-19-in-kollam-1.4766117",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 602,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 603,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 604,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 605,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 606,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 607,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 608,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 609,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 610,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 611,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 612,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 613,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 614,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 615,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 616,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 617,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 618,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
+    "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 619,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
+    "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 620,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 621,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 622,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 623,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 624,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 625,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 626,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 627,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 628,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 629,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 630,
+    "dateAnnounced": "2020-05-18",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   }
 ]
