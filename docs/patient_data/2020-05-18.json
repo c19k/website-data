@@ -8616,18 +8616,27 @@
     "patientId": 620,
     "dateAnnounced": "2020-05-18",
     "ageBracket": -1,
+    "residence": "Thrikkunnappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dammam to Kochi, AI 1924, May 12 2020; P571's child",
+    "knownCluster": "Dammam",
+    "sourceURL": "https://m.facebook.com/story.php?story_fbid=556230874974747&id=173744753223363",
     "confirmedPatient": true
   },
   {
     "patientId": 621,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "F",
+    "residence": "Ambalappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait. Kuwait-Kozhikode IX 0394  on 13 May 2020; under treatment in Malappuram (Manjery)",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/164720951673490/",
     "confirmedPatient": true
   },
   {
@@ -8743,6 +8752,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai where he works",
     "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/164720951673490/",
     "confirmedPatient": true
   }
 ]
