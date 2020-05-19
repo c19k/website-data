@@ -8869,25 +8869,31 @@
   {
     "patientId": 631,
     "dateAnnounced": "2020-05-19",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Edappal Pothannoor",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai Coloba",
     "confirmedPatient": true
   },
   {
     "patientId": 632,
     "dateAnnounced": "2020-05-19",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Munniyoor Chinakkal",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai Worli",
     "confirmedPatient": true
   },
   {
     "patientId": 633,
     "dateAnnounced": "2020-05-19",
-    "ageBracket": -1,
+    "ageBracket": 34,
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
@@ -8903,6 +8909,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on May 9",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://kannurvarthakal.in/19/05/2020/35046/#.XsPndbwzbIU",
     "confirmedPatient": true
   },
@@ -8916,6 +8923,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on May 9",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://kannurvarthakal.in/19/05/2020/35046/#.XsPndbwzbIU",
     "confirmedPatient": true
   },
@@ -8929,6 +8937,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on May 9",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://kannurvarthakal.in/19/05/2020/35046/#.XsPndbwzbIU",
     "confirmedPatient": true
   },
@@ -8942,6 +8951,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Ahmedabad on May 13",
+    "knownCluster": "Ahmedabad",
     "sourceURL": "https://kannurvarthakal.in/19/05/2020/35046/#.XsPndbwzbIU",
     "confirmedPatient": true
   },
@@ -8954,26 +8964,37 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Dubai, AI 814 May 12",
+    "notes": "Travelled from Dubai Kannur IX 0814 May 12",
+    "knownCluster": "Dubai",
     "sourceURL": "https://kannurvarthakal.in/19/05/2020/35046/#.XsPndbwzbIU",
     "confirmedPatient": true
   },
   {
     "patientId": 639,
     "dateAnnounced": "2020-05-19",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Kadapra",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on 13 May",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/posts/3961102580597976:0?__cft__[0]=AZXbhfEssnwe_daQh2u8FVFdpPD8CzdifbTi7l22I27Wp2_BKXJ55WDcYlqJj10d1aOjTDVqBasASjoF8R_1SoJeDK5dzDNfjNkxgkqie5_B2Zl4nnC0huNLysxzrFyc0_zr209eKYvQ_Bf7Ag_ORtoYFpSinlkUjft3umXdX8SxwA&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
     "patientId": 640,
     "dateAnnounced": "2020-05-19",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Mavelikkara",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Kuwait Kochi IX 0396 on May 9, pregnant",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/556807718250396?__cft__[0]=AZXRVoGvbRBQSv_IPCXIEKu55XzWwwE5X0roJFr2oShM9MMrwY0BE9UgVBp5hV32YTgst5uZ5qtex0n-Jh8E8gNRVoYXL_mSEAF2Sn7E8ABTMUhBliwklQoEk_Q4Ua0xo1MK5TVYr76rcIWMFMdFV_vzwweIsaksl2T1yR96oF8Wzg&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -8983,6 +9004,9 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai via Walayar",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3166988523368835?__cft__[0]=AZXxeLBR2vbDcRZ3MQYG-JLu6mQyh3RKEz96hrs5TlbxHNX6Z_PNVBiCtcbO-_qlkyJf2P4CQtg0vG3SYOxmcYJ4JlZi1WsOmmkNar_2q3g3TVisOxXiO93qNmTtQ_C4dsEG0MnSUFfyFS75Wr8qQ6RNV-TcehWF83siplYlRKTJIg&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
