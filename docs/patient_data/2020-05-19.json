@@ -8897,45 +8897,55 @@
     "patientId": 634,
     "dateAnnounced": "2020-05-19",
     "ageBracket": -1,
+    "residence": "Chokli",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
     "confirmedPatient": true
   },
   {
     "patientId": 635,
     "dateAnnounced": "2020-05-19",
     "ageBracket": -1,
+    "residence": "Chokli",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
     "confirmedPatient": true
   },
   {
     "patientId": 636,
     "dateAnnounced": "2020-05-19",
     "ageBracket": -1,
+    "residence": "Mekkunnu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
     "confirmedPatient": true
   },
   {
     "patientId": 637,
     "dateAnnounced": "2020-05-19",
     "ageBracket": -1,
+    "residence": "Mayyil",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Ahmedabad",
     "confirmedPatient": true
   },
   {
     "patientId": 638,
     "dateAnnounced": "2020-05-19",
     "ageBracket": -1,
+    "residence": "Pannyannoor",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
     "confirmedPatient": true
   },
   {
