@@ -1,5 +1,5 @@
 {
-  "updated": "2020-05-19 19:33",
+  "updated": "2020-05-19 21:17",
   "prefectures": [
     {
       "confirmed": 196,
@@ -3129,15 +3129,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 13,
-      "male": 57,
-      "unspecified": 1,
+      "male": 58,
+      "unspecified": 0,
       "total": 71
     }
   ],
   "gender": {
     "female": 155,
-    "male": 486,
-    "unspecified": 1,
+    "male": 487,
+    "unspecified": 0,
     "total": 642
   },
   "underObservation": {

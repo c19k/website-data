@@ -9010,12 +9010,14 @@
     "patientId": 641,
     "dateAnnounced": "2020-05-19",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Ollur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Chennai via Walayar",
+    "notes": "Travelled from Chennai via Walayar; came with P599",
     "knownCluster": "Chennai",
-    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3166988523368835?__cft__[0]=AZXxeLBR2vbDcRZ3MQYG-JLu6mQyh3RKEz96hrs5TlbxHNX6Z_PNVBiCtcbO-_qlkyJf2P4CQtg0vG3SYOxmcYJ4JlZi1WsOmmkNar_2q3g3TVisOxXiO93qNmTtQ_C4dsEG0MnSUFfyFS75Wr8qQ6RNV-TcehWF83siplYlRKTJIg&__tn__=%2CO%2CP-R",
+    "sourceURL": "https://malayalam.samayam.com/local-news/thrissur/coronavirus-one-more-positive-case-in-thrissur/amp_articleshow/75831241.cms",
     "confirmedPatient": true
   },
   {
