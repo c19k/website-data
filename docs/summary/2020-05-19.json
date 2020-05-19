@@ -3045,7 +3045,8 @@
       "observationCumulative": 67789,
       "homeObservationCumulative": 67316,
       "hosptilisedCumulative": 473,
-      "activeCumulative": 130,
+      "activeCumulative": 142,
+      "status": "Finalised",
       "date": "2020-05-19",
       "confirmedCumulative": 630,
       "confirmedAvg3d": 14,
@@ -3129,15 +3130,15 @@
       "ageGroup": "Unspecified",
       "female": 12,
       "male": 57,
-      "unspecified": 0,
-      "total": 69
+      "unspecified": 12,
+      "total": 81
     }
   ],
   "gender": {
     "female": 153,
     "male": 477,
-    "unspecified": 0,
-    "total": 630
+    "unspecified": 12,
+    "total": 642
   },
   "underObservation": {
     "2020-01-31": {
