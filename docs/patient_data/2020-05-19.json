@@ -8968,10 +8968,14 @@
   {
     "patientId": 642,
     "dateAnnounced": "2020-05-19",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Palakkad",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Reached Kochi in INS Jalashwa on 17th May",
+    "knownCluster": "Maldives",
     "confirmedPatient": true
   }
 ]
