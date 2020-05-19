@@ -8547,7 +8547,7 @@
   {
     "patientId": 608,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 33,
     "gender": "F",
     "residence": "Chalakkudy",
     "detectedCityTown": "Thrissur",
@@ -8560,7 +8560,7 @@
   {
     "patientId": 609,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 53,
     "gender": "F",
     "residence": "Chalakkudy",
     "detectedCityTown": "Thrissur",
@@ -8586,7 +8586,7 @@
   {
     "patientId": 611,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 65,
     "gender": "M",
     "residence": "Kothapparamb",
     "detectedCityTown": "Thrissur",
@@ -8599,7 +8599,9 @@
   {
     "patientId": 612,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Kattakkada",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -8611,7 +8613,9 @@
   {
     "patientId": 613,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Murukkumpuzha",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -8623,7 +8627,9 @@
   {
     "patientId": 614,
     "dateAnnounced": "2020-05-18",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "Uriyakkod",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -8706,6 +8712,7 @@
     "patientId": 620,
     "dateAnnounced": "2020-05-18",
     "ageBracket": 4,
+    "gender": "F",
     "residence": "Thrikkunnappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
