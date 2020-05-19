@@ -8875,7 +8875,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Mumbai Coloba",
+    "notes": "Travelled from Mumbai Coloba; tender coconut seller",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/165011288311123?__cft__[0]=AZV6UM3aMmePuBpovwZilUIKhbverdDN6ph6doxul97_3DxbZuNtYkwlmvnDafmh5rCdlpLpzLY3uQatxBOUZeAKixNXWGgI8RDof-3bg4TOhQliKRXbEzv5ImQWZdtKYsVswytBsmgikj4VGhNTLplFgLISwX-J7tZLMUqHVSEKTw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -8887,16 +8889,23 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Mumbai Worli",
+    "notes": "Travelled from Mumbai Worli; tender coconut seller",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/165011288311123?__cft__[0]=AZV6UM3aMmePuBpovwZilUIKhbverdDN6ph6doxul97_3DxbZuNtYkwlmvnDafmh5rCdlpLpzLY3uQatxBOUZeAKixNXWGgI8RDof-3bg4TOhQliKRXbEzv5ImQWZdtKYsVswytBsmgikj4VGhNTLplFgLISwX-J7tZLMUqHVSEKTw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
     "patientId": 633,
     "dateAnnounced": "2020-05-19",
     "ageBracket": 34,
+    "gender": "M",
+    "residence": "Kalikkaavu Vellayoor",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah, AI 960 to Kozhikode on 13 May",
+    "knownCluster": "Jeddah",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/165011288311123?__cft__[0]=AZV6UM3aMmePuBpovwZilUIKhbverdDN6ph6doxul97_3DxbZuNtYkwlmvnDafmh5rCdlpLpzLY3uQatxBOUZeAKixNXWGgI8RDof-3bg4TOhQliKRXbEzv5ImQWZdtKYsVswytBsmgikj4VGhNTLplFgLISwX-J7tZLMUqHVSEKTw&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
   {
@@ -9020,6 +9029,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Reached Kochi in INS Jalashwa on 17th May",
     "knownCluster": "Maldives",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/596068167704251?__cft__[0]=AZWyVS0r2Bb3MOBWCFd1MER2poty_aOeDy6YNzKYNGog2mxU9BBMRENkc5DCxSTKlNlKb42T34-WAFersBd5_fDjKdw-aGc46GMP0Uk9ACUzxo1CaUZHiHJNEIAEMvBeF_5X_sxFSaIkg6sbth2A6PG3bcidTQgppGylPGACgCIqjA&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   }
 ]
