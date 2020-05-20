@@ -9217,7 +9217,9 @@
   {
     "patientId": 663,
     "dateAnnounced": "2020-05-20",
-    "ageBracket": -1,
+    "ageBracket": 15,
+    "gender": "M",
+    "residence": "Thrikkarippur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
@@ -9245,9 +9247,13 @@
     "patientId": 666,
     "dateAnnounced": "2020-05-20",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Mavelikkara",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Kuwait Kochi IX 0396 on May 9, P640's husband",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/867000650372097?__cft__[0]=AZWjXGU07lk4Om2wn10VKDzvFW3GUzSAUZEc53XbzdUckysWWF8khBp6R68dP5nhlaKWLSSqmAfIL5U1OlRANZRGWrQNXPIOwkY2K5DzUvVvheVmfR9kyfWxuk1hH4_Zj08Wb2q0igel7y6oDo-jcGgGnmOlI9EHHNERJQJVuLoZRQ&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   }
 ]
