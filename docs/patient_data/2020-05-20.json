@@ -9193,6 +9193,8 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kannur",
     "sourceURL": "https://truevisionnews.com/news/three-more-people-have-been-diagnosed-with-kovid-in-kannur-district/",
     "confirmedPatient": true
   },
@@ -9206,6 +9208,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Cochin IX 0434 May 16 ",
+    "knownCluster": "Dubai",
     "sourceURL": "https://truevisionnews.com/news/three-more-people-have-been-diagnosed-with-kovid-in-kannur-district/",
     "confirmedPatient": true
   },
@@ -9219,6 +9222,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Kannur IX 0344 May 17",
+    "knownCluster": "Dubai",
     "sourceURL": "https://truevisionnews.com/news/three-more-people-have-been-diagnosed-with-kovid-in-kannur-district/",
     "confirmedPatient": true
   },
@@ -9278,6 +9282,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled Abu Dhabi Kochi IX 0452 on May 18",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/2483632581704436/posts/3169605683107119/",
     "confirmedPatient": true
   },
@@ -9291,6 +9296,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/2483632581704436/posts/3169605683107119/",
     "confirmedPatient": true
   },
