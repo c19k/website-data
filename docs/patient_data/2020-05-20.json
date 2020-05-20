@@ -7161,9 +7161,10 @@
     "residence": "Chavakkad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-05-20",
     "sourceURL": "https://www.deshabhimani.com/news/kerala/covid-19-kerala/870695",
     "confirmedPatient": true
   },
@@ -7175,9 +7176,10 @@
     "residence": "Chavakkad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-05-20",
     "sourceURL": "https://www.deshabhimani.com/news/kerala/covid-19-kerala/870695",
     "confirmedPatient": true
   },
@@ -7466,10 +7468,11 @@
     "residence": "Kelakam",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Police Officer posted at Wayanad",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "releasedOn": "2020-05-20",
     "sourceURL": "https://prdlive.kerala.gov.in/news/80782",
     "confirmedPatient": true
   },
@@ -9134,7 +9137,8 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Qatar",
+    "notes": "Travelled from Qatar to Kochi May 9/10 2020 IX 0476",
+    "knownCluster": "Doha",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/165307544948164",
     "confirmedPatient": true
   },
@@ -9147,7 +9151,8 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Abu Dhabhi",
+    "notes": "Travelled from Abu Dhabi to Kochi IX 0348 on 16 May 2020",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/165307544948164",
     "confirmedPatient": true
   },
@@ -9160,7 +9165,8 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Abu Dhabhi",
+    "notes": "Travelled from Abu Dhabi to Kochi IX 0348 on 16 May 2020",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/165307544948164",
     "confirmedPatient": true
   },
@@ -9173,7 +9179,8 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Abu Dhabhi",
+    "notes": "Travelled from Abu Dhabi to Kochi IX 0348 on 16 May 2020",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/165307544948164",
     "confirmedPatient": true
   },
@@ -9227,7 +9234,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait on May 14 (date and flght details to be verified)",
+    "notes": "Travelled from Kuwait to Kozhikode on IX 0394 on May 13 2020",
     "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/iprdpta/posts/177774633689594",
     "confirmedPatient": true
@@ -9253,7 +9260,9 @@
   {
     "patientId": 661,
     "dateAnnounced": "2020-05-20",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "M",
+    "residence": "Thrissur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
@@ -9298,10 +9307,15 @@
   {
     "patientId": 665,
     "dateAnnounced": "2020-05-20",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Abu Dhabi Kochi IX 0452 on 18th May",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1008564766208013",
     "confirmedPatient": true
   },
   {
