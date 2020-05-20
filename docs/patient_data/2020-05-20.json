@@ -7582,9 +7582,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Health worker at GH Kasaragod; XRay Technician, District Hospital (Kanhangad)",
     "knownCluster": "Kasaragod",
+    "sourceURL": "http://kasaragodchannel.com/?p=163673",
     "confirmedPatient": true
   },
   {
@@ -9261,6 +9262,9 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Damam to Kochi on 12 May 2020",
+    "knownCluster": "Damam",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2550877268561132",
     "confirmedPatient": true
   },
   {
@@ -9270,6 +9274,9 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2550877268561132",
     "confirmedPatient": true
   },
   {
