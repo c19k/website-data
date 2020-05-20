@@ -9207,19 +9207,29 @@
   {
     "patientId": 657,
     "dateAnnounced": "2020-05-20",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Mezhuveli",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on May 13",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/177774633689594",
     "confirmedPatient": true
   },
   {
     "patientId": 658,
     "dateAnnounced": "2020-05-20",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "F",
+    "residence": "Ranni",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 14 (date and flght details to be verified)",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/177774633689594",
     "confirmedPatient": true
   },
   {
@@ -9281,7 +9291,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
-    "knownCluster": "Mumbao",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2945987665515311&id=1135018129945616&substory_index=0&__cft__[0]=AZUhZnzbEpnchHR4g9bGpDLF4rg4qPb7Y7SHE2PNeq3M7ngmFL6lRN0TDhMilKCLd2IhGP15ozhMSaWaTETx085vTSGhAG1ftYhGJaU7xZMUGGBnor3TKrruYgileyKSRWrM9Br8qSKOEtoi3rRLzw3c7jfb6ljySQvT-LTzJOilZg&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
