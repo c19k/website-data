@@ -9009,7 +9009,7 @@
   {
     "patientId": 641,
     "dateAnnounced": "2020-05-19",
-    "ageBracket": -1,
+    "ageBracket": 36,
     "gender": "M",
     "residence": "Ollur",
     "detectedCityTown": "Thrissur",
@@ -9017,7 +9017,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai via Walayar; came with P599",
     "knownCluster": "Chennai",
-    "sourceURL": "https://malayalam.samayam.com/local-news/thrissur/coronavirus-one-more-positive-case-in-thrissur/amp_articleshow/75831241.cms",
+    "sourceURL": "https://malayalam.samayam.com/local-news/thrissur/coronavirus-one-more-positive-case-in-thrissur/amp_articleshow/75831241.cms https://www.manoramaonline.com/district-news/thrissur/2020/05/20/thrissur-one-person-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
