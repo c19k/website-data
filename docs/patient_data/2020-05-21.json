@@ -7119,12 +7119,13 @@
     "dateAnnounced": "2020-05-10",
     "ageBracket": 25,
     "gender": "M",
-    "residence": "Edavaka",
+    "residence": "Bathery Cheeral",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "notes": "Headload worker at Koyambedu Market Chennai",
     "knownCluster": "Koyambedu",
+    "sourceURL": "https://epaper.deshabhimani.com/2667655/Kozhikode/Kozhikode-11-May-2020#page/11/2",
     "confirmedPatient": true
   },
   {
@@ -7132,12 +7133,13 @@
     "dateAnnounced": "2020-05-10",
     "ageBracket": 20,
     "gender": "M",
-    "residence": "Edavaka",
+    "residence": "Edavaka Kammana",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "P 502's friend",
     "knownCluster": "Wayanad",
+    "sourceURL": "https://epaper.deshabhimani.com/2667655/Kozhikode/Kozhikode-11-May-2020#page/11/2 https://epaper.deshabhimani.com/c/52092419",
     "confirmedPatient": true
   },
   {
@@ -7151,6 +7153,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Wife of someone who came in contact with 498",
     "knownCluster": "Wayanad",
+    "sourceURL": "https://epaper.deshabhimani.com/2667655/Kozhikode/Kozhikode-11-May-2020#page/11/2",
     "confirmedPatient": true
   },
   {
