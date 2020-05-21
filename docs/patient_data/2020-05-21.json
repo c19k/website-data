@@ -7428,10 +7428,11 @@
     "residence": "Peruvallur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Police Officer posted at Wayanad",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "releasedOn": "2020-05-21",
     "sourceURL": "https://www.facebook.com/990649497647157/posts/3292802537431830/",
     "confirmedPatient": true
   },
