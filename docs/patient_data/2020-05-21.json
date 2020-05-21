@@ -8554,7 +8554,6 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled Abu Dhabi TRV via IX 538 on 16 May",
     "knownCluster": "Abu Dhabi",
-    "districtPatientNumber": "Kollam P28",
     "sourceURL": "https://www.kadakkalnews.com/2020/05/kollam-new-six-positive-case.html?m=1",
     "confirmedPatient": true
   },
@@ -9616,6 +9615,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Traveleld Abu Dhabi Trivandrum IX 538 on 16 May 2020",
     "knownCluster": "Abu Dhabi",
+    "districtPatientNumber": "Kollam P28",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1607775916041281",
     "confirmedPatient": true
   },
@@ -9630,6 +9630,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Puttaparthy",
     "knownCluster": "Puttaparthi",
+    "districtPatientNumber": "Kollam P29",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1607775916041281",
     "confirmedPatient": true
   },
