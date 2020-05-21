@@ -9561,19 +9561,29 @@
   {
     "patientId": 688,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Santhanpara",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=577925683130195&id=230880581168042",
     "confirmedPatient": true
   },
   {
     "patientId": 689,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 64,
+    "gender": "M",
+    "residence": "Kodumunda",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/597202570924144",
     "confirmedPatient": true
   },
   {
