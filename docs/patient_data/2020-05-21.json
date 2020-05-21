@@ -9551,6 +9551,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi (details awaited)",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
@@ -9560,6 +9562,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi (details awaited)",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
@@ -9569,24 +9573,36 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi (details awaited)",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 682,
     "dateAnnounced": "2020-05-21",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kochuveli",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Kuwait TRV on IX 0396 on May 20 evening",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2551615285153997",
     "confirmedPatient": true
   },
   {
     "patientId": 683,
     "dateAnnounced": "2020-05-21",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kattakada",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Abu Dhabi TRV IX 0538 on May 16 2020",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2551615285153997",
     "confirmedPatient": true
   },
   {
@@ -9599,15 +9615,22 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Traveleld Abu Dhabi Trivandrum IX 538 on 16 May 2020",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1607775916041281",
     "confirmedPatient": true
   },
   {
     "patientId": 685,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Piravanthoor Puriyottumala",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Puttaparthy",
+    "knownCluster": "Puttaparthi",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1607775916041281",
     "confirmedPatient": true
   },
   {
