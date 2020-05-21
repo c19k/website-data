@@ -7911,9 +7911,10 @@
     "residence": "Cheeral",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Kozhikode IX344 on May 7 to Karipur, married to P561",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-05-21",
     "sourceURL": "http://opennewser.com/home/get_news/26231",
     "confirmedPatient": true
   },
