@@ -9579,10 +9579,15 @@
   {
     "patientId": 690,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Chengala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai (flight details missing) on 18th",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=173905300745973&id=100507158085788",
     "confirmedPatient": true
   }
 ]
