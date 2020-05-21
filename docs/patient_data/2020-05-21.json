@@ -7372,9 +7372,10 @@
     "residence": "Uzhavoor",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait to Kochi, IX 396, May 9",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-05-21",
     "confirmedPatient": true
   },
   {
@@ -7777,10 +7778,11 @@
     "residence": "Mananthawady",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Son of P498",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "releasedOn": "2020-05-21",
     "sourceURL": "http://opennewser.com/home/get_news/26208",
     "confirmedPatient": true
   },
@@ -7792,10 +7794,11 @@
     "residence": "Thirunelli",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Son-in-law of P498",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "releasedOn": "2020-05-21",
     "sourceURL": "http://opennewser.com/home/get_news/26208",
     "confirmedPatient": true
   },
@@ -7807,10 +7810,11 @@
     "residence": "Valliyoorkaavu",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Policeman in contact with P498",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "releasedOn": "2020-05-21",
     "sourceURL": "http://opennewser.com/home/get_news/26208",
     "confirmedPatient": true
   },
@@ -8357,9 +8361,10 @@
     "residence": "Nadapuram",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Kozhikode IX344 on May 7 to Karipur",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-05-21",
     "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/05/18/kozhikode-covid-19-positive-result.html",
     "confirmedPatient": true
   },
@@ -9380,6 +9385,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled IX 348 Abudhabi Kozhikode on May 16 2020",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/165586741586911/",
     "confirmedPatient": true
   },
   {
@@ -9393,6 +9399,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuala Lumpur to Kochi IX 0683 on May 10 2020",
     "knownCluster": "Kuala Lumpur",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/165586741586911/",
     "confirmedPatient": true
   },
   {
@@ -9404,8 +9411,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait",
+    "notes": "Travelled from Kuwait to Kozhikode IX 0394 on 13 May 2020",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/165586741586911/",
     "confirmedPatient": true
   },
   {
@@ -9417,8 +9425,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Mumbai",
+    "notes": "Travelled from Mumbai on May 14",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/165586741586911/",
     "confirmedPatient": true
   },
   {
@@ -9430,44 +9439,65 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Mumbai",
+    "notes": "Travelled from Mumbai on May 14",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/165586741586911/",
     "confirmedPatient": true
   },
   {
     "patientId": 672,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "F",
+    "residence": "Payyanur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/kannurvisiononline/posts/2443128542600679",
     "confirmedPatient": true
   },
   {
     "patientId": 673,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 59,
+    "gender": "M",
+    "residence": "Mokeri ",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/kannurvisiononline/posts/2443128542600679",
     "confirmedPatient": true
   },
   {
     "patientId": 674,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 70,
+    "gender": "M",
+    "residence": "Kottayam Malabar",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/kannurvisiononline/posts/2443128542600679",
     "confirmedPatient": true
   },
   {
     "patientId": 675,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 67,
+    "gender": "M",
+    "residence": "Peringathoor",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Gujarat",
+    "knownCluster": "Gujarat",
+    "sourceURL": "https://www.facebook.com/kannurvisiononline/posts/2443128542600679",
     "confirmedPatient": true
   },
   {
