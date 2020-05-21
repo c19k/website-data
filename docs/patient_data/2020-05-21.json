@@ -9505,28 +9505,43 @@
   {
     "patientId": 676,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Neendur",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi, IX 396, May 9",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2600257376853155",
     "confirmedPatient": true
   },
   {
     "patientId": 677,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 83,
+    "gender": "F",
+    "residence": "Manganam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Dubai Kochi on IX 0434 on 11 May 2020",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2600257376853155",
     "confirmedPatient": true
   },
   {
     "patientId": 678,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Thrikkodithanam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Dubai Kochi on IX 0434 on 11 May 2020",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2600257376853155",
     "confirmedPatient": true
   },
   {
@@ -9577,10 +9592,13 @@
   {
     "patientId": 684,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 63,
+    "gender": "M",
+    "residence": "Thirumullavaram",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Traveleld Abu Dhabi Trivandrum IX 538 on 16 May 2020",
     "confirmedPatient": true
   },
   {
@@ -9595,19 +9613,29 @@
   {
     "patientId": 686,
     "dateAnnounced": "2020-05-21",
-    "ageBracket": -1,
+    "ageBracket": 60,
+    "gender": "M",
+    "residence": "Mavelikkara",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi, IX 396, May 9",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/558023728128795",
     "confirmedPatient": true
   },
   {
     "patientId": 687,
     "dateAnnounced": "2020-05-21",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Chengannoor",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Traveleld from Chennai; youth",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/558023728128795",
     "confirmedPatient": true
   },
   {
