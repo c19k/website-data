@@ -9970,10 +9970,15 @@
   {
     "patientId": 709,
     "dateAnnounced": "2020-05-22",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Kumbala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=174167730719730&id=100507158085788",
     "confirmedPatient": true
   },
   {
