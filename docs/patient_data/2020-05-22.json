@@ -10263,10 +10263,15 @@
   {
     "patientId": 730,
     "dateAnnounced": "2020-05-22",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Kottarakkara",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Mumbai TVC by Rajadhani",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1608703442615195",
     "confirmedPatient": true
   },
   {
