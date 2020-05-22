@@ -9722,6 +9722,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "knownCluster": "Kannur",
     "confirmedPatient": true
   },
   {
@@ -9929,6 +9930,8 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Health worker",
+    "knownCluster": "Kozhikode",
     "confirmedPatient": true
   },
   {
@@ -10015,10 +10018,13 @@
   {
     "patientId": 724,
     "dateAnnounced": "2020-05-22",
-    "ageBracket": -1,
+    "ageBracket": 73,
+    "gender": "F",
+    "residence": "Chavakkad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
+    "notes": "Travelled from Mumbai",
     "confirmedPatient": true
   },
   {
