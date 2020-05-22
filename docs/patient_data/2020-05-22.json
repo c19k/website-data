@@ -9719,6 +9719,7 @@
     "patientId": 691,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9729,6 +9730,7 @@
     "patientId": 692,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Chovva",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9738,6 +9740,7 @@
     "patientId": 693,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Mattannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9747,6 +9750,7 @@
     "patientId": 694,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Mattannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9756,6 +9760,7 @@
     "patientId": 695,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Muzhappilangad",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9765,6 +9770,7 @@
     "patientId": 696,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Kunnothparamb",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9774,6 +9780,7 @@
     "patientId": 697,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Mekkunnu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9783,6 +9790,7 @@
     "patientId": 698,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Mekkunnu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9792,6 +9800,7 @@
     "patientId": 699,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Mekkunnu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9801,6 +9810,7 @@
     "patientId": 700,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Chembilod",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9810,6 +9820,7 @@
     "patientId": 701,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Cheruvanchery",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9819,6 +9830,7 @@
     "patientId": 702,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "residence": "Ayyankunnu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -9834,6 +9846,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/100507158085788/posts/174167730719730/",
     "confirmedPatient": true
   },
@@ -9847,6 +9860,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/100507158085788/posts/174167730719730/",
     "confirmedPatient": true
   },
@@ -9860,6 +9874,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/100507158085788/posts/174167730719730/",
     "confirmedPatient": true
   },
@@ -9873,6 +9888,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/100507158085788/posts/174167730719730/",
     "confirmedPatient": true
   },
@@ -9886,6 +9902,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/100507158085788/posts/174167730719730/",
     "confirmedPatient": true
   },
@@ -9899,6 +9916,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/100507158085788/posts/174167730719730/",
     "confirmedPatient": true
   },
@@ -9920,7 +9938,7 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait on May 20 to Kannur",
+    "notes": "Travelled from Kuwait on May 19 evening to Kannur IX 0790",
     "knownCluster": "Kuwait",
     "sourceURL": "https://www.mathrubhumi.com/news/kerala/covid19-lockdown-kozhikode-1.4777445",
     "confirmedPatient": true
@@ -9934,7 +9952,7 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait on May 20 to Kannur",
+    "notes": "Travelled from Kuwait on May 19 evening to Kannur IX 0790",
     "knownCluster": "Kuwait",
     "sourceURL": "https://www.mathrubhumi.com/news/kerala/covid19-lockdown-kozhikode-1.4777445",
     "confirmedPatient": true
@@ -9948,7 +9966,7 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait on May 13 to Karippur",
+    "notes": "Travelled from Kuwait on May 13 to Karippur IX 0394",
     "knownCluster": "Kuwait",
     "sourceURL": "https://www.mathrubhumi.com/news/kerala/covid19-lockdown-kozhikode-1.4777445",
     "confirmedPatient": true
@@ -10035,6 +10053,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
@@ -10046,28 +10067,37 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
     "patientId": 722,
     "dateAnnounced": "2020-05-22",
-    "ageBracket": -1,
+    "ageBracket": 23,
     "gender": "M",
     "residence": "Athavanad",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Raigad ",
+    "knownCluster": "Raigad",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
     "patientId": 723,
     "dateAnnounced": "2020-05-22",
-    "ageBracket": -1,
+    "ageBracket": 35,
     "gender": "M",
     "residence": "Vallikkunnu",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Karnool in AP",
+    "knownCluster": "Karnool",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
@@ -10080,7 +10110,9 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Deceased",
     "notes": "Travelled from Mumbai",
-    "oeceasedOn": "2020-05-22",
+    "knownCluster": "Mumbai",
+    "oeceasedOn": "2020-05-21",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
@@ -10093,7 +10125,8 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Damam",
-    "knownCluster": "Damam",
+    "knownCluster": "Dammam",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
@@ -10106,7 +10139,8 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Damam",
-    "knownCluster": "Damam",
+    "knownCluster": "Dammam",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
@@ -10118,7 +10152,8 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Damam",
-    "knownCluster": "Damam",
+    "knownCluster": "Dammam",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
@@ -10132,6 +10167,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on May 19",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
@@ -10145,6 +10181,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi May 18",
     "knownCluster": "Abu Dabhi",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
@@ -10160,18 +10197,28 @@
     "patientId": 731,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Oonnukal",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
   {
     "patientId": 732,
     "dateAnnounced": "2020-05-22",
     "ageBracket": -1,
-    "detectedCityTown": "Wayanad",
+    "gender": "F",
+    "residence": "Kalpeta",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 20 to Kochi",
+    "knownCluster": "Dubai",
+    "sourceURL": "http://opennewser.com/home/get_news/26387",
     "confirmedPatient": true
   }
 ]

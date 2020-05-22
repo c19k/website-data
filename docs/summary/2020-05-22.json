@@ -1562,7 +1562,8 @@
       "deaths": 0,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 21
+        "Wayanad": 20,
+        "Kozhikode": 1
       },
       "dailyConfirmedCount": [
         0,
@@ -3169,16 +3170,16 @@
     {
       "ageGroup": "20-29",
       "female": 40,
-      "male": 117,
+      "male": 118,
       "unspecified": 0,
-      "total": 157
+      "total": 158
     },
     {
       "ageGroup": "30-39",
       "female": 26,
-      "male": 139,
+      "male": 140,
       "unspecified": 0,
-      "total": 165
+      "total": 166
     },
     {
       "ageGroup": "40-49",
@@ -3224,16 +3225,16 @@
     },
     {
       "ageGroup": "Unspecified",
-      "female": 13,
-      "male": 61,
-      "unspecified": 21,
-      "total": 95
+      "female": 14,
+      "male": 60,
+      "unspecified": 19,
+      "total": 93
     }
   ],
   "gender": {
-    "female": 164,
-    "male": 546,
-    "unspecified": 22,
+    "female": 165,
+    "male": 547,
+    "unspecified": 20,
     "total": 732
   },
   "underObservation": {
