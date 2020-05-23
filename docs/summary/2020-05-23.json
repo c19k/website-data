@@ -3204,23 +3204,23 @@
     {
       "ageGroup": "20-29",
       "female": 45,
-      "male": 122,
+      "male": 124,
       "unspecified": 0,
-      "total": 167
+      "total": 169
     },
     {
       "ageGroup": "30-39",
       "female": 29,
-      "male": 143,
+      "male": 148,
       "unspecified": 0,
-      "total": 172
+      "total": 177
     },
     {
       "ageGroup": "40-49",
       "female": 21,
-      "male": 109,
+      "male": 110,
       "unspecified": 0,
-      "total": 130
+      "total": 131
     },
     {
       "ageGroup": "50-59",
@@ -3261,14 +3261,14 @@
       "ageGroup": "Unspecified",
       "female": 13,
       "male": 60,
-      "unspecified": 40,
-      "total": 113
+      "unspecified": 32,
+      "total": 105
     }
   ],
   "gender": {
     "female": 182,
-    "male": 571,
-    "unspecified": 41,
+    "male": 579,
+    "unspecified": 33,
     "total": 794
   },
   "underObservation": {
