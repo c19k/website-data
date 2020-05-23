@@ -10573,47 +10573,62 @@
   {
     "patientId": 752,
     "dateAnnounced": "2020-05-23",
-    "ageBracket": -1,
+    "ageBracket": 64,
+    "gender": "M",
+    "residence": "Panur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Dubai Karippur 7 May IX344",
     "sourceURL": "https://kannurvarthakal.in/23/05/2020/35165/#.XskyRNjhV-E",
     "confirmedPatient": true
   },
   {
     "patientId": 753,
     "dateAnnounced": "2020-05-23",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "M",
+    "residence": "Puzhathi",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Dubai Karippur 7 May IX344",
     "confirmedPatient": true
   },
   {
     "patientId": 754,
     "dateAnnounced": "2020-05-23",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Thalassery Vadakkumpad",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Dubai Karippur 7 May IX344",
     "confirmedPatient": true
   },
   {
     "patientId": 755,
     "dateAnnounced": "2020-05-23",
-    "ageBracket": -1,
+    "ageBracket": 61,
+    "gender": "M",
+    "residence": "Pinarayi",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Dubai Karippur 7 May IX344",
     "confirmedPatient": true
   },
   {
     "patientId": 756,
     "dateAnnounced": "2020-05-23",
-    "ageBracket": -1,
+    "ageBracket": 21,
+    "gender": "F",
+    "residence": "Bakkalam",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Doha Kozhikode on 18th May 2020 IX 0374",
     "confirmedPatient": true
   },
   {
@@ -10623,6 +10638,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Riyadh Kannur AI 1906 on 20th May",
     "confirmedPatient": true
   },
   {
