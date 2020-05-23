@@ -10554,9 +10554,7 @@
   {
     "patientId": 752,
     "dateAnnounced": "2020-05-23",
-    "ageBracket": 34,
-    "gender": "F",
-    "residence": "Mattannur",
+    "ageBracket": -1,
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -10565,9 +10563,7 @@
   {
     "patientId": 753,
     "dateAnnounced": "2020-05-23",
-    "ageBracket": 4,
-    "gender": "F",
-    "residence": "Mattannur",
+    "ageBracket": -1,
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
