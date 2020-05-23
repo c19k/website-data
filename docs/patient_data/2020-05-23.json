@@ -8101,9 +8101,10 @@
     "residence": "Punalur ",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled Jeddah-Kochi AI 964 on 14 May 2020",
     "knownCluster": "Jeddah",
+    "releasedOn": "2020-05-23",
     "sourceURL": "https://www.facebook.com/233008147097016/posts/1004809899916833/",
     "confirmedPatient": true
   },
@@ -11097,6 +11098,7 @@
     "notes": "Travelled by Mumbai TVM Special Train on May 19",
     "knownCluster": "Mumbai",
     "districtPatientNumber": "Kollam P31",
+    "sourceURL": "https://www.facebook.com/prdkolllam/posts/2966175970164859",
     "confirmedPatient": true
   },
   {
@@ -11108,9 +11110,10 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Riyadh to Kozhikode",
+    "notes": "Travelled from Riyadh to Kozhikode on 19 May 2020 AI 1906\t",
     "knownCluster": "Riyadh",
     "districtPatientNumber": "Kollam P31",
+    "sourceURL": "https://www.facebook.com/prdkolllam/posts/2966175970164859",
     "confirmedPatient": true
   },
   {
@@ -11162,7 +11165,7 @@
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled fro Koyambedu, Chennai",
+    "notes": "Travelled fro Koyambedu, Chennaim",
     "knownCluster": "Chennai",
     "districtPatientNumber": "Wayanad P24",
     "sourceURL": "https://www.facebook.com/wayanadWE/posts/889815371482454",
