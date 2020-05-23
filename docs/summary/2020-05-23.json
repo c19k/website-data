@@ -122,10 +122,11 @@
         0,
         1,
         1,
-        7
+        7,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 7,
+      "newlyConfirmed": 0,
       "recovered": 179,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -252,10 +253,11 @@
         5,
         3,
         4,
-        12
+        12,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 12,
+      "newlyConfirmed": 0,
       "recovered": 119,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
@@ -381,10 +383,11 @@
         3,
         4,
         5,
-        4
+        4,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 4,
+      "newlyConfirmed": 0,
       "recovered": 26,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -511,10 +514,11 @@
         0,
         1,
         0,
-        5
+        5,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 5,
+      "newlyConfirmed": 0,
       "recovered": 25,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -641,10 +645,11 @@
         1,
         7,
         1,
-        5
+        5,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 5,
+      "newlyConfirmed": 0,
       "recovered": 13,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
@@ -770,10 +775,11 @@
         1,
         2,
         3,
-        4
+        4,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 4,
+      "newlyConfirmed": 0,
       "recovered": 15,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
@@ -899,10 +905,11 @@
         0,
         0,
         2,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 20,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
@@ -1028,10 +1035,11 @@
         0,
         0,
         3,
-        2
+        2,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 2,
+      "newlyConfirmed": 0,
       "recovered": 21,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
@@ -1156,6 +1164,7 @@
         1,
         0,
         1,
+        0,
         0,
         0
       ],
@@ -1287,6 +1296,7 @@
         0,
         0,
         1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1417,10 +1427,11 @@
         1,
         2,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 17,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
@@ -1548,6 +1559,7 @@
         0,
         2,
         2,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1679,10 +1691,11 @@
         0,
         0,
         0,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 10,
       "name_ja": "വയനാട്",
       "zone": "Orange",
@@ -1808,6 +1821,7 @@
         1,
         1,
         2,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
