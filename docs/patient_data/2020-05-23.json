@@ -10828,8 +10828,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Abu Dhabi on May 17 to Tvm",
+    "notes": "Travelled from Abu Dhabi on May 16 evening to TRV IX 0538",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/559133884684446",
     "confirmedPatient": true
   },
   {
@@ -10841,34 +10842,37 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Saudi Arabia on May 19 to Kochi",
-    "knownCluster": "Saudi Arabia",
+    "notes": "Travelled from Dammam on May 19 to Kochi AI 1908",
+    "knownCluster": "Dammam",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/559133884684446",
     "confirmedPatient": true
   },
   {
     "patientId": 778,
     "dateAnnounced": "2020-05-23",
     "ageBracket": -1,
-    "gender": "M",
+    "gender": "F",
     "residence": "Kuttanad",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Mumbai",
+    "notes": "Travelled from Mumbai to TVC by train 19 May",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/559133884684446",
     "confirmedPatient": true
   },
   {
     "patientId": 779,
     "dateAnnounced": "2020-05-23",
     "ageBracket": -1,
-    "gender": "F",
+    "gender": "M",
     "residence": "Chengannur",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Mumbai",
+    "notes": "Travelled from Mumbai to EKM by train 19 May",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/559133884684446",
     "confirmedPatient": true
   },
   {
@@ -10880,9 +10884,10 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Contact Transmission",
+    "notes": "Contact Transmission; P687's mom",
     "knownCluster": "Chengannur",
     "dhsPatientNumber": "687",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/559133884684446",
     "confirmedPatient": true
   },
   {
