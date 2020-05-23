@@ -10805,7 +10805,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on May 14",
     "knownCluster": "Mumbai",
-    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/23/covid-updates-district-wise-split-up.html",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/166185078193744",
     "confirmedPatient": true
   },
   {
@@ -10819,6 +10819,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai on May 14",
     "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/166185078193744",
     "confirmedPatient": true
   },
   {
@@ -10832,6 +10833,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maldives via INS Magar, reached on 12 May 2020",
     "knownCluster": "Maldives",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/166185078193744",
     "confirmedPatient": true
   },
   {
@@ -10845,6 +10847,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maldives via INS Magar, reached on 12 May 2020",
     "knownCluster": "Maldives",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/166185078193744",
     "confirmedPatient": true
   },
   {
@@ -10858,6 +10861,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Singapore BLR Kochi on 12 May IX 0485",
     "knownCluster": "Singapore",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/166185078193744",
     "confirmedPatient": true
   },
   {
@@ -10871,6 +10875,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi Kochi on May 7 IX 0452",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/166185078193744",
     "confirmedPatient": true
   },
   {
@@ -10884,6 +10889,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait Kozhikode on May 13 IX 0394",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/166185078193744",
     "confirmedPatient": true
   },
   {
@@ -10895,8 +10901,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Delhi by special train on May 20",
+    "notes": "Travelled from Delhi by special train on May 20; hospitalized in KKD",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/166185078193744",
     "confirmedPatient": true
   },
   {
@@ -11081,24 +11088,29 @@
   {
     "patientId": 789,
     "dateAnnounced": "2020-05-23",
-    "ageBracket": -1,
+    "ageBracket": 58,
     "gender": "M",
+    "residence": "Thrikkadavur",
     "detectedCityTown": "Kollam",
-    "detectedPrefecture": "Thiruvananthapuram",
+    "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "Tvm native at Parippally",
+    "notes": "Travelled by Mumbai TVM Special Train on May 19",
+    "knownCluster": "Mumbai",
+    "districtPatientNumber": "Kollam P31",
     "confirmedPatient": true
   },
   {
     "patientId": 790,
     "dateAnnounced": "2020-05-23",
     "ageBracket": -1,
-    "gender": "M",
+    "gender": "F",
+    "residence": "Punalur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Dubai",
-    "knownCluster": "Dubai",
+    "notes": "Travelled from Riyadh to Kozhikode",
+    "knownCluster": "Riyadh",
+    "districtPatientNumber": "Kollam P31",
     "confirmedPatient": true
   },
   {
@@ -11136,7 +11148,7 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
-    "notes": "Traveleld from BLR on 18th May",
+    "notes": "Travelled from BLR on 18th May",
     "knownCluster": "Bangalore",
     "sourceURL": "https://www.facebook.com/diokottayam/posts/1159697717720188",
     "confirmedPatient": true
@@ -11144,7 +11156,7 @@
   {
     "patientId": 794,
     "dateAnnounced": "2020-05-23",
-    "ageBracket": -1,
+    "ageBracket": 40,
     "gender": "M",
     "residence": "Pulppalli",
     "detectedCityTown": "Wayanad",
@@ -11153,7 +11165,7 @@
     "notes": "Travelled fro Koyambedu, Chennai",
     "knownCluster": "Chennai",
     "districtPatientNumber": "Wayanad P24",
-    "sourceURL": "http://opennewser.com/home/get_news/26410",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/889815371482454",
     "confirmedPatient": true
   }
 ]
