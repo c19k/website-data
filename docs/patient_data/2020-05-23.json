@@ -10293,13 +10293,574 @@
     "dateAnnounced": "2020-05-22",
     "ageBracket": 53,
     "gender": "F",
-    "residence": "Kalpeta",
+    "residence": "Kalpetta",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on May 20 to Kochi \tIX 0434",
     "knownCluster": "Dubai",
     "sourceURL": "https://www.manoramaonline.com/district-news/wayanad/2020/05/23/wayanad-kalpetta-one-covid.html",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 733,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 734,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 735,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 736,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 737,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 738,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 739,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 740,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 741,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 742,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 743,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 744,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 745,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 746,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 747,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 748,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 749,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 750,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 751,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 752,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 753,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 754,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 755,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 756,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 757,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 758,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 759,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 760,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 761,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 762,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 763,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 764,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 765,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 766,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 767,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 768,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 769,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 770,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 771,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 772,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 773,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 774,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 775,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 776,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 777,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 778,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 779,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 780,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 781,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 782,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 783,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 784,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 785,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 786,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 787,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 788,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 789,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 790,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 791,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 792,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 793,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 794,
+    "dateAnnounced": "2020-05-23",
+    "ageBracket": -1,
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   }
 ]
