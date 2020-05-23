@@ -11043,6 +11043,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Details awaited",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=174444497358720&id=100507158085788",
     "confirmedPatient": true
   },
@@ -11055,6 +11056,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from the Middle East",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=174444497358720&id=100507158085788",
     "confirmedPatient": true
   },
@@ -11120,11 +11122,10 @@
     "patientId": 791,
     "dateAnnounced": "2020-05-23",
     "ageBracket": -1,
-    "gender": "M",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Dubai",
+    "notes": "Originally assigned to Kollam; Kollam says this is some other district's",
     "knownCluster": "Dubai",
     "confirmedPatient": true
   },
