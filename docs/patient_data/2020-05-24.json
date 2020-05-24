@@ -11587,9 +11587,12 @@
     "patientId": 840,
     "dateAnnounced": "2020-05-24",
     "ageBracket": -1,
+    "gender": "F",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "knownCluster": "Palakkad",
     "confirmedPatient": true
   },
   {
@@ -11643,6 +11646,15 @@
     "ageBracket": -1,
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 847,
+    "dateAnnounced": "2020-05-24",
+    "ageBracket": -1,
+    "detectedCityTown": "Unspecified",
+    "detectedPrefecture": "Unspecified",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   }
