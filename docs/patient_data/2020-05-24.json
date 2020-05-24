@@ -11202,6 +11202,8 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE to Kerala on 17th (Flight?)",
+    "knownCluster": "UAE",
+    "sourceURL": "https://thiruvananthapuramvartha.com/2020/05/24/thiruvananthapuram-covid-4/?fbclid=IwAR2yXHQEVSIzD6nixe7mtgM5DHk3rBFS7rBktOTWRR8sRuEpajM4cACW-xc",
     "confirmedPatient": true
   },
   {
@@ -11214,6 +11216,8 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscat on 23 May",
+    "knownCluster": "Muscat",
+    "sourceURL": "https://thiruvananthapuramvartha.com/2020/05/24/thiruvananthapuram-covid-4/?fbclid=IwAR2yXHQEVSIzD6nixe7mtgM5DHk3rBFS7rBktOTWRR8sRuEpajM4cACW-xc",
     "confirmedPatient": true
   },
   {
@@ -11226,6 +11230,8 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi by train",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://thiruvananthapuramvartha.com/2020/05/24/thiruvananthapuram-covid-4/?fbclid=IwAR2yXHQEVSIzD6nixe7mtgM5DHk3rBFS7rBktOTWRR8sRuEpajM4cACW-xc",
     "confirmedPatient": true
   },
   {
@@ -11238,6 +11244,8 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://thiruvananthapuramvartha.com/2020/05/24/thiruvananthapuram-covid-4/?fbclid=IwAR2yXHQEVSIzD6nixe7mtgM5DHk3rBFS7rBktOTWRR8sRuEpajM4cACW-xc",
     "confirmedPatient": true
   },
   {
@@ -11250,6 +11258,8 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://thiruvananthapuramvartha.com/2020/05/24/thiruvananthapuram-covid-4/?fbclid=IwAR2yXHQEVSIzD6nixe7mtgM5DHk3rBFS7rBktOTWRR8sRuEpajM4cACW-xc",
     "confirmedPatient": true
   },
   {
@@ -11262,6 +11272,8 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://thiruvananthapuramvartha.com/2020/05/24/thiruvananthapuram-covid-4/?fbclid=IwAR2yXHQEVSIzD6nixe7mtgM5DHk3rBFS7rBktOTWRR8sRuEpajM4cACW-xc",
     "confirmedPatient": true
   },
   {
@@ -11274,6 +11286,8 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://thiruvananthapuramvartha.com/2020/05/24/thiruvananthapuram-covid-4/?fbclid=IwAR2yXHQEVSIzD6nixe7mtgM5DHk3rBFS7rBktOTWRR8sRuEpajM4cACW-xc",
     "confirmedPatient": true
   },
   {
@@ -11286,6 +11300,8 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://thiruvananthapuramvartha.com/2020/05/24/thiruvananthapuram-covid-4/?fbclid=IwAR2yXHQEVSIzD6nixe7mtgM5DHk3rBFS7rBktOTWRR8sRuEpajM4cACW-xc",
     "confirmedPatient": true
   },
   {
@@ -11298,18 +11314,22 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://thiruvananthapuramvartha.com/2020/05/24/thiruvananthapuram-covid-4/?fbclid=IwAR2yXHQEVSIzD6nixe7mtgM5DHk3rBFS7rBktOTWRR8sRuEpajM4cACW-xc",
     "confirmedPatient": true
   },
   {
     "patientId": 805,
     "dateAnnounced": "2020-05-24",
     "ageBracket": 40,
-    "gender": "F",
+    "gender": "M",
     "residence": "Venjarammood",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrested in Abkari case",
+    "knownCluster": "Trivandrum",
+    "sourceURL": "https://thiruvananthapuramvartha.com/2020/05/24/thiruvananthapuram-covid-4/?fbclid=IwAR2yXHQEVSIzD6nixe7mtgM5DHk3rBFS7rBktOTWRR8sRuEpajM4cACW-xc",
     "confirmedPatient": true
   },
   {
@@ -11322,6 +11342,8 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Nagercoil",
+    "knownCluster": "Nagercoil",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2554124514903074",
     "confirmedPatient": true
   },
   {
@@ -11873,9 +11895,11 @@
     "patientId": 847,
     "dateAnnounced": "2020-05-24",
     "ageBracket": -1,
-    "detectedCityTown": "Unspecified",
-    "detectedPrefecture": "Unspecified",
+    "residence": "Tamil Nadu",
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Announced as the TN case",
     "confirmedPatient": true
   }
 ]
