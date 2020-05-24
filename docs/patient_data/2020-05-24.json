@@ -11181,19 +11181,26 @@
   {
     "patientId": 795,
     "dateAnnounced": "2020-05-24",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "M",
+    "residence": "Navayikulam",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Traveled from Muscat to TRV on 23 May IX 0554",
+    "knownCluster": "Muscat",
     "confirmedPatient": true
   },
   {
     "patientId": 796,
     "dateAnnounced": "2020-05-24",
-    "ageBracket": -1,
+    "ageBracket": 63,
+    "gender": "M",
+    "residence": "Anayara",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE to Kerala on 17th (Flight?)",
     "confirmedPatient": true
   },
   {
