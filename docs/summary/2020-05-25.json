@@ -2,10 +2,10 @@
   "updated": "2020-05-25 08:41",
   "prefectures": [
     {
-      "confirmed": 214,
+      "confirmed": 228,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 212,
+        "Kasaragod": 226,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -125,10 +125,10 @@
         7,
         4,
         5,
-        0
+        14
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 14,
       "recovered": 182,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -136,11 +136,11 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 178,
+      "confirmed": 188,
       "deaths": 0,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 175
+        "Kannur": 185
       },
       "dailyConfirmedCount": [
         0,
@@ -258,10 +258,10 @@
         12,
         16,
         12,
-        0
+        10
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 10,
       "recovered": 119,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
@@ -3232,7 +3232,7 @@
       "confirmedCumulativeAvg7d": 680
     },
     {
-      "confirmed": 0,
+      "confirmed": 24,
       "recoveredCumulative": 520,
       "deceasedCumulative": 5,
       "criticalCumulative": 1,
@@ -3242,11 +3242,11 @@
       "hosptilisedCumulative": 732,
       "activeCumulative": 322,
       "date": "2020-05-25",
-      "confirmedCumulative": 847,
-      "confirmedAvg3d": 38,
-      "confirmedCumulativeAvg3d": 807,
-      "confirmedAvg7d": 31,
-      "confirmedCumulativeAvg7d": 711
+      "confirmedCumulative": 871,
+      "confirmedAvg3d": 46,
+      "confirmedCumulativeAvg3d": 815,
+      "confirmedAvg7d": 34,
+      "confirmedCumulativeAvg7d": 714
     }
   ],
   "age": [
@@ -3324,15 +3324,15 @@
       "ageGroup": "Unspecified",
       "female": 17,
       "male": 66,
-      "unspecified": 3,
-      "total": 86
+      "unspecified": 51,
+      "total": 134
     }
   ],
   "gender": {
     "female": 205,
     "male": 638,
-    "unspecified": 4,
-    "total": 847
+    "unspecified": 52,
+    "total": 895
   },
   "underObservation": {
     "2020-01-31": {
