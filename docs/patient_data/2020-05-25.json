@@ -12123,18 +12123,26 @@
     "patientId": 870,
     "dateAnnounced": "2020-05-25",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Cherupuzha",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Jail inmates",
+    "knownCluster": "Kannur",
     "confirmedPatient": true
   },
   {
     "patientId": 871,
     "dateAnnounced": "2020-05-25",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kannapuram",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Jail inmates",
+    "knownCluster": "Kannur",
     "confirmedPatient": true
   },
   {
@@ -12180,6 +12188,8 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "knownCluster": "Thiruvananthapuram",
     "confirmedPatient": true
   },
   {
