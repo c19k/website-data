@@ -11927,7 +11927,7 @@
   {
     "patientId": 848,
     "dateAnnounced": "2020-05-25",
-    "ageBracket": -1,
+    "ageBracket": 57,
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
@@ -11936,7 +11936,7 @@
   {
     "patientId": 849,
     "dateAnnounced": "2020-05-25",
-    "ageBracket": -1,
+    "ageBracket": 62,
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
@@ -11945,7 +11945,7 @@
   {
     "patientId": 850,
     "dateAnnounced": "2020-05-25",
-    "ageBracket": -1,
+    "ageBracket": 52,
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
@@ -11954,7 +11954,9 @@
   {
     "patientId": 851,
     "dateAnnounced": "2020-05-25",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Kumbadage",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
@@ -11963,7 +11965,9 @@
   {
     "patientId": 852,
     "dateAnnounced": "2020-05-25",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Kumbadage",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
