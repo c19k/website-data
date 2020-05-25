@@ -7447,10 +7447,11 @@
     "residence": "Mananthawady",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Daughter of P498",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "releasedOn": "2020-05-21",
     "sourceURL": "http://opennewser.com/home/get_news/26191",
     "confirmedPatient": true
   },
