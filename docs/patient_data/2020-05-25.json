@@ -7082,9 +7082,10 @@
     "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Recovered",
     "notes": "Travelled from Chennai, had gone for renal treatment",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-05-25",
     "confirmedPatient": true
   },
   {
@@ -7150,10 +7151,11 @@
     "residence": "Meenangadi",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Wife of someone who came in contact with 498",
     "knownCluster": "Wayanad",
-    "sourceURL": "https://epaper.deshabhimani.com/2667655/Kozhikode/Kozhikode-11-May-2020#page/11/2",
+    "releasedOn": "2020-05-25",
+    "sourceURL": "https://epaper.deshabhimani.com/2667655/Kozhikode/Kozhikode-11-May-2020#page/11/2 http://opennewser.com/home/get_news/26450",
     "confirmedPatient": true
   },
   {
