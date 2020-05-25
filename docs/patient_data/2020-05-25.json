@@ -11858,9 +11858,14 @@
     "patientId": 843,
     "dateAnnounced": "2020-05-24",
     "ageBracket": -1,
+    "residence": "Panmana",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai; medical student",
+    "knownCluster": "Chennai",
+    "districtPatientNumber": "Kollam P35",
+    "sourceURL": "https://www.facebook.com/462119120606972/posts/1611188375700035/",
     "confirmedPatient": true
   },
   {
