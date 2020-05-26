@@ -1,5 +1,5 @@
 {
-  "updated": "2020-05-26 17:11",
+  "updated": "2020-05-26 17:21",
   "prefectures": [
     {
       "confirmed": 231,
@@ -130,7 +130,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 3,
-      "recovered": 189,
+      "recovered": 190,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1067,7 +1067,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 6,
-      "recovered": 25,
+      "recovered": 23,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -3273,7 +3273,7 @@
       "homeObservationCumulative": 103528,
       "hosptilisedCumulative": 808,
       "activeCumulative": 415,
-      "status": "Reviewing",
+      "status": "Finalised",
       "date": "2020-05-26",
       "confirmedCumulative": 963,
       "confirmedAvg3d": 56,
