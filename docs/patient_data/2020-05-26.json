@@ -7538,10 +7538,11 @@
     "residence": "Paivalike",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Picked up P516",
     "knownCluster": "Kasaragod",
     "dhsPatientNumber": "516",
+    "releasedOn": "2020-05-25",
     "confirmedPatient": true
   },
   {
@@ -7552,10 +7553,11 @@
     "residence": "Paivalike",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Picked up P516",
     "knownCluster": "Kasaragod",
     "dhsPatientNumber": "516",
+    "releasedOn": "2020-05-25",
     "confirmedPatient": true
   },
   {
@@ -7566,10 +7568,11 @@
     "residence": "Paivalike",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Child of P536, 535",
     "knownCluster": "Kasaragod",
     "dhsPatientNumber": "535",
+    "releasedOn": "2020-05-25",
     "confirmedPatient": true
   },
   {
@@ -7580,10 +7583,11 @@
     "residence": "Paivalike",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Child of P536, 535",
     "knownCluster": "Kasaragod",
     "dhsPatientNumber": "535",
+    "releasedOn": "2020-05-25",
     "confirmedPatient": true
   },
   {
@@ -7622,9 +7626,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Manjeri to Kasaragod",
     "knownCluster": "Manjeri",
+    "releasedOn": "2020-05-25",
     "confirmedPatient": true
   },
   {
@@ -7635,9 +7640,10 @@
     "residence": "Kallar",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Bangalore",
     "knownCluster": "Bangalore",
+    "releasedOn": "2020-05-25",
     "confirmedPatient": true
   },
   {
