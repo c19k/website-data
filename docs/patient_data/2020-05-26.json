@@ -11242,7 +11242,7 @@
     "dateAnnounced": "2020-05-24",
     "ageBracket": 28,
     "gender": "F",
-    "residence": "Kuruthode",
+    "residence": "Kuruthode Kattakkada",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -12287,9 +12287,9 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from the Middle East",
-    "knownCluster": "Middle East",
-    "sourceURL": "https://attingalvartha.com/2020/05/tvm-covid-cases-today-2/",
+    "notes": "Travelled from Dubai on May 23 to TRV",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://attingalvartha.com/2020/05/tvm-covid-cases-today-2/ https://www.facebook.com/collectortvpm/posts/2554917794823746",
     "confirmedPatient": true
   },
   {
@@ -12301,9 +12301,9 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Karnataka",
-    "knownCluster": "Karnataka",
-    "sourceURL": "https://attingalvartha.com/2020/05/tvm-covid-cases-today-2/",
+    "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://attingalvartha.com/2020/05/tvm-covid-cases-today-2/ https://www.facebook.com/collectortvpm/posts/2554917794823746",
     "confirmedPatient": true
   },
   {
@@ -12315,9 +12315,9 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Delhi",
+    "notes": "Travelled from Delhi; husband of P798",
     "knownCluster": "Delhi",
-    "sourceURL": "https://attingalvartha.com/2020/05/tvm-covid-cases-today-2/",
+    "sourceURL": "https://attingalvartha.com/2020/05/tvm-covid-cases-today-2/ https://www.facebook.com/collectortvpm/posts/2554917794823746",
     "confirmedPatient": true
   },
   {
@@ -12331,7 +12331,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai with 803, 804",
     "knownCluster": "Mumbai",
-    "sourceURL": "https://attingalvartha.com/2020/05/tvm-covid-cases-today-2/",
+    "sourceURL": "https://attingalvartha.com/2020/05/tvm-covid-cases-today-2/ https://www.facebook.com/collectortvpm/posts/2554917794823746",
     "confirmedPatient": true
   },
   {
