@@ -12703,7 +12703,8 @@
   {
     "patientId": 903,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "residence": "Karimpuzha",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
@@ -12712,7 +12713,8 @@
   {
     "patientId": 904,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "residence": "Kulappalli",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
@@ -12910,73 +12912,105 @@
   {
     "patientId": 926,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 13,
+    "gender": "M",
+    "residence": "Mattannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Dubai Kannur IX344 May 17",
+    "sourceURL": "https://kannurvarthakal.in/26/05/2020/35204/#.Xs0RnrwzbIU",
     "confirmedPatient": true
   },
   {
     "patientId": 927,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 7,
+    "gender": "F",
+    "residence": "Mattannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled Dubai Kannur IX344 May 17",
+    "sourceURL": "https://kannurvarthakal.in/26/05/2020/35204/#.Xs0RnrwzbIU",
     "confirmedPatient": true
   },
   {
     "patientId": 928,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 64,
+    "gender": "M",
+    "residence": "Pannyannoor",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "sourceURL": "https://kannurvarthakal.in/26/05/2020/35204/#.Xs0RnrwzbIU",
     "confirmedPatient": true
   },
   {
     "patientId": 929,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 62,
+    "gender": "F",
+    "residence": "Pannyannoor",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "sourceURL": "https://kannurvarthakal.in/26/05/2020/35204/#.Xs0RnrwzbIU",
     "confirmedPatient": true
   },
   {
     "patientId": 930,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 9,
+    "gender": "F",
+    "residence": "Dharmadom",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "sourceURL": "https://kannurvarthakal.in/26/05/2020/35204/#.Xs0RnrwzbIU",
     "confirmedPatient": true
   },
   {
     "patientId": 931,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 9,
+    "gender": "F",
+    "residence": "Dharmadom",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "sourceURL": "https://kannurvarthakal.in/26/05/2020/35204/#.Xs0RnrwzbIU",
     "confirmedPatient": true
   },
   {
     "patientId": 932,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 10,
+    "gender": "F",
+    "residence": "Dharmadom",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "sourceURL": "https://kannurvarthakal.in/26/05/2020/35204/#.Xs0RnrwzbIU",
     "confirmedPatient": true
   },
   {
     "patientId": 933,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 15,
+    "gender": "F",
+    "residence": "Dharmadom",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "sourceURL": "https://kannurvarthakal.in/26/05/2020/35204/#.Xs0RnrwzbIU",
     "confirmedPatient": true
   },
   {
@@ -13133,7 +13167,6 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Defense Personnel from other states",
-    "knownCluster": "Maharashtra",
     "confirmedPatient": true
   },
   {
@@ -13146,7 +13179,6 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Defense Personnel from other states",
-    "knownCluster": "Maharashtra",
     "confirmedPatient": true
   },
   {
@@ -13159,7 +13191,6 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Defense Personnel from other states",
-    "knownCluster": "Maharashtra",
     "confirmedPatient": true
   },
   {
@@ -13172,7 +13203,6 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Defense Personnel from other states",
-    "knownCluster": "Maharashtra",
     "confirmedPatient": true
   },
   {
@@ -13199,6 +13229,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on May 23 to Kkd",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3183921751675512",
     "confirmedPatient": true
   },
   {
@@ -13212,6 +13243,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on May 23 to Kkd",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3183921751675512",
     "confirmedPatient": true
   },
   {
@@ -13225,6 +13257,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 24",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3183921751675512",
     "confirmedPatient": true
   },
   {
@@ -13237,6 +13270,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abroad on May 24",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3183921751675512",
     "confirmedPatient": true
   },
   {
@@ -13328,6 +13362,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai to Ekm on May 22 Train",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560822634515571",
     "confirmedPatient": true
   },
   {
@@ -13341,6 +13376,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai to Ekm on May 22 Train",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560822634515571",
     "confirmedPatient": true
   },
   {
@@ -13354,6 +13390,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travlled from Abu Dhabi on May 17 to Tvm",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560822634515571",
     "confirmedPatient": true
   }
 ]
