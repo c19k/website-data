@@ -13736,7 +13736,9 @@
   {
     "patientId": 975,
     "dateAnnounced": "2020-05-27",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "F",
+    "residence": "Malapmuzha",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
