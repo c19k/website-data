@@ -13885,28 +13885,40 @@
   {
     "patientId": 994,
     "dateAnnounced": "2020-05-27",
-    "ageBracket": -1,
+    "ageBracket": 13,
+    "gender": "M",
+    "residence": "Kulanada Ullannoor",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on May 15",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/179827716817619",
     "confirmedPatient": true
   },
   {
     "patientId": 995,
     "dateAnnounced": "2020-05-27",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Ranni Pazhavangadi",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on May 13",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/179827716817619",
     "confirmedPatient": true
   },
   {
     "patientId": 996,
     "dateAnnounced": "2020-05-27",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "F",
+    "residence": "Ranni Pazhavangadi",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on May 13",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/179827716817619",
     "confirmedPatient": true
   },
   {
