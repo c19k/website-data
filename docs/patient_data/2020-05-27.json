@@ -11070,8 +11070,9 @@
     "residence": "Kodom Belur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Not known yet.",
+    "releasedOn": "2020-05-27",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=174444497358720&id=100507158085788",
     "confirmedPatient": true
   },
@@ -13581,14 +13582,14 @@
   },
   {
     "patientId": 964,
-    "dateAnnounced": "2020-05-26",
+    "dateAnnounced": "2020-05-27",
     "ageBracket": 40,
     "gender": "M",
     "residence": "Ponnani",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Chennai on May 7 (30th patient in Palakkad's list, but not accounted by DHS or Malappuram)",
+    "notes": "Travelled from Chennai on May 7 (30th patient in Palakkad's list on 26th, but not accounted by DHS on 27th)",
     "knownCluster": "Chennai",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810",
     "confirmedPatient": true
@@ -13828,16 +13829,6 @@
     "patientId": 982,
     "dateAnnounced": "2020-05-27",
     "ageBracket": -1,
-    "detectedCityTown": "Palakkad",
-    "detectedPrefecture": "Palakkad",
-    "patientStatus": "Hospitalized",
-    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/600535473924187",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 983,
-    "dateAnnounced": "2020-05-27",
-    "ageBracket": -1,
     "gender": "M",
     "residence": "Cherthala",
     "detectedCityTown": "Alappuzha",
@@ -13848,7 +13839,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 984,
+    "patientId": 983,
     "dateAnnounced": "2020-05-27",
     "ageBracket": -1,
     "gender": "M",
@@ -13861,7 +13852,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 985,
+    "patientId": 984,
     "dateAnnounced": "2020-05-27",
     "ageBracket": -1,
     "gender": "M",
@@ -13874,7 +13865,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 986,
+    "patientId": 985,
     "dateAnnounced": "2020-05-27",
     "ageBracket": -1,
     "gender": "M",
@@ -13887,7 +13878,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 987,
+    "patientId": 986,
     "dateAnnounced": "2020-05-27",
     "ageBracket": -1,
     "gender": "M",
@@ -13900,7 +13891,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 988,
+    "patientId": 987,
     "dateAnnounced": "2020-05-27",
     "ageBracket": -1,
     "gender": "F",
@@ -13913,7 +13904,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 989,
+    "patientId": 988,
     "dateAnnounced": "2020-05-27",
     "ageBracket": -1,
     "gender": "F",
@@ -13926,7 +13917,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 990,
+    "patientId": 989,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 42,
     "gender": "M",
@@ -13941,7 +13932,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 991,
+    "patientId": 990,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 44,
     "gender": "F",
@@ -13956,7 +13947,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 992,
+    "patientId": 991,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 22,
     "gender": "M",
@@ -13971,7 +13962,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 993,
+    "patientId": 992,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 22,
     "gender": "M",
@@ -13986,7 +13977,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 994,
+    "patientId": 993,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 13,
     "gender": "M",
@@ -14000,7 +13991,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 995,
+    "patientId": 994,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 37,
     "gender": "M",
@@ -14014,7 +14005,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 996,
+    "patientId": 995,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 32,
     "gender": "F",
@@ -14028,7 +14019,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 997,
+    "patientId": 996,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 53,
     "gender": "F",
@@ -14042,7 +14033,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 998,
+    "patientId": 997,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 50,
     "gender": "M",
@@ -14056,7 +14047,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 999,
+    "patientId": 998,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 25,
     "gender": "M",
@@ -14070,7 +14061,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 1000,
+    "patientId": 999,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 53,
     "gender": "M",
@@ -14084,7 +14075,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 1001,
+    "patientId": 1000,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 55,
     "gender": "F",
@@ -14098,7 +14089,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 1002,
+    "patientId": 1001,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 34,
     "gender": "F",
@@ -14112,7 +14103,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 1003,
+    "patientId": 1002,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 26,
     "gender": "M",
@@ -14126,7 +14117,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 1004,
+    "patientId": 1003,
     "dateAnnounced": "2020-05-27",
     "ageBracket": 45,
     "gender": "M",

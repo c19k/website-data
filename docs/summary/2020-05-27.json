@@ -273,10 +273,10 @@
       "name": "Kannur"
     },
     {
-      "confirmed": 105,
+      "confirmed": 104,
       "deaths": 0,
       "confirmedByCity": {
-        "Palakkad": 103,
+        "Palakkad": 102,
         "Ernakulam": 1,
         "Malappuram": 1
       },
@@ -397,7 +397,7 @@
         19,
         4,
         5,
-        30,
+        29,
         8
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -3278,7 +3278,7 @@
       "confirmedCumulativeAvg7d": 718
     },
     {
-      "confirmed": 68,
+      "confirmed": 67,
       "recoveredCumulative": 542,
       "deceasedCumulative": 6,
       "criticalCumulative": 1,
@@ -3286,14 +3286,14 @@
       "observationCumulative": 104336,
       "homeObservationCumulative": 103528,
       "hosptilisedCumulative": 808,
-      "activeCumulative": 416,
+      "activeCumulative": 415,
       "status": "Finalised",
       "date": "2020-05-26",
-      "confirmedCumulative": 964,
+      "confirmedCumulative": 963,
       "confirmedAvg3d": 56,
       "confirmedCumulativeAvg3d": 879,
-      "confirmedAvg7d": 46,
-      "confirmedCumulativeAvg7d": 764
+      "confirmedAvg7d": 45,
+      "confirmedCumulativeAvg7d": 763
     },
     {
       "confirmed": 40,
@@ -3304,14 +3304,14 @@
       "observationCumulative": 107832,
       "homeObservationCumulative": 106940,
       "hosptilisedCumulative": 892,
-      "activeCumulative": 446,
+      "activeCumulative": 445,
       "status": "Finalised",
       "date": "2020-05-27",
-      "confirmedCumulative": 1004,
+      "confirmedCumulative": 1003,
       "confirmedAvg3d": 52,
       "confirmedCumulativeAvg3d": 931,
       "confirmedAvg7d": 48,
-      "confirmedCumulativeAvg7d": 812
+      "confirmedCumulativeAvg7d": 811
     }
   ],
   "age": [
@@ -3389,15 +3389,15 @@
       "ageGroup": "Unspecified",
       "female": 20,
       "male": 81,
-      "unspecified": 4,
-      "total": 105
+      "unspecified": 3,
+      "total": 104
     }
   ],
   "gender": {
     "female": 239,
     "male": 759,
-    "unspecified": 6,
-    "total": 1004
+    "unspecified": 5,
+    "total": 1003
   },
   "underObservation": {
     "2020-01-31": {
