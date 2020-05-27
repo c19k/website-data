@@ -4,7 +4,7 @@
   "description": "",
   "main": "summarize.js",
   "dependencies": {
-    "drive-db": "^5.0.3",
+    "drive-db": "^6.0.0",
     "lodash": "^4.17.15",
     "moment": "^2.26.0",
     "node-fetch": "^2.6.0"
