@@ -7701,9 +7701,10 @@
     "residence": "Moonniyur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai, IX344 Dubai Kozhikode flight on 7 May 2020 (Native of Chappanangadi, Kottakkal, Malappuram)",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-05-27",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3295773207134763",
     "confirmedPatient": true
   },
