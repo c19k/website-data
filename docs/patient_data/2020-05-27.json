@@ -7011,9 +7011,10 @@
     "residence": "Mananthawady",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Chennai on 26th April ",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-05-27",
     "confirmedPatient": true
   },
   {
@@ -7209,9 +7210,10 @@
     "residence": "Angadippuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-05-27",
     "confirmedPatient": true
   },
   {
@@ -7657,9 +7659,10 @@
     "residence": "Kumbala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "releasedOn": "2020-05-27",
     "confirmedPatient": true
   },
   {
@@ -7683,9 +7686,10 @@
     "residence": "Triprangode",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-05-27",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3295773207134763",
     "confirmedPatient": true
   },
@@ -8276,9 +8280,10 @@
     "residence": "Maranchery",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai with P587; both tender coconut sellers in Mumbai",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-05-27",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3301131329932284",
     "confirmedPatient": true
   },
@@ -8318,9 +8323,10 @@
     "residence": "Valanchery",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai; tender coconut sellers",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-05-27",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/164398491705736",
     "confirmedPatient": true
   },
@@ -8332,9 +8338,10 @@
     "residence": "Tanalur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Coimbatore; works in a bakery at Ukkadam, CBE",
     "knownCluster": "Coimbatore",
+    "releasedOn": "2020-05-27",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/164398491705736",
     "confirmedPatient": true
   },
@@ -8775,9 +8782,10 @@
     "residence": "Ambalappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait. Kuwait-Kozhikode IX 0394  on 13 May 2020; under treatment in Malappuram (Manjery)",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-05-27",
     "sourceURL": "https://www.facebook.com/110297390449180/posts/164720951673490/",
     "confirmedPatient": true
   },
