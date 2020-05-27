@@ -397,7 +397,7 @@
         19,
         4,
         5,
-        29,
+        30,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -3338,9 +3338,9 @@
     {
       "ageGroup": "30-39",
       "female": 36,
-      "male": 181,
+      "male": 180,
       "unspecified": 0,
-      "total": 217
+      "total": 216
     },
     {
       "ageGroup": "40-49",
@@ -3352,9 +3352,9 @@
     {
       "ageGroup": "50-59",
       "female": 28,
-      "male": 78,
+      "male": 79,
       "unspecified": 0,
-      "total": 106
+      "total": 107
     },
     {
       "ageGroup": "60-69",

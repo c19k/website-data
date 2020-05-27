@@ -12860,13 +12860,13 @@
   {
     "patientId": 914,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": 40,
+    "ageBracket": 55,
     "gender": "M",
-    "residence": "Ponnani",
+    "residence": "Chalissery",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Chennai on May 7",
+    "notes": "Contact (Grand father) of the 7 month kid from 22 May",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810",
     "confirmedPatient": true
   },
@@ -13522,5 +13522,18 @@
     "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560822634515571",
     "confirmedPatient": true
+  },
+  {
+    "patientId": -1,
+    "dateAnnounced": "2020-05-26",
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Ponnani",
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 7",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810",
+    "confirmedPatient": false
   }
 ]
