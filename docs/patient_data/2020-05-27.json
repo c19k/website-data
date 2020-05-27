@@ -13272,11 +13272,12 @@
     "dateAnnounced": "2020-05-26",
     "ageBracket": -1,
     "gender": "M",
-    "residence": "Ernakulam",
+    "residence": "Lakshadweep",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "Defense Personnel from other states",
+    "notes": "Coast Guard, being treated in INS Sanjeevani",
+    "knownCluster": "Lakshadweep",
     "confirmedPatient": true
   },
   {
@@ -13284,11 +13285,13 @@
     "dateAnnounced": "2020-05-26",
     "ageBracket": -1,
     "gender": "M",
-    "residence": "Ernakulam",
+    "residence": "Madhya Pradesh",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "Defense Personnel from other states",
+    "notes": "Coast Guard, being treated in INS Sanjeevani",
+    "knownCluster": "Madhya Pradesh",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1012910592440097",
     "confirmedPatient": true
   },
   {
@@ -13296,11 +13299,13 @@
     "dateAnnounced": "2020-05-26",
     "ageBracket": -1,
     "gender": "M",
-    "residence": "Ernakulam",
+    "residence": "West Bengal",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "Defense Personnel from other states",
+    "notes": "Coast Guard, being treated in INS Sanjeevani",
+    "knownCluster": "West Bengal",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1012910592440097",
     "confirmedPatient": true
   },
   {
@@ -13308,17 +13313,19 @@
     "dateAnnounced": "2020-05-26",
     "ageBracket": -1,
     "gender": "M",
-    "residence": "Ernakulam",
+    "residence": "Rajasthan",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "Defense Personnel from other states",
+    "notes": "Coast Guard, being treated in INS Sanjeevani",
+    "knownCluster": "Rajasthan",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1012910592440097",
     "confirmedPatient": true
   },
   {
     "patientId": 949,
     "dateAnnounced": "2020-05-26",
-    "ageBracket": -1,
+    "ageBracket": 36,
     "gender": "M",
     "residence": "Ankamali",
     "detectedCityTown": "Ernakulam",
@@ -13326,6 +13333,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1012910592440097",
     "confirmedPatient": true
   },
   {
@@ -13393,6 +13401,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled Abu Dhabi TRV on May 16 IX 538, same family",
+    "knownCluster": "Abu Dhabi",
     "districtPatientNumber": "Kollam P38",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1612096558942550",
     "confirmedPatient": true
@@ -13407,6 +13416,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled Abu Dhabi TRV on May 16 IX 538, same family",
+    "knownCluster": "Abu Dhabi",
     "districtPatientNumber": "Kollam P39",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1612096558942550",
     "confirmedPatient": true
@@ -13421,6 +13431,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled Abu Dhabi TRV on May 16 IX 538, same family",
+    "knownCluster": "Abu Dhabi",
     "districtPatientNumber": "Kollam P40",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1612096558942550",
     "confirmedPatient": true
@@ -13435,6 +13446,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled Abu Dhabi TRV on May 16 IX 538, same family",
+    "knownCluster": "Abu Dhabi",
     "districtPatientNumber": "Kollam P41",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1612096558942550",
     "confirmedPatient": true
@@ -13522,18 +13534,5 @@
     "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/560822634515571",
     "confirmedPatient": true
-  },
-  {
-    "patientId": -1,
-    "dateAnnounced": "2020-05-26",
-    "ageBracket": 40,
-    "gender": "M",
-    "residence": "Ponnani",
-    "detectedCityTown": "Palakkad",
-    "detectedPrefecture": "Palakkad",
-    "patientStatus": "Hospitalized",
-    "notes": "Travelled from Chennai on May 7",
-    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810",
-    "confirmedPatient": false
   }
 ]
