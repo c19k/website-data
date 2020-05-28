@@ -14946,6 +14946,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 15",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/180128756787515",
     "confirmedPatient": true
   },
   {
@@ -14958,6 +14959,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 18",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/180128756787515",
     "confirmedPatient": true
   },
   {
@@ -14970,6 +14972,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 18",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/180128756787515",
     "confirmedPatient": true
   },
   {
@@ -14982,6 +14985,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 18",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/180128756787515",
     "confirmedPatient": true
   },
   {
@@ -14989,19 +14993,25 @@
     "dateAnnounced": "2020-05-28",
     "ageBracket": 33,
     "gender": "M",
+    "residence": "Pullad",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi on May 19",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/180128756787515",
     "confirmedPatient": true
   },
   {
     "patientId": 1076,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 69,
+    "gender": "F",
+    "residence": "Kodumon",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from MH on May 23",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/180128756787515",
     "confirmedPatient": true
   },
   {
