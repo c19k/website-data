@@ -14382,6 +14382,8 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Deceased",
+    "notes": "Travelled from Rajasthan; boarded wrong train",
+    "knownCluster": "Rajasthan",
     "confirmedPatient": true
   },
   {
@@ -14394,6 +14396,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai on May 22",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14406,6 +14409,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai on May 20",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14418,6 +14422,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai on May 20",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14430,6 +14435,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai on May 13",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14442,6 +14448,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14454,6 +14461,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 11",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14466,6 +14474,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 11",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14478,6 +14487,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 18",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14490,6 +14500,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 18",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14502,6 +14513,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 18",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14514,6 +14526,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on May 23",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14526,6 +14539,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from BLR on May 19",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
@@ -14538,33 +14552,46 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on May 18",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
     "patientId": 1036,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Kottoppadam",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bhatkal",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
     "patientId": 1037,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 58,
+    "gender": "F",
+    "residence": "Kaniyapuram",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Contact of a MH traveller who is still negative",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
     "patientId": 1038,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "F",
+    "residence": "Kadambazhippuram",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Contact of a May 23 PKD from Chennai patient; runs ration shop",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/601139867197081",
     "confirmedPatient": true
   },
   {
