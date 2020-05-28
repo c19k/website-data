@@ -15078,55 +15078,79 @@
   {
     "patientId": 1077,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Feroke",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh to Kozhikode on May 19",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
   {
     "patientId": 1078,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Thooneri",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission from a May 25 Kannur case",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
   {
     "patientId": 1079,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Azhiyur",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 14",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
   {
     "patientId": 1080,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Quilandy Muchukunnu",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 14",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
   {
     "patientId": 1081,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Valayam",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Gujarat on May 24",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
   {
     "patientId": 1082,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "M",
+    "residence": "Payyoli Thurayur",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Manama on May 27",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
   {
@@ -15140,6 +15164,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 17",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
   {
@@ -15153,6 +15178,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dammam on May 19",
     "knownCluster": "Dammam",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
   {
@@ -15166,6 +15192,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dammam on May 12",
     "knownCluster": "Dammam",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
   {
