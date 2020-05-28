@@ -15123,10 +15123,14 @@
   {
     "patientId": 1087,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "F",
+    "residence": "Thalavannur Avaneeswaram",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Gandhinagar by train on May 19",
+    "sourceURL": "https://www.facebook.com/462119120606972/posts/1613754062110133/",
     "confirmedPatient": true
   },
   {
