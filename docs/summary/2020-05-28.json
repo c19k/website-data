@@ -1,5 +1,5 @@
 {
-  "updated": "2020-05-27 17:15",
+  "updated": "2020-05-27 17:23",
   "prefectures": [
     {
       "confirmed": 260,
@@ -3332,12 +3332,12 @@
       "recoveredCumulative": 555,
       "deceasedCumulative": 7,
       "criticalCumulative": 1,
-      "testedCumulative": 67961,
-      "observationCumulative": 107832,
-      "homeObservationCumulative": 106940,
-      "hosptilisedCumulative": 892,
+      "testedCumulative": 70422,
+      "observationCumulative": 115297,
+      "homeObservationCumulative": 114305,
+      "hosptilisedCumulative": 992,
       "activeCumulative": 526,
-      "status": "Reviewing",
+      "status": "Finalised",
       "date": "2020-05-28",
       "confirmedCumulative": 1088,
       "confirmedAvg3d": 64,
@@ -3371,23 +3371,23 @@
     {
       "ageGroup": "30-39",
       "female": 39,
-      "male": 189,
+      "male": 190,
       "unspecified": 0,
-      "total": 228
+      "total": 229
     },
     {
       "ageGroup": "40-49",
       "female": 25,
-      "male": 144,
+      "male": 145,
       "unspecified": 0,
-      "total": 169
+      "total": 170
     },
     {
       "ageGroup": "50-59",
       "female": 30,
-      "male": 82,
+      "male": 84,
       "unspecified": 0,
-      "total": 112
+      "total": 114
     },
     {
       "ageGroup": "60-69",
@@ -3421,14 +3421,14 @@
       "ageGroup": "Unspecified",
       "female": 20,
       "male": 81,
-      "unspecified": 88,
-      "total": 189
+      "unspecified": 84,
+      "total": 185
     }
   ],
   "gender": {
     "female": 239,
-    "male": 759,
-    "unspecified": 90,
+    "male": 763,
+    "unspecified": 86,
     "total": 1088
   },
   "underObservation": {

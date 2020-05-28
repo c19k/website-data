@@ -14143,37 +14143,48 @@
   {
     "patientId": 1004,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Paivalike",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Traveleld from MH by train on May 23",
     "confirmedPatient": true
   },
   {
     "patientId": 1005,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from MH by bus on May 24",
     "confirmedPatient": true
   },
   {
     "patientId": 1006,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Kumbala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from MH by car on May 17",
     "confirmedPatient": true
   },
   {
     "patientId": 1007,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from MH by bus on May 24",
     "confirmedPatient": true
   },
   {
@@ -14677,7 +14688,8 @@
     "ageBracket": -1,
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
+    "oeceasedOn": "2020-05-28",
     "confirmedPatient": true
   },
   {
