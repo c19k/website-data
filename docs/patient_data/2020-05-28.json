@@ -11081,7 +11081,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
-    "notes": "Not known yet.",
+    "notes": "Not known yet. Admitted after jackfruit fell on him.",
+    "knownCluster": "Kasaragod",
     "releasedOn": "2020-05-27",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=174444497358720&id=100507158085788",
     "confirmedPatient": true
@@ -14402,13 +14403,16 @@
   {
     "patientId": 1022,
     "dateAnnounced": "2020-05-28",
-    "ageBracket": -1,
+    "ageBracket": 68,
+    "gender": "M",
     "residence": "Telangana",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Deceased",
     "notes": "Travelled from Rajasthan; boarded wrong train",
     "knownCluster": "Rajasthan",
+    "oeceasedOn": "2020-05-27",
+    "sourceURL": "https://keralakaumudi.com/en/news/news.php?id=313169&u=",
     "confirmedPatient": true
   },
   {
