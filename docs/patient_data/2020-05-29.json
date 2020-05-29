@@ -14905,6 +14905,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://epaper.deshabhimani.com/c/52335559",
     "confirmedPatient": true
   },
   {
@@ -14912,12 +14913,13 @@
     "dateAnnounced": "2020-05-28",
     "ageBracket": 61,
     "gender": "M",
-    "residence": "Neyyatinkara",
+    "residence": "Neyyatinkara Chengal",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://epaper.deshabhimani.com/c/52335559",
     "confirmedPatient": true
   },
   {
@@ -14931,6 +14933,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://epaper.deshabhimani.com/c/52335559",
     "confirmedPatient": true
   },
   {
@@ -14944,6 +14947,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 26",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://epaper.deshabhimani.com/c/52335559",
     "confirmedPatient": true
   },
   {
@@ -14957,6 +14961,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maldives via INS Jalashwa on 17 May to Kochi",
     "knownCluster": "Maldives",
+    "sourceURL": "https://epaper.deshabhimani.com/c/52335559",
     "confirmedPatient": true
   },
   {
@@ -14970,6 +14975,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 16",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://epaper.deshabhimani.com/c/52335559",
     "confirmedPatient": true
   },
   {
@@ -14981,8 +14987,9 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from UAE on May 21",
-    "knownCluster": "UAE",
+    "notes": "Travelled from Abu Dhabi on May 21",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://epaper.deshabhimani.com/c/52335559",
     "confirmedPatient": true
   },
   {
