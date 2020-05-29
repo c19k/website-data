@@ -16015,6 +16015,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled Damam Kochi on May 19",
+    "knownCluster": "Damam",
     "confirmedPatient": true
   },
   {
@@ -16027,16 +16028,20 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled Kuwait Kochi on May 27",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 1141,
     "dateAnnounced": "2020-05-29",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kuttanad",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled Abu Dhabi Kochi on May 17",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
