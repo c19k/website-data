@@ -16046,6 +16046,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled Damam Kochi on May 19",
     "knownCluster": "Damam",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/562461124351722",
     "confirmedPatient": true
   },
   {
@@ -16059,6 +16060,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled Kuwait Kochi on May 27",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/562461124351722",
     "confirmedPatient": true
   },
   {
@@ -16072,6 +16074,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled Abu Dhabi Kochi on May 17",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/562461124351722",
     "confirmedPatient": true
   },
   {
@@ -16169,6 +16172,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Manama to Karippur on May 27",
     "knownCluster": "Manama",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2967376123376465&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
   {
@@ -16181,6 +16185,8 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Air India cabin crew; Pune native, being treated in Manjeri",
+    "knownCluster": "Unspecified",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/167789148033337",
     "confirmedPatient": true
   },
   {
@@ -16191,6 +16197,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Air India cabin crew",
+    "knownCluster": "Unspecified",
     "confirmedPatient": true
   }
 ]
