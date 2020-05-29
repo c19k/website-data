@@ -7759,9 +7759,10 @@
     "residence": "Kadambazhippuram",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Chennai",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-05-26",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/592994441344957",
     "confirmedPatient": true
   },
@@ -7773,9 +7774,10 @@
     "residence": "Kollengode",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Headload worker in contact with a lorry driver from TN",
     "knownCluster": "Palakkad",
+    "releasedOn": "2020-05-26",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/592994441344957",
     "confirmedPatient": true
   },
