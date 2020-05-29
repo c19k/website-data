@@ -16159,11 +16159,13 @@
   {
     "patientId": 1149,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "F",
+    "residence": "Ramanattukara",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "notes": "Air India cabin crew",
+    "notes": "Air India cabin crew; Pune native, being treated in Manjeri",
     "confirmedPatient": true
   },
   {
