@@ -16065,7 +16065,9 @@
   {
     "patientId": 1144,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Punalur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
