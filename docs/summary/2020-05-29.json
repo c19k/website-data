@@ -1,5 +1,5 @@
 {
-  "updated": "2020-05-29 18:07",
+  "updated": "2020-05-29 18:22",
   "prefectures": [
     {
       "confirmed": 263,
@@ -140,11 +140,11 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 215,
+      "confirmed": 214,
       "deaths": 1,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 212
+        "Kannur": 211
       },
       "dailyConfirmedCount": [
         0,
@@ -266,10 +266,10 @@
         8,
         1,
         10,
-        8
+        7
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 8,
+      "newlyConfirmed": 7,
       "recovered": 121,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
@@ -1098,10 +1098,10 @@
       "name": "Kollam"
     },
     {
-      "confirmed": 45,
+      "confirmed": 46,
       "deaths": 0,
       "confirmedByCity": {
-        "Pathanamthitta": 44,
+        "Pathanamthitta": 45,
         "Thiruvananthapuram": 1
       },
       "dailyConfirmedCount": [
@@ -1224,10 +1224,10 @@
         0,
         3,
         6,
-        6
+        7
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 6,
+      "newlyConfirmed": 7,
       "recovered": 17,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
@@ -3364,12 +3364,12 @@
       "recoveredCumulative": 565,
       "deceasedCumulative": 8,
       "criticalCumulative": 1,
-      "testedCumulative": 70422,
-      "observationCumulative": 115297,
-      "homeObservationCumulative": 114305,
-      "hosptilisedCumulative": 992,
+      "testedCumulative": 74214,
+      "observationCumulative": 124167,
+      "homeObservationCumulative": 123087,
+      "hosptilisedCumulative": 1080,
       "activeCumulative": 577,
-      "status": "Reviewing",
+      "status": "Finalised",
       "date": "2020-05-29",
       "confirmedCumulative": 1150,
       "confirmedAvg3d": 62,
@@ -3381,10 +3381,10 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 22,
+      "female": 23,
       "male": 18,
       "unspecified": 1,
-      "total": 41
+      "total": 42
     },
     {
       "ageGroup": "10-19",
@@ -3396,37 +3396,37 @@
     {
       "ageGroup": "20-29",
       "female": 60,
-      "male": 176,
+      "male": 177,
       "unspecified": 0,
-      "total": 236
+      "total": 237
     },
     {
       "ageGroup": "30-39",
       "female": 39,
-      "male": 209,
+      "male": 210,
       "unspecified": 0,
-      "total": 248
+      "total": 249
     },
     {
       "ageGroup": "40-49",
       "female": 28,
-      "male": 154,
+      "male": 156,
       "unspecified": 0,
-      "total": 182
+      "total": 184
     },
     {
       "ageGroup": "50-59",
       "female": 35,
-      "male": 90,
+      "male": 91,
       "unspecified": 0,
-      "total": 125
+      "total": 126
     },
     {
       "ageGroup": "60-69",
       "female": 18,
-      "male": 50,
+      "male": 51,
       "unspecified": 0,
-      "total": 68
+      "total": 69
     },
     {
       "ageGroup": "70-79",
@@ -3453,14 +3453,14 @@
       "ageGroup": "Unspecified",
       "female": 21,
       "male": 82,
-      "unspecified": 65,
-      "total": 168
+      "unspecified": 58,
+      "total": 161
     }
   ],
   "gender": {
-    "female": 259,
-    "male": 824,
-    "unspecified": 67,
+    "female": 260,
+    "male": 830,
+    "unspecified": 60,
     "total": 1150
   },
   "underObservation": {
