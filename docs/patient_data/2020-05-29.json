@@ -15762,7 +15762,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Thane on May 27",
-    "knownCluster": "Thanne",
+    "knownCluster": "Thane",
     "confirmedPatient": true
   },
   {
@@ -15851,7 +15851,9 @@
   {
     "patientId": 1126,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Chembazhanthy",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -15860,7 +15862,9 @@
   {
     "patientId": 1127,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Mukkudil",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -15869,7 +15873,9 @@
   {
     "patientId": 1128,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Kalamachal",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -15878,7 +15884,9 @@
   {
     "patientId": 1129,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Kadinamkulam",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -15887,7 +15895,9 @@
   {
     "patientId": 1130,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Pulluvila",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
