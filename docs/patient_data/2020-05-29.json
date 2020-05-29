@@ -16047,19 +16047,29 @@
   {
     "patientId": 1142,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 62,
+    "gender": "M",
+    "residence": "Medppadi",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from abroad",
+    "knownCluster": "Unspecified",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/893996784397646",
     "confirmedPatient": true
   },
   {
     "patientId": 1143,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Poothadi",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from abroad",
+    "knownCluster": "Unspecified",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/893996784397646",
     "confirmedPatient": true
   },
   {
@@ -16071,24 +16081,37 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on 27 May",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1614650908687115",
     "confirmedPatient": true
   },
   {
     "patientId": 1145,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "F",
+    "residence": "Anchal",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait.",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1614650908687115",
     "confirmedPatient": true
   },
   {
     "patientId": 1146,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 14,
+    "gender": "F",
+    "residence": "Ayarkunnam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on 24 May",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1164376580585635",
     "confirmedPatient": true
   },
   {
@@ -16126,8 +16149,6 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Air India crew",
-    "oeceasedOn": "2020-05-29",
-    "sourceURL": "https://keralakaumudi.com/en/news/news.php?id=313404&u=",
     "confirmedPatient": true
   },
   {
