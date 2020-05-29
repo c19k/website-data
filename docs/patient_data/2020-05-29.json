@@ -15364,7 +15364,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Abu Dhabi",
+    "notes": "Travelled from Abu Dhabi May 26",
     "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
@@ -15377,107 +15377,151 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Abu Dhabi",
+    "notes": "Travelled from Abu Dhabi May 17",
     "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 1092,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "F",
+    "residence": "Puthoor",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 14",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 1093,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "F",
+    "residence": "Thachambara",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on May 19",
+    "knownCluster": "Qatar",
     "confirmedPatient": true
   },
   {
     "patientId": 1094,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "M",
+    "residence": "Sreekrishnapuram",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Pune on May 20",
+    "knownCluster": "Pune",
     "confirmedPatient": true
   },
   {
     "patientId": 1095,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Karimba",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN on May 19",
+    "knownCluster": "Tamil Nadu",
     "confirmedPatient": true
   },
   {
     "patientId": 1096,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Thachambara",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Trichy on May 16",
+    "knownCluster": "Trichy",
     "confirmedPatient": true
   },
   {
     "patientId": 1097,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Sreekrishnapuram",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 20",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 1098,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 60,
+    "gender": "M",
+    "residence": "Kizhakkancheri",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 17",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 1099,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Ambalappara",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 13",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 1100,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Ambalappara",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 13",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 1101,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Ambalappara",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 14",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 1102,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Ambalappara",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 23",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
@@ -15600,10 +15644,15 @@
   {
     "patientId": 1116,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 68,
+    "gender": "M",
+    "residence": "Thiruvalla",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Deceased",
+    "notes": "Travelled from Abu Dhabi on May 11",
+    "oeceasedOn": "2020-05-29",
+    "sourceURL": "https://keralakaumudi.com/en/news/news.php?id=313404&u=",
     "confirmedPatient": true
   },
   {
@@ -15760,6 +15809,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Pune on May14",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176030220533481&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -15772,6 +15822,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 17",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176030220533481&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -15784,6 +15835,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 24",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176030220533481&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -15796,6 +15848,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on May 17",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176030220533481&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -15909,10 +15962,14 @@
   {
     "patientId": 1149,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Thodupuzha",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi on May 17",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=583270205929076&id=230880581168042",
     "confirmedPatient": true
   },
   {
