@@ -8745,9 +8745,10 @@
     "residence": "Pathanmthitta",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
     "notes": "Travelled Qatar TRV on IX 0374 on 12 May 2020",
     "knownCluster": "Doha",
+    "oeceasedOn": "2020-05-29",
     "sourceURL": "https://www.facebook.com/108391950627863/posts/177129500420774/",
     "confirmedPatient": true
   },
@@ -15686,13 +15687,11 @@
   {
     "patientId": 1116,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": 68,
-    "gender": "M",
-    "residence": "Thiruvalla",
+    "ageBracket": -1,
+    "residence": "Unspecified",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
-    "patientStatus": "Deceased",
-    "notes": "Travelled from Abu Dhabi on May 11",
+    "patientStatus": "Hospitalized",
     "oeceasedOn": "2020-05-29",
     "sourceURL": "https://keralakaumudi.com/en/news/news.php?id=313404&u=",
     "confirmedPatient": true
@@ -16052,10 +16051,13 @@
   {
     "patientId": 1150,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 69,
+    "gender": "M",
+    "residence": "Chorodu",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Manama to Karippur on May 27",
     "confirmedPatient": true
   }
 ]
