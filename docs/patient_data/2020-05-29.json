@@ -7618,9 +7618,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Health worker  Nurse, General Hospital",
     "knownCluster": "Kasaragod",
+    "releasedOn": "2020-05-25",
     "confirmedPatient": true
   },
   {
