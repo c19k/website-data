@@ -16195,6 +16195,7 @@
     "patientId": 1150,
     "dateAnnounced": "2020-05-29",
     "ageBracket": -1,
+    "residence": "Unspecified",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
@@ -16556,64 +16557,98 @@
   {
     "patientId": 1190,
     "dateAnnounced": "2020-05-30",
-    "ageBracket": -1,
-    "detectedCityTown": "Unspecified",
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Kuttyadi",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 14",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2969606256486785&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
     "patientId": 1191,
     "dateAnnounced": "2020-05-30",
-    "ageBracket": -1,
-    "detectedCityTown": "Unspecified",
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Eramala",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on May 27",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2969606256486785&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
     "patientId": 1192,
     "dateAnnounced": "2020-05-30",
-    "ageBracket": -1,
-    "detectedCityTown": "Unspecified",
+    "ageBracket": 64,
+    "gender": "M",
+    "residence": "Mavoor",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh to Kannur on May 20",
+    "knownCluster": "Riyadh",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2969606256486785&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
     "patientId": 1193,
     "dateAnnounced": "2020-05-30",
-    "ageBracket": -1,
-    "detectedCityTown": "Unspecified",
+    "ageBracket": 1,
+    "residence": "Koduvally",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha with mother to Kozhikode on May 18",
+    "knownCluster": "Doha",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2969606256486785&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
     "patientId": 1194,
     "dateAnnounced": "2020-05-30",
-    "ageBracket": -1,
-    "detectedCityTown": "Unspecified",
+    "ageBracket": 33,
+    "gender": "F",
+    "residence": "Pilicode",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 19",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176333627169807&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 1195,
     "dateAnnounced": "2020-05-30",
-    "ageBracket": -1,
-    "detectedCityTown": "Unspecified",
+    "ageBracket": 68,
+    "gender": "M",
+    "residence": "Madhur",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 17",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176333627169807&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 1196,
     "dateAnnounced": "2020-05-30",
-    "ageBracket": -1,
-    "detectedCityTown": "Unspecified",
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Chemmanad",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from MH on May 21",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176333627169807&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -16639,9 +16674,12 @@
     "dateAnnounced": "2020-05-30",
     "ageBracket": 38,
     "gender": "M",
-    "detectedCityTown": "Unspecified",
+    "residence": "Chengannur",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Deceased",
+    "notes": "Travelled Abu Dhabi Kozhikode on May 27",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/29/one-more-covid-death-in-kerala.html",
     "confirmedPatient": true
   },
@@ -16649,18 +16687,27 @@
     "patientId": 1200,
     "dateAnnounced": "2020-05-30",
     "ageBracket": -1,
-    "detectedCityTown": "Unspecified",
+    "gender": "M",
+    "residence": "Cherthala",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Rome on May 22",
+    "knownCluster": "Rome",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/563028580961643",
     "confirmedPatient": true
   },
   {
     "patientId": 1201,
     "dateAnnounced": "2020-05-30",
-    "ageBracket": -1,
-    "detectedCityTown": "Unspecified",
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Changanasserry",
+    "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 11",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
@@ -16670,6 +16717,7 @@
     "detectedCityTown": "Unspecified",
     "detectedPrefecture": "Unspecified",
     "patientStatus": "Hospitalized",
+    "notes": "Air India Crew",
     "confirmedPatient": true
   },
   {
@@ -16679,6 +16727,7 @@
     "detectedCityTown": "Unspecified",
     "detectedPrefecture": "Unspecified",
     "patientStatus": "Hospitalized",
+    "notes": "Air India Crew",
     "confirmedPatient": true
   },
   {
@@ -16688,6 +16737,7 @@
     "detectedCityTown": "Unspecified",
     "detectedPrefecture": "Unspecified",
     "patientStatus": "Hospitalized",
+    "notes": "Air India Crew",
     "confirmedPatient": true
   },
   {
@@ -16697,6 +16747,7 @@
     "detectedCityTown": "Unspecified",
     "detectedPrefecture": "Unspecified",
     "patientStatus": "Hospitalized",
+    "notes": "Air India Crew",
     "confirmedPatient": true
   },
   {
@@ -16706,6 +16757,7 @@
     "detectedCityTown": "Unspecified",
     "detectedPrefecture": "Unspecified",
     "patientStatus": "Hospitalized",
+    "notes": "Air India Crew",
     "confirmedPatient": true
   },
   {
@@ -16715,6 +16767,7 @@
     "detectedCityTown": "Unspecified",
     "detectedPrefecture": "Unspecified",
     "patientStatus": "Hospitalized",
+    "notes": "Air India Crew",
     "confirmedPatient": true
   },
   {
@@ -16724,6 +16777,7 @@
     "detectedCityTown": "Unspecified",
     "detectedPrefecture": "Unspecified",
     "patientStatus": "Hospitalized",
+    "notes": "Air India Crew",
     "confirmedPatient": true
   }
 ]
