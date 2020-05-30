@@ -145,8 +145,7 @@
       "deaths": 1,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 212,
-        "Unspecified": 8
+        "Kannur": 220
       },
       "dailyConfirmedCount": [
         0,
@@ -283,10 +282,9 @@
       "confirmed": 143,
       "deaths": 0,
       "confirmedByCity": {
-        "Palakkad": 139,
+        "Palakkad": 141,
         "Ernakulam": 1,
-        "Malappuram": 1,
-        "Unspecified": 2
+        "Malappuram": 1
       },
       "dailyConfirmedCount": [
         0,
@@ -3557,17 +3555,17 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 24,
-      "male": 18,
+      "female": 25,
+      "male": 20,
       "unspecified": 2,
-      "total": 44
+      "total": 47
     },
     {
       "ageGroup": "10-19",
-      "female": 23,
-      "male": 35,
+      "female": 24,
+      "male": 36,
       "unspecified": 0,
-      "total": 58
+      "total": 60
     },
     {
       "ageGroup": "20-29",
@@ -3578,17 +3576,17 @@
     },
     {
       "ageGroup": "30-39",
-      "female": 41,
-      "male": 225,
+      "female": 42,
+      "male": 227,
       "unspecified": 0,
-      "total": 266
+      "total": 269
     },
     {
       "ageGroup": "40-49",
       "female": 32,
-      "male": 164,
+      "male": 168,
       "unspecified": 0,
-      "total": 196
+      "total": 200
     },
     {
       "ageGroup": "50-59",
@@ -3629,14 +3627,14 @@
       "ageGroup": "Unspecified",
       "female": 21,
       "male": 86,
-      "unspecified": 43,
-      "total": 150
+      "unspecified": 31,
+      "total": 138
     }
   ],
   "gender": {
-    "female": 277,
-    "male": 885,
-    "unspecified": 46,
+    "female": 280,
+    "male": 894,
+    "unspecified": 34,
     "total": 1208
   },
   "underObservation": {
