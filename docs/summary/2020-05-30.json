@@ -283,10 +283,10 @@
       "confirmed": 143,
       "deaths": 0,
       "confirmedByCity": {
-        "Palakkad": 132,
+        "Palakkad": 139,
         "Ernakulam": 1,
         "Malappuram": 1,
-        "Unspecified": 9
+        "Unspecified": 2
       },
       "dailyConfirmedCount": [
         0,
@@ -698,8 +698,8 @@
       "confirmed": 61,
       "deaths": 1,
       "confirmedByCity": {
-        "Thrissur": 51,
-        "Unspecified": 10
+        "Thrissur": 59,
+        "Ernakulam": 2
       },
       "dailyConfirmedCount": [
         0,
@@ -3557,10 +3557,10 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 23,
+      "female": 24,
       "male": 18,
       "unspecified": 2,
-      "total": 43
+      "total": 44
     },
     {
       "ageGroup": "10-19",
@@ -3571,24 +3571,24 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 67,
-      "male": 190,
+      "female": 68,
+      "male": 193,
       "unspecified": 0,
-      "total": 257
+      "total": 261
     },
     {
       "ageGroup": "30-39",
       "female": 41,
-      "male": 222,
+      "male": 225,
       "unspecified": 0,
-      "total": 263
+      "total": 266
     },
     {
       "ageGroup": "40-49",
       "female": 32,
-      "male": 163,
+      "male": 164,
       "unspecified": 0,
-      "total": 195
+      "total": 196
     },
     {
       "ageGroup": "50-59",
@@ -3629,14 +3629,14 @@
       "ageGroup": "Unspecified",
       "female": 21,
       "male": 86,
-      "unspecified": 52,
-      "total": 159
+      "unspecified": 43,
+      "total": 150
     }
   ],
   "gender": {
-    "female": 275,
-    "male": 878,
-    "unspecified": 55,
+    "female": 277,
+    "male": 885,
+    "unspecified": 46,
     "total": 1208
   },
   "underObservation": {
