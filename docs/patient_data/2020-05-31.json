@@ -9563,10 +9563,11 @@
     "residence": "Neendur",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait to Kochi, IX 396, May 9",
     "knownCluster": "Kuwait",
-    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2600257376853155",
+    "releasedOn": "2020-05-30",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2600257376853155 https://epaper.deshabhimani.com/2694035/Kottayam/Kottayam-may-31th-2020#page/2/2",
     "confirmedPatient": true
   },
   {
@@ -12979,10 +12980,11 @@
     "residence": "Nellaya",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
-    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810",
+    "releasedOn": "2020-05-30",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810 https://epaper.deshabhimani.com/c/52369911",
     "confirmedPatient": true
   },
   {
@@ -16818,18 +16820,22 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Pune on May 18",
+    "knownCluster": "Pune",
+    "sourceURL": "https://epaper.deshabhimani.com/c/52369677",
     "confirmedPatient": true
   },
   {
     "patientId": 1198,
     "dateAnnounced": "2020-05-30",
-    "ageBracket": -1,
+    "ageBracket": 36,
     "gender": "M",
     "residence": "East Fort",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on May 23",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://epaper.deshabhimani.com/c/52369677",
     "confirmedPatient": true
   },
   {
