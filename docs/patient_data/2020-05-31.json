@@ -7098,9 +7098,10 @@
     "residence": "Edappal",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
+    "patientStatus": "Discharged",
+    "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020, DHS-bulletin based discharge",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-05-28",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1000489190348904",
     "confirmedPatient": true
   },
@@ -8611,10 +8612,11 @@
     "residence": "Chalakkudy",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
-    "notes": "Travelled from Male by INS Jalashwa on May 10; P580's Mom",
+    "patientStatus": "Recovered",
+    "notes": "Travelled from Male by INS Jalashwa on May 10; P580's Mom; discharge based on DHS bulletin",
     "knownCluster": "Maldives",
-    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/05/19/thrissur-4-people-tested-with-covid-19.html",
+    "releasedOn": "2020-05-30",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/05/19/thrissur-4-people-tested-with-covid-19.html https://www.manoramaonline.com/district-news/thrissur/2020/05/31/thrissur-10-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -8625,10 +8627,11 @@
     "residence": "Chalakkudy",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
-    "notes": "Travelled from Male by INS Jalashwa on May 10; P580's Wife",
+    "patientStatus": "Recovered",
+    "notes": "Travelled from Male by INS Jalashwa on May 10; P580's Wife; discharge based on DHS bulletin",
     "knownCluster": "Maldives",
-    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/05/19/thrissur-4-people-tested-with-covid-19.html",
+    "releasedOn": "2020-05-30",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/05/19/thrissur-4-people-tested-with-covid-19.html https://www.manoramaonline.com/district-news/thrissur/2020/05/31/thrissur-10-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -8653,10 +8656,11 @@
     "residence": "Kothapparamb",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
-    "notes": "Travelled by Dammam Kochi via AI 1924 on May 12",
+    "patientStatus": "Recovered",
+    "notes": "Travelled by Dammam Kochi via AI 1924 on May 12; discharge based on DHS bulletin",
     "knownCluster": "Dammam",
-    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/05/19/thrissur-4-people-tested-with-covid-19.html",
+    "releasedOn": "2020-05-30",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/05/19/thrissur-4-people-tested-with-covid-19.html https://www.manoramaonline.com/district-news/thrissur/2020/05/31/thrissur-10-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
