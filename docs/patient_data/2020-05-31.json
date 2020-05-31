@@ -17114,7 +17114,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Forest watcher at Walayar; categorized as \"travel\" by district admin",
+    "notes": "Forest watcher at Walayar",
     "knownCluster": "Walayar",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/602902130354188",
     "confirmedPatient": true
@@ -17403,7 +17403,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Thiruchathoor in TN",
+    "notes": "Contact with businessmen from TN",
     "knownCluster": "Thiruchathoor",
     "districtPatientNumber": "Kollam P55",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1616400805178792",
@@ -17443,10 +17443,11 @@
     "patientId": 1243,
     "dateAnnounced": "2020-05-31",
     "ageBracket": -1,
+    "residence": "Kalluvathukkal",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "P33's new born baby",
+    "notes": "P841's new born baby",
     "knownCluster": "Kollam",
     "districtPatientNumber": "Kollam P58",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1616400805178792",
@@ -17643,28 +17644,40 @@
   {
     "patientId": 1258,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Kodungallur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from OMuscat on May 17",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3196390273761993",
     "confirmedPatient": true
   },
   {
     "patientId": 1259,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Edathuruthi",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3196390273761993",
     "confirmedPatient": true
   },
   {
     "patientId": 1260,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Kodungallur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3196390273761993",
     "confirmedPatient": true
   },
   {
@@ -17677,6 +17690,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 17",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/168303637981888",
     "confirmedPatient": true
   },
   {
@@ -17689,15 +17703,18 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Kozhikode on May 27",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/168303637981888",
     "confirmedPatient": true
   },
   {
     "patientId": 1263,
     "dateAnnounced": "2020-05-31",
     "ageBracket": -1,
+    "residence": "Unspecified",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/168303637981888",
     "confirmedPatient": true
   },
   {
