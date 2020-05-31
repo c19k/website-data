@@ -424,7 +424,8 @@
       "confirmed": 100,
       "deaths": 1,
       "confirmedByCity": {
-        "Malappuram": 100
+        "Malappuram": 99,
+        "Palakkad": 1
       },
       "dailyConfirmedCount": [
         0,
@@ -3464,37 +3465,37 @@
     {
       "ageGroup": "20-29",
       "female": 69,
-      "male": 194,
-      "unspecified": 1,
-      "total": 264
+      "male": 200,
+      "unspecified": 0,
+      "total": 269
     },
     {
       "ageGroup": "30-39",
       "female": 43,
-      "male": 231,
+      "male": 232,
       "unspecified": 0,
-      "total": 274
+      "total": 275
     },
     {
       "ageGroup": "40-49",
       "female": 32,
-      "male": 173,
+      "male": 174,
       "unspecified": 0,
-      "total": 205
+      "total": 206
     },
     {
       "ageGroup": "50-59",
       "female": 35,
-      "male": 95,
+      "male": 99,
       "unspecified": 0,
-      "total": 130
+      "total": 134
     },
     {
       "ageGroup": "60-69",
       "female": 19,
-      "male": 58,
+      "male": 59,
       "unspecified": 0,
-      "total": 77
+      "total": 78
     },
     {
       "ageGroup": "70-79",
@@ -3520,15 +3521,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 21,
-      "male": 86,
-      "unspecified": 78,
-      "total": 185
+      "male": 90,
+      "unspecified": 62,
+      "total": 173
     }
   ],
   "gender": {
     "female": 282,
-    "male": 906,
-    "unspecified": 81,
+    "male": 923,
+    "unspecified": 64,
     "total": 1269
   },
   "underObservation": {
