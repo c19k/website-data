@@ -15341,6 +15341,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Gandhinagar by train on May 19",
     "knownCluster": "Gandhinagar",
+    "districtPatientNumber": "Kollam P46",
     "sourceURL": "https://www.facebook.com/462119120606972/posts/1613754062110133/",
     "confirmedPatient": true
   },
@@ -16126,6 +16127,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on 27 May",
     "knownCluster": "Mumbai",
+    "districtPatientNumber": "Kollam P47",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1614650908687115",
     "confirmedPatient": true
   },
@@ -16140,6 +16142,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait.",
     "knownCluster": "Kuwait",
+    "districtPatientNumber": "Kollam P48",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1614650908687115",
     "confirmedPatient": true
   },
@@ -16891,6 +16894,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Air India Pilot",
+    "knownCluster": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -16901,6 +16905,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Air India Pilot",
+    "knownCluster": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -16911,6 +16916,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Air India Crew",
+    "knownCluster": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -16921,6 +16927,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Air India Crew",
+    "knownCluster": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -16931,6 +16938,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Air India Crew",
+    "knownCluster": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -16941,6 +16949,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Air India Crew",
+    "knownCluster": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -16951,6 +16960,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Air India Crew",
+    "knownCluster": "Unspecified",
     "confirmedPatient": true
   },
   {
@@ -17204,19 +17214,25 @@
   {
     "patientId": 1231,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
+    "ageBracket": 19,
+    "gender": "M",
+    "residence": "Muzhuppilangad",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat to Kannur IX714 on 20",
     "confirmedPatient": true
   },
   {
     "patientId": 1232,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Iritty",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat to Kannur IX714 on 22",
     "confirmedPatient": true
   },
   {
@@ -17267,46 +17283,71 @@
   {
     "patientId": 1238,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Ariyanallur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "districtPatientNumber": "Kollam P53",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1616400805178792",
     "confirmedPatient": true
   },
   {
     "patientId": 1239,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "F",
+    "residence": "Thrikkovilvattom",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai; staff nurse",
+    "districtPatientNumber": "Kollam P54",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1616400805178792",
     "confirmedPatient": true
   },
   {
     "patientId": 1240,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Adichanallur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Thiruchathoor in TN",
+    "districtPatientNumber": "Kollam P55",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1616400805178792",
     "confirmedPatient": true
   },
   {
     "patientId": 1241,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Mainagapaly",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "districtPatientNumber": "Kollam P56",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1616400805178792",
     "confirmedPatient": true
   },
   {
     "patientId": 1242,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Thalavur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai; travelled with P1144",
+    "districtPatientNumber": "Kollam P57",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1616400805178792",
     "confirmedPatient": true
   },
   {
@@ -17316,6 +17357,9 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "P33's new born baby",
+    "districtPatientNumber": "Kollam P58",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1616400805178792",
     "confirmedPatient": true
   },
   {
@@ -17328,6 +17372,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maldives via INS Jalashwa on 17 May to Kochi",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/563562407574927",
     "confirmedPatient": true
   },
   {
@@ -17340,6 +17385,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi to TRV on May 29",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/563562407574927",
     "confirmedPatient": true
   },
   {
@@ -17352,6 +17398,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mysore",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/563562407574927",
     "confirmedPatient": true
   },
   {
@@ -17364,6 +17411,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Rajasthan by train on May 28",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/563562407574927",
     "confirmedPatient": true
   },
   {
@@ -17376,6 +17424,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Pune on May 26",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/563562407574927",
     "confirmedPatient": true
   },
   {
@@ -17388,6 +17437,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on May 25",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/563562407574927",
     "confirmedPatient": true
   },
   {
