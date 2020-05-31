@@ -14122,9 +14122,10 @@
     "residence": "Mavoor",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
     "notes": "Travelled from Gulf to Kannur on May 21",
     "knownCluster": "Unspecified",
+    "oeceasedOn": "2020-05-31",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2962523767195034&id=1135018129945616",
     "confirmedPatient": true
   },

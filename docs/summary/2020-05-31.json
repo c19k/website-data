@@ -1,5 +1,5 @@
 {
-  "updated": "2020-05-31 21:52",
+  "updated": "2020-05-31 22:05",
   "prefectures": [
     {
       "confirmed": 276,
@@ -3431,13 +3431,13 @@
     {
       "confirmed": 61,
       "recoveredCumulative": 590,
-      "deceasedCumulative": 9,
+      "deceasedCumulative": 10,
       "criticalCumulative": 1,
       "testedCumulative": 79877,
       "observationCumulative": 134654,
       "homeObservationCumulative": 133413,
       "hosptilisedCumulative": 1241,
-      "activeCumulative": 670,
+      "activeCumulative": 669,
       "status": "Finalised",
       "date": "2020-05-31",
       "confirmedCumulative": 1269,
