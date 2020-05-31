@@ -12984,11 +12984,10 @@
     "residence": "Nellaya",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
-    "patientStatus": "Discharged",
+    "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
-    "releasedOn": "2020-05-30",
-    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810 https://epaper.deshabhimani.com/c/52369911",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/599992577311810 ",
     "confirmedPatient": true
   },
   {
@@ -16891,7 +16890,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
-    "notes": "Air India Crew",
+    "notes": "Air India Pilot",
     "confirmedPatient": true
   },
   {
@@ -16901,7 +16900,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
-    "notes": "Air India Crew",
+    "notes": "Air India Pilot",
     "confirmedPatient": true
   },
   {
