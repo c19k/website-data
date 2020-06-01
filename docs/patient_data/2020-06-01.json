@@ -18318,10 +18318,15 @@
   {
     "patientId": 1326,
     "dateAnnounced": "2020-06-01",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "F",
+    "residence": "Calvary Mount",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi; pregnant nurse",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=585271129062317&id=230880581168042",
     "confirmedPatient": true
   }
 ]
