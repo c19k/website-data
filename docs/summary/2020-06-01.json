@@ -1,5 +1,5 @@
 {
-  "updated": "2020-06-01 19:14",
+  "updated": "2020-06-01 19:18",
   "prefectures": [
     {
       "confirmed": 290,
@@ -1406,7 +1406,7 @@
     },
     {
       "confirmed": 49,
-      "deaths": 0,
+      "deaths": 1,
       "confirmedByCity": {
         "Alappuzha": 49
       },
@@ -1545,7 +1545,7 @@
     },
     {
       "confirmed": 44,
-      "deaths": 0,
+      "deaths": 1,
       "confirmedByCity": {
         "Kottayam": 44
       },
@@ -3470,7 +3470,7 @@
       "homeObservationCumulative": 138397,
       "hosptilisedCumulative": 1246,
       "activeCumulative": 708,
-      "status": "Reviewing",
+      "status": "Finalised",
       "date": "2020-06-01",
       "confirmedCumulative": 1326,
       "confirmedAvg3d": 58,
