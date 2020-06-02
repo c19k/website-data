@@ -9451,10 +9451,11 @@
     "residence": "Kootilangadi",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled IX 348 Abudhabi Kozhikode on May 16 2020",
     "knownCluster": "Abu Dhabi",
-    "sourceURL": "https://www.facebook.com/110297390449180/posts/165586741586911/",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/165586741586911/ https://epaper.deshabhimani.com/c/52429183",
     "confirmedPatient": true
   },
   {
@@ -9508,10 +9509,11 @@
     "residence": "Thennala Tharayil",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai on May 14",
     "knownCluster": "Mumbai",
-    "sourceURL": "https://www.facebook.com/110297390449180/posts/165586741586911/",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/165586741586911/ https://epaper.deshabhimani.com/c/52429183",
     "confirmedPatient": true
   },
   {
@@ -10226,10 +10228,11 @@
     "residence": "Athavanad",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "notes": "Travelled from Raigad ",
+    "patientStatus": "Discharged",
+    "notes": "Travelled from Raigad; age probably incorrect if discharge news is referred to",
     "knownCluster": "Raigad",
-    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html https://epaper.deshabhimani.com/c/52429183",
     "confirmedPatient": true
   },
   {
@@ -11696,10 +11699,11 @@
     "residence": "Thennala",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
-    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html https://epaper.deshabhimani.com/c/52429183",
     "confirmedPatient": true
   },
   {
