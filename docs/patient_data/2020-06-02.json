@@ -7419,7 +7419,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi, IX452 Abu Dhabi Kochi flight on 7 May 2020",
     "knownCluster": "Abu Dhabi",
-    "releasedOn": "2020-05-24",
+    "releasedOn": "2020-05-22",
     "sourceURL": "https://www.facebook.com/990649497647157/posts/3292802537431830/",
     "confirmedPatient": true
   },
@@ -7446,10 +7446,11 @@
     "residence": "Peruvallur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Police Officer posted at Wayanad",
     "knownCluster": "Wayanad",
     "dhsPatientNumber": "498",
+    "releasedOn": "2020-06-01",
     "sourceURL": "https://www.facebook.com/990649497647157/posts/3292802537431830/ https://www.facebook.com/prdwayanad/posts/3200383713306358",
     "confirmedPatient": true
   },
