@@ -7891,9 +7891,10 @@
     "residence": "Pathanamthitta",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait to Kochi IX396 on May 9",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-02",
     "sourceURL": "https://www.facebook.com/dc.pathanamthitta/posts/3935391263169108:0",
     "confirmedPatient": true
   },
