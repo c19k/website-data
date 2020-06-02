@@ -7431,10 +7431,11 @@
     "residence": "Manoor Nadakkav",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai, IX344 Dubai Kozhikode flight on 7 May 2020 (Native of Chappanangadi, Kottakkal, Malappuram)",
     "knownCluster": "Dubai",
-    "sourceURL": "https://www.facebook.com/990649497647157/posts/3292802537431830/",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://www.facebook.com/990649497647157/posts/3292802537431830/ https://epaper.deshabhimani.com/c/52429183",
     "confirmedPatient": true
   },
   {
@@ -7739,10 +7740,11 @@
     "residence": "Veliancode",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
-    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3295773207134763",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3295773207134763 https://epaper.deshabhimani.com/c/52429183",
     "confirmedPatient": true
   },
   {
@@ -8009,10 +8011,11 @@
     "residence": "Tanur Pariapuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Chennai; Runs tea shop in Kanchipuram",
     "knownCluster": "Chennai",
-    "sourceURL": "https://www.facebook.com/990649497647157/posts/3298157483563002/",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://www.facebook.com/990649497647157/posts/3298157483563002/ https://epaper.deshabhimani.com/c/52429183",
     "confirmedPatient": true
   },
   {
@@ -9590,10 +9593,11 @@
     "residence": "Manganam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled Dubai Kochi on IX 0434 on 11 May 2020",
     "knownCluster": "Dubai",
-    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2600257376853155",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2600257376853155 https://epaper.deshabhimani.com/c/52429128",
     "confirmedPatient": true
   },
   {
@@ -11210,10 +11214,11 @@
     "residence": "Karukachal",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled Abu Dhabi TRV IX 0538 on 16th (18th as per release, but no flight on 18th)",
     "knownCluster": "Abu Dhabi",
-    "sourceURL": "https://www.facebook.com/diokottayam/posts/1159697717720188",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1159697717720188 https://epaper.deshabhimani.com/c/52429128",
     "confirmedPatient": true
   },
   {
@@ -11224,10 +11229,11 @@
     "residence": "Meenadom",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from BLR on 18th May",
     "knownCluster": "Bangalore",
-    "sourceURL": "https://www.facebook.com/diokottayam/posts/1159697717720188",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1159697717720188 https://epaper.deshabhimani.com/c/52429128",
     "confirmedPatient": true
   },
   {
@@ -11239,7 +11245,7 @@
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled fro Koyambedu, Chennaim",
+    "notes": "Travelled fro Koyambedu, Chennai",
     "knownCluster": "Chennai",
     "districtPatientNumber": "Wayanad P24",
     "sourceURL": "https://www.facebook.com/wayanadWE/posts/889815371482454",
