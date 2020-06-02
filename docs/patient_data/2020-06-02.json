@@ -18945,8 +18945,8 @@
     "patientId": 1361,
     "dateAnnounced": "2020-06-02",
     "ageBracket": -1,
-    "detectedCityTown": "Kasaragod",
-    "detectedPrefecture": "Kasaragod",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -19016,10 +19016,12 @@
   {
     "patientId": 1369,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
-    "detectedCityTown": "Kollam",
-    "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "ageBracket": 77,
+    "gender": "M",
+    "residence": "Nalanchira",
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Deceased",
     "confirmedPatient": true
   },
   {
@@ -19080,8 +19082,8 @@
     "patientId": 1376,
     "dateAnnounced": "2020-06-02",
     "ageBracket": -1,
-    "detectedCityTown": "Thiruvananthapuram",
-    "detectedPrefecture": "Thiruvananthapuram",
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -19134,8 +19136,8 @@
     "patientId": 1382,
     "dateAnnounced": "2020-06-02",
     "ageBracket": -1,
-    "detectedCityTown": "Kottayam",
-    "detectedPrefecture": "Kottayam",
+    "detectedCityTown": "Thrissur",
+    "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -19188,8 +19190,8 @@
     "patientId": 1388,
     "dateAnnounced": "2020-06-02",
     "ageBracket": -1,
-    "detectedCityTown": "Thrissur",
-    "detectedPrefecture": "Thrissur",
+    "detectedCityTown": "Wayanad",
+    "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -19242,8 +19244,8 @@
     "patientId": 1394,
     "dateAnnounced": "2020-06-02",
     "ageBracket": -1,
-    "detectedCityTown": "Wayanad",
-    "detectedPrefecture": "Wayanad",
+    "detectedCityTown": "Palakkad",
+    "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -19287,8 +19289,8 @@
     "patientId": 1399,
     "dateAnnounced": "2020-06-02",
     "ageBracket": -1,
-    "detectedCityTown": "Palakkad",
-    "detectedPrefecture": "Palakkad",
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -19332,8 +19334,80 @@
     "patientId": 1404,
     "dateAnnounced": "2020-06-02",
     "ageBracket": -1,
-    "detectedCityTown": "Kozhikode",
-    "detectedPrefecture": "Kozhikode",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1405,
+    "dateAnnounced": "2020-06-02",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1406,
+    "dateAnnounced": "2020-06-02",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1407,
+    "dateAnnounced": "2020-06-02",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1408,
+    "dateAnnounced": "2020-06-02",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1409,
+    "dateAnnounced": "2020-06-02",
+    "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1410,
+    "dateAnnounced": "2020-06-02",
+    "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1411,
+    "dateAnnounced": "2020-06-02",
+    "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1412,
+    "dateAnnounced": "2020-06-02",
+    "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
+    "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   }
