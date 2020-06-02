@@ -9119,9 +9119,11 @@
     "residence": "Kollengode",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Chennai",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-06-01",
+    "sourceURL": "https://epaper.deshabhimani.com/c/52427880",
     "confirmedPatient": true
   },
   {
