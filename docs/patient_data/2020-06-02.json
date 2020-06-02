@@ -17478,7 +17478,6 @@
   {
     "patientId": 1243,
     "dateAnnounced": "2020-05-31",
-    "ageBracket": -1,
     "residence": "Kalluvathukkal",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
@@ -18652,46 +18651,60 @@
   {
     "patientId": 1327,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "gender": "F",
+    "residence": "Porur Chathangottupuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait; 7 month old ",
     "confirmedPatient": true
   },
   {
     "patientId": 1328,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Kalady",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
     "confirmedPatient": true
   },
   {
     "patientId": 1329,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Vengara",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 1330,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Anakkayam",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh",
     "confirmedPatient": true
   },
   {
     "patientId": 1331,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Pulikkal Olavattur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
@@ -19131,55 +19144,79 @@
   {
     "patientId": 1376,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "F",
+    "residence": "Panachikkad Kuzhimattom",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 26",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1167455633611063",
     "confirmedPatient": true
   },
   {
     "patientId": 1377,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "F",
+    "residence": "Manjoor",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 26",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1167455633611063",
     "confirmedPatient": true
   },
   {
     "patientId": 1378,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "F",
+    "residence": "Erumeli",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 26",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1167455633611063",
     "confirmedPatient": true
   },
   {
     "patientId": 1379,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "F",
+    "residence": "Panachikkad",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 26",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1167455633611063",
     "confirmedPatient": true
   },
   {
     "patientId": 1380,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "F",
+    "residence": "Pariyaram",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait; pregnant",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1167455633611063",
     "confirmedPatient": true
   },
   {
     "patientId": 1381,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 82,
+    "gender": "M",
+    "residence": "Edayirikkappuzha",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1167455633611063",
     "confirmedPatient": true
   },
   {
@@ -19264,18 +19301,26 @@
     "patientId": 1388,
     "dateAnnounced": "2020-06-02",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Thalappuzha",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission; kidney patient",
+    "sourceURL": "http://opennewser.com/home/get_news/26617",
     "confirmedPatient": true
   },
   {
     "patientId": 1389,
     "dateAnnounced": "2020-06-02",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "F",
+    "residence": "Meenangadi Krishnagiri",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "sourceURL": "http://opennewser.com/home/get_news/26617",
     "confirmedPatient": true
   },
   {
@@ -19287,6 +19332,8 @@
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission; guest labourer",
+    "sourceURL": "http://opennewser.com/home/get_news/26617",
     "confirmedPatient": true
   },
   {
@@ -19298,6 +19345,8 @@
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission; guest labourer",
+    "sourceURL": "http://opennewser.com/home/get_news/26617",
     "confirmedPatient": true
   },
   {
@@ -19309,6 +19358,8 @@
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission; guest labourer",
+    "sourceURL": "http://opennewser.com/home/get_news/26617",
     "confirmedPatient": true
   },
   {
@@ -19320,6 +19371,8 @@
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission; guest labourer",
+    "sourceURL": "http://opennewser.com/home/get_news/26617",
     "confirmedPatient": true
   },
   {
