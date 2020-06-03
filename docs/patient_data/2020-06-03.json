@@ -20281,64 +20281,83 @@
   {
     "patientId": 1462,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "residence": "Maniyoor",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 1463,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "residence": "Maniyoor",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 1464,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Vadakara",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 1465,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Atholi",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 1466,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Kuttyadi",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain",
     "confirmedPatient": true
   },
   {
     "patientId": 1467,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Kavilumpara",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 1468,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "F",
+    "residence": "Elettil",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
     "confirmedPatient": true
   },
   {
@@ -20351,6 +20370,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486",
     "confirmedPatient": true
   },
   {
@@ -20363,6 +20383,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486",
     "confirmedPatient": true
   },
   {
@@ -20375,6 +20396,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486",
     "confirmedPatient": true
   },
   {
@@ -20387,6 +20409,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486",
     "confirmedPatient": true
   },
   {
@@ -20399,6 +20422,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/604759150168486",
     "confirmedPatient": true
   },
   {
