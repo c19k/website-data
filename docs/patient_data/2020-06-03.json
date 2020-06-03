@@ -20435,28 +20435,40 @@
   {
     "patientId": 1488,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Kanhangad",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Manama",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 1489,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Cheruvathur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 1490,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "F",
+    "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Doctor at KSG General Hospital",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788",
     "confirmedPatient": true
   },
   {
