@@ -8112,12 +8112,13 @@
     "dateAnnounced": "2020-05-15",
     "ageBracket": 43,
     "gender": "M",
-    "residence": "Koilandy",
+    "residence": "Koyilandy",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait Kozhikode IX 0394 May 13 2020",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-03",
     "sourceURL": "https://www.thejasnews.com/sublead/covid-19-updates-calicut-134119",
     "confirmedPatient": true
   },
@@ -8433,9 +8434,10 @@
     "residence": "Orkkatteri",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait. Kuwait-Kozhikode IX 0394  on 13 May 2020",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-03",
     "sourceURL": "https://www.asianetnews.com/local-news/covid-confirmed-two-more-people-from-abroad-kozhikode-qah6f0",
     "confirmedPatient": true
   },
@@ -9414,9 +9416,10 @@
     "residence": "Arikkulam",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-03",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2945987665515311&id=1135018129945616&substory_index=0&__cft__[0]=AZUhZnzbEpnchHR4g9bGpDLF4rg4qPb7Y7SHE2PNeq3M7ngmFL6lRN0TDhMilKCLd2IhGP15ozhMSaWaTETx085vTSGhAG1ftYhGJaU7xZMUGGBnor3TKrruYgileyKSRWrM9Br8qSKOEtoi3rRLzw3c7jfb6ljySQvT-LTzJOilZg&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
@@ -10094,9 +10097,10 @@
     "residence": "Thikkodi",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait on May 13 to Karippur IX 0394",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-03",
     "sourceURL": "https://www.mathrubhumi.com/news/kerala/covid19-lockdown-kozhikode-1.4777445",
     "confirmedPatient": true
   },
@@ -11094,9 +11098,10 @@
     "residence": "Orkkattery",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Chennai",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-06-03",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2953039738143437&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
@@ -13672,10 +13677,11 @@
     "residence": "Vorkady",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
-    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788",
+    "releasedOn": "2020-06-03",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -13700,10 +13706,11 @@
     "residence": "Manjeswaram",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
-    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788",
+    "releasedOn": "2020-06-03",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -13728,10 +13735,11 @@
     "residence": "Chemmanad",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
-    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788",
+    "releasedOn": "2020-06-03",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -13784,10 +13792,11 @@
     "residence": "Chemmanad",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Doha to Kannur",
     "knownCluster": "Doha",
-    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788",
+    "releasedOn": "2020-06-03",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788 https://www.facebook.com/permalink.php?story_fbid=177443570392146&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -15322,10 +15331,11 @@
     "residence": "Changanassery",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi on May 17",
     "knownCluster": "Abu Dhabi",
-    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
+    "releasedOn": "2020-06-03",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0 https://www.facebook.com/diokottayam/posts/1168323123524314",
     "confirmedPatient": true
   },
   {
@@ -15336,10 +15346,11 @@
     "residence": "Vazhoor",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dammam on May 19",
     "knownCluster": "Dammam",
-    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
+    "releasedOn": "2020-06-03",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0 https://www.facebook.com/diokottayam/posts/1168323123524314",
     "confirmedPatient": true
   },
   {
@@ -20153,6 +20164,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1167455633611063",
     "confirmedPatient": true
   },
   {
@@ -20165,6 +20177,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1168323123524314",
     "confirmedPatient": true
   },
   {
@@ -20177,6 +20190,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1168323123524314",
     "confirmedPatient": true
   },
   {
@@ -20189,6 +20203,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Doha",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1168323123524314",
     "confirmedPatient": true
   },
   {
@@ -20201,6 +20216,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1168323123524314",
     "confirmedPatient": true
   },
   {
@@ -20213,6 +20229,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Contact of P1451",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1168323123524314",
     "confirmedPatient": true
   },
   {
@@ -20225,6 +20242,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1168323123524314",
     "confirmedPatient": true
   },
   {
@@ -20232,63 +20250,82 @@
     "dateAnnounced": "2020-06-03",
     "ageBracket": 29,
     "gender": "F",
+    "residence": "Kuravilangad",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1168323123524314",
     "confirmedPatient": true
   },
   {
     "patientId": 1455,
     "dateAnnounced": "2020-06-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Mararikkulam",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 1456,
     "dateAnnounced": "2020-06-03",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Mararikkulam",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 1457,
     "dateAnnounced": "2020-06-03",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Chengannur",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Pune",
     "confirmedPatient": true
   },
   {
     "patientId": 1458,
     "dateAnnounced": "2020-06-03",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Alappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 1459,
     "dateAnnounced": "2020-06-03",
     "ageBracket": -1,
+    "residence": "Mavelikkara Thekkekkara",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 1460,
     "dateAnnounced": "2020-06-03",
     "ageBracket": -1,
+    "residence": "Cherthala",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
@@ -20304,24 +20341,26 @@
     "patientId": 1462,
     "dateAnnounced": "2020-06-03",
     "ageBracket": 42,
+    "gender": "M",
     "residence": "Maniyoor",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
-    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248",
     "confirmedPatient": true
   },
   {
     "patientId": 1463,
     "dateAnnounced": "2020-06-03",
     "ageBracket": 46,
+    "gender": "M",
     "residence": "Maniyoor",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
-    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248",
     "confirmedPatient": true
   },
   {
@@ -20334,7 +20373,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
-    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248",
     "confirmedPatient": true
   },
   {
@@ -20347,7 +20386,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
-    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803249",
     "confirmedPatient": true
   },
   {
@@ -20360,7 +20399,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bahrain",
-    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803250",
     "confirmedPatient": true
   },
   {
@@ -20373,7 +20412,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
-    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803251",
     "confirmedPatient": true
   },
   {
@@ -20386,7 +20425,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Health Worker",
-    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
+    "sourceURL": "https://www.mathrubhumi.com/news/kerala/including-one-doctor-seven-covid19-positive-case-in-kozhikode-1.4803248",
     "confirmedPatient": true
   },
   {
