@@ -20268,6 +20268,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661",
     "confirmedPatient": true
   },
   {
@@ -20280,6 +20281,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661",
     "confirmedPatient": true
   },
   {
@@ -20292,6 +20294,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Pune",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661",
     "confirmedPatient": true
   },
   {
@@ -20304,37 +20307,46 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661",
     "confirmedPatient": true
   },
   {
     "patientId": 1459,
     "dateAnnounced": "2020-06-03",
     "ageBracket": -1,
+    "gender": "F",
     "residence": "Mavelikkara Thekkekkara",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661",
     "confirmedPatient": true
   },
   {
     "patientId": 1460,
     "dateAnnounced": "2020-06-03",
     "ageBracket": -1,
+    "gender": "F",
     "residence": "Cherthala",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661",
     "confirmedPatient": true
   },
   {
     "patientId": 1461,
     "dateAnnounced": "2020-06-03",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Alappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661",
     "confirmedPatient": true
   },
   {
