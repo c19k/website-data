@@ -20146,70 +20146,92 @@
   {
     "patientId": 1447,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Thekkethukavala",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 1448,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "F",
+    "residence": "Ettumanur",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 1449,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "F",
+    "residence": "Arppukkara",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 1450,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "F",
+    "residence": "Payippadu",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha",
     "confirmedPatient": true
   },
   {
     "patientId": 1451,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "F",
+    "residence": "Changanassery",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
     "confirmedPatient": true
   },
   {
     "patientId": 1452,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Kurampanadam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Contact of P1451",
     "confirmedPatient": true
   },
   {
     "patientId": 1453,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Perunna",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 1454,
     "dateAnnounced": "2020-06-03",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "F",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
@@ -20287,6 +20309,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
@@ -20298,6 +20321,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
@@ -20310,6 +20334,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
@@ -20322,6 +20347,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
@@ -20334,6 +20360,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bahrain",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
@@ -20346,6 +20373,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
@@ -20358,6 +20386,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Health Worker",
+    "sourceURL": "https://www.facebook.com/photo?fbid=2979886315458779&set=a.1135032109944218",
     "confirmedPatient": true
   },
   {
