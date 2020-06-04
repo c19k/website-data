@@ -21602,34 +21602,44 @@
   {
     "patientId": 1581,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Mooriyad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Russia",
     "confirmedPatient": true
   },
   {
     "patientId": 1582,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Iringalakkuda",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
     "confirmedPatient": true
   },
   {
     "patientId": 1583,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Valapad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
     "confirmedPatient": true
   },
   {
     "patientId": 1584,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 5,
+    "residence": "Palakkad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
@@ -21645,6 +21655,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Merchany navy",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1019238315140658",
     "confirmedPatient": true
   },
   {
@@ -21657,6 +21668,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Merchany navy",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1019238315140658",
     "confirmedPatient": true
   },
   {
