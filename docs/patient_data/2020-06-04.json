@@ -21638,19 +21638,25 @@
   {
     "patientId": 1585,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Maharashtra",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Merchany navy",
     "confirmedPatient": true
   },
   {
     "patientId": 1586,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Maharashtra",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Merchany navy",
     "confirmedPatient": true
   },
   {
