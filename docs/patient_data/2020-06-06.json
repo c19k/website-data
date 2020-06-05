@@ -23354,28 +23354,37 @@
   {
     "patientId": 1676,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "F",
+    "residence": "Kallambalam",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on May 22",
     "confirmedPatient": true
   },
   {
     "patientId": 1677,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Kallambalam Thottakkad",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tajikistan",
     "confirmedPatient": true
   },
   {
     "patientId": 1678,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Kallambalam",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tajikistan",
     "confirmedPatient": true
   },
   {
