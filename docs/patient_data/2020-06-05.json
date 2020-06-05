@@ -11705,9 +11705,10 @@
     "residence": "Parappanangadi",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled Abu Dhabi Kozhikode on 16 evening IX 0348; grand daughter of P824",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-06-04",
     "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html",
     "confirmedPatient": true
   },
@@ -11748,9 +11749,10 @@
     "residence": "Thirunavaya",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai Kochi IX 0434 on 20 May",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-04",
     "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/24/malappuram-covid-updates.html",
     "confirmedPatient": true
   },
