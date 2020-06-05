@@ -22606,6 +22606,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar",
+    "knownCluster": "Qatar",
     "confirmedPatient": true
   },
   {
@@ -22618,6 +22619,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UP",
+    "knownCluster": "Uttar Pradesh",
     "confirmedPatient": true
   },
   {
@@ -22629,6 +22631,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -22640,6 +22644,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Andhra Pradesh",
+    "knownCluster": "Andhra Pradhesh",
     "confirmedPatient": true
   },
   {
@@ -22651,6 +22657,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Andhra Pradesh",
+    "knownCluster": "Andhra Pradhesh",
     "confirmedPatient": true
   },
   {
@@ -22662,6 +22670,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Andhra Pradesh",
+    "knownCluster": "Andhra Pradhesh",
     "confirmedPatient": true
   },
   {
@@ -22673,6 +22683,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Laksha Dweep",
+    "knownCluster": "Laksha Dweep",
     "confirmedPatient": true
   },
   {
@@ -22684,6 +22696,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Karnataka",
+    "knownCluster": "Karnataka",
     "confirmedPatient": true
   },
   {
@@ -22695,6 +22709,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Forest Officer on duty at Walayar",
+    "knownCluster": "Palakkad",
     "confirmedPatient": true
   },
   {
@@ -22706,6 +22722,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker on Duty at DH",
+    "knownCluster": "Palakkad",
     "confirmedPatient": true
   },
   {
@@ -22717,6 +22735,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker on Duty at DH",
+    "knownCluster": "Palakkad",
     "confirmedPatient": true
   },
   {
@@ -22728,6 +22748,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker on Duty at DH",
+    "knownCluster": "Palakkad",
     "confirmedPatient": true
   },
   {
@@ -22739,6 +22761,8 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "KMSCL Employee",
+    "knownCluster": "Palakkad",
     "confirmedPatient": true
   },
   {
