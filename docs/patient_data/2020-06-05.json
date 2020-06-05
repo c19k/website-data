@@ -23239,10 +23239,12 @@
   {
     "patientId": 1699,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "residence": "Padanna",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on May 24",
     "confirmedPatient": true
   }
 ]
