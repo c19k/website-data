@@ -23374,6 +23374,7 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on May 22",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588209418768488&id=230880581168042",
     "confirmedPatient": true
   },
@@ -23387,6 +23388,7 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on May 22",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588209418768488&id=230880581168042",
     "confirmedPatient": true
   },
@@ -23400,6 +23402,7 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on May 31",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588209418768488&id=230880581168042",
     "confirmedPatient": true
   },
@@ -23424,28 +23427,43 @@
   {
     "patientId": 1695,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "M",
+    "residence": "Anchukunnu",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Karnataka",
+    "knownCluster": "Karnataka",
+    "sourceURL": "https://www.facebook.com/278429812621016/posts/899263183871006/",
     "confirmedPatient": true
   },
   {
     "patientId": 1696,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Karakkamala",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Karnataka",
+    "knownCluster": "Karnataka",
+    "sourceURL": "https://www.facebook.com/278429812621016/posts/899263183871006/",
     "confirmedPatient": true
   },
   {
     "patientId": 1697,
     "dateAnnounced": "2020-06-05",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kalpeta",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Husband of P732",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/278429812621016/posts/899263183871006/",
     "confirmedPatient": true
   },
   {
@@ -23458,6 +23476,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on May 27",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/diokottayam/posts/1170023503354276",
     "confirmedPatient": true
   },
@@ -23471,6 +23490,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra on May 24",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178006537002516&id=100507158085788",
     "confirmedPatient": true
   }
