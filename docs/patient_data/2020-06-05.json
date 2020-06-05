@@ -20984,6 +20984,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on 24 May",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -20996,6 +20997,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on 24 May",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21008,6 +21010,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on 24 May",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21020,6 +21023,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21032,6 +21036,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on 27 May",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21044,6 +21049,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Gujarat on 27 May",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21056,6 +21062,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Gujarat on 27 May",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21068,6 +21075,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on May 27",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21080,6 +21088,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on 28 May",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21092,6 +21101,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on 28 May",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21104,6 +21114,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on 29 May",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21116,6 +21127,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on 31 May",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21127,15 +21139,21 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on 1 June",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
     "patientId": 1508,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "F",
+    "residence": "Thannithodu",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on 1 June",
+    "sourceURL": "https://www.facebook.com/108391950627863/posts/182234719910252/",
     "confirmedPatient": true
   },
   {
@@ -21685,73 +21703,106 @@
   {
     "patientId": 1550,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "F",
+    "residence": "Edappal",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
+    "notes": "Travelled from Dubai on May 20",
+    "oeceasedOn": "2020-05-02",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/169445214534397/",
     "confirmedPatient": true
   },
   {
     "patientId": 1551,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Edappal",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 20",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/169445214534397/",
     "confirmedPatient": true
   },
   {
     "patientId": 1552,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "F",
+    "residence": "Edappal",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 20",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/169445214534397/",
     "confirmedPatient": true
   },
   {
     "patientId": 1553,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Valanchery",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 31",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/169445214534397/",
     "confirmedPatient": true
   },
   {
     "patientId": 1554,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 73,
+    "gender": "M",
+    "residence": "Perumbadappu",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha on June2",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/169445214534397/",
     "confirmedPatient": true
   },
   {
     "patientId": 1555,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Thazhekkadu",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 26",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/169445214534397/",
     "confirmedPatient": true
   },
   {
     "patientId": 1556,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 60,
+    "gender": "M",
+    "residence": "Tanur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on May 14",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/169445214534397/",
     "confirmedPatient": true
   },
   {
     "patientId": 1557,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Vallappuzha",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 31",
+    "sourceURL": "https://www.facebook.com/110297390449180/posts/169445214534397/",
     "confirmedPatient": true
   },
   {
