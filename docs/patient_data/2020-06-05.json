@@ -23367,28 +23367,40 @@
   {
     "patientId": 1690,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "F",
+    "residence": "Upputhara",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on May 22",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588209418768488&id=230880581168042",
     "confirmedPatient": true
   },
   {
     "patientId": 1691,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Thodupuzha",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on May 22",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588209418768488&id=230880581168042",
     "confirmedPatient": true
   },
   {
     "patientId": 1692,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "Chakkupallam",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on May 31",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588209418768488&id=230880581168042",
     "confirmedPatient": true
   },
   {
@@ -23439,10 +23451,14 @@
   {
     "patientId": 1698,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Athirumpuzha",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on May 27",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1170023503354276",
     "confirmedPatient": true
   },
   {
