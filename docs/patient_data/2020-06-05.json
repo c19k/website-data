@@ -21111,6 +21111,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharasthtra on June 1",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21124,6 +21125,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharasthtra on June 1",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21137,6 +21139,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharasthtra on May 22",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21150,6 +21153,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharasthtra on June 1",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21163,6 +21167,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharasthtra on May 24",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21176,6 +21181,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharasthtra on May 18",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21189,6 +21195,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on May 19",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21202,6 +21209,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on May 28",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21215,6 +21223,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on May 28",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21228,6 +21237,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on May 29",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21241,6 +21251,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah on May 31",
     "knownCluster": "Sharjah",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21254,6 +21265,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "sourceURL": "https://www.facebook.com/100507158085788/posts/177726090363894/",
     "confirmedPatient": true
   },
   {
@@ -21530,73 +21542,105 @@
   {
     "patientId": 1542,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "Nooranadu",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kozhikode on 27",
+    "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
   {
     "patientId": 1543,
     "dateAnnounced": "2020-06-04",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kandallur",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kozhikode on 28",
+    "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
   {
     "patientId": 1544,
     "dateAnnounced": "2020-06-04",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Mavelikkara",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on 22 May",
+    "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
   {
     "patientId": 1545,
     "dateAnnounced": "2020-06-04",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kayamkulam",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on 26 May",
+    "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
   {
     "patientId": 1546,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Mulakkuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on 26 May",
+    "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
   {
     "patientId": 1547,
     "dateAnnounced": "2020-06-04",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Edathva",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on May 27",
+    "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
   {
     "patientId": 1548,
     "dateAnnounced": "2020-06-04",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Alappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Moscow",
+    "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
   {
     "patientId": 1549,
     "dateAnnounced": "2020-06-04",
-    "ageBracket": -1,
+    "ageBracket": 53,
+    "gender": "M",
+    "residence": "Mulakkuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kozhikode on 27",
+    "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
   {
