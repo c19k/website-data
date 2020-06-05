@@ -14129,10 +14129,11 @@
     "residence": "Panamaram",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai with P997and 999",
     "knownCluster": "Mumbai",
-    "sourceURL": "https://www.facebook.com/prdwayanad/posts/3214911555186907",
+    "releasedOn": "2020-06-05",
+    "sourceURL": "https://www.facebook.com/prdwayanad/posts/3214911555186907 https://www.facebook.com/wayanadWE/posts/898438983953426",
     "confirmedPatient": true
   },
   {
@@ -16150,10 +16151,11 @@
     "residence": "Medppadi",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from abroad",
     "knownCluster": "Unspecified",
-    "sourceURL": "https://www.facebook.com/wayanadWE/posts/893996784397646",
+    "releasedOn": "2020-06-05",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/893996784397646 https://www.facebook.com/wayanadWE/posts/898438983953426",
     "confirmedPatient": true
   },
   {
