@@ -13814,12 +13814,13 @@
     "dateAnnounced": "2020-05-27",
     "ageBracket": 38,
     "gender": "F",
-    "residence": "Kasaragod",
+    "residence": "Uduma",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
-    "notes": "Travelled from the UAE",
-    "knownCluster": "UAE",
+    "patientStatus": "Discharged",
+    "notes": "Travelled from the Sharjah",
+    "knownCluster": "Sharjah",
+    "releasedOn": "2020-06-05",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788",
     "confirmedPatient": true
   },
@@ -14264,9 +14265,10 @@
     "residence": "Kumbala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from MH by car on May 17",
     "knownCluster": "Maharashtra",
+    "releasedOn": "2020-06-05",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
@@ -14306,9 +14308,10 @@
     "residence": "Madhur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from MH by bus on May 23",
     "knownCluster": "Maharashtra",
+    "releasedOn": "2020-06-05",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
@@ -14348,9 +14351,10 @@
     "residence": "Mangalpady",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from MH by bus on May 18",
     "knownCluster": "Maharashtra",
+    "releasedOn": "2020-06-05",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
@@ -14362,9 +14366,10 @@
     "residence": "Paivalike",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from MH by bus on May 17",
     "knownCluster": "Maharashtra",
+    "releasedOn": "2020-06-05",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
@@ -14390,9 +14395,10 @@
     "residence": "Mangalpady",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from MH by bus on May 19",
     "knownCluster": "Maharashtra",
+    "releasedOn": "2020-06-05",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
@@ -14418,9 +14424,10 @@
     "residence": "Kodom Belur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from TN by bus on May 23",
     "knownCluster": "Tamil Nadu",
+    "releasedOn": "2020-06-05",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
@@ -22189,6 +22196,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
+    "knownCluster": "Thrissur",
     "sourceURL": "https://www.facebook.com/2483632581704436/posts/3206895059378181/",
     "confirmedPatient": true
   },
@@ -22202,6 +22210,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Merchany navy",
+    "knownCluster": "Unspecified",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1019238315140658",
     "confirmedPatient": true
   },
@@ -22215,6 +22224,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Merchany navy",
+    "knownCluster": "Unspecified",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1019238315140658",
     "confirmedPatient": true
   },
@@ -22257,6 +22267,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE",
     "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22270,6 +22281,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE",
     "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22283,6 +22295,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE",
     "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22296,6 +22309,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE",
     "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22308,6 +22322,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE",
     "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22321,6 +22336,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE",
     "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22334,6 +22350,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE",
     "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22347,6 +22364,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from TN",
     "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22360,6 +22378,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from TN",
     "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22373,6 +22392,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from TN",
     "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22386,6 +22406,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from TN",
     "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22399,6 +22420,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from TN",
     "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22412,6 +22434,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from TN",
     "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22425,6 +22448,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from TN",
     "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22438,6 +22462,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from TN",
     "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22451,6 +22476,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from TN",
     "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22464,6 +22490,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22477,6 +22504,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22490,6 +22518,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22503,6 +22532,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22516,6 +22546,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22529,6 +22560,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22542,6 +22574,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22555,6 +22588,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22568,6 +22602,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22581,6 +22616,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22594,6 +22630,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22607,6 +22644,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar",
     "knownCluster": "Qatar",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22620,6 +22658,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UP",
     "knownCluster": "Uttar Pradesh",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22633,6 +22672,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22646,6 +22686,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Andhra Pradesh",
     "knownCluster": "Andhra Pradhesh",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22659,6 +22700,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Andhra Pradesh",
     "knownCluster": "Andhra Pradhesh",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22672,6 +22714,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Andhra Pradesh",
     "knownCluster": "Andhra Pradhesh",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22685,6 +22728,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Laksha Dweep",
     "knownCluster": "Laksha Dweep",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22698,6 +22742,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Karnataka",
     "knownCluster": "Karnataka",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22711,6 +22756,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Forest Officer on duty at Walayar",
     "knownCluster": "Palakkad",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22724,6 +22770,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Health Worker on Duty at DH",
     "knownCluster": "Palakkad",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22737,6 +22784,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Health Worker on Duty at DH",
     "knownCluster": "Palakkad",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22750,6 +22798,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Health Worker on Duty at DH",
     "knownCluster": "Palakkad",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -22763,6 +22812,7 @@
     "patientStatus": "Hospitalized",
     "notes": "KMSCL Employee",
     "knownCluster": "Palakkad",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
   {
@@ -23399,11 +23449,13 @@
     "patientId": 1699,
     "dateAnnounced": "2020-06-05",
     "ageBracket": 39,
+    "gender": "M",
     "residence": "Padanna",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra on May 24",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178006537002516&id=100507158085788",
     "confirmedPatient": true
   }
 ]

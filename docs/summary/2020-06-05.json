@@ -3632,8 +3632,8 @@
     {
       "ageGroup": "30-39",
       "female": 73,
-      "male": 296,
-      "unspecified": 1,
+      "male": 297,
+      "unspecified": 0,
       "total": 370
     },
     {
@@ -3688,8 +3688,8 @@
   ],
   "gender": {
     "female": 399,
-    "male": 1196,
-    "unspecified": 103,
+    "male": 1197,
+    "unspecified": 102,
     "total": 1699
   },
   "underObservation": {
