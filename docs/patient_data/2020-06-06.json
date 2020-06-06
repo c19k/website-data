@@ -24558,10 +24558,13 @@
   {
     "patientId": 1780,
     "dateAnnounced": "2020-06-06",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "F",
+    "residence": "Pullad",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
@@ -24634,7 +24637,6 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Tajikisthan",
     "confirmedPatient": true
   },
   {
@@ -24647,6 +24649,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikisthan",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
   },
   {
@@ -24658,24 +24661,34 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tajikisthan",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
   },
   {
     "patientId": 1791,
     "dateAnnounced": "2020-06-06",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Alappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
   },
   {
     "patientId": 1792,
     "dateAnnounced": "2020-06-06",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Budhanur",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
   },
   {
