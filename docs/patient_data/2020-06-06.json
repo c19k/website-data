@@ -24717,19 +24717,25 @@
   {
     "patientId": 1803,
     "dateAnnounced": "2020-06-06",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "residence": "Olassa",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1170873803269246",
     "confirmedPatient": true
   },
   {
     "patientId": 1804,
     "dateAnnounced": "2020-06-06",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "residence": "Arunnoottimangalam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1170873803269246",
     "confirmedPatient": true
   },
   {

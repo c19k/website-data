@@ -141,7 +141,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 10,
-      "recovered": 212,
+      "recovered": 213,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -286,7 +286,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 12,
-      "recovered": 143,
+      "recovered": 142,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -3658,15 +3658,15 @@
       "ageGroup": "20-29",
       "female": 107,
       "male": 273,
-      "unspecified": 1,
-      "total": 381
+      "unspecified": 2,
+      "total": 382
     },
     {
       "ageGroup": "30-39",
       "female": 78,
       "male": 307,
-      "unspecified": 0,
-      "total": 385
+      "unspecified": 1,
+      "total": 386
     },
     {
       "ageGroup": "40-49",
@@ -3714,8 +3714,8 @@
       "ageGroup": "Unspecified",
       "female": 35,
       "male": 109,
-      "unspecified": 134,
-      "total": 278
+      "unspecified": 132,
+      "total": 276
     }
   ],
   "gender": {
