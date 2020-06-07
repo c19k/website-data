@@ -25220,7 +25220,9 @@
   {
     "patientId": 1808,
     "dateAnnounced": "2020-06-07",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Chemmad",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
@@ -25229,7 +25231,9 @@
   {
     "patientId": 1809,
     "dateAnnounced": "2020-06-07",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Manjeri",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
