@@ -7203,6 +7203,7 @@
     "patientStatus": "Discharged",
     "notes": "Son of P503, came from Chennai",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-06-06",
     "confirmedPatient": true
   },
   {
@@ -7358,9 +7359,10 @@
     "residence": "Pallikkal Bazaar",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Chennai ",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-06-04",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3290250417687042?__cft__[0]=AZW_zvYIfIjEP7mcqmyUQBB3Q1HQORd7VM-uCh6goPfsgvNvPHufBcILDBxq_EpXFq73iK5RyzdJlzhHtuhXwujvTmMuppkaS-8-UNx4YJsXmqaoek7qpgqZhTX1GPBINHAS_--MGu2tHOTkye-_TwB8TgnrAad3ECfW093Ms4zSrw&__tn__=%2CO%2CP-R http://dhs.kerala.gov.in/wp-content/uploads/2020/05/Daily-Bulletin-HFWD-English-May-22-1.pdf",
     "confirmedPatient": true
   },
@@ -8160,9 +8162,10 @@
     "residence": "Ajanur",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait to Kozhikode IX 0394 on 13 May 2020",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-05",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=172192010917302&id=100507158085788 http://kasaragodchannel.com/?p=163363",
     "confirmedPatient": true
   },
