@@ -20732,10 +20732,11 @@
     "residence": "Anchal",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Health worker",
     "knownCluster": "Kollam",
     "districtPatientNumber": "Kollam P72",
+    "releasedOn": "2020-06-07",
     "sourceURL": "https://www.facebook.com/prdkolllam/posts/2992903294158793",
     "confirmedPatient": true
   },
@@ -23807,6 +23808,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P91",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23821,6 +23823,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P92",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23835,6 +23838,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P93",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23849,6 +23853,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P94",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23863,6 +23868,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P95",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23877,6 +23883,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P96",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23891,6 +23898,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P97",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23905,6 +23913,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P98",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23919,6 +23928,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P99",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23933,6 +23943,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P100",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23947,6 +23958,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from the Middle East",
+    "knownCluster": "Middle East",
     "districtPatientNumber": "Kollam P101",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23961,6 +23973,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from the Middle East",
+    "knownCluster": "Middle East",
     "districtPatientNumber": "Kollam P102",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23975,6 +23988,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from the Middle East",
+    "knownCluster": "Middle East",
     "districtPatientNumber": "Kollam P103",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -23989,6 +24003,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from the Middle East",
+    "knownCluster": "Middle East",
     "districtPatientNumber": "Kollam P104",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24003,6 +24018,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Nigeria",
+    "knownCluster": "Nigeria",
     "districtPatientNumber": "Kollam P105",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24017,6 +24033,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from the Middle East",
+    "knownCluster": "Middle East",
     "districtPatientNumber": "Kollam P106",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24031,6 +24048,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from the Middle East",
+    "knownCluster": "Middle East",
     "districtPatientNumber": "Kollam P107",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24045,6 +24063,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from the Middle East",
+    "knownCluster": "Middle East",
     "districtPatientNumber": "Kollam P108",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24059,6 +24078,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
+    "knownCluster": "Tajiksithan",
     "districtPatientNumber": "Kollam P109",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24073,6 +24093,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bahrain",
+    "knownCluster": "Bahrain",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24086,6 +24107,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bahrain",
+    "knownCluster": "Bahrain",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24099,6 +24121,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bahrain",
+    "knownCluster": "Bahrain",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24112,6 +24135,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bahrain",
+    "knownCluster": "Bahrain",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24125,6 +24149,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bahrain",
+    "knownCluster": "Bahrain",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24138,6 +24163,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bahrain",
+    "knownCluster": "Bahrain",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24151,6 +24177,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24164,6 +24191,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24177,6 +24205,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24190,6 +24219,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24203,6 +24233,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24216,6 +24247,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24229,6 +24261,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24242,6 +24275,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24255,6 +24289,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Doha",
+    "knownCluster": "Doha",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24268,6 +24303,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3212329488834738",
     "confirmedPatient": true
   },
@@ -24281,6 +24317,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Salem native; mendicant in Edappal; Contact Transmission",
+    "knownCluster": "Malappuram",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24294,6 +24331,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrested by police; Contact Transmission",
+    "knownCluster": "Malappuram",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24307,6 +24345,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24320,6 +24359,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24333,6 +24373,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Lagos",
+    "knownCluster": "Nigeria",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24346,6 +24387,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24359,6 +24401,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Jeddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24372,6 +24415,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24385,6 +24429,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24398,6 +24443,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24411,6 +24457,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24424,6 +24471,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Riyadh",
+    "knownCluster": "Riyadh",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -24437,6 +24485,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Doha",
+    "knownCluster": "Doha",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24450,6 +24499,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Manama",
+    "knownCluster": "Bahrain",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24463,6 +24513,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24476,6 +24527,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24489,6 +24541,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24502,6 +24555,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24515,6 +24569,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24528,6 +24583,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24541,6 +24597,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24554,6 +24611,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24567,6 +24625,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24580,6 +24639,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Madhya Pradesh",
+    "knownCluster": "Madhya Pradesh",
     "sourceURL": "https://kannurvarthakal.in/06/06/2020/35459/#.XtufL7wzbIU",
     "confirmedPatient": true
   },
@@ -24593,6 +24653,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178282900308213&id=100507158085788",
     "confirmedPatient": true
   },
@@ -24606,6 +24667,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178282900308213&id=100507158085788",
     "confirmedPatient": true
   },
@@ -24619,6 +24681,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178282900308213&id=100507158085788",
     "confirmedPatient": true
   },
@@ -24632,6 +24695,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH; P1354's wife",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178282900308213&id=100507158085788",
     "confirmedPatient": true
   },
@@ -24645,6 +24709,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178282900308213&id=100507158085788",
     "confirmedPatient": true
   },
@@ -24658,6 +24723,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178282900308213&id=100507158085788",
     "confirmedPatient": true
   },
@@ -24671,6 +24737,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178282900308213&id=100507158085788",
     "confirmedPatient": true
   },
@@ -24684,6 +24751,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178282900308213&id=100507158085788",
     "confirmedPatient": true
   },
@@ -24697,6 +24765,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178282900308213&id=100507158085788",
     "confirmedPatient": true
   },
@@ -24710,6 +24779,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=178282900308213&id=100507158085788",
     "confirmedPatient": true
   },
@@ -24723,6 +24793,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24736,6 +24807,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24749,6 +24821,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission; health worker at DH",
+    "knownCluster": "Palakkad",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24762,6 +24835,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission; health worker at DH",
+    "knownCluster": "Palakkad",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24775,6 +24849,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission; health worker at DH",
+    "knownCluster": "Palakkad",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24788,6 +24863,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission; health worker at DH",
+    "knownCluster": "Palakkad",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24801,6 +24877,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission; health worker at DH",
+    "knownCluster": "Palakkad",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24814,6 +24891,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
+    "knownCluster": "Palakkad",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24827,6 +24905,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
+    "knownCluster": "Palakkad",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24840,6 +24919,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia",
+    "knownCluster": "Saudi Arabia",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24853,6 +24933,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/606638283313906",
     "confirmedPatient": true
   },
@@ -24866,6 +24947,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/iprdpta/posts/182851639848560",
     "confirmedPatient": true
   },
@@ -24879,6 +24961,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/iprdpta/posts/182851639848560",
     "confirmedPatient": true
   },
@@ -24892,6 +24975,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/iprdpta/posts/182851639848560",
     "confirmedPatient": true
   },
@@ -24905,6 +24989,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/iprdpta/posts/182851639848560",
     "confirmedPatient": true
   },
@@ -24918,6 +25003,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Ahmedabad",
+    "knownCluster": "Ahmedabad",
     "sourceURL": "https://www.facebook.com/iprdpta/posts/182851639848560",
     "confirmedPatient": true
   },
@@ -24931,6 +25017,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/iprdpta/posts/182851639848560",
     "confirmedPatient": true
   },
@@ -24944,6 +25031,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/iprdpta/posts/182851639848560",
     "confirmedPatient": true
   },
@@ -24957,6 +25045,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
     "sourceURL": "https://www.facebook.com/iprdpta/posts/182851639848560",
     "confirmedPatient": true
   },
@@ -24970,6 +25059,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Gujarat",
+    "knownCluster": "Gujrat",
     "sourceURL": "https://www.facebook.com/iprdpta/posts/182851639848560",
     "confirmedPatient": true
   },
@@ -24983,6 +25073,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikisthan",
+    "knownCluster": "Tajiksithan",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
   },
@@ -24996,6 +25087,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikisthan",
+    "knownCluster": "Tajiksithan",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
   },
@@ -25009,6 +25101,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
   },
@@ -25022,6 +25115,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscat",
+    "knownCluster": "Muscat",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
   },
@@ -25035,6 +25129,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
     "sourceURL": "https://www.facebook.com/District-Information-Office-Kozhikode-1135018129945616",
     "confirmedPatient": true
   },
@@ -25048,6 +25143,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Gujarat",
+    "knownCluster": "Gujrat",
     "sourceURL": "https://www.facebook.com/District-Information-Office-Kozhikode-1135018129945616",
     "confirmedPatient": true
   },
@@ -25061,6 +25157,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Gujarat",
+    "knownCluster": "Gujrat",
     "sourceURL": "https://www.facebook.com/District-Information-Office-Kozhikode-1135018129945616",
     "confirmedPatient": true
   },
@@ -25074,6 +25171,7 @@
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
     "sourceURL": "https://www.facebook.com/District-Information-Office-Kozhikode-1135018129945616",
     "confirmedPatient": true
   },
@@ -25087,6 +25185,7 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah",
+    "knownCluster": "Sharjah",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588943062028457&id=230880581168042",
     "confirmedPatient": true
   },
@@ -25100,6 +25199,7 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588943062028457&id=230880581168042",
     "confirmedPatient": true
   },
@@ -25113,6 +25213,7 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Ireland",
+    "knownCluster": "Ireland",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588943062028457&id=230880581168042",
     "confirmedPatient": true
   },
@@ -25126,6 +25227,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Nigeria",
+    "knownCluster": "Nigeria",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1020967904967699",
     "confirmedPatient": true
   },
@@ -25139,6 +25241,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1020967904967699",
     "confirmedPatient": true
   },
@@ -25152,6 +25255,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1020967904967699",
     "confirmedPatient": true
   },
@@ -25164,6 +25268,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/diokottayam/posts/1170873803269246",
     "confirmedPatient": true
   },
@@ -25176,6 +25281,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/diokottayam/posts/1170873803269246",
     "confirmedPatient": true
   },
@@ -25189,6 +25295,7 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2565267913788734",
     "confirmedPatient": true
   },
@@ -25202,6 +25309,7 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2565267913788734",
     "confirmedPatient": true
   },
@@ -25215,6 +25323,7 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Hyderabad",
+    "knownCluster": "Hyderabad",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2565267913788734",
     "confirmedPatient": true
   },
