@@ -26065,6 +26065,9 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Tvm on IX1596 on May 28",
+    "knownCluster": "Kuwait",
+    "districtPatientNumber": "Kollam P110",
     "confirmedPatient": true
   },
   {
@@ -26076,6 +26079,9 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi to Tvm on IX1538 on May 27",
+    "knownCluster": "Abu Dhabi",
+    "districtPatientNumber": "Kollam P111",
     "confirmedPatient": true
   },
   {
@@ -26087,6 +26093,9 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on J9-1405 on May 27",
+    "knownCluster": "Kuwait",
+    "districtPatientNumber": "Kollam P112",
     "confirmedPatient": true
   },
   {
@@ -26098,6 +26107,9 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on J9-1405 on May 27",
+    "knownCluster": "Kuwait",
+    "districtPatientNumber": "Kollam P113",
     "confirmedPatient": true
   },
   {
@@ -26109,6 +26121,9 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Russia to Kannur on AJ1946 on May 31",
+    "knownCluster": "Russia",
+    "districtPatientNumber": "Kollam P114",
     "confirmedPatient": true
   },
   {
@@ -26120,10 +26135,27 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Tvm on IX1596 on May 28",
+    "knownCluster": "Kuwait",
+    "districtPatientNumber": "Kollam P115",
     "confirmedPatient": true
   },
   {
     "patientId": 1880,
+    "dateAnnounced": "2020-06-07",
+    "ageBracket": 6,
+    "gender": "M",
+    "residence": "Thevalakkara",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Tvm on IX1596 on May 28",
+    "knownCluster": "Kuwait",
+    "districtPatientNumber": "Kollam P116",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1881,
     "dateAnnounced": "2020-06-07",
     "ageBracket": 46,
     "gender": "M",
@@ -26131,10 +26163,13 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh to Tvm on AI928 on May 31",
+    "knownCluster": "Riyadh",
+    "districtPatientNumber": "Kollam P117",
     "confirmedPatient": true
   },
   {
-    "patientId": 1881,
+    "patientId": 1882,
     "dateAnnounced": "2020-06-07",
     "ageBracket": 51,
     "gender": "F",
@@ -26142,15 +26177,9 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 1882,
-    "dateAnnounced": "2020-06-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Kollam",
-    "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "notes": "Contact Tranmission from relative who turned positive in J&K",
+    "knownCluster": "Kollam",
+    "districtPatientNumber": "Kollam P118",
     "confirmedPatient": true
   },
   {
