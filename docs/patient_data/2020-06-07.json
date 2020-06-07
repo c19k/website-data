@@ -8306,10 +8306,9 @@
     "residence": "Maranchery",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Discharged",
+    "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai with P587; both tender coconut sellers in Mumbai",
     "knownCluster": "Mumbai",
-    "releasedOn": "2020-05-27",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3301131329932284",
     "confirmedPatient": true
   },
@@ -8427,7 +8426,7 @@
     "notes": "Travelled from Dubai Kozhikode IX344 on May 7 to Karipur",
     "knownCluster": "Dubai",
     "releasedOn": "2020-05-21",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/05/18/kozhikode-covid-19-positive-result.html",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/05/18/kozhikode-covid-19-positive-result.html https://epaper.deshabhimani.com/2682140/Kozhikode/Kozhikode-22-May-2020#page/2/1",
     "confirmedPatient": true
   },
   {
@@ -8453,10 +8452,11 @@
     "residence": "Pattiam",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Chennai",
     "knownCluster": "Chennai",
-    "sourceURL": "https://kannurvarthakal.in/17/05/2020/34989/#.XsE_B7wzbIU",
+    "releasedOn": "2020-06-04",
+    "sourceURL": "https://kannurvarthakal.in/17/05/2020/34989/#.XsE_B7wzbIU https://epaper.deshabhimani.com/2700323/Kannur/Kannur-5th-June-2020#page/3/2",
     "confirmedPatient": true
   },
   {
