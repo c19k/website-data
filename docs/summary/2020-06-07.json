@@ -2051,24 +2051,6 @@
   ],
   "daily": [
     {
-      "confirmed": 0,
-      "recoveredCumulative": 0,
-      "deceasedCumulative": 0,
-      "criticalCumulative": 0,
-      "testedCumulative": 0,
-      "observationCumulative": 0,
-      "homeObservationCumulative": 0,
-      "hosptilisedCumulative": 0,
-      "activeCumulative": 0,
-      "status": "",
-      "date": "",
-      "confirmedCumulative": 0,
-      "confirmedAvg3d": 0,
-      "confirmedCumulativeAvg3d": 0,
-      "confirmedAvg7d": 0,
-      "confirmedCumulativeAvg7d": 0
-    },
-    {
       "confirmed": 1,
       "recoveredCumulative": 0,
       "deceasedCumulative": 0,
@@ -3706,9 +3688,9 @@
     {
       "ageGroup": "20-29",
       "female": 113,
-      "male": 289,
+      "male": 291,
       "unspecified": 2,
-      "total": 404
+      "total": 406
     },
     {
       "ageGroup": "30-39",
@@ -3719,10 +3701,10 @@
     },
     {
       "ageGroup": "40-49",
-      "female": 58,
-      "male": 259,
+      "female": 59,
+      "male": 261,
       "unspecified": 0,
-      "total": 317
+      "total": 320
     },
     {
       "ageGroup": "50-59",
@@ -3763,14 +3745,14 @@
       "ageGroup": "Unspecified",
       "female": 37,
       "male": 111,
-      "unspecified": 31,
-      "total": 179
+      "unspecified": 26,
+      "total": 174
     }
   ],
   "gender": {
-    "female": 444,
-    "male": 1323,
-    "unspecified": 39,
+    "female": 445,
+    "male": 1327,
+    "unspecified": 34,
     "total": 1807
   },
   "underObservation": {
