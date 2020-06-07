@@ -15644,9 +15644,10 @@
     "residence": "Morazha",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait by IX790 on May 19",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-06",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2582547092005535",
     "confirmedPatient": true
   },
@@ -15658,9 +15659,10 @@
     "residence": "Kathiroor",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Riyadh by AI1912 on 20 May",
     "knownCluster": "Riyadh",
+    "releasedOn": "2020-06-06",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2582547092005535",
     "confirmedPatient": true
   },
@@ -15672,7 +15674,7 @@
     "residence": "Karivellur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai by IX1746 on May 26",
     "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2582547092005535",
@@ -16210,10 +16212,11 @@
     "residence": "Punalur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai on 27 May",
     "knownCluster": "Mumbai",
     "districtPatientNumber": "Kollam P47",
+    "releasedOn": "2020-06-06",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1614650908687115",
     "confirmedPatient": true
   },
@@ -17004,9 +17007,10 @@
     "residence": "Unspecified",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Air India Crew",
     "knownCluster": "Unspecified",
+    "releasedOn": "2020-06-06",
     "confirmedPatient": true
   },
   {
@@ -17016,9 +17020,10 @@
     "residence": "Unspecified",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Air India Crew",
     "knownCluster": "Unspecified",
+    "releasedOn": "2020-06-06",
     "confirmedPatient": true
   },
   {
@@ -17028,9 +17033,10 @@
     "residence": "Unspecified",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Air India Crew",
     "knownCluster": "Unspecified",
+    "releasedOn": "2020-06-06",
     "confirmedPatient": true
   },
   {
@@ -17040,9 +17046,10 @@
     "residence": "Unspecified",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Air India Crew",
     "knownCluster": "Unspecified",
+    "releasedOn": "2020-06-06",
     "confirmedPatient": true
   },
   {
@@ -17052,9 +17059,10 @@
     "residence": "Unspecified",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Air India Crew",
     "knownCluster": "Unspecified",
+    "releasedOn": "2020-06-06",
     "confirmedPatient": true
   },
   {
@@ -17900,9 +17908,10 @@
     "residence": "Kothamangalam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai on May 27 by Air Asia flight 5325",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-06",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1016265058771317",
     "confirmedPatient": true
   },
@@ -18600,9 +18609,10 @@
     "residence": "Kuruppanpady",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait to Kochi on May 27",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-06",
     "sourceURL": "https://www.facebook.com/dioekm/posts/1600660283429285",
     "confirmedPatient": true
   },
@@ -20736,7 +20746,7 @@
     "notes": "Health worker",
     "knownCluster": "Kollam",
     "districtPatientNumber": "Kollam P72",
-    "releasedOn": "2020-06-07",
+    "releasedOn": "2020-06-06",
     "sourceURL": "https://www.facebook.com/prdkolllam/posts/2992903294158793",
     "confirmedPatient": true
   },
@@ -26068,6 +26078,7 @@
     "notes": "Travelled from Kuwait to Tvm on IX1596 on May 28",
     "knownCluster": "Kuwait",
     "districtPatientNumber": "Kollam P110",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1622738614545011",
     "confirmedPatient": true
   },
   {
@@ -26082,6 +26093,7 @@
     "notes": "Travelled from Abu Dhabi to Tvm on IX1538 on May 27",
     "knownCluster": "Abu Dhabi",
     "districtPatientNumber": "Kollam P111",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1622738614545012",
     "confirmedPatient": true
   },
   {
@@ -26096,6 +26108,7 @@
     "notes": "Travelled from Kuwait to Kochi on J9-1405 on May 27",
     "knownCluster": "Kuwait",
     "districtPatientNumber": "Kollam P112",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1622738614545013",
     "confirmedPatient": true
   },
   {
@@ -26110,6 +26123,7 @@
     "notes": "Travelled from Kuwait to Kochi on J9-1405 on May 27",
     "knownCluster": "Kuwait",
     "districtPatientNumber": "Kollam P113",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1622738614545014",
     "confirmedPatient": true
   },
   {
@@ -26124,6 +26138,7 @@
     "notes": "Travelled from Russia to Kannur on AJ1946 on May 31",
     "knownCluster": "Russia",
     "districtPatientNumber": "Kollam P114",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1622738614545015",
     "confirmedPatient": true
   },
   {
@@ -26138,6 +26153,7 @@
     "notes": "Travelled from Kuwait to Tvm on IX1596 on May 28",
     "knownCluster": "Kuwait",
     "districtPatientNumber": "Kollam P115",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1622738614545016",
     "confirmedPatient": true
   },
   {
@@ -26152,6 +26168,7 @@
     "notes": "Travelled from Kuwait to Tvm on IX1596 on May 28",
     "knownCluster": "Kuwait",
     "districtPatientNumber": "Kollam P116",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1622738614545017",
     "confirmedPatient": true
   },
   {
@@ -26166,6 +26183,7 @@
     "notes": "Travelled from Riyadh to Tvm on AI928 on May 31",
     "knownCluster": "Riyadh",
     "districtPatientNumber": "Kollam P117",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1622738614545018",
     "confirmedPatient": true
   },
   {
@@ -26180,6 +26198,7 @@
     "notes": "Contact Tranmission from relative who turned positive in J&K",
     "knownCluster": "Kollam",
     "districtPatientNumber": "Kollam P118",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1622738614545019",
     "confirmedPatient": true
   },
   {
