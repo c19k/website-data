@@ -15679,9 +15679,10 @@
     "residence": "Pannyannoor",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai by IX1746 on May 27",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-06",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2582547092005535",
     "confirmedPatient": true
   },
@@ -15693,9 +15694,10 @@
     "residence": "Sreekantapuram",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Jeddah on May 15 by AI964",
     "knownCluster": "Jeddah",
+    "releasedOn": "2020-06-06",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2582547092005535",
     "confirmedPatient": true
   },
