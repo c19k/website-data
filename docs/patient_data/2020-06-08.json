@@ -26561,55 +26561,85 @@
   {
     "patientId": 1896,
     "dateAnnounced": "2020-06-07",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Unnikulam",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia on June 2",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/08/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 1897,
     "dateAnnounced": "2020-06-07",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Azhiyur",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 2",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/08/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 1898,
     "dateAnnounced": "2020-06-07",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Omasseri",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh on May 31",
+    "knownCluster": "Riyadh",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/08/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 1899,
     "dateAnnounced": "2020-06-07",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Perambra",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 28",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/08/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 1900,
     "dateAnnounced": "2020-06-07",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Velam",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 28",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/08/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 1901,
     "dateAnnounced": "2020-06-07",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "Changaroth",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 29",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/08/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
@@ -26623,6 +26653,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2020/06/08/thiruvananthapuram-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
@@ -26636,6 +26667,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2020/06/08/thiruvananthapuram-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
@@ -26649,6 +26681,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Hyderabad on June 2",
     "knownCluster": "Hyderabad",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2020/06/08/thiruvananthapuram-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
@@ -26662,6 +26695,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tanjavur on June 2",
     "knownCluster": "Tanjavur",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2020/06/08/thiruvananthapuram-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
@@ -26755,9 +26789,14 @@
     "patientId": 1914,
     "dateAnnounced": "2020-06-07",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Chakkupallam",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on may 31 with family",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/idukki/2020/06/08/idukki-covid-19.html",
     "confirmedPatient": true
   }
 ]
