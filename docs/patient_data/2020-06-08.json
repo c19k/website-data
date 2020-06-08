@@ -8214,15 +8214,16 @@
   {
     "patientId": 580,
     "dateAnnounced": "2020-05-16",
-    "ageBracket": 35,
+    "ageBracket": 41,
     "gender": "M",
     "residence": "Chalakkudy",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
     "notes": "Travelled from Male by INS Jalashwa on May 10",
     "knownCluster": "Maldives",
-    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/05/19/thrissur-4-people-tested-with-covid-19.html",
+    "oeceasedOn": "2020-06-08",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/05/19/thrissur-4-people-tested-with-covid-19.html https://www.deshabhimani.com/news/kerala/news-kerala-08-06-2020/876024",
     "confirmedPatient": true
   },
   {
@@ -27630,6 +27631,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://kannurvarthakal.in/08/06/2020/35473/#.Xt5FvrwzbIU",
     "confirmedPatient": true
   },
   {
@@ -27639,6 +27641,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://kannurvarthakal.in/08/06/2020/35473/#.Xt5FvrwzbIU",
     "confirmedPatient": true
   },
   {
@@ -27648,6 +27651,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://kannurvarthakal.in/08/06/2020/35473/#.Xt5FvrwzbIU",
     "confirmedPatient": true
   },
   {
@@ -27657,6 +27661,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://kannurvarthakal.in/08/06/2020/35473/#.Xt5FvrwzbIU",
     "confirmedPatient": true
   },
   {
