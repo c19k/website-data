@@ -14296,9 +14296,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from MH by bus on May 24",
     "knownCluster": "Maharashtra",
+    "releasedOn": "2020-06-08",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
@@ -14310,9 +14311,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from MH by bus on May 24",
     "knownCluster": "Maharashtra",
+    "releasedOn": "2020-06-08",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
@@ -14353,9 +14355,10 @@
     "residence": "Paivalike",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from MH by bus on May 22",
     "knownCluster": "Maharashtra",
+    "releasedOn": "2020-06-08",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
@@ -14466,12 +14469,13 @@
     "dateAnnounced": "2020-05-28",
     "ageBracket": 31,
     "gender": "M",
-    "residence": "Kuttikkal",
+    "residence": "Kuttikkol",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait on May 19 to Kannur",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-08",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
@@ -16875,9 +16879,10 @@
     "residence": "Pilicode",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait on May 19",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-08",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176333627169807&id=100507158085788",
     "confirmedPatient": true
   },
@@ -19176,9 +19181,10 @@
     "residence": "Kinalur Karinthalam",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission",
     "knownCluster": "Kasaragod",
+    "releasedOn": "2020-06-08",
     "sourceURL": "https://www.facebook.com/District-Information-OfficeKasaragod-100507158085788",
     "confirmedPatient": true
   },
@@ -26835,6 +26841,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26843,6 +26850,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26851,6 +26859,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26859,6 +26868,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26867,6 +26877,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26875,6 +26886,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26883,6 +26895,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26891,6 +26904,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26899,6 +26913,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26907,6 +26922,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26915,6 +26931,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26923,6 +26940,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26931,6 +26949,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26939,6 +26958,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26947,6 +26967,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26955,6 +26976,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26963,6 +26985,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26971,6 +26994,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26979,6 +27003,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26987,6 +27012,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -26995,6 +27021,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -27003,6 +27030,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -27011,6 +27039,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -27019,6 +27048,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -27027,6 +27057,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -27035,6 +27066,7 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -27043,6 +27075,561 @@
     "ageBracket": -1,
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1942,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1943,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1944,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1945,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1946,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1947,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1948,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1949,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1950,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1951,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1952,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1953,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1954,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1955,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1956,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1957,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1958,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1959,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1960,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1961,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1962,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1963,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1964,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1965,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1966,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1967,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1968,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1969,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Nileswar",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 30",
+    "knownCluster": "Kuwait",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1970,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Nileswar",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 30",
+    "knownCluster": "Kuwait",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1971,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Nileswar",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 30",
+    "knownCluster": "Kuwait",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1972,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Nileswar",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 29",
+    "knownCluster": "Dubai",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1973,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Cheruvathur",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 28",
+    "knownCluster": "Dubai",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1974,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": 60,
+    "gender": "M",
+    "residence": "Mangalpady",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on May 25",
+    "knownCluster": "Maharashtra",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1975,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Uduma",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 5",
+    "knownCluster": "Maharashtra",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1976,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": 58,
+    "gender": "M",
+    "residence": "Valiapramaba",
+    "detectedCityTown": "Kasaragod",
+    "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on May 22",
+    "knownCluster": "Maharashtra",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1977,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1978,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1979,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1980,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1981,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1982,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1983,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1984,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1985,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1986,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1987,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1988,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1989,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1990,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1991,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1992,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1993,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1994,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
+    "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1995,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
+    "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1996,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
+    "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1997,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1998,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 1999,
+    "dateAnnounced": "2020-06-08",
+    "ageBracket": -1,
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
