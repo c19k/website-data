@@ -28628,28 +28628,40 @@
   {
     "patientId": 2063,
     "dateAnnounced": "2020-06-09",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Punnayurkulam",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
   {
     "patientId": 2064,
     "dateAnnounced": "2020-06-09",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "F",
+    "residence": "Guruvayur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
   {
     "patientId": 2065,
     "dateAnnounced": "2020-06-09",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "F",
+    "residence": "Guruvayur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
   {
@@ -28662,6 +28674,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission; dental surgeon",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
   {
@@ -28669,18 +28682,26 @@
     "dateAnnounced": "2020-06-09",
     "ageBracket": 54,
     "gender": "M",
+    "residence": "Oorakam ",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission; P1674's husband",
+    "dhsPatientNumber": "1674",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
   {
     "patientId": 2068,
     "dateAnnounced": "2020-06-09",
-    "ageBracket": -1,
+    "ageBracket": 60,
+    "gender": "F",
+    "residence": "Chalakkudy",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Contact of a Delhi returnee who's positive",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
   {
