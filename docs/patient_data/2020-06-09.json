@@ -14033,15 +14033,16 @@
   {
     "patientId": 989,
     "dateAnnounced": "2020-05-27",
-    "ageBracket": 42,
+    "ageBracket": 41,
     "gender": "M",
     "residence": "Karunagappalli",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from TN on May 11",
     "knownCluster": "Tamil Nadu",
     "districtPatientNumber": "Kollam P42",
+    "releasedOn": "2020-06-08",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1612946322190907",
     "confirmedPatient": true
   },
@@ -15428,10 +15429,11 @@
     "residence": "Thalavannur Avaneeswaram",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Gandhinagar by train on May 19",
     "knownCluster": "Gandhinagar",
     "districtPatientNumber": "Kollam P46",
+    "releasedOn": "2020-06-08",
     "sourceURL": "https://www.facebook.com/462119120606972/posts/1613754062110133/",
     "confirmedPatient": true
   },
@@ -27541,6 +27543,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P119",
     "confirmedPatient": true
   },
   {
@@ -27550,6 +27553,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P120",
     "confirmedPatient": true
   },
   {
@@ -27559,6 +27563,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P121",
     "confirmedPatient": true
   },
   {
@@ -27568,6 +27573,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P122",
     "confirmedPatient": true
   },
   {
@@ -27577,6 +27583,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P123",
     "confirmedPatient": true
   },
   {
@@ -27667,55 +27674,85 @@
   {
     "patientId": 1991,
     "dateAnnounced": "2020-06-08",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "M",
+    "residence": "Puliyoorkonam",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi on June 3",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2020/06/09/thiruvananthapuram-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
     "patientId": 1992,
     "dateAnnounced": "2020-06-08",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Attingal",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 28",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2020/06/09/thiruvananthapuram-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
     "patientId": 1993,
     "dateAnnounced": "2020-06-08",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Maranelloor",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 28",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2020/06/09/thiruvananthapuram-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
     "patientId": 1994,
     "dateAnnounced": "2020-06-08",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "F",
+    "residence": "Parumala",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Sharjah on May 30",
+    "knownCluster": "Sharjah",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/09/pathanamthitta-three-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 1995,
     "dateAnnounced": "2020-06-08",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "Panthalam",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 28",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/09/pathanamthitta-three-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 1996,
     "dateAnnounced": "2020-06-08",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Iraviperoor",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi on May 27",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/09/pathanamthitta-three-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -27802,19 +27839,29 @@
   {
     "patientId": 2003,
     "dateAnnounced": "2020-06-08",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Thrikaipata",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on May 27",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/wayanad/2020/06/08/wayanad-covid-19-patients.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2004,
     "dateAnnounced": "2020-06-08",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Cheeral",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi on May 28",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/wayanad/2020/06/08/wayanad-covid-19-patients.html",
     "confirmedPatient": true
   },
   {
