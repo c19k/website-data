@@ -3737,59 +3737,59 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 32,
+      "female": 33,
       "male": 33,
       "unspecified": 2,
-      "total": 67
+      "total": 68
     },
     {
       "ageGroup": "10-19",
-      "female": 38,
+      "female": 39,
       "male": 58,
       "unspecified": 0,
-      "total": 96
+      "total": 97
     },
     {
       "ageGroup": "20-29",
-      "female": 126,
-      "male": 326,
+      "female": 131,
+      "male": 328,
       "unspecified": 2,
-      "total": 454
+      "total": 461
     },
     {
       "ageGroup": "30-39",
-      "female": 87,
-      "male": 353,
+      "female": 88,
+      "male": 360,
       "unspecified": 1,
-      "total": 441
+      "total": 449
     },
     {
       "ageGroup": "40-49",
-      "female": 69,
-      "male": 295,
+      "female": 70,
+      "male": 298,
       "unspecified": 0,
-      "total": 364
+      "total": 368
     },
     {
       "ageGroup": "50-59",
       "female": 50,
-      "male": 171,
+      "male": 174,
       "unspecified": 1,
-      "total": 223
+      "total": 226
     },
     {
       "ageGroup": "60-69",
       "female": 26,
-      "male": 84,
+      "male": 85,
       "unspecified": 0,
-      "total": 110
+      "total": 111
     },
     {
       "ageGroup": "70-79",
-      "female": 9,
+      "female": 10,
       "male": 9,
       "unspecified": 0,
-      "total": 18
+      "total": 19
     },
     {
       "ageGroup": "80-89",
@@ -3809,14 +3809,14 @@
       "ageGroup": "Unspecified",
       "female": 43,
       "male": 115,
-      "unspecified": 53,
-      "total": 211
+      "unspecified": 27,
+      "total": 185
     }
   ],
   "gender": {
-    "female": 491,
-    "male": 1452,
-    "unspecified": 61,
+    "female": 501,
+    "male": 1468,
+    "unspecified": 35,
     "total": 2005
   },
   "underObservation": {
