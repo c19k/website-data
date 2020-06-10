@@ -21637,8 +21637,9 @@
     "residence": "Maniyur",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Contact Transmission post delivery",
+    "releasedOn": "2020-06-09",
     "sourceURL": "https://www.facebook.com/1135018129945616/photos/a.1135032109944218/2982495568531187/?type=3",
     "confirmedPatient": true
   },
@@ -23672,13 +23673,14 @@
   {
     "patientId": 1689,
     "dateAnnounced": "2020-06-05",
-    "ageBracket": 82,
+    "ageBracket": 84,
     "gender": "M",
     "residence": "Kottuli",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Being treated for cancer",
+    "releasedOn": "2020-06-09",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2985000471614030&id=1135018129945616",
     "confirmedPatient": true
   },
@@ -28637,6 +28639,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
@@ -28650,6 +28653,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
@@ -28663,6 +28667,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
@@ -28676,6 +28681,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission; dental surgeon",
+    "knownCluster": "Thrissur",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
@@ -28689,6 +28695,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission; P1674's husband",
+    "knownCluster": "Thrissur",
     "dhsPatientNumber": "1674",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
@@ -28703,25 +28710,36 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Contact of a Delhi returnee who's positive",
+    "knownCluster": "Thrissur",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3219861668081520",
     "confirmedPatient": true
   },
   {
     "patientId": 2069,
     "dateAnnounced": "2020-06-09",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Athavanad",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT from a relative who is detected positive in TN",
+    "knownCluster": "Malappuram",
+    "sourceURL": "https://www.manoramaonline.com/district-news/malappuram/2020/06/10/malappuram-covid-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2070,
     "dateAnnounced": "2020-06-09",
-    "ageBracket": -1,
+    "ageBracket": 2,
+    "gender": "F",
+    "residence": "Athavanad",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT from a relative who is detected positive in TN",
+    "knownCluster": "Malappuram",
+    "sourceURL": "https://www.manoramaonline.com/district-news/malappuram/2020/06/10/malappuram-covid-case.html",
     "confirmedPatient": true
   },
   {
