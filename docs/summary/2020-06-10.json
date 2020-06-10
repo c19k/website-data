@@ -901,8 +901,9 @@
       "confirmed": 132,
       "deaths": 0,
       "confirmedByCity": {
-        "Kozhikode": 131,
-        "Chennai": 1
+        "Kozhikode": 130,
+        "Chennai": 1,
+        "Ernakulam": 1
       },
       "dailyConfirmedCount": [
         0,
@@ -3778,9 +3779,9 @@
     {
       "ageGroup": "10-19",
       "female": 40,
-      "male": 61,
+      "male": 62,
       "unspecified": 0,
-      "total": 101
+      "total": 102
     },
     {
       "ageGroup": "20-29",
@@ -3792,9 +3793,9 @@
     {
       "ageGroup": "30-39",
       "female": 93,
-      "male": 374,
+      "male": 378,
       "unspecified": 1,
-      "total": 468
+      "total": 472
     },
     {
       "ageGroup": "40-49",
@@ -3842,14 +3843,14 @@
       "ageGroup": "Unspecified",
       "female": 48,
       "male": 119,
-      "unspecified": 89,
-      "total": 256
+      "unspecified": 84,
+      "total": 251
     }
   ],
   "gender": {
     "female": 533,
-    "male": 1530,
-    "unspecified": 97,
+    "male": 1535,
+    "unspecified": 92,
     "total": 2161
   },
   "underObservation": {
