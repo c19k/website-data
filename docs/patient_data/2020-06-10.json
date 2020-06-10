@@ -16304,12 +16304,14 @@
     "patientId": 1150,
     "dateAnnounced": "2020-05-29",
     "ageBracket": -1,
-    "residence": "Unspecified",
+    "gender": "M",
+    "residence": "Thillankeri",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Air India cabin crew",
     "knownCluster": "Unspecified",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/10/kannur-covid-case.html",
     "confirmedPatient": true
   },
   {
@@ -28921,6 +28923,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Nigeria on APK-7812 to Kochi on May 31",
+    "knownCluster": "Nigeria",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/10/kannur-covid-case.html",
     "confirmedPatient": true
   },
   {
@@ -28933,6 +28937,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on J9–1405 in May 27",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/10/kannur-covid-case.html",
     "confirmedPatient": true
   },
   {
@@ -28945,6 +28951,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai on May 23",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/10/kannur-covid-case.html",
     "confirmedPatient": true
   },
   {
@@ -28956,7 +28964,9 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Chennai on May 23",
+    "notes": "Travelled from Mumbai on May 23",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/10/kannur-covid-case.html",
     "confirmedPatient": true
   },
   {
@@ -28970,42 +28980,64 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission from Son who's Air India Staff",
     "knownCluster": "Kannur",
+    "dhsPatientNumber": "1150",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/10/kannur-covid-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2091,
     "dateAnnounced": "2020-06-09",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Maharashtra",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Nigeria on APK-7812 to Kochi on May 31",
+    "knownCluster": "Nigeria",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/10/ernakulam-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2092,
     "dateAnnounced": "2020-06-09",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Maharashtra",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai to Kochi on June 7 - Shipyard Staff",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/10/ernakulam-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2093,
     "dateAnnounced": "2020-06-09",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Maharashtra",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai to Kochi on June 5 - Shippping Company Staff",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/10/ernakulam-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2094,
     "dateAnnounced": "2020-06-09",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "F",
+    "residence": "Edakochi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 27",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/10/ernakulam-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
@@ -29018,6 +29050,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=179094850227018&id=100507158085788",
     "confirmedPatient": true
   },
@@ -29031,6 +29064,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=179094850227018&id=100507158085788",
     "confirmedPatient": true
   }
