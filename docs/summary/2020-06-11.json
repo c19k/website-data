@@ -1,5 +1,5 @@
 {
-  "updated": "2020-06-11 18:37",
+  "updated": "2020-06-11 19:19",
   "prefectures": [
     {
       "confirmed": 348,
@@ -154,7 +154,7 @@
     },
     {
       "confirmed": 284,
-      "deaths": 1,
+      "deaths": 2,
       "confirmedByCity": {
         "Ernakulam": 3,
         "Kannur": 281
@@ -3846,9 +3846,9 @@
     {
       "ageGroup": "60-69",
       "female": 26,
-      "male": 89,
+      "male": 90,
       "unspecified": 0,
-      "total": 115
+      "total": 116
     },
     {
       "ageGroup": "70-79",
@@ -3875,14 +3875,14 @@
       "ageGroup": "Unspecified",
       "female": 48,
       "male": 120,
-      "unspecified": 152,
-      "total": 320
+      "unspecified": 151,
+      "total": 319
     }
   ],
   "gender": {
     "female": 540,
-    "male": 1543,
-    "unspecified": 160,
+    "male": 1544,
+    "unspecified": 159,
     "total": 2244
   },
   "underObservation": {

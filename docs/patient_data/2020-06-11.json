@@ -30671,10 +30671,14 @@
   {
     "patientId": 2234,
     "dateAnnounced": "2020-06-11",
-    "ageBracket": -1,
+    "ageBracket": 70,
+    "gender": "M",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
+    "notes": "Travelled from Oman",
+    "knownCluster": "Oman",
+    "oeceasedOn": "2020-06-10",
     "confirmedPatient": true
   },
   {
