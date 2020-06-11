@@ -29919,7 +29919,9 @@
   {
     "patientId": 2158,
     "dateAnnounced": "2020-06-10",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "F",
+    "residence": "Ponkunnam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
@@ -29929,7 +29931,9 @@
   {
     "patientId": 2159,
     "dateAnnounced": "2020-06-10",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "F",
+    "residence": "Koruthod",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
@@ -29939,7 +29943,8 @@
   {
     "patientId": 2160,
     "dateAnnounced": "2020-06-10",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "F",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
@@ -29950,9 +29955,13 @@
     "patientId": 2161,
     "dateAnnounced": "2020-06-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Muthukulam",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Moscow to Kannur on June 1",
+    "knownCluster": "Moscow",
     "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/880999278972234",
     "confirmedPatient": true
   }
