@@ -31843,12 +31843,13 @@
   {
     "patientId": 2318,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": 77,
+    "ageBracket": 70,
     "gender": "M",
-    "residence": "Iritty",
+    "residence": "Irikkur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Deceased",
+    "notes": "Travelled from Mumbain on June 9",
     "confirmedPatient": true
   },
   {
