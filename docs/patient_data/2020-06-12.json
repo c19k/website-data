@@ -29881,10 +29881,10 @@
     "residence": "Iritty",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
     "notes": "Travelled from Muscat on May 22 to Kannur on IX 714",
     "knownCluster": "Muscat",
-    "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2592905767636334",
+    "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2592905767636334 https://english.mathrubhumi.com/news/kerala/kannur-man-dies-of-covid-19-death-toll-in-state-hits-18-1.4822047",
     "confirmedPatient": true
   },
   {
@@ -30936,6 +30936,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2593839840876260",
     "confirmedPatient": true
   },
@@ -30948,6 +30949,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2593839840876260",
     "confirmedPatient": true
   },
@@ -30960,6 +30962,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2593839840876260",
     "confirmedPatient": true
   },
@@ -30972,6 +30975,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2593839840876260",
     "confirmedPatient": true
   },
@@ -30984,6 +30988,7 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2593839840876260",
     "confirmedPatient": true
   },
@@ -30996,19 +31001,21 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2593839840876260",
     "confirmedPatient": true
   },
   {
     "patientId": 2234,
     "dateAnnounced": "2020-06-11",
-    "ageBracket": 70,
+    "ageBracket": 63,
     "gender": "M",
+    "residence": "Chembilod",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Deceased",
-    "notes": "Travelled from Oman",
-    "knownCluster": "Oman",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bengaluru",
+    "knownCluster": "Bengaluru",
     "oeceasedOn": "2020-06-10",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2593839840876260",
     "confirmedPatient": true
