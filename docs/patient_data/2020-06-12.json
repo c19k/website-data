@@ -30539,23 +30539,23 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kolkatha",
-    "knownCluster": "Kolkatha",
+    "notes": "Travelled from Kolkata",
+    "knownCluster": "Kolkata",
     "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/12/palakkad-covid-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2199,
     "dateAnnounced": "2020-06-11",
-    "ageBracket": -1,
+    "ageBracket": 37,
     "gender": "M",
-    "residence": "Bangalore",
+    "residence": "Shornur",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
     "knownCluster": "Bangalore",
-    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/12/palakkad-covid-case.html",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/609561956354872",
     "confirmedPatient": true
   },
   {
@@ -30581,7 +30581,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Mother of P",
+    "notes": "Mother of P from Kalpakanchery (May 5)",
     "knownCluster": "Malappuram",
     "sourceURL": "https://www.manoramaonline.com/district-news/malappuram/2020/06/12/malappuram-covid-19-patients.html",
     "confirmedPatient": true
@@ -30595,6 +30595,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
     "knownCluster": "Malappuram",
     "sourceURL": "https://www.manoramaonline.com/district-news/malappuram/2020/06/12/malappuram-covid-19-patients.html",
     "confirmedPatient": true
@@ -30608,6 +30609,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
     "knownCluster": "Malappuram",
     "sourceURL": "https://www.manoramaonline.com/district-news/malappuram/2020/06/12/malappuram-covid-19-patients.html",
     "confirmedPatient": true
@@ -30621,6 +30623,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
     "knownCluster": "Malappuram",
     "sourceURL": "https://www.manoramaonline.com/district-news/malappuram/2020/06/12/malappuram-covid-19-patients.html",
     "confirmedPatient": true
@@ -30628,46 +30631,71 @@
   {
     "patientId": 2205,
     "dateAnnounced": "2020-06-11",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "F",
+    "residence": "Vazhikkadavu",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from BLR",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171411031004482",
     "confirmedPatient": true
   },
   {
     "patientId": 2206,
     "dateAnnounced": "2020-06-11",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Edarikkode",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171411031004482",
     "confirmedPatient": true
   },
   {
     "patientId": 2207,
     "dateAnnounced": "2020-06-11",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "F",
+    "residence": "Chemmad",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Shimoga",
+    "knownCluster": "Shimoga",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171411031004482",
     "confirmedPatient": true
   },
   {
     "patientId": 2208,
     "dateAnnounced": "2020-06-11",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Edakkara",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh",
+    "knownCluster": "Riyadh",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171411031004482",
     "confirmedPatient": true
   },
   {
     "patientId": 2209,
     "dateAnnounced": "2020-06-11",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Ozhur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171411031004482",
     "confirmedPatient": true
   },
   {
@@ -30804,7 +30832,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi on June 8",
     "knownCluster": "Saudi Arabia",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/11/kasargod-corona-case.html",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=179638893505947&id=100507158085788",
     "confirmedPatient": true
   },
   {
@@ -31031,6 +31059,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra on May 30",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/184401323026925",
     "confirmedPatient": true
   },
   {
@@ -31044,6 +31073,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 6",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/184401323026925",
     "confirmedPatient": true
   },
   {
@@ -31057,30 +31087,35 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 6",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/184401323026925",
     "confirmedPatient": true
   },
   {
     "patientId": 2238,
     "dateAnnounced": "2020-06-11",
     "ageBracket": 7,
+    "gender": "F",
     "residence": "Payyanamon",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 6",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/184401323026925",
     "confirmedPatient": true
   },
   {
     "patientId": 2239,
     "dateAnnounced": "2020-06-11",
     "ageBracket": 5,
+    "gender": "F",
     "residence": "Payyanamon",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 6",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/184401323026925",
     "confirmedPatient": true
   },
   {
@@ -31118,6 +31153,8 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1174770139546279",
     "confirmedPatient": true
   },
   {
@@ -31129,6 +31166,8 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1174770139546279",
     "confirmedPatient": true
   },
   {
