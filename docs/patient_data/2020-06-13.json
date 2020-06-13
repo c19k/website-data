@@ -13952,9 +13952,10 @@
     "residence": "Cherthala",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai on May 18 by Train",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-10",
     "confirmedPatient": true
   },
   {
@@ -13965,7 +13966,7 @@
     "residence": "Chengannur",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi on May 18 to Kochi",
     "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
@@ -14017,9 +14018,10 @@
     "residence": "Mavelikkara",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Chennai to Alappuzha on May 10",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-06-10",
     "confirmedPatient": true
   },
   {
@@ -18967,9 +18969,10 @@
     "residence": "Muthukkulam",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-06-10",
     "confirmedPatient": true
   },
   {
