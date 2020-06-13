@@ -31709,7 +31709,9 @@
   {
     "patientId": 2303,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Ochira",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
@@ -31718,7 +31720,9 @@
   {
     "patientId": 2304,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "F",
+    "residence": "Uliyakkovil",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
