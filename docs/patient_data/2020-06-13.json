@@ -31562,6 +31562,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on June 4",
     "confirmedPatient": true
   },
   {
@@ -31573,6 +31574,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 5",
     "confirmedPatient": true
   },
   {
@@ -31584,6 +31586,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 21",
     "confirmedPatient": true
   },
   {
@@ -31595,6 +31598,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travlled from Abu Dhabi on May 28",
     "confirmedPatient": true
   },
   {
@@ -31606,24 +31610,31 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 2",
     "confirmedPatient": true
   },
   {
     "patientId": 2291,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Mallapuzhasseri",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 3",
     "confirmedPatient": true
   },
   {
     "patientId": 2292,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "M",
+    "residence": "Ranni",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on June 3",
     "confirmedPatient": true
   },
   {

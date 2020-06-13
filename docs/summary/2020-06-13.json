@@ -3888,9 +3888,9 @@
     {
       "ageGroup": "30-39",
       "female": 101,
-      "male": 404,
+      "male": 405,
       "unspecified": 1,
-      "total": 506
+      "total": 507
     },
     {
       "ageGroup": "40-49",
@@ -3909,9 +3909,9 @@
     {
       "ageGroup": "60-69",
       "female": 29,
-      "male": 93,
+      "male": 94,
       "unspecified": 0,
-      "total": 122
+      "total": 123
     },
     {
       "ageGroup": "70-79",
@@ -3938,14 +3938,14 @@
       "ageGroup": "Unspecified",
       "female": 48,
       "male": 120,
-      "unspecified": 125,
-      "total": 293
+      "unspecified": 123,
+      "total": 291
     }
   ],
   "gender": {
     "female": 569,
-    "male": 1616,
-    "unspecified": 136,
+    "male": 1618,
+    "unspecified": 134,
     "total": 2322
   },
   "underObservation": {
