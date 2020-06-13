@@ -13969,6 +13969,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi on May 18 to Kochi",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-06-10",
     "confirmedPatient": true
   },
   {
@@ -13979,9 +13980,10 @@
     "residence": "Karthikappalli",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi on May 18 to Kochi",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-06-10",
     "confirmedPatient": true
   },
   {
