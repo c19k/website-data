@@ -8075,9 +8075,10 @@
     "residence": "Purakkad",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Drove down from Navi Mumbai; youth",
     "knownCluster": "Navi Mumbai",
+    "releasedOn": "2020-06-07",
     "sourceURL": "https://www.deshabhimani.com/news/kerala/news-16-05-2020/871717",
     "confirmedPatient": true
   },
@@ -31391,6 +31392,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission from May 5 Kalpakanchery Mabra parient",
+    "knownCluster": "Malappuram",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -31404,6 +31406,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -31417,6 +31420,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -31429,6 +31433,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -31442,6 +31447,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -31455,6 +31461,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -31468,6 +31475,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kashmir",
+    "knownCluster": "Kashmir",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -31480,7 +31488,8 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Bellary",
+    "notes": "Travelled from Bellur",
+    "knownCluster": "Bellur",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -31519,7 +31528,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait",
+    "notes": "Travelled from Bahrain",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -31532,6 +31541,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -32005,7 +32015,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelld from Kuwait on June 1 with Mother P",
+    "notes": "Travelled from Kuwait on June 1 with Mother who's a P",
     "knownCluster": "Kuwait",
     "sourceURL": "https://epaper.deshabhimani.com/c/52699632",
     "confirmedPatient": true
