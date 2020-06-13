@@ -31182,195 +31182,286 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on  May 26 by Car",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2245,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "F",
+    "residence": "Madayikonam",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "knownCluster": "Thrissur",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2246,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "F",
+    "residence": "Chavakkad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "knownCluster": "Thrissur",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2247,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 53,
+    "gender": "F",
+    "residence": "Chalakkudi",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "knownCluster": "Thrissur",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2248,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "F",
+    "residence": "Arimbur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "knownCluster": "Thrissur",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2249,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "F",
+    "residence": "Guruvayoor",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "knownCluster": "Thrissur",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2250,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "F",
+    "residence": "Karuvannur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Health Worker",
+    "knownCluster": "Thrissur",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2251,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "F",
+    "residence": "SN Puram",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 8",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2252,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 67,
+    "gender": "F",
+    "residence": "SN Puram",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 8",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2253,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Mylippadam",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Hyderabad on June 2",
+    "knownCluster": "Hyderabad",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2254,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "F",
+    "residence": "Kodungallur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on June 2",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2255,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Kodungallur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on June 2",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2256,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "F",
+    "residence": "Chavakkad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on June 2",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2257,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Kandanasseri",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on June 5",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2258,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Thrissur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 26",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/13/thrissur-14-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2259,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Bengal",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
     "patientId": 2260,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "F",
+    "residence": "Karuvarakkund",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
     "patientId": 2261,
     "dateAnnounced": "2020-06-12",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Karuvarakkund",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
     "patientId": 2262,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "gender": "M",
+    "residence": "Karuvarakkund",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
     "patientId": 2263,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 21,
+    "gender": "M",
+    "residence": "Vazhakkad",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
     "patientId": 2264,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 19,
+    "gender": "M",
+    "residence": "Kadampuzha",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
     "patientId": 2265,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Kottappadi",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
@@ -31380,6 +31471,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
@@ -31389,6 +31481,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
@@ -31398,6 +31491,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
@@ -31407,6 +31501,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
@@ -31416,6 +31511,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
@@ -31425,6 +31521,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
@@ -31434,6 +31531,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
   {
@@ -31443,6 +31541,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31452,6 +31551,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31461,6 +31561,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31470,6 +31571,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31479,6 +31581,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31488,6 +31591,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31497,6 +31601,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31506,6 +31611,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31515,6 +31621,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31524,6 +31631,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31533,6 +31641,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31542,6 +31651,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31551,6 +31661,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/570908033507031",
     "confirmedPatient": true
   },
   {
@@ -31728,6 +31839,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/610184209625980",
     "confirmedPatient": true
   },
   {
@@ -31737,6 +31849,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/610184209625980",
     "confirmedPatient": true
   },
   {
@@ -31746,6 +31859,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/610184209625980",
     "confirmedPatient": true
   },
   {
@@ -31755,6 +31869,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/610184209625980",
     "confirmedPatient": true
   },
   {
@@ -31764,6 +31879,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/610184209625980",
     "confirmedPatient": true
   },
   {
@@ -31775,6 +31891,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1627254590760080",
     "confirmedPatient": true
   },
   {
@@ -31786,6 +31903,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1627254590760080",
     "confirmedPatient": true
   },
   {
@@ -31795,6 +31913,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1627254590760080",
     "confirmedPatient": true
   },
   {
@@ -31804,6 +31923,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1627254590760080",
     "confirmedPatient": true
   },
   {
@@ -32023,6 +32143,7 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2570602493255276",
     "confirmedPatient": true
   }
 ]
