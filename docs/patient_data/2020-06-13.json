@@ -26505,9 +26505,10 @@
     "residence": "Thazhakkara",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai to Tvm on May 23",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-09",
     "sourceURL": "https://www.manoramaonline.com/district-news/alappuzha/2020/06/08/alappuzha-covid-19.html",
     "confirmedPatient": true
   },
