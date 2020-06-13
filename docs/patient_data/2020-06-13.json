@@ -31888,7 +31888,9 @@
   {
     "patientId": 2298,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Kongad",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
