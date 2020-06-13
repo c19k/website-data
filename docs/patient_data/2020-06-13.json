@@ -31661,6 +31661,8 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on May 27",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/12/ernakulam-covid-case.html",
     "confirmedPatient": true
   },
   {
@@ -31673,6 +31675,8 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on AirAsia on May 29",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/12/ernakulam-covid-case.html",
     "confirmedPatient": true
   },
   {
@@ -31685,6 +31689,8 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on May 30",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/12/ernakulam-covid-case.html",
     "confirmedPatient": true
   },
   {
@@ -31697,6 +31703,8 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra by road on May 31",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/12/ernakulam-covid-case.html",
     "confirmedPatient": true
   },
   {
@@ -31708,7 +31716,9 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Maharashtra on June 3",
+    "notes": "Travelled from Maharashtra on June 5 (Shipping Co Staff)",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/12/ernakulam-covid-case.html",
     "confirmedPatient": true
   },
   {
