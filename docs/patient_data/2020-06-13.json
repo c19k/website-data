@@ -31563,6 +31563,8 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 4",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/13/pathanamthitta-seven-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -31575,6 +31577,8 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra on June 5",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/13/pathanamthitta-seven-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -31587,6 +31591,8 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on May 21",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/13/pathanamthitta-seven-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -31599,6 +31605,8 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travlled from Abu Dhabi on May 28",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/13/pathanamthitta-seven-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -31611,6 +31619,8 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 2",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/13/pathanamthitta-seven-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -31623,6 +31633,8 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra on June 3",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/13/pathanamthitta-seven-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -31635,51 +31647,68 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 3",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/13/pathanamthitta-seven-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2293,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Koothattukulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on May 27",
     "confirmedPatient": true
   },
   {
     "patientId": 2294,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "F",
+    "residence": "Kothamangalam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on AirAsia on May 29",
     "confirmedPatient": true
   },
   {
     "patientId": 2295,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Alangad",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 30",
     "confirmedPatient": true
   },
   {
     "patientId": 2296,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Kakkanad",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra by road on May 31",
     "confirmedPatient": true
   },
   {
     "patientId": 2297,
     "dateAnnounced": "2020-06-12",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Maharashtra",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 3",
     "confirmedPatient": true
   },
   {
