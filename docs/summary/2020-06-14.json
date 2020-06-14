@@ -312,10 +312,9 @@
       "confirmed": 278,
       "deaths": 2,
       "confirmedByCity": {
-        "Palakkad": 273,
-        "Ernakulam": 2,
-        "Malappuram": 2,
-        "Kannur": 1
+        "Palakkad": 276,
+        "Ernakulam": 1,
+        "Malappuram": 1
       },
       "dailyConfirmedCount": [
         0,
@@ -452,11 +451,11 @@
         6,
         13,
         5,
-        8,
-        0
+        1,
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 96,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
@@ -3862,7 +3861,7 @@
       "confirmedCumulativeAvg7d": 2037
     },
     {
-      "confirmed": 85,
+      "confirmed": 78,
       "recoveredCumulative": 1045,
       "deceasedCumulative": 19,
       "criticalCumulative": 1,
@@ -3870,17 +3869,17 @@
       "observationCumulative": 235418,
       "homeObservationCumulative": 233429,
       "hosptilisedCumulative": 1989,
-      "activeCumulative": 1342,
+      "activeCumulative": 1335,
       "status": "Finalised",
       "date": "2020-06-13",
-      "confirmedCumulative": 2407,
-      "confirmedAvg3d": 82,
-      "confirmedCumulativeAvg3d": 2296,
-      "confirmedAvg7d": 85,
-      "confirmedCumulativeAvg7d": 2122
+      "confirmedCumulative": 2400,
+      "confirmedAvg3d": 79,
+      "confirmedCumulativeAvg3d": 2293,
+      "confirmedAvg7d": 84,
+      "confirmedCumulativeAvg7d": 2121
     },
     {
-      "confirmed": 0,
+      "confirmed": 1,
       "recoveredCumulative": 1045,
       "deceasedCumulative": 19,
       "criticalCumulative": 1,
@@ -3888,13 +3887,115 @@
       "observationCumulative": 235418,
       "homeObservationCumulative": 233429,
       "hosptilisedCumulative": 1989,
-      "activeCumulative": 1342,
+      "activeCumulative": 1335,
       "date": "2020-06-14",
+      "confirmedCumulative": 2401,
+      "confirmedAvg3d": 52,
+      "confirmedCumulativeAvg3d": 2345,
+      "confirmedAvg7d": 69,
+      "confirmedCumulativeAvg7d": 2190
+    },
+    {
+      "confirmed": 1,
+      "recoveredCumulative": 1045,
+      "deceasedCumulative": 19,
+      "criticalCumulative": 1,
+      "testedCumulative": 144842,
+      "observationCumulative": 235418,
+      "homeObservationCumulative": 233429,
+      "hosptilisedCumulative": 1989,
+      "activeCumulative": 1335,
+      "date": "2020-06-15",
+      "confirmedCumulative": 2402,
+      "confirmedAvg3d": 26,
+      "confirmedCumulativeAvg3d": 2371,
+      "confirmedAvg7d": 56,
+      "confirmedCumulativeAvg7d": 2246
+    },
+    {
+      "confirmed": 1,
+      "recoveredCumulative": 1045,
+      "deceasedCumulative": 19,
+      "criticalCumulative": 1,
+      "testedCumulative": 144842,
+      "observationCumulative": 235418,
+      "homeObservationCumulative": 233429,
+      "hosptilisedCumulative": 1989,
+      "activeCumulative": 1335,
+      "date": "2020-06-16",
+      "confirmedCumulative": 2403,
+      "confirmedAvg3d": 1,
+      "confirmedCumulativeAvg3d": 2372,
+      "confirmedAvg7d": 43,
+      "confirmedCumulativeAvg7d": 2289
+    },
+    {
+      "confirmed": 1,
+      "recoveredCumulative": 1045,
+      "deceasedCumulative": 19,
+      "criticalCumulative": 1,
+      "testedCumulative": 144842,
+      "observationCumulative": 235418,
+      "homeObservationCumulative": 233429,
+      "hosptilisedCumulative": 1989,
+      "activeCumulative": 1335,
+      "date": "2020-06-17",
+      "confirmedCumulative": 2404,
+      "confirmedAvg3d": 1,
+      "confirmedCumulativeAvg3d": 2373,
+      "confirmedAvg7d": 34,
+      "confirmedCumulativeAvg7d": 2323
+    },
+    {
+      "confirmed": 1,
+      "recoveredCumulative": 1045,
+      "deceasedCumulative": 19,
+      "criticalCumulative": 1,
+      "testedCumulative": 144842,
+      "observationCumulative": 235418,
+      "homeObservationCumulative": 233429,
+      "hosptilisedCumulative": 1989,
+      "activeCumulative": 1335,
+      "date": "2020-06-18",
+      "confirmedCumulative": 2405,
+      "confirmedAvg3d": 1,
+      "confirmedCumulativeAvg3d": 2374,
+      "confirmedAvg7d": 23,
+      "confirmedCumulativeAvg7d": 2346
+    },
+    {
+      "confirmed": 1,
+      "recoveredCumulative": 1045,
+      "deceasedCumulative": 19,
+      "criticalCumulative": 1,
+      "testedCumulative": 144842,
+      "observationCumulative": 235418,
+      "homeObservationCumulative": 233429,
+      "hosptilisedCumulative": 1989,
+      "activeCumulative": 1335,
+      "date": "2020-06-19",
+      "confirmedCumulative": 2406,
+      "confirmedAvg3d": 1,
+      "confirmedCumulativeAvg3d": 2375,
+      "confirmedAvg7d": 12,
+      "confirmedCumulativeAvg7d": 2358
+    },
+    {
+      "confirmed": 1,
+      "recoveredCumulative": 1045,
+      "deceasedCumulative": 19,
+      "criticalCumulative": 1,
+      "testedCumulative": 144842,
+      "observationCumulative": 235418,
+      "homeObservationCumulative": 233429,
+      "hosptilisedCumulative": 1989,
+      "activeCumulative": 1335,
+      "date": "2020-06-20",
       "confirmedCumulative": 2407,
-      "confirmedAvg3d": 54,
-      "confirmedCumulativeAvg3d": 2350,
-      "confirmedAvg7d": 70,
-      "confirmedCumulativeAvg7d": 2192
+      "confirmedAvg3d": 1,
+      "confirmedCumulativeAvg3d": 2376,
+      "confirmedAvg7d": 1,
+      "confirmedCumulativeAvg7d": 2359
     }
   ],
   "age": [
@@ -3907,31 +4008,31 @@
     },
     {
       "ageGroup": "10-19",
-      "female": 44,
+      "female": 45,
       "male": 66,
       "unspecified": 0,
-      "total": 110
+      "total": 111
     },
     {
       "ageGroup": "20-29",
       "female": 157,
-      "male": 387,
+      "male": 390,
       "unspecified": 4,
-      "total": 549
+      "total": 552
     },
     {
       "ageGroup": "30-39",
       "female": 107,
-      "male": 421,
+      "male": 422,
       "unspecified": 1,
-      "total": 529
+      "total": 530
     },
     {
       "ageGroup": "40-49",
-      "female": 86,
-      "male": 334,
+      "female": 87,
+      "male": 335,
       "unspecified": 0,
-      "total": 420
+      "total": 422
     },
     {
       "ageGroup": "50-59",
@@ -3972,14 +4073,14 @@
       "ageGroup": "Unspecified",
       "female": 53,
       "male": 133,
-      "unspecified": 84,
-      "total": 270
+      "unspecified": 77,
+      "total": 263
     }
   ],
   "gender": {
-    "female": 603,
-    "male": 1707,
-    "unspecified": 95,
+    "female": 605,
+    "male": 1712,
+    "unspecified": 88,
     "total": 2407
   },
   "underObservation": {
