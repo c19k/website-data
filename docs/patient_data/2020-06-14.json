@@ -34048,6 +34048,7 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1177174975972462",
     "confirmedPatient": true
   },
   {
@@ -34057,6 +34058,7 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1177174975972462",
     "confirmedPatient": true
   },
   {
@@ -34066,6 +34068,7 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1177174975972462",
     "confirmedPatient": true
   },
   {
@@ -34110,37 +34113,53 @@
   {
     "patientId": 2456,
     "dateAnnounced": "2020-06-14",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "F",
+    "residence": "Vallikode",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185485336251857",
     "confirmedPatient": true
   },
   {
     "patientId": 2457,
     "dateAnnounced": "2020-06-14",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Adoor",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185485336251857",
     "confirmedPatient": true
   },
   {
     "patientId": 2458,
     "dateAnnounced": "2020-06-14",
-    "ageBracket": -1,
+    "ageBracket": 16,
+    "gender": "F",
+    "residence": "Kumily",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=594553368134093&id=230880581168042",
     "confirmedPatient": true
   },
   {
     "patientId": 2459,
     "dateAnnounced": "2020-06-14",
-    "ageBracket": -1,
+    "ageBracket": 21,
+    "gender": "F",
+    "residence": "Arakkulam",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=594553368134093&id=230880581168042",
     "confirmedPatient": true
   },
   {
@@ -34155,10 +34174,14 @@
   {
     "patientId": 2461,
     "dateAnnounced": "2020-06-14",
-    "ageBracket": -1,
+    "ageBracket": 53,
+    "gender": "M",
+    "residence": "Nenmeni",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "sourceURL": "http://opennewser.com/home/get_news/26876",
     "confirmedPatient": true
   }
 ]
