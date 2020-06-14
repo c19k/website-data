@@ -32481,7 +32481,10 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
-    "notes": "Grand Mother of P",
+    "notes": "Grand Mother of P1150",
+    "knownCluster": "Kannur",
+    "dhsPatientNumber": "1150",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32493,7 +32496,10 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
-    "notes": "Brother of P",
+    "notes": "Brother of P1150",
+    "knownCluster": "Kannur",
+    "dhsPatientNumber": "1150",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32505,7 +32511,10 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
-    "notes": "CT from P",
+    "notes": "CT from P2090",
+    "knownCluster": "Kannur",
+    "dhsPatientNumber": "2090",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32518,6 +32527,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "KSRTC Driver on Duty to Kannur Airport",
+    "knownCluster": "Kannur",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32530,6 +32541,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on IX-1746 on June 3",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32542,6 +32555,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on IX-1746 on May 30",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32554,6 +32569,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on J9-1415 on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32566,6 +32583,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscat on June 11",
+    "knownCluster": "Muscat",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32578,6 +32597,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait to Kkd on J9-413 on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32590,6 +32611,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait to Kkd on J9-413 on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32601,6 +32624,9 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Moscow to Tvm on RL-9903 on May 20",
+    "knownCluster": "Moscow",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32612,6 +32638,9 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on IX-405 on June 12",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32623,6 +32652,9 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 5",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32634,6 +32666,9 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 5",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/14/kannur-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
