@@ -33773,10 +33773,14 @@
   {
     "patientId": 2423,
     "dateAnnounced": "2020-06-14",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "F",
+    "residence": "Marancheri",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "CT to Health Worker",
+    "knownCluster": "Malappuram",
     "confirmedPatient": true
   },
   {
@@ -34073,6 +34077,8 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT to Civil Defence Force Volunteer",
+    "knownCluster": "Malappuram",
     "confirmedPatient": true
   },
   {
@@ -34084,16 +34090,21 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh to Karipur on Jue 6",
+    "knownCluster": "Riyadh",
     "confirmedPatient": true
   },
   {
     "patientId": 2455,
     "dateAnnounced": "2020-06-14",
-    "ageBracket": 43,
-    "gender": "F",
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Mangalam",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai by air on June 1",
+    "knownCluster": "Mumbai",
     "confirmedPatient": true
   },
   {
