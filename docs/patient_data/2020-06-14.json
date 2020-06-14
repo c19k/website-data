@@ -33633,5 +33633,13 @@
     "knownCluster": "Mumbai",
     "sourceURL": "https://www.manoramaonline.com/district-news/kottayam/2020/06/14/kottayam-covid-19.html",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 2408,
+    "dateAnnounced": "2020-06-14",
+    "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
+    "detectedPrefecture": "Kozhikode",
+    "confirmedPatient": true
   }
 ]

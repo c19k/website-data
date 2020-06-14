@@ -769,10 +769,10 @@
       "name": "Thrissur"
     },
     {
-      "confirmed": 149,
+      "confirmed": 150,
       "deaths": 0,
       "confirmedByCity": {
-        "Kozhikode": 145,
+        "Kozhikode": 146,
         "Chennai": 1,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -913,10 +913,10 @@
         1,
         4,
         12,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 64,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -3879,7 +3879,7 @@
       "confirmedCumulativeAvg7d": 2121
     },
     {
-      "confirmed": 1,
+      "confirmed": 2,
       "recoveredCumulative": 1045,
       "deceasedCumulative": 19,
       "criticalCumulative": 1,
@@ -3889,7 +3889,7 @@
       "hosptilisedCumulative": 1989,
       "activeCumulative": 1335,
       "date": "2020-06-14",
-      "confirmedCumulative": 2401,
+      "confirmedCumulative": 2402,
       "confirmedAvg3d": 52,
       "confirmedCumulativeAvg3d": 2345,
       "confirmedAvg7d": 69,
@@ -3906,9 +3906,9 @@
       "hosptilisedCumulative": 1989,
       "activeCumulative": 1335,
       "date": "2020-06-15",
-      "confirmedCumulative": 2402,
-      "confirmedAvg3d": 26,
-      "confirmedCumulativeAvg3d": 2371,
+      "confirmedCumulative": 2403,
+      "confirmedAvg3d": 27,
+      "confirmedCumulativeAvg3d": 2372,
       "confirmedAvg7d": 56,
       "confirmedCumulativeAvg7d": 2246
     },
@@ -3923,11 +3923,11 @@
       "hosptilisedCumulative": 1989,
       "activeCumulative": 1335,
       "date": "2020-06-16",
-      "confirmedCumulative": 2403,
+      "confirmedCumulative": 2404,
       "confirmedAvg3d": 1,
-      "confirmedCumulativeAvg3d": 2372,
-      "confirmedAvg7d": 43,
-      "confirmedCumulativeAvg7d": 2289
+      "confirmedCumulativeAvg3d": 2373,
+      "confirmedAvg7d": 44,
+      "confirmedCumulativeAvg7d": 2290
     },
     {
       "confirmed": 1,
@@ -3940,11 +3940,11 @@
       "hosptilisedCumulative": 1989,
       "activeCumulative": 1335,
       "date": "2020-06-17",
-      "confirmedCumulative": 2404,
+      "confirmedCumulative": 2405,
       "confirmedAvg3d": 1,
-      "confirmedCumulativeAvg3d": 2373,
+      "confirmedCumulativeAvg3d": 2374,
       "confirmedAvg7d": 34,
-      "confirmedCumulativeAvg7d": 2323
+      "confirmedCumulativeAvg7d": 2324
     },
     {
       "confirmed": 1,
@@ -3957,11 +3957,11 @@
       "hosptilisedCumulative": 1989,
       "activeCumulative": 1335,
       "date": "2020-06-18",
-      "confirmedCumulative": 2405,
+      "confirmedCumulative": 2406,
       "confirmedAvg3d": 1,
-      "confirmedCumulativeAvg3d": 2374,
+      "confirmedCumulativeAvg3d": 2375,
       "confirmedAvg7d": 23,
-      "confirmedCumulativeAvg7d": 2346
+      "confirmedCumulativeAvg7d": 2347
     },
     {
       "confirmed": 1,
@@ -3974,11 +3974,11 @@
       "hosptilisedCumulative": 1989,
       "activeCumulative": 1335,
       "date": "2020-06-19",
-      "confirmedCumulative": 2406,
+      "confirmedCumulative": 2407,
       "confirmedAvg3d": 1,
-      "confirmedCumulativeAvg3d": 2375,
+      "confirmedCumulativeAvg3d": 2376,
       "confirmedAvg7d": 12,
-      "confirmedCumulativeAvg7d": 2358
+      "confirmedCumulativeAvg7d": 2359
     },
     {
       "confirmed": 1,
@@ -3991,11 +3991,11 @@
       "hosptilisedCumulative": 1989,
       "activeCumulative": 1335,
       "date": "2020-06-20",
-      "confirmedCumulative": 2407,
+      "confirmedCumulative": 2408,
       "confirmedAvg3d": 1,
-      "confirmedCumulativeAvg3d": 2376,
+      "confirmedCumulativeAvg3d": 2377,
       "confirmedAvg7d": 1,
-      "confirmedCumulativeAvg7d": 2359
+      "confirmedCumulativeAvg7d": 2360
     }
   ],
   "age": [
@@ -4073,15 +4073,15 @@
       "ageGroup": "Unspecified",
       "female": 53,
       "male": 134,
-      "unspecified": 26,
-      "total": 213
+      "unspecified": 27,
+      "total": 214
     }
   ],
   "gender": {
     "female": 618,
     "male": 1747,
-    "unspecified": 40,
-    "total": 2407
+    "unspecified": 41,
+    "total": 2461
   },
   "underObservation": {
     "2020-01-31": {
