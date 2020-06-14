@@ -32688,7 +32688,9 @@
   {
     "patientId": 2353,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Omasseri",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
@@ -32697,7 +32699,7 @@
   {
     "patientId": 2354,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
+    "ageBracket": 42,
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
