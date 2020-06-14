@@ -32977,6 +32977,8 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar on June 7",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/14/kasargod-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -32989,6 +32991,8 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on May 30",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/14/kasargod-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -33000,7 +33004,9 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Dubai on May 26",
+    "notes": "Travelled from Dubai on May 29",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/14/kasargod-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -33012,7 +33018,9 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait on June 11",
+    "notes": "Travelled from Dubai on May 26",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/14/kasargod-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -33024,7 +33032,9 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Dubai on May 30",
+    "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/14/kasargod-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -33036,7 +33046,9 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait on May 30",
+    "notes": "Travelled from Dubai on May 30",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/14/kasargod-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -33049,6 +33061,8 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on May 30",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/14/kasargod-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -33061,6 +33075,8 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on June 4",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/14/kasargod-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
@@ -33073,83 +33089,113 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on May 26",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/14/kasargod-covid-19-positive-result.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2382,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": 50,
+    "ageBracket": 22,
     "gender": "M",
-    "residence": "Othalur",
-    "detectedCityTown": "Malappuram",
+    "residence": "Attapadi",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Muscat to Kozhikode on 6E-9343",
-    "knownCluster": "Muscat",
+    "notes": "Travelled from UP on June 6 with a seven member group",
+    "knownCluster": "Uttad Pradesh",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3375064095872340?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 2383,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Pattambi",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Nellur in TN",
+    "knownCluster": "Nellur",
     "confirmedPatient": true
   },
   {
     "patientId": 2384,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "F",
+    "residence": "Nochulli",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi Nurse",
+    "knownCluster": "Delhi",
     "confirmedPatient": true
   },
   {
     "patientId": 2385,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
-    "detectedCityTown": "Palakkad",
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Koppam",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
     "patientId": 2386,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Vadanakurrissi",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 2387,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Pattambi",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on June 7",
+    "knownCluster": "Qatar",
     "confirmedPatient": true
   },
   {
     "patientId": 2388,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
-    "detectedCityTown": "Palakkad",
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Sreekishnapuram",
+    "detectedCityTown": "Kannur",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman",
+    "knownCluster": "Oman",
     "confirmedPatient": true
   },
   {
     "patientId": 2389,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
-    "detectedCityTown": "Palakkad",
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Pattithara",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -33218,16 +33264,21 @@
   {
     "patientId": 2397,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Munnar",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on June 4",
     "confirmedPatient": true
   },
   {
     "patientId": 2398,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "M",
+    "residence": "Kalayanthani",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
@@ -33236,7 +33287,9 @@
   {
     "patientId": 2399,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
+    "ageBracket": 63,
+    "gender": "F",
+    "residence": "Kalayanthani",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
@@ -33245,7 +33298,9 @@
   {
     "patientId": 2400,
     "dateAnnounced": "2020-06-13",
-    "ageBracket": -1,
+    "ageBracket": 5,
+    "gender": "F",
+    "residence": "Kumali",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
