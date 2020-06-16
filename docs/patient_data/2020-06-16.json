@@ -34567,73 +34567,104 @@
   {
     "patientId": 2475,
     "dateAnnounced": "2020-06-15",
-    "ageBracket": -1,
+    "ageBracket": 68,
+    "gender": "F",
+    "residence": "Chenneerkkara",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
     "patientId": 2476,
     "dateAnnounced": "2020-06-15",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "F",
+    "residence": "Koodal",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
     "patientId": 2477,
     "dateAnnounced": "2020-06-15",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Kulanada",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
     "patientId": 2478,
     "dateAnnounced": "2020-06-15",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Churulikkodu",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
     "patientId": 2479,
     "dateAnnounced": "2020-06-15",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Elanthoor",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
     "patientId": 2480,
     "dateAnnounced": "2020-06-15",
-    "ageBracket": -1,
+    "ageBracket": 21,
+    "gender": "F",
+    "residence": "Naranamuzhy",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
     "patientId": 2481,
     "dateAnnounced": "2020-06-15",
-    "ageBracket": -1,
+    "ageBracket": 12,
+    "gender": "M",
+    "residence": "Unnukal",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
     "patientId": 2482,
     "dateAnnounced": "2020-06-15",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Nigeria",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
@@ -34643,6 +34674,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
@@ -34652,6 +34684,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
@@ -34661,6 +34694,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/185789066221484",
     "confirmedPatient": true
   },
   {
