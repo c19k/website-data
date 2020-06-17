@@ -1,5 +1,5 @@
 {
-  "updated": "2020-06-17 08:22",
+  "updated": "2020-06-17 16:37",
   "prefectures": [
     {
       "confirmed": 372,
@@ -3995,31 +3995,31 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 47,
-      "male": 41,
+      "female": 48,
+      "male": 43,
       "unspecified": 7,
-      "total": 95
+      "total": 98
     },
     {
       "ageGroup": "10-19",
       "female": 47,
-      "male": 70,
+      "male": 71,
       "unspecified": 1,
-      "total": 118
+      "total": 119
     },
     {
       "ageGroup": "20-29",
-      "female": 181,
-      "male": 439,
+      "female": 183,
+      "male": 442,
       "unspecified": 4,
-      "total": 625
+      "total": 630
     },
     {
       "ageGroup": "30-39",
-      "female": 120,
-      "male": 463,
+      "female": 121,
+      "male": 465,
       "unspecified": 1,
-      "total": 584
+      "total": 587
     },
     {
       "ageGroup": "40-49",
@@ -4031,16 +4031,16 @@
     {
       "ageGroup": "50-59",
       "female": 71,
-      "male": 237,
+      "male": 239,
       "unspecified": 2,
-      "total": 311
+      "total": 313
     },
     {
       "ageGroup": "60-69",
       "female": 36,
-      "male": 106,
+      "male": 107,
       "unspecified": 0,
-      "total": 142
+      "total": 143
     },
     {
       "ageGroup": "70-79",
@@ -4067,14 +4067,14 @@
       "ageGroup": "Unspecified",
       "female": 53,
       "male": 139,
-      "unspecified": 41,
-      "total": 233
+      "unspecified": 26,
+      "total": 218
     }
   ],
   "gender": {
-    "female": 675,
-    "male": 1887,
-    "unspecified": 58,
+    "female": 679,
+    "male": 1898,
+    "unspecified": 43,
     "total": 2622
   },
   "underObservation": {
