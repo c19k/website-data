@@ -13442,9 +13442,10 @@
     "residence": "Lakshadweep",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Coast Guard, being treated in INS Sanjeevani",
     "knownCluster": "Lakshadweep",
+    "releasedOn": "2020-06-16",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1012910592440097",
     "confirmedPatient": true
   },
@@ -15843,12 +15844,15 @@
   {
     "patientId": 1115,
     "dateAnnounced": "2020-05-29",
-    "ageBracket": -1,
+    "ageBracket": 80,
+    "gender": "F",
+    "residence": "Thrissur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Chennai, same family",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-06-16",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3191453304255690",
     "confirmedPatient": true
   },
@@ -36989,10 +36993,14 @@
   {
     "patientId": 2636,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
-    "detectedCityTown": "Kollam",
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Kollam",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi to Tvm on May 27",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
@@ -37097,82 +37105,118 @@
   {
     "patientId": 2648,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Nileshwar",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 12",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 2649,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "East Eleri",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 2650,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Kanhangad",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 30",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
     "patientId": 2651,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Kanhangad",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on May 31",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
     "patientId": 2652,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Balal",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 10",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 2653,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Pallikkara",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain on June 9",
+    "knownCluster": "Baharain",
     "confirmedPatient": true
   },
   {
     "patientId": 2654,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "M",
+    "residence": "Kumbala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 7",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
     "patientId": 2655,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 68,
+    "gender": "M",
+    "residence": "Manjeshwar",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from MH by bus on May 30",
+    "knownCluster": "Maharashtra",
     "confirmedPatient": true
   },
   {
     "patientId": 2656,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "F",
+    "residence": "Thrikkaripur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from MH by taxi on May 20",
+    "knownCluster": "Maharashtra",
     "confirmedPatient": true
   },
   {
@@ -37295,10 +37339,14 @@
   {
     "patientId": 2670,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
-    "detectedCityTown": "Palakkad",
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Palakkad",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Russia to Kochi on June 16",
+    "knownCluster": "Russia",
     "confirmedPatient": true
   },
   {
@@ -37311,6 +37359,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscat to Kochi on June 4",
+    "knownCluster": "Muscat",
     "confirmedPatient": true
   },
   {
@@ -37323,6 +37372,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar to Kochi on June 7",
+    "knownCluster": "Qatar",
     "confirmedPatient": true
   },
   {
@@ -37335,6 +37385,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai to Kochi on June 4",
+    "knownCluster": "Mumbai",
     "confirmedPatient": true
   },
   {
@@ -37347,6 +37398,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelledf from Delhi to Kochi by air on June 15",
+    "knownCluster": "Delhi",
     "confirmedPatient": true
   },
   {
@@ -37358,6 +37410,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT from relative",
+    "knownCluster": "Ernakulam",
     "confirmedPatient": true
   },
   {
@@ -37591,10 +37645,14 @@
   {
     "patientId": 2696,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
-    "detectedCityTown": "Pathanamthitta",
+    "ageBracket": 21,
+    "gender": "M",
+    "residence": "Pathanamthitta",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Russia to Kochi on June 16",
+    "knownCluster": "Russia",
     "confirmedPatient": true
   },
   {
