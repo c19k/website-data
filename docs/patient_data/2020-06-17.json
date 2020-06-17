@@ -36096,7 +36096,9 @@
   {
     "patientId": 2613,
     "dateAnnounced": "2020-06-16",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "F",
+    "residence": "Kumarnallur",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
@@ -36105,7 +36107,9 @@
   {
     "patientId": 2614,
     "dateAnnounced": "2020-06-16",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Kodungur",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
@@ -36114,7 +36118,7 @@
   {
     "patientId": 2615,
     "dateAnnounced": "2020-06-16",
-    "ageBracket": -1,
+    "ageBracket": 40,
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
@@ -36168,19 +36172,29 @@
   {
     "patientId": 2621,
     "dateAnnounced": "2020-06-16",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Kanhangad",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 14",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=181080656695104&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 2622,
     "dateAnnounced": "2020-06-16",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "F",
+    "residence": "Padanna",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on June 9",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=181080656695104&id=100507158085788",
     "confirmedPatient": true
   }
 ]
