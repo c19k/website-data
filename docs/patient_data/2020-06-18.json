@@ -36876,37 +36876,50 @@
   {
     "patientId": 2623,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Mayyanad",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "districtPatientNumber": "Kollam P155",
     "confirmedPatient": true
   },
   {
     "patientId": 2624,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "M",
+    "residence": "Neduvathur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh",
     "confirmedPatient": true
   },
   {
     "patientId": 2625,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Ochira",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 2626,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Ayur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
@@ -37006,100 +37019,144 @@
   {
     "patientId": 2637,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "F",
+    "residence": "Manjeri",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact of June 5 Asha Worker",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
     "patientId": 2638,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Tirurangadi",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
     "patientId": 2639,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 62,
+    "gender": "M",
+    "residence": "Maranchery",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
     "patientId": 2640,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "F",
+    "residence": "Maranchery",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
     "patientId": 2641,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 64,
+    "gender": "M",
+    "residence": "Talakkad",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
     "patientId": 2642,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Marakkara",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
     "patientId": 2643,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Alamcode",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
     "patientId": 2644,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "F",
+    "residence": "Puramannoor",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
     "patientId": 2645,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Edavanna",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
     "patientId": 2646,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 21,
+    "gender": "M",
+    "residence": "Kavannur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
     "patientId": 2647,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "F",
+    "residence": "Athavanadu",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172990567513195",
     "confirmedPatient": true
   },
   {
@@ -37222,73 +37279,105 @@
   {
     "patientId": 2657,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Kaippamangalam",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Damam",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3241042965963390",
     "confirmedPatient": true
   },
   {
     "patientId": 2658,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "M",
+    "residence": "Chenthrapinni",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3241042965963390",
     "confirmedPatient": true
   },
   {
     "patientId": 2659,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 58,
+    "gender": "F",
+    "residence": "Chalakkudy",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3241042965963390",
     "confirmedPatient": true
   },
   {
     "patientId": 2660,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 64,
+    "gender": "F",
+    "residence": "Melur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3241042965963390",
     "confirmedPatient": true
   },
   {
     "patientId": 2661,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Erumappetty",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3241042965963390",
     "confirmedPatient": true
   },
   {
     "patientId": 2662,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Kunnamkulam",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3241042965963390",
     "confirmedPatient": true
   },
   {
     "patientId": 2663,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Inchamudi",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3241042965963390",
     "confirmedPatient": true
   },
   {
     "patientId": 2664,
     "dateAnnounced": "2020-06-17",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Kodungallur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Hyderabad",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3241042965963390",
     "confirmedPatient": true
   },
   {
@@ -37395,6 +37484,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar to Kochi on June 7",
     "knownCluster": "Qatar",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1028900180841138",
     "confirmedPatient": true
   },
   {
@@ -37408,6 +37498,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai to Kochi on June 4",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1028900180841138",
     "confirmedPatient": true
   },
   {
@@ -37421,6 +37512,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelledf from Delhi to Kochi by air on June 15",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1028900180841138",
     "confirmedPatient": true
   },
   {
@@ -37434,6 +37526,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT from relative",
     "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1028900180841138",
     "confirmedPatient": true
   },
   {
@@ -37447,6 +37540,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait to Karipur on J9 1413 on June 11",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=3016042688509808&id=1135018129945616",
     "confirmedPatient": true
   },
   {
@@ -37460,6 +37554,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia to Karipur on AI1945 on June 10",
     "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=3016042688509808&id=1135018129945616",
     "confirmedPatient": true
   },
   {
@@ -37473,6 +37568,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai to Kochi on EK 9834 on June 10",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=3016042688509808&id=1135018129945616",
     "confirmedPatient": true
   },
   {
@@ -37486,6 +37582,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait to Kochi on  KU 1351 on June 13",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=3016042688509808&id=1135018129945616",
     "confirmedPatient": true
   },
   {
@@ -37499,6 +37596,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait to Kochi on IX 1496 on June 14",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=3016042688509808&id=1135018129945616",
     "confirmedPatient": true
   },
   {
@@ -37512,6 +37610,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait to Kochi on 6E 9324 on June 14",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=3016042688509808&id=1135018129945616",
     "confirmedPatient": true
   },
   {
@@ -37525,6 +37624,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia to Karipur on AI1946 on June 13",
     "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2574764016172457",
     "confirmedPatient": true
   },
   {
@@ -37538,6 +37638,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia to Kochi on GF7270 on June 3",
     "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2574764016172457",
     "confirmedPatient": true
   },
   {
@@ -37551,6 +37652,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi to Tvm on Vistara 897 on JUne 11",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2574764016172457",
     "confirmedPatient": true
   },
   {
