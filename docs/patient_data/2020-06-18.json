@@ -37614,6 +37614,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait to Kochi on June 12",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/prdwayanad/posts/3270483989629663",
     "confirmedPatient": true
   },
   {
@@ -37627,6 +37628,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait to Karipur on June 11",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/prdwayanad/posts/3270483989629663",
     "confirmedPatient": true
   },
   {
@@ -37640,6 +37642,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH to Kozhikode by train on June 4",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/prdwayanad/posts/3270483989629663",
     "confirmedPatient": true
   },
   {
@@ -37653,15 +37656,20 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Russia to Kochi on June 16",
     "knownCluster": "Russia",
+    "sourceURL": "https://www.facebook.com/iprdpta/posts/186435519490172",
     "confirmedPatient": true
   },
   {
     "patientId": 2697,
     "dateAnnounced": "2020-06-17",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Alappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/573861543211680",
     "confirmedPatient": true
   }
 ]
