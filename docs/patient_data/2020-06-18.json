@@ -36448,9 +36448,10 @@
     "residence": "Padiyoor",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
-    "notes": "Contract Transmission",
+    "patientStatus": "Deceased",
+    "notes": "Contract Transmission; Excise driver",
     "knownCluster": "Kannur",
+    "oeceasedOn": "2020-06-18",
     "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3044555138974659",
     "confirmedPatient": true
   },
