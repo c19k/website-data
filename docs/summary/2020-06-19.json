@@ -478,10 +478,10 @@
       "name": "Palakkad"
     },
     {
-      "confirmed": 310,
+      "confirmed": 311,
       "deaths": 2,
       "confirmedByCity": {
-        "Malappuram": 309,
+        "Malappuram": 310,
         "Palakkad": 1
       },
       "dailyConfirmedCount": [
@@ -625,10 +625,10 @@
         15,
         11,
         4,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 96,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -4040,7 +4040,7 @@
       "confirmedCumulativeAvg7d": 2505
     },
     {
-      "confirmed": 0,
+      "confirmed": 1,
       "recoveredCumulative": 1413,
       "deceasedCumulative": 21,
       "criticalCumulative": 1,
@@ -4050,7 +4050,7 @@
       "hosptilisedCumulative": 1967,
       "activeCumulative": 1358,
       "date": "2020-06-19",
-      "confirmedCumulative": 2794,
+      "confirmedCumulative": 2795,
       "confirmedAvg3d": 57,
       "confirmedCumulativeAvg3d": 2730,
       "confirmedAvg7d": 67,
@@ -4140,7 +4140,7 @@
     "female": 712,
     "male": 2038,
     "unspecified": 42,
-    "total": 2794
+    "total": 2912
   },
   "underObservation": {
     "2020-01-31": {
