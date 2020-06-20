@@ -9105,6 +9105,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled Kuwait Kochi IX 0396 on May 9, pregnant",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-18",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/556807718250396?__cft__[0]=AZXRVoGvbRBQSv_IPCXIEKu55XzWwwE5X0roJFr2oShM9MMrwY0BE9UgVBp5hV32YTgst5uZ5qtex0n-Jh8E8gNRVoYXL_mSEAF2Sn7E8ABTMUhBliwklQoEk_Q4Ua0xo1MK5TVYr76rcIWMFMdFV_vzwweIsaksl2T1yR96oF8Wzg&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
@@ -9469,6 +9470,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled Kuwait Kochi IX 0396 on May 9, P640's husband",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-18",
     "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/867000650372097?__cft__[0]=AZWjXGU07lk4Om2wn10VKDzvFW3GUzSAUZEc53XbzdUckysWWF8khBp6R68dP5nhlaKWLSSqmAfIL5U1OlRANZRGWrQNXPIOwkY2K5DzUvVvheVmfR9kyfWxuk1hH4_Zj08Wb2q0igel7y6oDo-jcGgGnmOlI9EHHNERJQJVuLoZRQ&__tn__=%2CO%2CP-R",
     "confirmedPatient": true
   },
@@ -14057,6 +14059,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai on May 21 by Train to Kochi",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-18",
     "confirmedPatient": true
   },
   {
@@ -20641,6 +20644,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Chennai",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-06-18",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661",
     "confirmedPatient": true
   },
@@ -23756,9 +23760,10 @@
     "residence": "Karuvata",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-18",
     "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html",
     "confirmedPatient": true
   },
@@ -26602,6 +26607,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait on May 28",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-18",
     "sourceURL": "https://www.manoramaonline.com/district-news/alappuzha/2020/06/08/alappuzha-covid-19.html",
     "confirmedPatient": true
   },
