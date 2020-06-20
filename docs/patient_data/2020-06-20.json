@@ -39661,46 +39661,59 @@
   {
     "patientId": 2854,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Thenkara",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/20/palakkad-covid-disease-in-family.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2855,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Choolannur",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/20/palakkad-covid-disease-in-family.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2856,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Perumatti",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/20/palakkad-covid-disease-in-family.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2857,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "M",
+    "residence": "Pattancheri",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/20/palakkad-covid-disease-in-family.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2858,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 40,
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/20/palakkad-covid-disease-in-family.html",
     "confirmedPatient": true
   },
   {
@@ -39710,6 +39723,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/20/palakkad-covid-disease-in-family.html",
     "confirmedPatient": true
   },
   {
@@ -39719,6 +39733,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/20/palakkad-covid-disease-in-family.html",
     "confirmedPatient": true
   },
   {
@@ -39728,6 +39743,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/20/palakkad-covid-disease-in-family.html",
     "confirmedPatient": true
   },
   {
@@ -39737,6 +39753,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/20/palakkad-covid-disease-in-family.html",
     "confirmedPatient": true
   },
   {
@@ -39746,6 +39763,7 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/20/palakkad-covid-disease-in-family.html",
     "confirmedPatient": true
   },
   {
@@ -40219,73 +40237,113 @@
   {
     "patientId": 2902,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "M",
+    "residence": "Vellamunda",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on June 15",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.manoramaonline.com/district-news/wayanad/2020/06/20/wayanad-four-more-covid-cases-in-district.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2903,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Ambalavayal",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore by Taxi",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.manoramaonline.com/district-news/wayanad/2020/06/20/wayanad-four-more-covid-cases-in-district.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2904,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Ambalavayal",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 17",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/wayanad/2020/06/20/wayanad-four-more-covid-cases-in-district.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2905,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Koyilandi",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "CT to Electricin in a Construction. Stayed with 4 infected near Kuppadi Post Office",
+    "knownCluster": "Sulthan Batheri",
+    "sourceURL": "https://www.manoramaonline.com/district-news/wayanad/2020/06/20/wayanad-four-more-covid-cases-in-district.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2906,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 58,
+    "gender": "M",
+    "residence": "Meencha",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra by Train",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/20/kasargod-four-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2907,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 59,
+    "gender": "M",
+    "residence": "Uduma",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra by Train",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/20/kasargod-four-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2908,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 18,
+    "gender": "M",
+    "residence": "Chemnad",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/20/kasargod-four-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2909,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Uduma",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kasargod/2020/06/20/kasargod-four-people-tested-with-covid-19.html",
     "confirmedPatient": true
   },
   {
