@@ -11829,6 +11829,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai on May 22, father, mother, son",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=559670201297481&id=173744753223363",
     "confirmedPatient": true
   },
@@ -19141,6 +19142,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-17",
     "confirmedPatient": true
   },
   {
@@ -20574,6 +20576,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-06-18",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/565331734064661",
     "confirmedPatient": true
   },
@@ -21799,6 +21802,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait to Kozhikode on 28",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
@@ -21827,6 +21831,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait on 26 May",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
@@ -21855,6 +21860,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai on May 27",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/story.php?story_fbid=565959527335215&id=173744753223363",
     "confirmedPatient": true
   },
@@ -23778,6 +23784,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html",
     "confirmedPatient": true
   },
@@ -23792,6 +23799,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Dubai on May 22",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html",
     "confirmedPatient": true
   },
@@ -26622,6 +26630,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Tajikisthan to Kannur on May 28",
     "knownCluster": "Tajiksithan",
+    "releasedOn": "2020-06-18",
     "sourceURL": "https://www.manoramaonline.com/district-news/alappuzha/2020/06/08/alappuzha-covid-19.html",
     "confirmedPatient": true
   },
@@ -26633,9 +26642,10 @@
     "residence": "Kayamkulam",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai to Tvm on May 29",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-18",
     "sourceURL": "https://www.manoramaonline.com/district-news/alappuzha/2020/06/08/alappuzha-covid-19.html",
     "confirmedPatient": true
   },
@@ -26647,9 +26657,10 @@
     "residence": "Mannar",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai to Tvm on May 29",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-18",
     "sourceURL": "https://www.manoramaonline.com/district-news/alappuzha/2020/06/08/alappuzha-covid-19.html",
     "confirmedPatient": true
   },
