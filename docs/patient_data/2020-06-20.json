@@ -40635,19 +40635,29 @@
   {
     "patientId": 2910,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 17,
+    "gender": "M",
+    "residence": "Nedumkandom",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/collectoridukki/posts/964257397341659",
     "confirmedPatient": true
   },
   {
     "patientId": 2911,
     "dateAnnounced": "2020-06-19",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Kattappana",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Madurai",
+    "knownCluster": "Madurai",
+    "sourceURL": "https://www.facebook.com/collectoridukki/posts/964257397341659",
     "confirmedPatient": true
   },
   {
