@@ -9773,6 +9773,7 @@
     "patientStatus": "Discharged",
     "notes": "Traveleld from Chennai; youth",
     "knownCluster": "Chennai",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/558023728128795",
     "confirmedPatient": true
   },
@@ -11098,6 +11099,7 @@
     "notes": "Contact Transmission; P687's mom",
     "knownCluster": "Chengannur",
     "dhsPatientNumber": "687",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/559133884684446",
     "confirmedPatient": true
   },
@@ -18750,12 +18752,13 @@
     "dateAnnounced": "2020-06-01",
     "ageBracket": -1,
     "gender": "F",
-    "residence": "Neelamperur",
+    "residence": "Neelamperoor",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Delhi on May 22",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/564123190852182",
     "confirmedPatient": true
   },
@@ -19051,6 +19054,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from MH",
     "knownCluster": "Maharashtra",
+    "releasedOn": "2020-06-17",
     "confirmedPatient": true
   },
   {
