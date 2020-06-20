@@ -20362,7 +20362,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait",
     "knownCluster": "Kuwait",
-    "releasedOn": "2020-06-13",
+    "releasedOn": "2020-06-12",
     "sourceURL": "https://www.facebook.com/collectoridukki/posts/952886951812037",
     "confirmedPatient": true
   },
@@ -20377,7 +20377,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait",
     "knownCluster": "Kuwait",
-    "releasedOn": "2020-06-13",
+    "releasedOn": "2020-06-12",
     "sourceURL": "https://www.facebook.com/collectoridukki/posts/952886951812037",
     "confirmedPatient": true
   },
@@ -20406,7 +20406,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait",
     "knownCluster": "Kuwait",
-    "releasedOn": "2020-06-13",
+    "releasedOn": "2020-06-12",
     "sourceURL": "https://www.facebook.com/collectoridukki/posts/952886951812037",
     "confirmedPatient": true
   },
@@ -20421,7 +20421,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait",
     "knownCluster": "Kuwait",
-    "releasedOn": "2020-06-13",
+    "releasedOn": "2020-06-12",
     "sourceURL": "https://www.facebook.com/collectoridukki/posts/952886951812037",
     "confirmedPatient": true
   },
@@ -20436,7 +20436,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait",
     "knownCluster": "Kuwait",
-    "releasedOn": "2020-06-12",
+    "releasedOn": "2020-06-11",
     "sourceURL": "https://www.facebook.com/collectoridukki/posts/952886951812037",
     "confirmedPatient": true
   },
@@ -23903,9 +23903,10 @@
     "residence": "Thodupuzha",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Delhi on May 22",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-06-13",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588209418768488&id=230880581168042",
     "confirmedPatient": true
   },
