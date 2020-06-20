@@ -1,5 +1,5 @@
 {
-  "updated": "2020-06-20 16:49",
+  "updated": "2020-06-20 18:23",
   "prefectures": [
     {
       "confirmed": 395,
@@ -1749,7 +1749,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 5,
-      "recovered": 111,
+      "recovered": 113,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -4073,15 +4073,15 @@
     },
     {
       "confirmed": 127,
-      "recoveredCumulative": 1509,
+      "recoveredCumulative": 1566,
       "deceasedCumulative": 21,
       "criticalCumulative": 1,
-      "testedCumulative": 188580,
-      "observationCumulative": 132569,
-      "homeObservationCumulative": 130655,
-      "hosptilisedCumulative": 2032,
-      "activeCumulative": 1507,
-      "status": "Reviewing",
+      "testedCumulative": 178559,
+      "observationCumulative": 139342,
+      "homeObservationCumulative": 137306,
+      "hosptilisedCumulative": 2036,
+      "activeCumulative": 1450,
+      "status": "Finalised",
       "date": "2020-06-20",
       "confirmedCumulative": 3039,
       "confirmedAvg3d": 114,
