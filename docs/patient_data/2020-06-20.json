@@ -15484,9 +15484,10 @@
     "residence": "Vannappuram",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Delhi on May 22",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-06-14",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=582534912669272&id=230880581168042",
     "confirmedPatient": true
   },
@@ -25431,9 +25432,10 @@
     "residence": "Thodupuzha",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Ireland",
     "knownCluster": "Ireland",
+    "releasedOn": "2020-06-14",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=588943062028457&id=230880581168042",
     "confirmedPatient": true
   },
