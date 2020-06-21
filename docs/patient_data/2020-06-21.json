@@ -13842,9 +13842,10 @@
     "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-16",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=175442720592231&id=100507158085788",
     "confirmedPatient": true
   },
@@ -14561,9 +14562,10 @@
     "residence": "Kumbala",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Doha on May 19",
     "knownCluster": "Doha",
+    "releasedOn": "2020-06-15",
     "sourceURL": "https://m.facebook.com/story.php?story_fbid=175719227231247&id=100507158085788",
     "confirmedPatient": true
   },
