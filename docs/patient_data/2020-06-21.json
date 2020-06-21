@@ -19565,9 +19565,10 @@
     "residence": "Panachikkad Kuzhimattom",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait on May 26",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/diokottayam/posts/1167455633611063",
     "confirmedPatient": true
   },
@@ -19579,9 +19580,10 @@
     "residence": "Manjoor",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait on May 26",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/diokottayam/posts/1167455633611063",
     "confirmedPatient": true
   },
@@ -19635,9 +19637,10 @@
     "residence": "Edayirikkappuzha",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-12",
     "sourceURL": "https://www.facebook.com/diokottayam/posts/1167455633611063",
     "confirmedPatient": true
   },
@@ -21177,9 +21180,10 @@
     "residence": "Dharmadom",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-10",
     "sourceURL": "https://kannurvarthakal.in/03/06/2020/35372/#.XtfId7wzbIU",
     "confirmedPatient": true
   },
@@ -30559,9 +30563,10 @@
     "residence": "Ponkunnam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi on May 31",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-06-18",
     "sourceURL": "https://www.facebook.com/diokottayam/posts/1173963686293591",
     "confirmedPatient": true
   },
@@ -41120,6 +41125,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41131,6 +41139,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41142,6 +41153,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41153,6 +41167,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41164,6 +41181,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41175,6 +41195,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41186,6 +41209,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41197,6 +41223,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Rajasthan",
+    "knownCluster": "Rajasthan",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41208,6 +41237,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41219,6 +41251,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Karnataka",
+    "knownCluster": "Karnataka",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41230,6 +41265,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Karnataka",
+    "knownCluster": "Karnataka",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41241,6 +41279,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN",
+    "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41252,6 +41293,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN",
+    "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41263,6 +41307,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN",
+    "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41274,6 +41321,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN",
+    "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41285,6 +41335,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN",
+    "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41296,6 +41349,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain",
+    "knownCluster": "Bahrain",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41307,6 +41363,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41318,6 +41377,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41329,6 +41391,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41340,6 +41405,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41351,6 +41419,9 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -41362,12 +41433,17 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/21/palakkad-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2936,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "F",
+    "residence": "Kumbazha",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41376,7 +41452,9 @@
   {
     "patientId": 2937,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Ayiroor",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41385,7 +41463,9 @@
   {
     "patientId": 2938,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 14,
+    "gender": "F",
+    "residence": "Ayiroor",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41394,7 +41474,9 @@
   {
     "patientId": 2939,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Chenneerkkara",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41403,7 +41485,9 @@
   {
     "patientId": 2940,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "F",
+    "residence": "Chenneerkkara",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41412,7 +41496,9 @@
   {
     "patientId": 2941,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Mailapra",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41421,7 +41507,9 @@
   {
     "patientId": 2942,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 53,
+    "gender": "M",
+    "residence": "Peringara",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41430,7 +41518,9 @@
   {
     "patientId": 2943,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Othara West",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41439,7 +41529,9 @@
   {
     "patientId": 2944,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "M",
+    "residence": "Koodal",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41448,7 +41540,9 @@
   {
     "patientId": 2945,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Churulikkod",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41457,7 +41551,9 @@
   {
     "patientId": 2946,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Vakayar",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41466,7 +41562,9 @@
   {
     "patientId": 2947,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Kaviyoor",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41475,7 +41573,9 @@
   {
     "patientId": 2948,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Kallooppara",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41484,7 +41584,9 @@
   {
     "patientId": 2949,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Othara West",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41493,7 +41595,9 @@
   {
     "patientId": 2950,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Vettipram",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41502,7 +41606,9 @@
   {
     "patientId": 2951,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Thadiyoor",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
@@ -41511,7 +41617,9 @@
   {
     "patientId": 2952,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Kulanada",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
