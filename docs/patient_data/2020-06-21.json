@@ -41876,61 +41876,19 @@
   {
     "patientId": 2965,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": 52,
-    "gender": "F",
-    "residence": "Mayyanad",
-    "detectedCityTown": "Kollam",
-    "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
-    "notes": "Unknown Contact Transmission",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 2966,
-    "dateAnnounced": "2020-06-20",
-    "ageBracket": 34,
-    "gender": "F",
-    "residence": "Chadayamangalam",
-    "detectedCityTown": "Kollam",
-    "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 2967,
-    "dateAnnounced": "2020-06-20",
-    "ageBracket": 3,
-    "gender": "M",
-    "residence": "Chadayamangalam",
-    "detectedCityTown": "Kollam",
-    "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 2968,
-    "dateAnnounced": "2020-06-20",
-    "ageBracket": 35,
-    "gender": "F",
-    "residence": "Karunagappalli",
-    "detectedCityTown": "Kollam",
-    "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 2969,
-    "dateAnnounced": "2020-06-20",
     "ageBracket": 39,
     "gender": "M",
     "residence": "Chavara",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission from Husband travelled from Chennai",
+    "districtPatientNumber": "Kollam P 199",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 2970,
+    "patientId": 2966,
     "dateAnnounced": "2020-06-20",
     "ageBracket": 40,
     "gender": "M",
@@ -41938,10 +41896,12 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 200",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 2971,
+    "patientId": 2967,
     "dateAnnounced": "2020-06-20",
     "ageBracket": 33,
     "gender": "M",
@@ -41949,10 +41909,12 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 201",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 2972,
+    "patientId": 2968,
     "dateAnnounced": "2020-06-20",
     "ageBracket": 27,
     "gender": "M",
@@ -41960,10 +41922,12 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 202",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 2973,
+    "patientId": 2969,
     "dateAnnounced": "2020-06-20",
     "ageBracket": 52,
     "gender": "F",
@@ -41971,10 +41935,12 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 203",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 2974,
+    "patientId": 2970,
     "dateAnnounced": "2020-06-20",
     "ageBracket": 38,
     "gender": "M",
@@ -41982,10 +41948,12 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 204",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 2975,
+    "patientId": 2971,
     "dateAnnounced": "2020-06-20",
     "ageBracket": 25,
     "gender": "M",
@@ -41993,10 +41961,12 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 205",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 2976,
+    "patientId": 2972,
     "dateAnnounced": "2020-06-20",
     "ageBracket": 60,
     "gender": "M",
@@ -42004,21 +41974,25 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 206",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 2977,
+    "patientId": 2973,
     "dateAnnounced": "2020-06-20",
     "ageBracket": 24,
     "gender": "M",
-    "residence": "Perinad",
+    "residence": "Perinad Panayam",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 207",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 2978,
+    "patientId": 2974,
     "dateAnnounced": "2020-06-20",
     "ageBracket": 31,
     "gender": "M",
@@ -42026,6 +42000,60 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 208",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 2975,
+    "dateAnnounced": "2020-06-20",
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Nallila",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 209",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 2976,
+    "dateAnnounced": "2020-06-20",
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": " Pattazhi",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 210",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 2977,
+    "dateAnnounced": "2020-06-20",
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Njaarackal",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 211",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 2978,
+    "dateAnnounced": "2020-06-20",
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Chavara",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 212",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -42037,6 +42065,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 213",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -42048,6 +42078,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 214",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -42059,6 +42091,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 215",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -42070,6 +42104,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 216",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -42081,6 +42117,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 217",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -42092,6 +42130,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 218",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -42103,6 +42143,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 219",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -42114,17 +42156,22 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 220",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 2987,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": 28,
-    "gender": "M",
-    "residence": "Pavithreswaram",
+    "ageBracket": 52,
+    "gender": "F",
+    "residence": "Mayyanad",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission from Husband travelled from Chennai",
+    "districtPatientNumber": "Kollam P 221",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -42136,6 +42183,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 222",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1634370900048449?__xts__%5B0%5D=68.ARCmWFrtiPI4zUalu7ProjIDZbuq0LMoAkpv5igRCvO3smTIgeQe9uMLipF8Iz7FwoBwh8SUyKIboWhVx_zgIWF4Pm3yIPmRh-BFcUJsCiRRg8opgPpZ25bmbXhcfR8qUDt2aCxfJiycomNMaKpt6dteqElYXXTCxMWUjuDPuGmVTD0RNEWyLyqWq9822evictKeqFCaA0vbxFMmSJP4JkMLUIdjSf3LI1oARTajw62a8SlpC0QyVRSAhJ4ri-r8QaOS-oqDNT1Uu1MHnH9Ga2-JG5nNCG_BLW4s6N0SFcuwTS0dNjY6uA8Xcq6WK1B-Mrut0llU0EbZfWXdPupn8GwxdA&__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -42147,6 +42196,9 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on June 16",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
     "confirmedPatient": true
   },
   {
@@ -42158,6 +42210,9 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on June 16",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
     "confirmedPatient": true
   },
   {
@@ -42169,21 +42224,13 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh on June 8 with Caretaker",
+    "knownCluster": "Riyadh",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
     "confirmedPatient": true
   },
   {
     "patientId": 2992,
-    "dateAnnounced": "2020-06-20",
-    "ageBracket": 51,
-    "gender": "M",
-    "residence": "Erattiupetta",
-    "detectedCityTown": "Kottayam",
-    "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 2993,
     "dateAnnounced": "2020-06-20",
     "ageBracket": 6,
     "gender": "F",
@@ -42191,60 +42238,107 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh on June 8 with Caretaker",
+    "knownCluster": "Riyadh",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 2993,
+    "dateAnnounced": "2020-06-20",
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Erattiupetta",
+    "detectedCityTown": "Kottayam",
+    "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
     "confirmedPatient": true
   },
   {
     "patientId": 2994,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Manimala",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh on June 13",
+    "knownCluster": "Riyadh",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
     "confirmedPatient": true
   },
   {
     "patientId": 2995,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Karikattoor",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 9",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
     "confirmedPatient": true
   },
   {
     "patientId": 2996,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Karukachal",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 14",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
     "confirmedPatient": true
   },
   {
     "patientId": 2997,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "M",
+    "residence": "Karukachal",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on May 29",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
     "confirmedPatient": true
   },
   {
     "patientId": 2998,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Erumeli",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 12",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
     "confirmedPatient": true
   },
   {
     "patientId": 2999,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Neendoor",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on June 9",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/?ref=search&__tn__=%2Cd%2CP-R&eid=ARBZLz3MWH9WZARoYL18CHFeBl1-medkl3B0wTCebCmpMwU5riT76EU3QYLjfvVkdsHsUi1z8qq6V0vO",
     "confirmedPatient": true
   },
   {
