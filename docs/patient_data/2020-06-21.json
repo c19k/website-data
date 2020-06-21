@@ -42447,64 +42447,99 @@
   {
     "patientId": 3021,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Payyannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kannur on J9 1415",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/21/kannur-covid-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 3022,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "F",
+    "residence": "Eramamkuttur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kannur on G8 7082",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/21/kannur-covid-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 3023,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Madayi",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain to Karipur on June 6",
+    "knownCluster": "Bahrain",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/21/kannur-covid-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 3024,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "F",
+    "residence": "Payyannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jamnagar to Kannur via Hyderabad via Kochi",
+    "knownCluster": "Gujarat",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/21/kannur-covid-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 3025,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Thammanam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Djibouti to Kochi on June 5",
+    "knownCluster": "Djibouti",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/20/ernakulam-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 3026,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Thammanam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/20/ernakulam-covid-19.html",
     "confirmedPatient": true
   },
   {
     "patientId": 3027,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Vengola",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT from P",
+    "knownCluster": "Vengola",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/20/ernakulam-covid-19.html",
     "confirmedPatient": true
   },
   {
@@ -42516,6 +42551,9 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/21/thrissur-yesterday-6-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -42527,6 +42565,9 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 15",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/21/thrissur-yesterday-6-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -42538,6 +42579,9 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/21/thrissur-yesterday-6-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -42549,6 +42593,9 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah on June 13",
+    "knownCluster": "Jeddah",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/21/thrissur-yesterday-6-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -42560,6 +42607,9 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from MP on June 8",
+    "knownCluster": "Madhya Pradesh",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/21/thrissur-yesterday-6-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -42571,6 +42621,9 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UP on June 17",
+    "knownCluster": "Uttar Pradesh",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thrissur/2020/06/21/thrissur-yesterday-6-more-covid.html",
     "confirmedPatient": true
   },
   {
