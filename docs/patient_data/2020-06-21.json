@@ -9658,9 +9658,10 @@
     "residence": "Thrikkodithanam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled Dubai Kochi on IX 0434 on 11 May 2020",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-19",
     "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2600257376853155",
     "confirmedPatient": true
   },
@@ -41864,7 +41865,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "Unknown sources",
+    "notes": "Unknown Contact Transmission",
     "confirmedPatient": true
   },
   {
@@ -42509,7 +42510,9 @@
   {
     "patientId": 3028,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Eranelloor",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
@@ -42518,7 +42521,9 @@
   {
     "patientId": 3029,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Thalikkulam",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
@@ -42527,7 +42532,9 @@
   {
     "patientId": 3030,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Nadavarambu",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
@@ -42536,7 +42543,9 @@
   {
     "patientId": 3031,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "Madayikkonam",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
@@ -42545,7 +42554,9 @@
   {
     "patientId": 3032,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "F",
+    "residence": "Chelakkottukara",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
@@ -42554,7 +42565,9 @@
   {
     "patientId": 3033,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "M",
+    "residence": "Chetupuzha",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
@@ -42634,9 +42647,14 @@
     "patientId": 3039,
     "dateAnnounced": "2020-06-20",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kattappana",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "CT to driver in a vegetable shopt",
+    "knownCluster": "Idukki",
+    "sourceURL": "https://www.manoramaonline.com/district-news/idukki/2020/06/21/idukki-kattapana-market-driver-tested-with-covid-19.html",
     "confirmedPatient": true
   }
 ]
