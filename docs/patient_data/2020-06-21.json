@@ -10377,9 +10377,10 @@
     "residence": "Vellavur",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai on May 19",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-09",
     "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
@@ -10391,9 +10392,10 @@
     "residence": "Melukav",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi Kochi May 18 IX 0452",
     "knownCluster": "Abu Dabhi",
+    "releasedOn": "2020-06-09",
     "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/22/covid-19-corona-virus-cases-increases-in-kerala.html",
     "confirmedPatient": true
   },
@@ -15494,9 +15496,10 @@
     "residence": "Changanassery",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dammam on May 12",
     "knownCluster": "Dammam",
+    "releasedOn": "2020-06-07",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=2964936493620428&id=1135018129945616&substory_index=0",
     "confirmedPatient": true
   },
@@ -33396,9 +33399,10 @@
     "residence": "Onchiyam",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Russia on May 20",
     "knownCluster": "Russia",
+    "releasedOn": "2020-06-19",
     "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/14/kozhikode-covid-for-12-people.html",
     "confirmedPatient": true
   },
@@ -41447,6 +41451,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "CT to Staff Nurse at Covid Care hospital",
+    "knownCluster": "Pathanamthitta",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41458,6 +41465,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 14",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41469,6 +41479,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 14",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41480,6 +41493,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 10",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41491,6 +41507,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 10",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41502,6 +41521,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 7",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41513,6 +41535,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 8",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41524,6 +41549,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia on June 15",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41535,6 +41563,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia on June 15",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41546,6 +41577,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 14",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41557,6 +41591,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41568,6 +41605,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 12",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41579,6 +41619,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41590,6 +41633,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41601,6 +41647,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 5",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41612,6 +41661,9 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE on May 26",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.manoramaonline.com/district-news/pathanamthitta/2020/06/20/pathanamthitta-yesterday-seventeen-more-covid.html",
     "confirmedPatient": true
   },
   {
@@ -41623,114 +41675,174 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UPt on June 6",
+    "knownCluster": "Uttar Pradesh",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2953,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "F",
+    "residence": "Atholi",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2954,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 11,
+    "residence": "Atholi",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2955,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 6,
+    "residence": "Atholi",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2956,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 2,
+    "residence": "Atholi",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2957,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Panangad",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on Train on June 19",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2958,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "F",
+    "residence": "Panangad",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on Train on June 19",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2959,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Meppayur",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi to Kochi by air on June 9",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2960,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "M",
+    "residence": "Onchiyam",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on June 15 to Kannur",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2961,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Thalakkulathur",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 12 to Kannur",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2962,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Azhiyoor",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on June 9 to Kannur",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2963,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Nanmanda",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 9 to Kannur",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
     "patientId": 2964,
     "dateAnnounced": "2020-06-20",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Eramala",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha on June 9 to Kannur",
+    "knownCluster": "Doha",
+    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/06/21/kozhikode-covidvirus-case.html",
     "confirmedPatient": true
   },
   {
