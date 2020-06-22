@@ -18090,7 +18090,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai on May 27 by Air Asia flight 5325",
     "knownCluster": "Mumbai",
-    "releasedOn": "2020-06-06",
+    "releasedOn": "2020-06-21",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1016265058771317",
     "confirmedPatient": true
   },
@@ -32493,9 +32493,10 @@
     "residence": "Koothattukulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait on May 27",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-21",
     "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/12/ernakulam-covid-case.html",
     "confirmedPatient": true
   },
@@ -33925,9 +33926,10 @@
     "residence": "Maharashtra",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Nigeria",
     "knownCluster": "Lagos",
+    "releasedOn": "2020-06-21",
     "sourceURL": "https://www.facebook.com/dioekm/posts/1611855915643055",
     "confirmedPatient": true
   },
@@ -34234,9 +34236,10 @@
     "residence": "Puthanvelikkara",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-06-21",
     "sourceURL": "https://epaper.deshabhimani.com/c/52744531",
     "confirmedPatient": true
   },
@@ -34966,9 +34969,10 @@
     "residence": "Puthanvelikkara",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-21",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1027407290990427",
     "confirmedPatient": true
   },
@@ -35022,9 +35026,10 @@
     "residence": "Kadavur",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-21",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1027407290990427",
     "confirmedPatient": true
   },
@@ -36356,9 +36361,10 @@
     "residence": "Thrikkakara",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
+    "releasedOn": "2020-06-22",
     "sourceURL": "https://www.facebook.com/dioekm/posts/1614264815402165",
     "confirmedPatient": true
   },
@@ -45058,6 +45064,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Pune to Kochi on June 18",
     "knownCluster": "Pune",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45071,6 +45078,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai by Road on June 16",
     "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45084,6 +45092,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mozcow to Kannur on June 1",
     "knownCluster": "Moscow",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45097,6 +45106,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait  to Kochi on June 16",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45110,6 +45120,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait  to Kochi on June 12",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45123,6 +45134,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscat  to Kochi on June 20",
     "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45136,6 +45148,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar to Kochi on June 12",
     "knownCluster": "Qatar",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45149,6 +45162,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar to Kochi on June 12",
     "knownCluster": "Qatar",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45162,6 +45176,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra by train on June 12",
     "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45175,6 +45190,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi by train on June 11",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45187,6 +45203,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi by train on June 11",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45199,6 +45216,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi by train on June 11",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45212,6 +45230,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi by train on June 11",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -45225,6 +45244,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait  to Kochi on June 11",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1032660413798448?__tn__=K-R",
     "confirmedPatient": true
   },
   {
