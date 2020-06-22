@@ -22543,9 +22543,10 @@
     "residence": "Maharashtra",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Merchany navy",
     "knownCluster": "Unspecified",
+    "releasedOn": "2020-06-21",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1019238315140658",
     "confirmedPatient": true
   },
@@ -28387,9 +28388,10 @@
     "residence": "Ankamali",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Abu Dhabi on June 1",
     "knownCluster": "Abu Dhabi",
+    "releasedOn": "2020-06-21",
     "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/06/08/ernakulam-covid-19-new-cases.html",
     "confirmedPatient": true
   },
@@ -45054,6 +45056,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Pune to Kochi on June 18",
+    "knownCluster": "Pune",
     "confirmedPatient": true
   },
   {
@@ -45065,6 +45069,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai by Road on June 16",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
@@ -45076,6 +45082,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mozcow to Kannur on June 1",
+    "knownCluster": "Moscow",
     "confirmedPatient": true
   },
   {
@@ -45087,6 +45095,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait  to Kochi on June 16",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -45098,6 +45108,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait  to Kochi on June 12",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -45109,6 +45121,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat  to Kochi on June 20",
+    "knownCluster": "Muscat",
     "confirmedPatient": true
   },
   {
@@ -45120,6 +45134,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar to Kochi on June 12",
+    "knownCluster": "Qatar",
     "confirmedPatient": true
   },
   {
@@ -45131,6 +45147,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar to Kochi on June 12",
+    "knownCluster": "Qatar",
     "confirmedPatient": true
   },
   {
@@ -45142,6 +45160,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra by train on June 12",
+    "knownCluster": "Maharashtra",
     "confirmedPatient": true
   },
   {
@@ -45153,6 +45173,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi by train on June 11",
+    "knownCluster": "Delhi",
     "confirmedPatient": true
   },
   {
@@ -45163,6 +45185,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi by train on June 11",
+    "knownCluster": "Delhi",
     "confirmedPatient": true
   },
   {
@@ -45173,6 +45197,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi by train on June 11",
+    "knownCluster": "Delhi",
     "confirmedPatient": true
   },
   {
@@ -45184,6 +45210,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi by train on June 11",
+    "knownCluster": "Delhi",
     "confirmedPatient": true
   },
   {
@@ -45195,6 +45223,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait  to Kochi on June 11",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
