@@ -4145,6 +4145,7 @@
       "homeObservationCumulative": 137475,
       "hosptilisedCumulative": 2050,
       "activeCumulative": 1490,
+      "status": "Reviewing",
       "date": "2020-06-22",
       "confirmedCumulative": 3172,
       "confirmedAvg3d": 86,
@@ -4157,9 +4158,9 @@
     {
       "ageGroup": "<10",
       "female": 59,
-      "male": 56,
+      "male": 57,
       "unspecified": 7,
-      "total": 122
+      "total": 123
     },
     {
       "ageGroup": "10-19",
@@ -4185,23 +4186,23 @@
     {
       "ageGroup": "40-49",
       "female": 105,
-      "male": 448,
+      "male": 450,
       "unspecified": 0,
-      "total": 553
+      "total": 555
     },
     {
       "ageGroup": "50-59",
       "female": 89,
-      "male": 299,
+      "male": 300,
       "unspecified": 2,
-      "total": 391
+      "total": 392
     },
     {
       "ageGroup": "60-69",
-      "female": 38,
+      "female": 39,
       "male": 127,
       "unspecified": 0,
-      "total": 165
+      "total": 166
     },
     {
       "ageGroup": "70-79",
@@ -4228,15 +4229,15 @@
       "ageGroup": "Unspecified",
       "female": 58,
       "male": 160,
-      "unspecified": 30,
-      "total": 248
+      "unspecified": 128,
+      "total": 346
     }
   ],
   "gender": {
-    "female": 791,
-    "male": 2332,
-    "unspecified": 47,
-    "total": 3172
+    "female": 792,
+    "male": 2336,
+    "unspecified": 145,
+    "total": 3275
   },
   "underObservation": {
     "2020-01-31": {
