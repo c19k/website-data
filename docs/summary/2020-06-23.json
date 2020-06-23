@@ -815,7 +815,7 @@
     },
     {
       "confirmed": 248,
-      "deaths": 1,
+      "deaths": 2,
       "confirmedByCity": {
         "Kollam": 244,
         "Unspecified": 4
@@ -4170,13 +4170,14 @@
     {
       "confirmed": 0,
       "recoveredCumulative": 1747,
-      "deceasedCumulative": 21,
+      "deceasedCumulative": 22,
       "criticalCumulative": 1,
       "testedCumulative": 185903,
       "observationCumulative": 147351,
       "homeObservationCumulative": 145225,
       "hosptilisedCumulative": 2126,
-      "activeCumulative": 1540,
+      "activeCumulative": -1771,
+      "status": "Reviewing",
       "date": "2020-06-23",
       "confirmedCumulative": 3310,
       "confirmedAvg3d": 90,
@@ -4260,15 +4261,15 @@
       "ageGroup": "Unspecified",
       "female": 62,
       "male": 165,
-      "unspecified": 58,
-      "total": 285
+      "unspecified": 182,
+      "total": 409
     }
   ],
   "gender": {
     "female": 817,
     "male": 2414,
-    "unspecified": 77,
-    "total": 3310
+    "unspecified": 201,
+    "total": 3434
   },
   "underObservation": {
     "2020-01-31": {
