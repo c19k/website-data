@@ -46017,6 +46017,8 @@
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai to Kozhikode on June 15",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
@@ -46028,33 +46030,47 @@
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kozhikode on June 5",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3297,
     "dateAnnounced": "2020-06-22",
-    "ageBracket": -1,
+    "ageBracket": 53,
+    "gender": "M",
+    "residence": "Chulliyod",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi to Kozhikode on June 15",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
     "patientId": 3298,
     "dateAnnounced": "2020-06-22",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Chulliyod",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on June 13",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3299,
     "dateAnnounced": "2020-06-22",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Vellamunda",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia to Kochi on June 19",
+    "knownCluster": "Saudi Arabia",
     "confirmedPatient": true
   },
   {
