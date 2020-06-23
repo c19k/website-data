@@ -15002,6 +15002,7 @@
     "patientStatus": "Deceased",
     "notes": "Travelled from Mumbai on May 21",
     "knownCluster": "Mumbai",
+    "oeceasedOn": "2020-06-06",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/167518134727105 https://english.manoramaonline.com/news/kerala/2020/06/06/covid-19-death-malappuram-native-manjeri-medical-college.html",
     "confirmedPatient": true
   },
@@ -17108,7 +17109,7 @@
   {
     "patientId": 1199,
     "dateAnnounced": "2020-05-30",
-    "ageBracket": 38,
+    "ageBracket": 39,
     "gender": "M",
     "residence": "Chengannur",
     "detectedCityTown": "Alappuzha",
@@ -17116,6 +17117,7 @@
     "patientStatus": "Deceased",
     "notes": "Travelled Abu Dhabi Kozhikode on May 27",
     "knownCluster": "Abu Dhabi",
+    "oeceasedOn": "2020-06-29",
     "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/05/29/one-more-covid-death-in-kerala.html",
     "confirmedPatient": true
   },
@@ -19490,6 +19492,7 @@
     "patientStatus": "Deceased",
     "notes": "Contact transmission",
     "knownCluster": "Thiruvananthapuram",
+    "oeceasedOn": "2020-06-02",
     "sourceURL": "https://epaper.deshabhimani.com/c/52455911",
     "confirmedPatient": true
   },
@@ -29990,9 +29993,11 @@
     "dateAnnounced": "2020-06-10",
     "ageBracket": 87,
     "gender": "M",
+    "residence": "Engandiyur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Deceased",
+    "notes": "Contact Transmission",
     "knownCluster": "Thrissur",
     "oeceasedOn": "2020-06-07",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3222561467811540",
@@ -30501,6 +30506,7 @@
     "patientStatus": "Deceased",
     "notes": "Travelled from Muscat on May 22 to Kannur on IX 714",
     "knownCluster": "Muscat",
+    "oeceasedOn": "2020-06-10",
     "sourceURL": "https://www.facebook.com/InformationOfficeKannur/posts/2592905767636334 https://english.mathrubhumi.com/news/kerala/kannur-man-dies-of-covid-19-death-toll-in-state-hits-18-1.4822047",
     "confirmedPatient": true
   },
@@ -32844,6 +32850,7 @@
     "patientStatus": "Deceased",
     "notes": "Travelled from Mumbai on June 9",
     "knownCluster": "Mumbai",
+    "oeceasedOn": "2020-06-11",
     "sourceURL": "https://www.manoramaonline.com/district-news/kannur/2020/06/13/kannur-covid-case.html",
     "confirmedPatient": true
   },
