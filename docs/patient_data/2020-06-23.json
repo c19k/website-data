@@ -47882,10 +47882,14 @@
   {
     "patientId": 3449,
     "dateAnnounced": "2020-06-23",
-    "ageBracket": -1,
+    "ageBracket": 68,
+    "gender": "M",
+    "residence": "Mayyanad",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
+    "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "confirmedPatient": true
   },
   {
