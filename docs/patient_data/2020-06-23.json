@@ -47718,6 +47718,8 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat to Karipur on OV 1414 on June 19",
+    "knownCluster": "Muscat",
     "confirmedPatient": true
   },
   {
@@ -47729,6 +47731,8 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore June 20",
+    "knownCluster": "Bangalore",
     "confirmedPatient": true
   },
   {
@@ -47740,6 +47744,8 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat to Karipur on OV 1491 on June 19",
+    "knownCluster": "Muscat",
     "confirmedPatient": true
   },
   {
@@ -47751,6 +47757,8 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on Tempo Traveller on June 19",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
@@ -47762,15 +47770,21 @@
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "CT to Airport Staff from Colleagure",
+    "knownCluster": "Malappuram",
     "confirmedPatient": true
   },
   {
     "patientId": 3435,
     "dateAnnounced": "2020-06-23",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "M",
+    "residence": "Kizhakoth",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi to Karipur on FZ 8745 on June 17",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
