@@ -46011,7 +46011,9 @@
   {
     "patientId": 3295,
     "dateAnnounced": "2020-06-22",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Chulliyod",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
@@ -46020,7 +46022,9 @@
   {
     "patientId": 3296,
     "dateAnnounced": "2020-06-22",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Ambalavayal",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
