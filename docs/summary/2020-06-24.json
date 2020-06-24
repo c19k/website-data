@@ -1803,7 +1803,8 @@
       "confirmed": 170,
       "deaths": 1,
       "confirmedByCity": {
-        "Kottayam": 170
+        "Kottayam": 169,
+        "Ernakulam": 1
       },
       "dailyConfirmedCount": [
         0,
@@ -4221,44 +4222,44 @@
     {
       "ageGroup": "<10",
       "female": 61,
-      "male": 61,
+      "male": 62,
       "unspecified": 11,
-      "total": 133
+      "total": 134
     },
     {
       "ageGroup": "10-19",
-      "female": 57,
+      "female": 58,
       "male": 82,
       "unspecified": 1,
-      "total": 140
+      "total": 141
     },
     {
       "ageGroup": "20-29",
       "female": 231,
-      "male": 586,
+      "male": 587,
       "unspecified": 4,
-      "total": 822
+      "total": 823
     },
     {
       "ageGroup": "30-39",
       "female": 144,
-      "male": 604,
+      "male": 606,
       "unspecified": 1,
-      "total": 749
+      "total": 751
     },
     {
       "ageGroup": "40-49",
-      "female": 108,
-      "male": 472,
+      "female": 109,
+      "male": 473,
       "unspecified": 0,
-      "total": 580
+      "total": 582
     },
     {
       "ageGroup": "50-59",
       "female": 95,
-      "male": 316,
+      "male": 317,
       "unspecified": 2,
-      "total": 414
+      "total": 415
     },
     {
       "ageGroup": "60-69",
@@ -4292,14 +4293,14 @@
       "ageGroup": "Unspecified",
       "female": 62,
       "male": 165,
-      "unspecified": 159,
-      "total": 386
+      "unspecified": 151,
+      "total": 378
     }
   ],
   "gender": {
-    "female": 824,
-    "male": 2445,
-    "unspecified": 180,
+    "female": 826,
+    "male": 2451,
+    "unspecified": 172,
     "total": 3451
   },
   "underObservation": {

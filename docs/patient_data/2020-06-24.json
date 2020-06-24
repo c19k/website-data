@@ -47545,6 +47545,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47554,6 +47555,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47563,6 +47565,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47572,6 +47575,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47581,6 +47585,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47590,6 +47595,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47599,6 +47605,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47608,6 +47615,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47617,6 +47625,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47626,6 +47635,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47635,78 +47645,119 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3401849179860498?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3422,
     "dateAnnounced": "2020-06-23",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Madappally",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia on June 20",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2626312560914303?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3423,
     "dateAnnounced": "2020-06-23",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Neendoor",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Haryana on June 16",
+    "knownCluster": "Haryana",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2626312560914303?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3424,
     "dateAnnounced": "2020-06-23",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Velloor",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 16",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2626312560914303?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3425,
     "dateAnnounced": "2020-06-23",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Athirampuzha",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2626312560914303?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3426,
     "dateAnnounced": "2020-06-23",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "F",
+    "residence": "Mariyappally",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 17",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2626312560914303?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3427,
     "dateAnnounced": "2020-06-23",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "F",
+    "residence": "Mariyappally",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 17",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2626312560914303?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3428,
     "dateAnnounced": "2020-06-23",
-    "ageBracket": -1,
+    "ageBracket": 9,
+    "gender": "M",
+    "residence": "Kalathippady",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Shillong on June 6",
+    "knownCluster": "Shillong",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2626312560914303?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3429,
     "dateAnnounced": "2020-06-23",
-    "ageBracket": -1,
-    "detectedCityTown": "Kottayam",
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Mundakkayam",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on June 21",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.facebook.com/collectorkottayam/posts/2626312560914303?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -47884,6 +47935,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 250",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637022316449975",
     "confirmedPatient": true
   },
   {
@@ -47893,6 +47946,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 251",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637022316449976",
     "confirmedPatient": true
   },
   {
@@ -47902,6 +47957,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 252",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637022316449977",
     "confirmedPatient": true
   },
   {
@@ -47913,8 +47970,10 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Deceased",
-    "notes": "Travelled from Delhi",
+    "notes": "Travelled from Delhi on Nizamuddin Exp on June 10",
     "knownCluster": "Delhi",
+    "oeceasedOn": "2020-06-23",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637022316449974",
     "confirmedPatient": true
   },
   {
