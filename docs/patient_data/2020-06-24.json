@@ -48653,9 +48653,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 39,
     "gender": "M",
+    "residence": "Angamoozhi",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on June 11",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=3",
     "confirmedPatient": true
   },
   {
@@ -48663,9 +48667,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 47,
     "gender": "M",
+    "residence": "Themgumkav Eettimoottilpadi",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 22",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=4",
     "confirmedPatient": true
   },
   {
@@ -48673,9 +48681,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 51,
     "gender": "M",
+    "residence": "Aruvappulam",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 12",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=5",
     "confirmedPatient": true
   },
   {
@@ -48683,9 +48695,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 35,
     "gender": "F",
+    "residence": "Thiruvalla",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=6",
     "confirmedPatient": true
   },
   {
@@ -48693,9 +48709,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 10,
     "gender": "F",
+    "residence": "Thiruvalla",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=7",
     "confirmedPatient": true
   },
   {
@@ -48703,9 +48723,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 5,
     "gender": "M",
+    "residence": "Thiruvalla",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=8",
     "confirmedPatient": true
   },
   {
@@ -48713,9 +48737,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 20,
     "gender": "M",
+    "residence": "Peringara",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 6",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=9",
     "confirmedPatient": true
   },
   {
@@ -48723,9 +48751,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 27,
     "gender": "M",
+    "residence": "Manneera",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain on June 11",
+    "knownCluster": "Bahrain",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=10",
     "confirmedPatient": true
   },
   {
@@ -48733,9 +48765,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 46,
     "gender": "M",
+    "residence": "Kulanada",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 15",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=11",
     "confirmedPatient": true
   },
   {
@@ -48743,9 +48779,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 36,
     "gender": "F",
+    "residence": "Niranam",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia on June 19",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=12",
     "confirmedPatient": true
   },
   {
@@ -48753,9 +48793,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 40,
     "gender": "M",
+    "residence": "Vayyattupuzha",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 15",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=13",
     "confirmedPatient": true
   },
   {
@@ -48763,9 +48807,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 27,
     "gender": "M",
+    "residence": "Kottanad",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 15",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=14",
     "confirmedPatient": true
   },
   {
@@ -48773,9 +48821,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 49,
     "gender": "M",
+    "residence": "Kottangal",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain on June 15",
+    "knownCluster": "Bahrain",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=15",
     "confirmedPatient": true
   },
   {
@@ -48783,9 +48835,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 15,
     "gender": "F",
+    "residence": "Cherukol",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 8",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=16",
     "confirmedPatient": true
   },
   {
@@ -48793,9 +48849,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 31,
     "gender": "M",
+    "residence": "Pallikkal",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=17",
     "confirmedPatient": true
   },
   {
@@ -48803,9 +48863,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 33,
     "gender": "M",
+    "residence": "Manakkala",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Malaysia on June 15",
+    "knownCluster": "Malaysia",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=18",
     "confirmedPatient": true
   },
   {
@@ -48813,9 +48877,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 52,
     "gender": "M",
+    "residence": "Ezhamkulam",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 16",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=19",
     "confirmedPatient": true
   },
   {
@@ -48823,9 +48891,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 34,
     "gender": "M",
+    "residence": "Aranmula",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=20",
     "confirmedPatient": true
   },
   {
@@ -48833,9 +48905,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 40,
     "gender": "M",
+    "residence": "Mezhuveli",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=21",
     "confirmedPatient": true
   },
   {
@@ -48843,9 +48919,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 16,
     "gender": "F",
+    "residence": "Peringara",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra on June 8",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=22",
     "confirmedPatient": true
   },
   {
@@ -48853,9 +48933,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 52,
     "gender": "M",
+    "residence": "Thottappuzhasseri",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=23",
     "confirmedPatient": true
   },
   {
@@ -48863,9 +48947,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 33,
     "gender": "M",
+    "residence": "Kottanad",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 10",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=24",
     "confirmedPatient": true
   },
   {
@@ -48873,9 +48961,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 52,
     "gender": "F",
+    "residence": "Kuriyannur",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=25",
     "confirmedPatient": true
   },
   {
@@ -48883,9 +48975,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 27,
     "gender": "M",
+    "residence": "Ullannur",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=26",
     "confirmedPatient": true
   },
   {
@@ -48893,9 +48989,13 @@
     "dateAnnounced": "2020-06-24",
     "ageBracket": 36,
     "gender": "M",
+    "residence": "Parakkod",
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat on June 18",
+    "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4122735914434641/?type=27",
     "confirmedPatient": true
   },
   {
