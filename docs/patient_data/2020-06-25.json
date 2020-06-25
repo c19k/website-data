@@ -9525,9 +9525,10 @@
     "residence": "Randathani",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwait to Kozhikode IX 0394 on 13 May 2020",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-24",
     "sourceURL": "https://www.facebook.com/110297390449180/posts/165586741586911/",
     "confirmedPatient": true
   },
@@ -19000,9 +19001,10 @@
     "residence": "Kuttippuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Ahmedabad",
     "knownCluster": "Ahmedabad",
+    "releasedOn": "2020-06-24",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/168846261260959",
     "confirmedPatient": true
   },
@@ -20413,9 +20415,10 @@
     "residence": "Edayur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Coimbatore",
     "knownCluster": "Coimbatore",
+    "releasedOn": "2020-06-24",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/169149241230661",
     "confirmedPatient": true
   },
@@ -24809,9 +24812,10 @@
     "residence": "Tirur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Mumbai",
     "knownCluster": "Mumbai",
+    "releasedOn": "2020-06-24",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/170029031142682",
     "confirmedPatient": true
   },
@@ -25491,9 +25495,10 @@
     "residence": "Budhanur",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Muscat",
     "knownCluster": "Muscat",
+    "releasedOn": "2020-06-24",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
   },
@@ -27620,9 +27625,10 @@
     "residence": "Chaliyar",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Qatar on May 21",
     "knownCluster": "Qatar",
+    "oeceasedOn": "16",
     "confirmedPatient": true
   },
   {
@@ -30109,9 +30115,10 @@
     "residence": "Edakkara",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Ras Al Khaimah on June 3",
     "knownCluster": "Ras Al Khaimah",
+    "releasedOn": "2020-06-24",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171112887700963",
     "confirmedPatient": true
   },
@@ -31319,9 +31326,10 @@
     "residence": "Edakkara",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Riyadh",
     "knownCluster": "Riyadh",
+    "releasedOn": "2020-06-24",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171411031004482",
     "confirmedPatient": true
   },
@@ -32179,9 +32187,10 @@
     "residence": "Moorkkanad",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Bahrain",
     "knownCluster": "Bahrain",
+    "releasedOn": "2020-06-24",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/171664687645783",
     "confirmedPatient": true
   },
@@ -33074,9 +33083,10 @@
     "residence": "Ponmundam",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Kuwaint to Kochi on J9-15407 on May 27",
     "knownCluster": "Kuwait",
+    "releasedOn": "2020-06-24",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3375064095872340?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -35589,9 +35599,10 @@
     "residence": "Manjeri",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Private health worker",
     "knownCluster": "Malappuram",
+    "releasedOn": "2020-06-24",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/172465970898988",
     "confirmedPatient": true
   },
@@ -51469,7 +51480,10 @@
   {
     "patientId": 3672,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Edathala",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51477,7 +51491,10 @@
   {
     "patientId": 3673,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 70,
+    "gender": "M",
+    "residence": "Koothattukulam",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51485,7 +51502,10 @@
   {
     "patientId": 3674,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Kothamangalam",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51494,6 +51514,7 @@
     "patientId": 3675,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51502,6 +51523,7 @@
     "patientId": 3676,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51510,6 +51532,7 @@
     "patientId": 3677,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51518,6 +51541,7 @@
     "patientId": 3678,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51526,6 +51550,7 @@
     "patientId": 3679,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51534,6 +51559,7 @@
     "patientId": 3680,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51542,6 +51568,7 @@
     "patientId": 3681,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51860,17 +51887,27 @@
   {
     "patientId": 3719,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "F",
+    "residence": "Cheeral",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 17",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 3720,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Padinjarethara",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabbi on June 18",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {

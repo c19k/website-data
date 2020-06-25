@@ -1485,7 +1485,7 @@
       "confirmed": 206,
       "deaths": 1,
       "confirmedByCity": {
-        "Ernakulam": 192,
+        "Ernakulam": 202,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -2145,7 +2145,7 @@
       "deaths": 1,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 76,
+        "Wayanad": 78,
         "Kozhikode": 1
       },
       "dailyConfirmedCount": [
@@ -4269,10 +4269,10 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 241,
-      "male": 629,
+      "female": 242,
+      "male": 632,
       "unspecified": 4,
-      "total": 875
+      "total": 879
     },
     {
       "ageGroup": "30-39",
@@ -4298,9 +4298,9 @@
     {
       "ageGroup": "60-69",
       "female": 40,
-      "male": 135,
+      "male": 136,
       "unspecified": 0,
-      "total": 175
+      "total": 176
     },
     {
       "ageGroup": "70-79",
@@ -4327,14 +4327,14 @@
       "ageGroup": "Unspecified",
       "female": 73,
       "male": 195,
-      "unspecified": 122,
-      "total": 390
+      "unspecified": 117,
+      "total": 385
     }
   ],
   "gender": {
-    "female": 880,
-    "male": 2701,
-    "unspecified": 143,
+    "female": 881,
+    "male": 2705,
+    "unspecified": 138,
     "total": 3726
   },
   "underObservation": {
