@@ -14180,7 +14180,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on May 22",
-    "knownCluster": "New Delhi",
+    "knownCluster": "Delhi",
     "districtPatientNumber": "Kollam P45",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1612946322190907",
     "confirmedPatient": true
@@ -14325,7 +14325,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from New Delhi on Ma22 by Train to Kochi",
-    "knownCluster": "New Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1013467562384400",
     "confirmedPatient": true
   },
@@ -17295,7 +17295,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kanchipuram",
-    "knownCluster": "Kachipuram",
+    "knownCluster": "Kancheepuram",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/602902130354188",
     "confirmedPatient": true
   },
@@ -17309,7 +17309,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kanchipuram",
-    "knownCluster": "Kanchipuram",
+    "knownCluster": "Kancheepuram",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/602902130354188",
     "confirmedPatient": true
   },
@@ -18306,7 +18306,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
     "notes": "Travelled from MH on May 25",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
@@ -18321,7 +18321,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
     "notes": "Travelled from MH on May 20",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
@@ -18336,7 +18336,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 20",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
   },
@@ -18350,7 +18350,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 17",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
   },
@@ -18364,7 +18364,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 26",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
   },
@@ -18378,7 +18378,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 23",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
   },
@@ -18392,7 +18392,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 19",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
   },
@@ -18406,7 +18406,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 20",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
   },
@@ -18420,7 +18420,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from MH on May 21",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
   },
@@ -18434,7 +18434,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
     "notes": "Travelled from MH on May 21",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "releasedOn": "2020-06-10",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
@@ -18449,7 +18449,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
     "notes": "Travelled from MH on May 21",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "releasedOn": "2020-06-10",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
@@ -18464,7 +18464,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
     "notes": "Travelled from MH on May 21",
-    "knownCluster": "Maharashta",
+    "knownCluster": "Maharashtra",
     "releasedOn": "2020-06-17",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=176862630450240&id=100507158085788",
     "confirmedPatient": true
@@ -22446,7 +22446,7 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikisthan",
-    "knownCluster": "Tajikisthan",
+    "knownCluster": "Tajikistan",
     "sourceURL": "https://epaper.deshabhimani.com/c/52510557",
     "confirmedPatient": true
   },
@@ -23067,7 +23067,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Laksha Dweep",
-    "knownCluster": "Laksha Dweep",
+    "knownCluster": "Lakshadweep",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/605995520044849",
     "confirmedPatient": true
   },
@@ -24089,7 +24089,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travlled from Thajikisthan on May 27 to Kannur",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/06/05/covid-patients-05-06-20-district-wise-split.html",
     "confirmedPatient": true
   },
@@ -24176,7 +24176,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P91",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24191,7 +24191,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P92",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24206,7 +24206,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P93",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24221,7 +24221,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P94",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24236,7 +24236,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P95",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24251,7 +24251,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P96",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24266,7 +24266,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P97",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24281,7 +24281,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P98",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24296,7 +24296,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P99",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24311,7 +24311,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P100",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -24446,7 +24446,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "districtPatientNumber": "Kollam P109",
     "sourceURL": "https://www.facebook.com/2125251000924031/posts/3000231983425924/",
     "confirmedPatient": true
@@ -25449,7 +25449,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Discharged",
     "notes": "Travelled from Tajikisthan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "releasedOn": "2020-06-19",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
@@ -25464,7 +25464,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Discharged",
     "notes": "Travelled from Tajikisthan",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "releasedOn": "2020-06-19",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/567312643866570",
     "confirmedPatient": true
@@ -26809,7 +26809,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Discharged",
     "notes": "Travelled from Tajikisthan to Kannur on May 28",
-    "knownCluster": "Tajiksithan",
+    "knownCluster": "Tajikistan",
     "releasedOn": "2020-06-18",
     "sourceURL": "https://www.manoramaonline.com/district-news/alappuzha/2020/06/08/alappuzha-covid-19.html",
     "confirmedPatient": true
@@ -27118,7 +27118,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra on May 27",
-    "knownCluster": "Maharasthra",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.manoramaonline.com/district-news/kottayam/2020/06/08/kottayam-covid-19.html",
     "confirmedPatient": true
   },
@@ -27174,7 +27174,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Discharged",
     "notes": "Travelled from Tajikistan",
-    "knownCluster": "Tajiksitan",
+    "knownCluster": "Tajikistan",
     "releasedOn": "2020-06-15",
     "sourceURL": "https://kannurvarthakal.in/07/06/2020/35469/#.Xt3rqrwzbIU",
     "confirmedPatient": true
@@ -33770,7 +33770,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UP on June 6 with a seven member group",
-    "knownCluster": "Uttad Pradesh",
+    "knownCluster": "Uttar Pradesh",
     "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/14/palakkad-covid-patients.html",
     "confirmedPatient": true
   },
@@ -33798,7 +33798,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from New Delhi",
-    "knownCluster": "New Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/14/palakkad-covid-patients.html",
     "confirmedPatient": true
   },
@@ -33868,7 +33868,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
-    "knownCluster": "Kuwat",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.manoramaonline.com/district-news/palakkad/2020/06/14/palakkad-covid-patients.html",
     "confirmedPatient": true
   },
@@ -34827,7 +34827,7 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from TN",
-    "knownCluster": "Tami Nadu",
+    "knownCluster": "Tamil Nadu",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=594553368134093&id=230880581168042",
     "confirmedPatient": true
   },
@@ -35261,7 +35261,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tuticorin on June 7 by car",
-    "knownCluster": "Tuticorin",
+    "knownCluster": "Thoothukudi",
     "confirmedPatient": true
   },
   {
@@ -39003,7 +39003,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kazhakstan",
-    "knownCluster": "Kazakstan",
+    "knownCluster": "Kazakhstan",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1029626397435183",
     "confirmedPatient": true
   },
@@ -39017,7 +39017,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kazhakstan",
-    "knownCluster": "Kazakstan",
+    "knownCluster": "Kazakhstan",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1029626397435183",
     "confirmedPatient": true
   },
@@ -39031,7 +39031,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kazhakstan",
-    "knownCluster": "Kazakstan",
+    "knownCluster": "Kazakhstan",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1029626397435183",
     "confirmedPatient": true
   },
@@ -47444,7 +47444,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kazaksthan",
-    "knownCluster": "Kazaksthan",
+    "knownCluster": "Kazakhstan",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/",
     "confirmedPatient": true
   },
@@ -50248,7 +50248,7 @@
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Hyderabad on June 20",
-    "knownCluster": "Hyderaba",
+    "knownCluster": "Hyderabad",
     "sourceURL": "https://www.facebook.com/wayanadWE/posts/913202052477120",
     "confirmedPatient": true
   }
