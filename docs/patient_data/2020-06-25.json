@@ -51033,6 +51033,8 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore by car",
+    "knownCluster": "Bangalore",
     "confirmedPatient": true
   },
   {
@@ -51044,6 +51046,8 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore by car",
+    "knownCluster": "Bangalore",
     "confirmedPatient": true
   },
   {
@@ -51055,6 +51059,8 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Contact transmission to father of P 3628",
+    "knownCluster": "Punnapra",
     "confirmedPatient": true
   },
   {
@@ -51066,6 +51072,8 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Contact transmission to mother of P 3628",
+    "knownCluster": "Punnapra",
     "confirmedPatient": true
   },
   {
@@ -51077,6 +51085,8 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Contact transmission to sister in law of P 3628",
+    "knownCluster": "Punnapra",
     "confirmedPatient": true
   },
   {
@@ -51088,10 +51098,25 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi by air to Kochi on June 10",
+    "knownCluster": "Delhi",
     "confirmedPatient": true
   },
   {
     "patientId": 3634,
+    "dateAnnounced": "2020-06-25",
+    "ageBracket": -1,
+    "gender": "M",
+    "residence": "Mararikkulam",
+    "detectedCityTown": "Alappuzha",
+    "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to to Kochi on June 13",
+    "knownCluster": "Kuwait",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 3635,
     "dateAnnounced": "2020-06-25",
     "ageBracket": 46,
     "gender": "M",
@@ -51099,10 +51124,12 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chenai by air to Kochi on June 10",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
-    "patientId": 3635,
+    "patientId": 3636,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
     "gender": "M",
@@ -51110,17 +51137,8 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 3636,
-    "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
-    "gender": "F",
-    "residence": "Chunakkara",
-    "detectedCityTown": "Alappuzha",
-    "detectedPrefecture": "Alappuzha",
-    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to to Kochi on June 13",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -51128,21 +51146,25 @@
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
     "gender": "F",
-    "residence": "Pallipad",
+    "residence": "Chunakkara",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh to to Kochi on June 13",
+    "knownCluster": "Riyadh",
     "confirmedPatient": true
   },
   {
     "patientId": 3638,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
-    "gender": "M",
-    "residence": "Alappuzha",
+    "gender": "F",
+    "residence": "Pallippad",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to to Kochi on May 29",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -51150,10 +51172,12 @@
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
     "gender": "M",
-    "residence": "Krishnapuram",
+    "residence": "Alappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi to to Kochi on June 9",
+    "knownCluster": "Abu Dhabi",
     "confirmedPatient": true
   },
   {
@@ -51161,10 +51185,12 @@
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
     "gender": "M",
-    "residence": "Mannanchery",
+    "residence": "Krishnapuram",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Russia to to Kochi on June 16",
+    "knownCluster": "Russia",
     "confirmedPatient": true
   },
   {
@@ -51172,45 +51198,64 @@
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
     "gender": "M",
+    "residence": "Mannanchery",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to to Kochi on June 13",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3642,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Alappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dammam to to Kochi on June 11 (kids)",
+    "knownCluster": "Dammam",
     "confirmedPatient": true
   },
   {
     "patientId": 3643,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Alappuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dammam to to Kochi on June 11 (kids)",
+    "knownCluster": "Dammam",
     "confirmedPatient": true
   },
   {
     "patientId": 3644,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Cheriyanad",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to to Kochi on June 16",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3645,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Bharanikkav",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to to Kochi on June 13",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -51831,49 +51876,79 @@
   {
     "patientId": 3721,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "F",
+    "residence": "Thenhippalam",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Ghana to Kochi on June 13",
+    "knownCluster": "Ghana",
     "confirmedPatient": true
   },
   {
     "patientId": 3722,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Peruvallur",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Ras Al Khaima to Kochi on June 17",
+    "knownCluster": "Ras Al Khaima",
     "confirmedPatient": true
   },
   {
     "patientId": 3723,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Tirur",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat to Karipur on June 19",
+    "knownCluster": "Mucat",
     "confirmedPatient": true
   },
   {
     "patientId": 3724,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Angadippuram",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Karipur on June 11",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3725,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Kannamangalam",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Karipur on June 12",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3726,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Irimbilayam Moscow",
+    "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Karipur on June 10",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   }
 ]
