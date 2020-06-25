@@ -500,7 +500,7 @@
       "deaths": 4,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 375
+        "Kannur": 384
       },
       "dailyConfirmedCount": [
         0,
@@ -4269,10 +4269,10 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 242,
-      "male": 633,
+      "female": 244,
+      "male": 635,
       "unspecified": 4,
-      "total": 880
+      "total": 884
     },
     {
       "ageGroup": "30-39",
@@ -4283,17 +4283,17 @@
     },
     {
       "ageGroup": "40-49",
-      "female": 116,
-      "male": 530,
+      "female": 117,
+      "male": 532,
       "unspecified": 0,
-      "total": 646
+      "total": 649
     },
     {
       "ageGroup": "50-59",
       "female": 103,
-      "male": 349,
+      "male": 350,
       "unspecified": 2,
-      "total": 455
+      "total": 456
     },
     {
       "ageGroup": "60-69",
@@ -4327,14 +4327,14 @@
       "ageGroup": "Unspecified",
       "female": 73,
       "male": 195,
-      "unspecified": 108,
-      "total": 376
+      "unspecified": 99,
+      "total": 367
     }
   ],
   "gender": {
-    "female": 882,
-    "male": 2713,
-    "unspecified": 129,
+    "female": 886,
+    "male": 2718,
+    "unspecified": 120,
     "total": 3726
   },
   "underObservation": {
