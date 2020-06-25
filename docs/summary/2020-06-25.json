@@ -1,5 +1,5 @@
 {
-  "updated": "2020-06-25 19:31",
+  "updated": "2020-06-25 21:00",
   "prefectures": [
     {
       "confirmed": 448,
@@ -170,7 +170,7 @@
       "confirmed": 420,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 414,
+        "Kasaragod": 418,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -4284,9 +4284,9 @@
     {
       "ageGroup": "40-49",
       "female": 117,
-      "male": 544,
+      "male": 548,
       "unspecified": 0,
-      "total": 661
+      "total": 665
     },
     {
       "ageGroup": "50-59",
@@ -4327,14 +4327,14 @@
       "ageGroup": "Unspecified",
       "female": 73,
       "male": 195,
-      "unspecified": 56,
-      "total": 324
+      "unspecified": 52,
+      "total": 320
     }
   ],
   "gender": {
     "female": 894,
-    "male": 2753,
-    "unspecified": 77,
+    "male": 2757,
+    "unspecified": 73,
     "total": 3726
   },
   "underObservation": {
