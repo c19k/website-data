@@ -49034,55 +49034,79 @@
   {
     "patientId": 3477,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Padanayarkulangara",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 254",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3478,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Panmana",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 255",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3479,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Peruman",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 256",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3480,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Avaneeswaram",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 257",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3481,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "F",
+    "residence": "Paravoor",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 258",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3482,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "F",
+    "residence": "Thevalakkara",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 259",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49092,6 +49116,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 260",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49101,6 +49127,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 261",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49110,6 +49138,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 262",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49119,6 +49149,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 263",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49128,6 +49160,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 264",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49137,6 +49171,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 265",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49146,6 +49182,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 266",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49155,6 +49193,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 267",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49164,6 +49204,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 268",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49173,6 +49215,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 269",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49182,6 +49226,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 270",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -49191,6 +49237,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "Kollam P 271",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
   },
   {
