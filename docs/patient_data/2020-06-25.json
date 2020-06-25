@@ -51615,7 +51615,10 @@
   {
     "patientId": 3682,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "F",
+    "residence": "Poyya",
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51623,7 +51626,10 @@
   {
     "patientId": 3683,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Parappur",
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51631,7 +51637,10 @@
   {
     "patientId": 3684,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 59,
+    "gender": "M",
+    "residence": "Kunnamkulam",
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51639,7 +51648,10 @@
   {
     "patientId": 3685,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Thekkumkara",
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51647,7 +51659,9 @@
   {
     "patientId": 3686,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51656,6 +51670,7 @@
     "patientId": 3687,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51664,6 +51679,7 @@
     "patientId": 3688,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51672,6 +51688,7 @@
     "patientId": 3689,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51680,6 +51697,7 @@
     "patientId": 3690,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51688,6 +51706,7 @@
     "patientId": 3691,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51938,17 +51957,27 @@
   {
     "patientId": 3715,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "F",
+    "residence": "Odisha",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Odisha to Tvm by mistake on June 22",
+    "knownCluster": "Odisha",
     "confirmedPatient": true
   },
   {
     "patientId": 3716,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Thirumala",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on GA 7096 to Kannur on JUne 16",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
