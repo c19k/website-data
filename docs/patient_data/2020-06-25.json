@@ -50851,7 +50851,10 @@
   {
     "patientId": 3604,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 59,
+    "gender": "M",
+    "residence": "Kalladikkod",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50859,7 +50862,10 @@
   {
     "patientId": 3605,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 57,
+    "gender": "F",
+    "residence": "Kalladikkod",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50867,7 +50873,10 @@
   {
     "patientId": 3606,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Shoranur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50875,7 +50884,10 @@
   {
     "patientId": 3607,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Lakkidi",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50883,7 +50895,10 @@
   {
     "patientId": 3608,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Lakkidi",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50891,7 +50906,10 @@
   {
     "patientId": 3609,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Kottappuram",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50899,7 +50917,10 @@
   {
     "patientId": 3610,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "F",
+    "residence": "Thirunellayi",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50907,7 +50928,10 @@
   {
     "patientId": 3611,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 59,
+    "gender": "M",
+    "residence": "Parali",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50916,6 +50940,7 @@
     "patientId": 3612,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50924,6 +50949,7 @@
     "patientId": 3613,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50932,6 +50958,7 @@
     "patientId": 3614,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50940,6 +50967,7 @@
     "patientId": 3615,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50948,6 +50976,7 @@
     "patientId": 3616,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50956,6 +50985,7 @@
     "patientId": 3617,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50964,6 +50994,7 @@
     "patientId": 3618,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50972,6 +51003,7 @@
     "patientId": 3619,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50980,6 +51012,7 @@
     "patientId": 3620,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50988,6 +51021,7 @@
     "patientId": 3621,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -50996,6 +51030,7 @@
     "patientId": 3622,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51004,6 +51039,7 @@
     "patientId": 3623,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51012,6 +51048,7 @@
     "patientId": 3624,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51020,6 +51057,7 @@
     "patientId": 3625,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51028,6 +51066,7 @@
     "patientId": 3626,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51036,6 +51075,7 @@
     "patientId": 3627,
     "dateAnnounced": "2020-06-25",
     "ageBracket": -1,
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -51621,6 +51661,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission to Thrissur to Corporation staff",
+    "knownCluster": "Thrissur",
     "confirmedPatient": true
   },
   {
@@ -51632,6 +51674,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman on June 5",
+    "knownCluster": "Oman",
     "confirmedPatient": true
   },
   {
@@ -51643,6 +51687,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia on June 20",
+    "knownCluster": "Saudi Arabia",
     "confirmedPatient": true
   },
   {
@@ -51654,6 +51700,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tirunelveli on June 23",
+    "knownCluster": "Tirunelveli",
     "confirmedPatient": true
   },
   {
@@ -51661,54 +51709,77 @@
     "dateAnnounced": "2020-06-25",
     "ageBracket": 42,
     "gender": "M",
+    "residence": "Melur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 10",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3687,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Varantharappilli",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3688,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Kattoor",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Gujarat on June 11",
+    "knownCluster": "Gujarat",
     "confirmedPatient": true
   },
   {
     "patientId": 3689,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Kattoor",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 12",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3690,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Karikkad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain on June 17",
+    "knownCluster": "Bahrain",
     "confirmedPatient": true
   },
   {
     "patientId": 3691,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Thrikkur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat on June 21",
+    "knownCluster": "Muscat",
     "confirmedPatient": true
   },
   {
@@ -51830,57 +51901,92 @@
   {
     "patientId": 3701,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Karasseri",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on Traveller to Walayar on June 23",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 3702,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Kakkodi",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 18 to Karipur",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
     "patientId": 3703,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Unnikulam",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar to Karipur on June 18",
+    "knownCluster": "Qatar",
     "confirmedPatient": true
   },
   {
     "patientId": 3704,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 2,
+    "gender": "F",
+    "residence": "Thooneri",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat to Kochi on June 19",
+    "knownCluster": "Muscat",
     "confirmedPatient": true
   },
   {
     "patientId": 3705,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Koduvalli",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on June 15",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3706,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "West Hill",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kannur on June 19",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 3707,
     "dateAnnounced": "2020-06-25",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Nilgiris",
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 23 to Karipur",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
