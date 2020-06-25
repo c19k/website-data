@@ -49040,6 +49040,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Trravelled from Saudi Arabia on SC 3774 to Kochi on June22",
     "districtPatientNumber": "Kollam P 254",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49053,6 +49054,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Trravelled from Saudi Arabia on SC 3774 to Kochi on June22",
     "districtPatientNumber": "Kollam P 255",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49066,6 +49068,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Trravelled from Saudi Arabia on SC 3774 to Kochi on June22",
     "districtPatientNumber": "Kollam P 256",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49079,6 +49082,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13 on 6E 9488",
     "districtPatientNumber": "Kollam P 257",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49092,6 +49096,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13 on 6E 9488",
     "districtPatientNumber": "Kollam P 258",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49105,6 +49110,7 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tajikistan on June 13 on SW 7109",
     "districtPatientNumber": "Kollam P 259",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49112,10 +49118,13 @@
   {
     "patientId": 3483,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Thevalakkara",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 13 on AI 534",
     "districtPatientNumber": "Kollam P 260",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49123,10 +49132,13 @@
   {
     "patientId": 3484,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Thazhava",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13 on KU 1351 on June 18",
     "districtPatientNumber": "Kollam P 261",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49134,10 +49146,13 @@
   {
     "patientId": 3485,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Alummood",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi on May 26 on AI 1538",
     "districtPatientNumber": "Kollam P 262",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49145,10 +49160,13 @@
   {
     "patientId": 3486,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Thrikkovilvattam",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi on June 19 on G9 408",
     "districtPatientNumber": "Kollam P 263",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49156,10 +49174,13 @@
   {
     "patientId": 3487,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 53,
+    "gender": "M",
+    "residence": "Kureeppuzha",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Trravelled from Saudi Arabia on AI 1940 to Kochi on June 13",
     "districtPatientNumber": "Kollam P 264",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49167,10 +49188,13 @@
   {
     "patientId": 3488,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Mayyanad",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13 on 6E 9488",
     "districtPatientNumber": "Kollam P 265",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49178,10 +49202,15 @@
   {
     "patientId": 3489,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "F",
+    "residence": "Mayyanad",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Primary Contact of P3488",
+    "knownCluster": "Kollam",
+    "dhsPatientNumber": "3488",
     "districtPatientNumber": "Kollam P 266",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49189,10 +49218,13 @@
   {
     "patientId": 3490,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Sooranad",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 16 on J91-405",
     "districtPatientNumber": "Kollam P 267",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49200,10 +49232,13 @@
   {
     "patientId": 3491,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 59,
+    "gender": "M",
+    "residence": "Sakthikulangara",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh on June 19 on SJ 9126",
     "districtPatientNumber": "Kollam P 268",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49211,10 +49246,13 @@
   {
     "patientId": 3492,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "M",
+    "residence": "Kodannur",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 12 on 6E 9324",
     "districtPatientNumber": "Kollam P 269",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49222,10 +49260,13 @@
   {
     "patientId": 3493,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Chavara",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 16 on GA 17092",
     "districtPatientNumber": "Kollam P 270",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
@@ -49233,10 +49274,13 @@
   {
     "patientId": 3494,
     "dateAnnounced": "2020-06-24",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Thrippalazhikam",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tajikistan on June 13 on SW 7109",
     "districtPatientNumber": "Kollam P 271",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1637936479691891?__tn__=K-R",
     "confirmedPatient": true
