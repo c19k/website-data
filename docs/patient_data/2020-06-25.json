@@ -9,7 +9,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Discharged",
     "notes": "Discharged on 20/02/2020",
-    "knownCluster": "Wuhan, China",
+    "knownCluster": "Wuhan",
     "releasedOn": "2020-02-20",
     "confirmedPatient": true
   },
@@ -23,7 +23,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Discharged",
     "notes": "Discharged on 13/02/2020",
-    "knownCluster": "Wuhan, China",
+    "knownCluster": "Wuhan",
     "releasedOn": "2020-02-13",
     "confirmedPatient": true
   },
@@ -37,7 +37,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Discharged",
     "notes": "Discharged on 16/02/2020",
-    "knownCluster": "Wuhan, China",
+    "knownCluster": "Wuhan",
     "releasedOn": "2020-02-16",
     "confirmedPatient": true
   },
@@ -50,7 +50,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Discharged",
-    "knownCluster": "Venice, Italy",
+    "knownCluster": "Venice",
     "releasedOn": "2020-03-25",
     "confirmedPatient": true
   },
@@ -63,7 +63,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Discharged",
-    "knownCluster": "Venice, Italy",
+    "knownCluster": "Venice",
     "releasedOn": "2020-03-29",
     "confirmedPatient": true
   },
@@ -76,7 +76,7 @@
     "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Discharged",
-    "knownCluster": "Venice, Italy",
+    "knownCluster": "Venice",
     "releasedOn": "2020-03-29",
     "confirmedPatient": true
   },
@@ -119,7 +119,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Discharged",
-    "knownCluster": "Venice, Italy",
+    "knownCluster": "Venice",
     "releasedOn": "2020-03-23",
     "confirmedPatient": true
   },
@@ -132,7 +132,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Discharged",
-    "knownCluster": "Venice, Italy",
+    "knownCluster": "Venice",
     "dhsPatientNumber": "9",
     "releasedOn": "2020-03-26",
     "confirmedPatient": true
@@ -146,7 +146,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Discharged",
-    "knownCluster": "Venice, Italy",
+    "knownCluster": "Venice",
     "dhsPatientNumber": "9",
     "releasedOn": "2020-03-26",
     "confirmedPatient": true
@@ -5369,7 +5369,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Discharged",
     "notes": "Travelled from Dubai to Bangalore on March 21",
-    "knownCluster": "DUbai",
+    "knownCluster": "Dubai",
     "releasedOn": "2020-05-08",
     "confirmedPatient": true
   },
