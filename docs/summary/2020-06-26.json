@@ -2,7 +2,7 @@
   "updated": "2020-06-26 16:07",
   "prefectures": [
     {
-      "confirmed": 448,
+      "confirmed": 449,
       "deaths": 2,
       "confirmedByCity": {
         "Palakkad": 445,
@@ -157,10 +157,10 @@
         27,
         16,
         24,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 216,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
@@ -4266,7 +4266,7 @@
       "confirmedCumulativeAvg7d": 3269
     },
     {
-      "confirmed": 0,
+      "confirmed": 1,
       "recoveredCumulative": 1941,
       "deceasedCumulative": 22,
       "criticalCumulative": 1,
@@ -4276,9 +4276,9 @@
       "hosptilisedCumulative": 2349,
       "activeCumulative": 1761,
       "date": "2020-06-26",
-      "confirmedCumulative": 3726,
-      "confirmedAvg3d": 91,
-      "confirmedCumulativeAvg3d": 3650,
+      "confirmedCumulative": 3727,
+      "confirmedAvg3d": 92,
+      "confirmedCumulativeAvg3d": 3651,
       "confirmedAvg7d": 116,
       "confirmedCumulativeAvg7d": 3385
     }
@@ -4358,15 +4358,15 @@
       "ageGroup": "Unspecified",
       "female": 73,
       "male": 195,
-      "unspecified": 26,
-      "total": 294
+      "unspecified": 176,
+      "total": 444
     }
   ],
   "gender": {
     "female": 898,
     "male": 2779,
-    "unspecified": 47,
-    "total": 3726
+    "unspecified": 197,
+    "total": 3876
   },
   "underObservation": {
     "2020-01-31": {

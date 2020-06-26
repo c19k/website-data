@@ -52457,5 +52457,13 @@
     "notes": "Travelled from Kuwait to Karipur on June 10",
     "knownCluster": "Kuwait",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 3727,
+    "dateAnnounced": "2020-06-26",
+    "ageBracket": -1,
+    "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
   }
 ]
