@@ -1,5 +1,5 @@
 {
-  "updated": "2020-06-26 18:15",
+  "updated": "2020-06-26 18:41",
   "prefectures": [
     {
       "confirmed": 471,
@@ -161,7 +161,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 23,
-      "recovered": 218,
+      "recovered": 221,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -327,7 +327,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 2,
-      "recovered": 291,
+      "recovered": 299,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -492,7 +492,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 16,
-      "recovered": 199,
+      "recovered": 194,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -657,7 +657,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 13,
-      "recovered": 258,
+      "recovered": 259,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -822,7 +822,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 7,
-      "recovered": 192,
+      "recovered": 181,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -987,7 +987,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 16,
-      "recovered": 101,
+      "recovered": 91,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1153,7 +1153,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 4,
-      "recovered": 71,
+      "recovered": 80,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1317,7 +1317,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 21,
-      "recovered": 96,
+      "recovered": 100,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1484,7 +1484,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 7,
-      "recovered": 157,
+      "recovered": 151,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1649,7 +1649,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 9,
-      "recovered": 75,
+      "recovered": 77,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1659,7 +1659,7 @@
       "confirmed": 197,
       "deaths": 1,
       "confirmedByCity": {
-        "Kottayam": 178,
+        "Kottayam": 196,
         "Ernakulam": 1
       },
       "dailyConfirmedCount": [
@@ -2147,7 +2147,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 2,
-      "recovered": 43,
+      "recovered": 40,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -4294,31 +4294,31 @@
     },
     {
       "ageGroup": "10-19",
-      "female": 63,
+      "female": 64,
       "male": 93,
       "unspecified": 1,
-      "total": 157
+      "total": 158
     },
     {
       "ageGroup": "20-29",
-      "female": 246,
-      "male": 646,
+      "female": 249,
+      "male": 650,
       "unspecified": 4,
-      "total": 897
+      "total": 904
     },
     {
       "ageGroup": "30-39",
-      "female": 155,
-      "male": 694,
+      "female": 156,
+      "male": 700,
       "unspecified": 1,
-      "total": 850
+      "total": 857
     },
     {
       "ageGroup": "40-49",
       "female": 118,
-      "male": 553,
+      "male": 554,
       "unspecified": 0,
-      "total": 671
+      "total": 672
     },
     {
       "ageGroup": "50-59",
@@ -4330,16 +4330,16 @@
     {
       "ageGroup": "60-69",
       "female": 40,
-      "male": 136,
+      "male": 137,
       "unspecified": 0,
-      "total": 176
+      "total": 177
     },
     {
       "ageGroup": "70-79",
-      "female": 16,
+      "female": 17,
       "male": 15,
       "unspecified": 0,
-      "total": 31
+      "total": 32
     },
     {
       "ageGroup": "80-89",
@@ -4359,14 +4359,14 @@
       "ageGroup": "Unspecified",
       "female": 73,
       "male": 195,
-      "unspecified": 176,
-      "total": 444
+      "unspecified": 158,
+      "total": 426
     }
   ],
   "gender": {
-    "female": 898,
-    "male": 2779,
-    "unspecified": 197,
+    "female": 904,
+    "male": 2791,
+    "unspecified": 179,
     "total": 3876
   },
   "underObservation": {
