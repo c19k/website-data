@@ -1,5 +1,5 @@
 {
-  "updated": "2020-06-25 21:00",
+  "updated": "2020-06-26 16:07",
   "prefectures": [
     {
       "confirmed": 448,
@@ -832,7 +832,7 @@
       "confirmed": 283,
       "deaths": 2,
       "confirmedByCity": {
-        "Kollam": 266,
+        "Kollam": 279,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -997,7 +997,7 @@
       "confirmed": 262,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 247,
+        "Pathanamthitta": 260,
         "Thiruvananthapuram": 1,
         "Ernakulam": 1
       },
@@ -4286,10 +4286,10 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 66,
-      "male": 72,
+      "female": 67,
+      "male": 73,
       "unspecified": 11,
-      "total": 149
+      "total": 151
     },
     {
       "ageGroup": "10-19",
@@ -4300,31 +4300,31 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 244,
-      "male": 642,
+      "female": 246,
+      "male": 646,
       "unspecified": 4,
-      "total": 891
+      "total": 897
     },
     {
       "ageGroup": "30-39",
       "female": 155,
-      "male": 687,
+      "male": 694,
       "unspecified": 1,
-      "total": 843
+      "total": 850
     },
     {
       "ageGroup": "40-49",
-      "female": 117,
-      "male": 548,
+      "female": 118,
+      "male": 553,
       "unspecified": 0,
-      "total": 665
+      "total": 671
     },
     {
       "ageGroup": "50-59",
       "female": 105,
-      "male": 355,
+      "male": 360,
       "unspecified": 2,
-      "total": 463
+      "total": 468
     },
     {
       "ageGroup": "60-69",
@@ -4358,14 +4358,14 @@
       "ageGroup": "Unspecified",
       "female": 73,
       "male": 195,
-      "unspecified": 52,
-      "total": 320
+      "unspecified": 26,
+      "total": 294
     }
   ],
   "gender": {
-    "female": 894,
-    "male": 2757,
-    "unspecified": 73,
+    "female": 898,
+    "male": 2779,
+    "unspecified": 47,
     "total": 3726
   },
   "underObservation": {
