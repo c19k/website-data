@@ -667,7 +667,7 @@
       "confirmed": 334,
       "deaths": 3,
       "confirmedByCity": {
-        "Thrissur": 325,
+        "Thrissur": 332,
         "Ernakulam": 2
       },
       "dailyConfirmedCount": [
@@ -1824,7 +1824,7 @@
       "confirmed": 189,
       "deaths": 4,
       "confirmedByCity": {
-        "Thiruvananthapuram": 180,
+        "Thiruvananthapuram": 187,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -4295,44 +4295,44 @@
     {
       "ageGroup": "10-19",
       "female": 64,
-      "male": 94,
+      "male": 95,
       "unspecified": 1,
-      "total": 159
+      "total": 160
     },
     {
       "ageGroup": "20-29",
       "female": 251,
-      "male": 654,
+      "male": 656,
       "unspecified": 4,
-      "total": 910
+      "total": 912
     },
     {
       "ageGroup": "30-39",
       "female": 156,
-      "male": 705,
+      "male": 710,
       "unspecified": 1,
-      "total": 862
+      "total": 867
     },
     {
       "ageGroup": "40-49",
-      "female": 118,
-      "male": 559,
+      "female": 119,
+      "male": 561,
       "unspecified": 0,
-      "total": 677
+      "total": 680
     },
     {
       "ageGroup": "50-59",
       "female": 106,
-      "male": 364,
+      "male": 367,
       "unspecified": 2,
-      "total": 473
+      "total": 476
     },
     {
       "ageGroup": "60-69",
       "female": 40,
-      "male": 142,
+      "male": 143,
       "unspecified": 0,
-      "total": 182
+      "total": 183
     },
     {
       "ageGroup": "70-79",
@@ -4359,14 +4359,14 @@
       "ageGroup": "Unspecified",
       "female": 73,
       "male": 195,
-      "unspecified": 129,
-      "total": 397
+      "unspecified": 114,
+      "total": 382
     }
   ],
   "gender": {
-    "female": 909,
-    "male": 2815,
-    "unspecified": 150,
+    "female": 910,
+    "male": 2829,
+    "unspecified": 135,
     "total": 3876
   },
   "underObservation": {
