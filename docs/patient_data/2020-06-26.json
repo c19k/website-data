@@ -30646,9 +30646,10 @@
     "residence": "Koruthod",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Delhi on June 2",
-    "knownCluster": "Delhi",
+    "knownCluster": "Haryana",
+    "releasedOn": "2020-06-25",
     "sourceURL": "https://www.facebook.com/diokottayam/posts/1173963686293591",
     "confirmedPatient": true
   },
@@ -31830,9 +31831,10 @@
     "residence": "Erumeli",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Discharged",
     "notes": "Travelled from Delhi",
     "knownCluster": "Delhi",
+    "releasedOn": "2020-06-25",
     "sourceURL": "https://www.facebook.com/diokottayam/posts/1174770139546279",
     "confirmedPatient": true
   },
@@ -52820,6 +52822,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -52832,6 +52835,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 14",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -52844,6 +52848,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 11",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -52856,6 +52861,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 15",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -52868,6 +52874,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -52880,6 +52887,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -52892,6 +52900,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 15",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -52904,6 +52913,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Madurai on June 22",
+    "knownCluster": "Madurai",
     "confirmedPatient": true
   },
   {
@@ -52916,6 +52926,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra on June 15",
+    "knownCluster": "Maharashtra",
     "confirmedPatient": true
   },
   {
@@ -52928,6 +52939,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 12",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -52940,6 +52952,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on June 21",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   },
   {
@@ -52952,6 +52965,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia on June 19",
+    "knownCluster": "Saudi Arabia",
     "confirmedPatient": true
   },
   {
@@ -52964,6 +52978,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai on June 21",
+    "knownCluster": "Chennai",
     "confirmedPatient": true
   },
   {
@@ -52976,6 +52991,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 16",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -52987,7 +53003,9 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
-    "notes": "Contact Transmission to relative of P",
+    "notes": "Contact Transmission to relative of P 3582",
+    "knownCluster": "Kottayam",
+    "dhsPatientNumber": "3582",
     "confirmedPatient": true
   },
   {
@@ -53000,6 +53018,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 13",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -53012,6 +53031,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 15",
+    "knownCluster": "Delhi",
     "confirmedPatient": true
   },
   {
@@ -53024,6 +53044,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 11",
+    "knownCluster": "Delhi",
     "confirmedPatient": true
   },
   {
@@ -53389,7 +53410,10 @@
   {
     "patientId": 3834,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Alangod",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -53397,7 +53421,10 @@
   {
     "patientId": 3835,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "M",
+    "residence": "Varappuzha",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -53405,7 +53432,10 @@
   {
     "patientId": 3836,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Malayidamthuruthu",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -53413,7 +53443,10 @@
   {
     "patientId": 3837,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Eloor",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -53421,7 +53454,10 @@
   {
     "patientId": 3838,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Thiruvaniyoor",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -53429,7 +53465,10 @@
   {
     "patientId": 3839,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -53437,7 +53476,10 @@
   {
     "patientId": 3840,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Mookkannur",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -53445,7 +53487,10 @@
   {
     "patientId": 3841,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Kadamakkudi",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -53453,7 +53498,9 @@
   {
     "patientId": 3842,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 14,
+    "gender": "M",
+    "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -53701,17 +53748,27 @@
   {
     "patientId": 3873,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Karimkunnam",
+    "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Marthandam on June 11",
+    "knownCluster": "Marthandam",
     "confirmedPatient": true
   },
   {
     "patientId": 3874,
     "dateAnnounced": "2020-06-26",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Vandiperiyar",
+    "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat to Kochi on June 23",
+    "knownCluster": "Muscat",
     "confirmedPatient": true
   },
   {

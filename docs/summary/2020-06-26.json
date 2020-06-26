@@ -1,5 +1,5 @@
 {
-  "updated": "2020-06-26 18:41",
+  "updated": "2020-06-26 18:54",
   "prefectures": [
     {
       "confirmed": 471,
@@ -1494,7 +1494,7 @@
       "confirmed": 215,
       "deaths": 1,
       "confirmedByCity": {
-        "Ernakulam": 202,
+        "Ernakulam": 211,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -1991,7 +1991,7 @@
       "deaths": 0,
       "confirmedByCity": {
         "Munnar": 1,
-        "Idukki": 90,
+        "Idukki": 92,
         "Unspecified": 4,
         "Kottayam": 1
       },
@@ -4275,7 +4275,7 @@
       "homeObservationCumulative": 161547,
       "hosptilisedCumulative": 2397,
       "activeCumulative": 1846,
-      "status": "Reviewing",
+      "status": "Finalised",
       "date": "2020-06-26",
       "confirmedCumulative": 3876,
       "confirmedAvg3d": 141,
@@ -4295,30 +4295,30 @@
     {
       "ageGroup": "10-19",
       "female": 64,
-      "male": 93,
+      "male": 94,
       "unspecified": 1,
-      "total": 158
+      "total": 159
     },
     {
       "ageGroup": "20-29",
       "female": 249,
-      "male": 650,
+      "male": 653,
       "unspecified": 4,
-      "total": 904
+      "total": 907
     },
     {
       "ageGroup": "30-39",
       "female": 156,
-      "male": 700,
+      "male": 704,
       "unspecified": 1,
-      "total": 857
+      "total": 861
     },
     {
       "ageGroup": "40-49",
       "female": 118,
-      "male": 554,
+      "male": 557,
       "unspecified": 0,
-      "total": 672
+      "total": 675
     },
     {
       "ageGroup": "50-59",
@@ -4359,14 +4359,14 @@
       "ageGroup": "Unspecified",
       "female": 73,
       "male": 195,
-      "unspecified": 158,
-      "total": 426
+      "unspecified": 147,
+      "total": 415
     }
   ],
   "gender": {
     "female": 904,
-    "male": 2791,
-    "unspecified": 179,
+    "male": 2802,
+    "unspecified": 168,
     "total": 3876
   },
   "underObservation": {
