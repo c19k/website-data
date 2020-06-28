@@ -22661,6 +22661,7 @@
     "patientId": 1593,
     "dateAnnounced": "2020-06-05",
     "ageBracket": 55,
+    "gender": "M",
     "residence": "Thiruvegappura",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
@@ -54688,6 +54689,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission P",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -54700,6 +54702,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission P",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -54712,6 +54715,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission P",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -54724,23 +54728,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission P",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3881,
-    "dateAnnounced": "2020-06-27",
-    "ageBracket": 26,
-    "gender": "M",
-    "residence": "Kannur",
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 3882,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 39,
     "gender": "M",
@@ -54748,11 +54741,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Sentinnel Surveillance Cases",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3883,
+    "patientId": 3882,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 50,
     "gender": "F",
@@ -54760,11 +54754,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Sentinnel Surveillance Cases",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3884,
+    "patientId": 3883,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 33,
     "gender": "F",
@@ -54772,11 +54767,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Sentinnel Surveillance Cases",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3885,
+    "patientId": 3884,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 23,
     "gender": "M",
@@ -54784,11 +54780,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Sentinnel Surveillance Cases",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3886,
+    "patientId": 3885,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 32,
     "gender": "F",
@@ -54796,11 +54793,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Sentinnel Surveillance Cases",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3887,
+    "patientId": 3886,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 26,
     "gender": "M",
@@ -54808,11 +54806,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kannur via Vadakara on June 14",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3888,
+    "patientId": 3887,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 19,
     "gender": "M",
@@ -54820,11 +54819,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 8",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3889,
+    "patientId": 3888,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 25,
     "gender": "M",
@@ -54832,11 +54832,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 8",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3890,
+    "patientId": 3889,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 31,
     "gender": "M",
@@ -54844,11 +54845,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from WB on June 7",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3891,
+    "patientId": 3890,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 32,
     "gender": "M",
@@ -54856,11 +54858,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from WB on June 15",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3892,
+    "patientId": 3891,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 34,
     "gender": "M",
@@ -54868,11 +54871,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on June 15",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3893,
+    "patientId": 3892,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 26,
     "gender": "F",
@@ -54880,11 +54884,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from AP on June 13",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3894,
+    "patientId": 3893,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 29,
     "gender": "M",
@@ -54892,11 +54897,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore on May 22",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3895,
+    "patientId": 3894,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 26,
     "gender": "M",
@@ -54904,11 +54910,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on June 12",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3896,
+    "patientId": 3895,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 27,
     "gender": "M",
@@ -54916,11 +54923,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi on June 15",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3897,
+    "patientId": 3896,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 34,
     "gender": "M",
@@ -54928,11 +54936,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore on June 10",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3898,
+    "patientId": 3897,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 30,
     "gender": "M",
@@ -54940,11 +54949,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Karnataka on June 8",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3899,
+    "patientId": 3898,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 42,
     "gender": "M",
@@ -54952,11 +54962,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Pune on June 4",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3900,
+    "patientId": 3899,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 32,
     "gender": "F",
@@ -54964,11 +54975,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 13",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3901,
+    "patientId": 3900,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 8,
     "gender": "F",
@@ -54976,11 +54988,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 13",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3902,
+    "patientId": 3901,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 6,
     "gender": "M",
@@ -54988,11 +55001,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 13",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3903,
+    "patientId": 3902,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 38,
     "gender": "M",
@@ -55000,11 +55014,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on June 13",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3904,
+    "patientId": 3903,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 51,
     "gender": "M",
@@ -55012,11 +55027,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Nagpur on June 11",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3905,
+    "patientId": 3904,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 29,
     "gender": "F",
@@ -55024,11 +55040,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Ras Al Khaima to Karipur on June 18",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3906,
+    "patientId": 3905,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 6,
     "gender": "F",
@@ -55036,11 +55053,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat to Kochi on June 4",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3907,
+    "patientId": 3906,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 33,
     "gender": "M",
@@ -55048,11 +55066,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh to Karipur on June 6",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3908,
+    "patientId": 3907,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 34,
     "gender": "M",
@@ -55060,11 +55079,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 22",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3909,
+    "patientId": 3908,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 62,
     "gender": "M",
@@ -55072,11 +55092,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh to Karipur on June 6",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3910,
+    "patientId": 3909,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 35,
     "gender": "F",
@@ -55084,11 +55105,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Ras Al Khaima to Karipur on June 6",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3911,
+    "patientId": 3910,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 22,
     "gender": "M",
@@ -55096,11 +55118,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on June 16",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3912,
+    "patientId": 3911,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 36,
     "gender": "M",
@@ -55108,11 +55131,12 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai to Karipur on June 14",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 3913,
+    "patientId": 3912,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 34,
     "gender": "M",
@@ -55120,15 +55144,29 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah to Karipur on June 19",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 3913,
+    "dateAnnounced": "2020-06-27",
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Aanakkayam",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on June 13",
     "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 3914,
     "dateAnnounced": "2020-06-27",
-    "ageBracket": 23,
+    "ageBracket": 29,
     "gender": "M",
-    "residence": "Aanakkayam",
+    "residence": "Pulpatta",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
@@ -55137,18 +55175,6 @@
   },
   {
     "patientId": 3915,
-    "dateAnnounced": "2020-06-27",
-    "ageBracket": 29,
-    "gender": "M",
-    "residence": "Pulpatta",
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 3916,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 28,
     "gender": "M",
@@ -55160,7 +55186,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 3917,
+    "patientId": 3916,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 45,
     "gender": "M",
@@ -55172,7 +55198,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 3918,
+    "patientId": 3917,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 24,
     "gender": "M",
@@ -55184,7 +55210,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 3919,
+    "patientId": 3918,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 47,
     "gender": "M",
@@ -55196,7 +55222,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 3920,
+    "patientId": 3919,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 32,
     "gender": "M",
@@ -55208,7 +55234,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 3921,
+    "patientId": 3920,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 7,
     "gender": "F",
@@ -55220,7 +55246,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 3922,
+    "patientId": 3921,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 44,
     "gender": "M",
@@ -55232,11 +55258,23 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 3923,
+    "patientId": 3922,
     "dateAnnounced": "2020-06-27",
     "ageBracket": 21,
     "gender": "M",
     "residence": "Anamangad",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/malappuramcollector/posts/3413052685406814?__tn__=K-R",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 3923,
+    "dateAnnounced": "2020-06-27",
+    "ageBracket": 53,
+    "gender": "M",
+    "residence": "Nannambra",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
