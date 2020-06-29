@@ -102,7 +102,9 @@ const generateDailySummary = (patients, manualDailyData) => {
   // TODO: deceased, critical should be pulled out of our patient
   //       data. But those numbers are incomplete.
   for (let row of manualDailyData) {
-    
+    if (!row.date) {
+      continue;
+    }
     let dateTs = moment(row.date).format('X');
     let aprilTs = moment('2020-04-01').format('X');
     let isBeforeAprilFirst = aprilTs > dateTs;
@@ -111,7 +113,6 @@ const generateDailySummary = (patients, manualDailyData) => {
     if (isBeforeAprilFirst && !dailySummary[row.date]) {
       continue;
     } 
-    
       if (!dailySummary[row.date]) {
         dailySummary[row.date] = {
           confirmed: 0,
