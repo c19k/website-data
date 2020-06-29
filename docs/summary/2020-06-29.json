@@ -4182,6 +4182,24 @@
       "confirmedCumulativeAvg3d": 4155,
       "confirmedAvg7d": 142,
       "confirmedCumulativeAvg7d": 3844
+    },
+    {
+      "confirmed": 0,
+      "recoveredCumulative": 2229,
+      "deceasedCumulative": 23,
+      "criticalCumulative": 0,
+      "testedCumulative": 224737,
+      "observationCumulative": 180617,
+      "homeObservationCumulative": 177955,
+      "hosptilisedCumulative": 2662,
+      "activeCumulative": 2056,
+      "status": "Finalised",
+      "date": "undefined",
+      "confirmedCumulative": 4310,
+      "confirmedAvg3d": 79,
+      "confirmedCumulativeAvg3d": 4234,
+      "confirmedAvg7d": 122,
+      "confirmedCumulativeAvg7d": 3966
     }
   ],
   "age": [
