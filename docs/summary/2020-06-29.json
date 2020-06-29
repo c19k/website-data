@@ -1,5 +1,5 @@
 {
-  "updated": "2020-06-28 20:45",
+  "updated": "2020-06-29 18:28",
   "prefectures": [
     {
       "confirmed": 512,
@@ -172,7 +172,7 @@
     },
     {
       "confirmed": 468,
-      "deaths": 3,
+      "deaths": 4,
       "confirmedByCity": {
         "Malappuram": 466,
         "Palakkad": 1,
@@ -333,7 +333,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 13,
-      "recovered": 233,
+      "recovered": 237,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -501,7 +501,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 14,
-      "recovered": 286,
+      "recovered": 288,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -4365,14 +4365,14 @@
     {
       "confirmed": 121,
       "recoveredCumulative": 2229,
-      "deceasedCumulative": 22,
+      "deceasedCumulative": 23,
       "criticalCumulative": 1,
       "testedCumulative": 220821,
       "observationCumulative": 175734,
       "homeObservationCumulative": 173123,
       "hosptilisedCumulative": 2611,
-      "activeCumulative": 2015,
-      "status": "",
+      "activeCumulative": 2056,
+      "status": "Reviewing",
       "date": "2020-06-29",
       "confirmedCumulative": 4310,
       "confirmedAvg3d": 144,
