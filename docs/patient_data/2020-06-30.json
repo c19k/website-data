@@ -60067,11 +60067,14 @@
   {
     "patientId": 4311,
     "dateAnnounced": "2020-06-29",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
     "residence": "Tamil Nadu",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Deceased",
+    "oeceasedOn": "2020-06-24",
+    "sourceURL": "http://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-29.pdf",
     "confirmedPatient": true
   }
 ]
