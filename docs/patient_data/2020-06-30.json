@@ -60063,5 +60063,15 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
+  },
+  {
+    "patientId": 4311,
+    "dateAnnounced": "2020-06-29",
+    "ageBracket": -1,
+    "residence": "Tamil Nadu",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Deceased",
+    "confirmedPatient": true
   }
 ]

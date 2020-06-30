@@ -172,10 +172,10 @@
       "name": "Palakkad"
     },
     {
-      "confirmed": 468,
+      "confirmed": 469,
       "deaths": 4,
       "confirmedByCity": {
-        "Malappuram": 466,
+        "Malappuram": 467,
         "Palakkad": 1,
         "Kozhikode": 1
       },
@@ -330,7 +330,7 @@
         16,
         47,
         5,
-        13,
+        14,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -4377,7 +4377,7 @@
       "confirmedCumulativeAvg7d": 3698
     },
     {
-      "confirmed": 121,
+      "confirmed": 122,
       "recoveredCumulative": 2229,
       "deceasedCumulative": 23,
       "criticalCumulative": 1,
@@ -4385,14 +4385,14 @@
       "observationCumulative": 180617,
       "homeObservationCumulative": 177955,
       "hosptilisedCumulative": 2662,
-      "activeCumulative": 2056,
+      "activeCumulative": 2057,
       "status": "Finalised",
       "date": "2020-06-29",
-      "confirmedCumulative": 4310,
-      "confirmedAvg3d": 144,
-      "confirmedCumulativeAvg3d": 4154,
-      "confirmedAvg7d": 142,
-      "confirmedCumulativeAvg7d": 3840
+      "confirmedCumulative": 4311,
+      "confirmedAvg3d": 145,
+      "confirmedCumulativeAvg3d": 4155,
+      "confirmedAvg7d": 143,
+      "confirmedCumulativeAvg7d": 3841
     },
     {
       "confirmed": 0,
@@ -4403,13 +4403,13 @@
       "observationCumulative": 180617,
       "homeObservationCumulative": 177955,
       "hosptilisedCumulative": 2662,
-      "activeCumulative": 2056,
+      "activeCumulative": 2057,
       "date": "2020-06-30",
-      "confirmedCumulative": 4310,
-      "confirmedAvg3d": 79,
-      "confirmedCumulativeAvg3d": 4233,
+      "confirmedCumulative": 4311,
+      "confirmedAvg3d": 80,
+      "confirmedCumulativeAvg3d": 4235,
       "confirmedAvg7d": 122,
-      "confirmedCumulativeAvg7d": 3962
+      "confirmedCumulativeAvg7d": 3963
     }
   ],
   "age": [
@@ -4487,15 +4487,15 @@
       "ageGroup": "Unspecified",
       "female": 76,
       "male": 219,
-      "unspecified": 121,
-      "total": 416
+      "unspecified": 122,
+      "total": 417
     }
   ],
   "gender": {
     "female": 986,
     "male": 3176,
-    "unspecified": 145,
-    "total": 4310
+    "unspecified": 146,
+    "total": 4311
   },
   "underObservation": {
     "2020-01-31": {
