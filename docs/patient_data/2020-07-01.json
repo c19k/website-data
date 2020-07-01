@@ -62472,10 +62472,14 @@
   {
     "patientId": 4573,
     "dateAnnounced": "2020-07-01",
-    "ageBracket": -1,
+    "ageBracket": 68,
+    "gender": "M",
+    "residence": "Nadakkavu",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
+    "notes": "Death by suicide; turned positive after death",
+    "sourceURL": "https://www.manoramaonline.com/news/latest-news/2020/07/01/cm-pinarayi-vijayan-press-meet-01-07-2020.html",
     "confirmedPatient": true
   },
   {
