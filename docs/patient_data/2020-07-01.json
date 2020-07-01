@@ -62652,10 +62652,14 @@
   {
     "patientId": 4593,
     "dateAnnounced": "2020-07-01",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Chakkupallam",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 10",
+    "knownCluster": "Dubai",
     "confirmedPatient": true
   }
 ]
