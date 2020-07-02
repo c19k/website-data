@@ -61687,25 +61687,33 @@
   {
     "patientId": 4426,
     "dateAnnounced": "2020-06-30",
-    "ageBracket": -1,
+    "ageBracket": 18,
+    "gender": "M",
+    "residence": "Ambalamukku",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kazakstan on AI 1916 on June 19",
     "confirmedPatient": true
   },
   {
     "patientId": 4427,
     "dateAnnounced": "2020-06-30",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Kizhuvillam",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on GA 7290 on June 18",
     "confirmedPatient": true
   },
   {
     "patientId": 4428,
     "dateAnnounced": "2020-06-30",
-    "ageBracket": -1,
+    "ageBracket": 76,
+    "gender": "M",
+    "residence": "Vattiyoorkkavu",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -61714,7 +61722,9 @@
   {
     "patientId": 4429,
     "dateAnnounced": "2020-06-30",
-    "ageBracket": -1,
+    "ageBracket": 58,
+    "gender": "F",
+    "residence": "Chirayinkeezhu",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
@@ -61723,10 +61733,12 @@
   {
     "patientId": 4430,
     "dateAnnounced": "2020-06-30",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Sasthamangalam",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
-    "patientStatus": "Deceased",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -61846,10 +61858,15 @@
   {
     "patientId": 4442,
     "dateAnnounced": "2020-06-30",
-    "ageBracket": -1,
-    "detectedCityTown": "Kottayam",
-    "detectedPrefecture": "Kottayam",
-    "patientStatus": "Hospitalized",
+    "ageBracket": 76,
+    "gender": "M",
+    "residence": "Vattiyoorkkavu",
+    "detectedCityTown": "Thiruvananthapuram",
+    "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Deceased",
+    "notes": "Travelled from Mumbai June 27",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.manoramaonline.com/district-news/thiruvananthapuram/2020/06/30/thiruvananthapuram-covid-news.html",
     "confirmedPatient": true
   },
   {
@@ -63089,6 +63106,9 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha on 6E 9740 on June 19",
+    "knownCluster": "Doha",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2586578848324307",
     "confirmedPatient": true
   },
   {
@@ -63100,24 +63120,37 @@
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT to fish seller who used to bring fish from CC to Tvm",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2586578848324308",
     "confirmedPatient": true
   },
   {
     "patientId": 4581,
     "dateAnnounced": "2020-07-01",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Edava",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on IX 1576 on June 27",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2586578848324309",
     "confirmedPatient": true
   },
   {
     "patientId": 4582,
     "dateAnnounced": "2020-07-01",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Pirappankod",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore on 6E 379 June 28",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/collectortvpm/posts/2586578848324310",
     "confirmedPatient": true
   },
   {
