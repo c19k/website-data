@@ -1201,10 +1201,10 @@
       "name": "Alappuzha"
     },
     {
-      "confirmed": 294,
+      "confirmed": 295,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 292,
+        "Pathanamthitta": 293,
         "Thiruvananthapuram": 1,
         "Ernakulam": 1
       },
@@ -1360,7 +1360,7 @@
         6,
         3,
         13,
-        0,
+        1,
         6,
         0
       ],
@@ -1888,10 +1888,10 @@
       "name": "Kottayam"
     },
     {
-      "confirmed": 216,
+      "confirmed": 215,
       "deaths": 5,
       "confirmedByCity": {
-        "Thiruvananthapuram": 214,
+        "Thiruvananthapuram": 213,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -2047,7 +2047,7 @@
         4,
         9,
         4,
-        6,
+        5,
         4,
         0
       ],
@@ -4488,16 +4488,16 @@
     {
       "ageGroup": "10-19",
       "female": 71,
-      "male": 108,
+      "male": 109,
       "unspecified": 2,
-      "total": 181
+      "total": 182
     },
     {
       "ageGroup": "20-29",
-      "female": 281,
-      "male": 775,
+      "female": 282,
+      "male": 777,
       "unspecified": 4,
-      "total": 1061
+      "total": 1064
     },
     {
       "ageGroup": "30-39",
@@ -4509,16 +4509,16 @@
     {
       "ageGroup": "40-49",
       "female": 132,
-      "male": 685,
+      "male": 687,
       "unspecified": 1,
-      "total": 818
+      "total": 820
     },
     {
       "ageGroup": "50-59",
-      "female": 115,
-      "male": 430,
+      "female": 116,
+      "male": 431,
       "unspecified": 2,
-      "total": 547
+      "total": 549
     },
     {
       "ageGroup": "60-69",
@@ -4530,9 +4530,9 @@
     {
       "ageGroup": "70-79",
       "female": 17,
-      "male": 17,
+      "male": 16,
       "unspecified": 0,
-      "total": 34
+      "total": 33
     },
     {
       "ageGroup": "80-89",
@@ -4552,15 +4552,15 @@
       "ageGroup": "Unspecified",
       "female": 77,
       "male": 248,
-      "unspecified": 325,
-      "total": 650
+      "unspecified": 321,
+      "total": 646
     }
   ],
   "gender": {
-    "female": 1016,
-    "male": 3382,
-    "unspecified": 349,
-    "total": 4750
+    "female": 1018,
+    "male": 3387,
+    "unspecified": 345,
+    "total": 4753
   },
   "underObservation": {
     "2020-01-31": {
