@@ -1,5 +1,5 @@
 {
-  "updated": "2020-07-01 22:54",
+  "updated": "2020-07-02 17:11",
   "prefectures": [
     {
       "confirmed": 546,
@@ -4468,6 +4468,7 @@
       "homeObservationCumulative": 184382,
       "hosptilisedCumulative": 2837,
       "activeCumulative": 2130,
+      "status": "Reviewing",
       "date": "2020-07-02",
       "confirmedCumulative": 4593,
       "confirmedAvg3d": 94,
@@ -4479,52 +4480,52 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 84,
-      "male": 78,
+      "female": 87,
+      "male": 80,
       "unspecified": 12,
-      "total": 174
-    },
-    {
-      "ageGroup": "10-19",
-      "female": 70,
-      "male": 107,
-      "unspecified": 2,
       "total": 179
     },
     {
+      "ageGroup": "10-19",
+      "female": 71,
+      "male": 108,
+      "unspecified": 2,
+      "total": 181
+    },
+    {
       "ageGroup": "20-29",
-      "female": 279,
-      "male": 760,
+      "female": 281,
+      "male": 765,
       "unspecified": 4,
-      "total": 1044
+      "total": 1051
     },
     {
       "ageGroup": "30-39",
-      "female": 173,
-      "male": 841,
+      "female": 176,
+      "male": 850,
       "unspecified": 1,
-      "total": 1017
+      "total": 1029
     },
     {
       "ageGroup": "40-49",
       "female": 131,
-      "male": 668,
+      "male": 675,
       "unspecified": 1,
-      "total": 800
+      "total": 807
     },
     {
       "ageGroup": "50-59",
       "female": 114,
-      "male": 425,
+      "male": 426,
       "unspecified": 2,
-      "total": 541
+      "total": 542
     },
     {
       "ageGroup": "60-69",
       "female": 43,
-      "male": 160,
+      "male": 161,
       "unspecified": 0,
-      "total": 203
+      "total": 204
     },
     {
       "ageGroup": "70-79",
@@ -4550,16 +4551,16 @@
     {
       "ageGroup": "Unspecified",
       "female": 77,
-      "male": 220,
-      "unspecified": 271,
-      "total": 568
+      "male": 243,
+      "unspecified": 370,
+      "total": 690
     }
   ],
   "gender": {
-    "female": 1004,
-    "male": 3291,
-    "unspecified": 295,
-    "total": 4593
+    "female": 1013,
+    "male": 3340,
+    "unspecified": 394,
+    "total": 4750
   },
   "underObservation": {
     "2020-01-31": {
