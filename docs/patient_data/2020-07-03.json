@@ -61979,12 +61979,13 @@
     "patientId": 4417,
     "dateAnnounced": "2020-06-30",
     "ageBracket": 52,
-    "gender": "F",
-    "residence": "Karuthikkad",
+    "gender": "M",
+    "residence": "Kurathikkad",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "CT; tested before scheduled surgery",
+    "knownCluster": "Alappuzha",
     "sourceURL": "https://www.facebook.com/DistrictInformationOfficerAlappuzha/posts/581635535767614",
     "confirmedPatient": true
   },
@@ -65231,6 +65232,9 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "CT to wife of P 4288",
+    "knownCluster": "Alappuzha",
+    "dhsPatientNumber": "4288",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65243,6 +65247,9 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "CT to son of P 4288",
+    "knownCluster": "Alappuzha",
+    "dhsPatientNumber": "4288",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65255,6 +65262,9 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "CT to daughter in law of P 4288",
+    "knownCluster": "Alappuzha",
+    "dhsPatientNumber": "4288",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65266,7 +65276,10 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "CT to wife of P ",
+    "notes": "CT to wife of P 4417",
+    "knownCluster": "Alappuzha",
+    "dhsPatientNumber": "4417",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65278,7 +65291,10 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "CT to son  in law of P ",
+    "notes": "CT to son  in law of P  4417",
+    "knownCluster": "Alappuzha",
+    "dhsPatientNumber": "4417",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65291,6 +65307,9 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "CT to wife of P 3758",
+    "knownCluster": "Alappuzha",
+    "dhsPatientNumber": "3758",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65302,6 +65321,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat on June 14 to Kochi",
+    "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65313,6 +65335,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat on June 14 to Kochi",
+    "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65324,6 +65349,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on June 14",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65335,6 +65363,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on June 27",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65346,6 +65377,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat on June 11 to Kochi",
+    "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65357,6 +65391,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 10 to Kochi",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65368,6 +65405,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on June 16",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65379,6 +65419,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 28 to Kochi",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65390,6 +65433,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait to Kochi on June 19",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65401,6 +65447,9 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat on June 30 to Kochi",
+    "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/?__tn__=kC-R&eid=ARAAWtbnHQBeOjjNTqnMEWqp4q9ApcyR-DOPGHNIXOX0cAatdXzu2NyLXbVAQukriHqdbZo7QgjfRdeb&hc_ref=ARQpg86swHF8NNshO20W3xs1zVxqGbeUoAgwldupicp_wc3-2bGx7bWQurUJEy7zsFg&fref=nf&__xts__[0]=68.ARA_HJXOFqvnsKrtV7Qk7RPZlVgUkKb6RoFQYNM5JC_wr8kDXnN-kWMIqWwPUXRuc_XtxggSUuCsGAuJsHcrm_9muOMxWyrteqcz7gPxAP9SccKsj1AKINCx45_JhvEMv-qIFeIWpxf7bqJN0ZLvpceEOkTzzQWxRpMhua1eHzVCF8ZQ6eVyccw_Pj_TAI6f7vE79uqZLZssAbpt3OtJJYtEd6prOBiPMOTyQrbD292CIWLoAULo9duGvWcT9NclLw3OuSt8ZYIWJRTw40bLSwdoKjClVnZhBcBitlvP2phoILmzzzL0_jyfbz02V8tnkfNtHqWiQlzeDMoaGwQ",
     "confirmedPatient": true
   },
   {
@@ -65413,6 +65462,7 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2587510118231180",
     "confirmedPatient": true
   },
@@ -65426,6 +65476,7 @@
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Pune",
+    "knownCluster": "Pune",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2587510118231180",
     "confirmedPatient": true
   },
@@ -65458,50 +65509,65 @@
   {
     "patientId": 4683,
     "dateAnnounced": "2020-07-02",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Assam",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT to guest woker",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2587510118231180",
     "confirmedPatient": true
   },
   {
     "patientId": 4684,
     "dateAnnounced": "2020-07-02",
-    "ageBracket": -1,
+    "ageBracket": 2,
+    "gender": "F",
+    "residence": "Vettuthara",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2587510118231180",
     "confirmedPatient": true
   },
   {
     "patientId": 4685,
     "dateAnnounced": "2020-07-02",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Vanchiyoor",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT to lottery seller",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2587510118231180",
     "confirmedPatient": true
   },
   {
     "patientId": 4686,
     "dateAnnounced": "2020-07-02",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Vanchiyoor",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2587510118231180",
     "confirmedPatient": true
   },
   {
     "patientId": 4687,
     "dateAnnounced": "2020-07-02",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "M",
+    "residence": "Thiruvananthapuram",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2587510118231180",
     "confirmedPatient": true
   },
