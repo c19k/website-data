@@ -68192,9 +68192,12 @@
     "patientId": 4925,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Arattupuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Pregnant women found positive during hospital test",
     "confirmedPatient": true
   },
   {
@@ -68206,7 +68209,8 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kashmir on flight on June 16",
+    "notes": "Travelled from Kashmir on flight on June 20",
+    "knownCluster": "Kashmir",
     "confirmedPatient": true
   },
   {

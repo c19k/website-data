@@ -4616,16 +4616,16 @@
     },
     {
       "ageGroup": "Unspecified",
-      "female": 80,
+      "female": 81,
       "male": 272,
-      "unspecified": 399,
+      "unspecified": 398,
       "total": 751
     }
   ],
   "gender": {
-    "female": 1087,
+    "female": 1088,
     "male": 3688,
-    "unspecified": 425,
+    "unspecified": 424,
     "total": 5204
   },
   "underObservation": {
