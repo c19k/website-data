@@ -70929,19 +70929,29 @@
   {
     "patientId": 5203,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Edavaka",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Damam",
+    "knownCluster": "Damam",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/920446771752647",
     "confirmedPatient": true
   },
   {
     "patientId": 5204,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Kaniyambatta",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/920446771752647",
     "confirmedPatient": true
   }
 ]
