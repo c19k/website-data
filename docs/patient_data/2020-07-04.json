@@ -68200,38 +68200,52 @@
   {
     "patientId": 4926,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Pathiyoor",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kashmir on flight on June 16",
     "confirmedPatient": true
   },
   {
     "patientId": 4927,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kandalloor",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai on private vehicle June 11",
+    "knownCluster": "Chennail",
     "confirmedPatient": true
   },
   {
     "patientId": 4928,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Arattupuzha",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat on flight on June 19",
+    "knownCluster": "Muscat",
     "confirmedPatient": true
   },
   {
     "patientId": 4929,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Thamarakulam",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Tamilnadu on private vehicle June 12",
+    "notes": "Travelled from Kashmir on flight on June 16",
+    "knownCluster": "Kashmir",
     "confirmedPatient": true
   },
   {
@@ -68244,6 +68258,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tamilnadu on private vehicle June 12",
+    "knownCluster": "Tamilnadu",
     "confirmedPatient": true
   },
   {
@@ -68255,7 +68270,8 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait on June 13",
+    "notes": "Travelled from Kuwait on flight on June 13",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -68267,7 +68283,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait on June 30",
+    "notes": "Travelled from Kuwait on flight on June 30",
     "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
@@ -68280,7 +68296,7 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Dammam on June 30",
+    "notes": "Travelled from Dammam on flight on June 30",
     "knownCluster": "Dammam",
     "confirmedPatient": true
   },
