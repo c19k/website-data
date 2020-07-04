@@ -68231,42 +68231,57 @@
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tamilnadu on private vehicle June 12",
     "confirmedPatient": true
   },
   {
     "patientId": 4930,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Eramalloor",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tamilnadu on private vehicle June 12",
     "confirmedPatient": true
   },
   {
     "patientId": 4931,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Punnapra",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 13",
     "confirmedPatient": true
   },
   {
     "patientId": 4932,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Kalavoor",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 30",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 4933,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Panavally",
     "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dammam on June 30",
+    "knownCluster": "Dammam",
     "confirmedPatient": true
   },
   {
