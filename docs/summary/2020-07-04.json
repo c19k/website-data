@@ -2,10 +2,10 @@
   "updated": "2020-07-03 21:40",
   "prefectures": [
     {
-      "confirmed": 594,
+      "confirmed": 631,
       "deaths": 4,
       "confirmedByCity": {
-        "Malappuram": 580,
+        "Malappuram": 617,
         "Palakkad": 1,
         "Kozhikode": 9,
         "Ernakulam": 4
@@ -166,10 +166,10 @@
         34,
         24,
         35,
-        0
+        37
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 37,
       "recovered": 337,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -4525,7 +4525,7 @@
       "confirmedCumulativeAvg7d": 4424
     },
     {
-      "confirmed": 0,
+      "confirmed": 37,
       "recoveredCumulative": 2839,
       "deceasedCumulative": 25,
       "criticalCumulative": 1,
@@ -4535,11 +4535,11 @@
       "hosptilisedCumulative": 2894,
       "activeCumulative": 2098,
       "date": "2020-07-04",
-      "confirmedCumulative": 4964,
-      "confirmedAvg3d": 123,
-      "confirmedCumulativeAvg3d": 4856,
-      "confirmedAvg7d": 127,
-      "confirmedCumulativeAvg7d": 4551
+      "confirmedCumulative": 5001,
+      "confirmedAvg3d": 136,
+      "confirmedCumulativeAvg3d": 4869,
+      "confirmedAvg7d": 132,
+      "confirmedCumulativeAvg7d": 4556
     }
   ],
   "age": [
@@ -4617,15 +4617,15 @@
       "ageGroup": "Unspecified",
       "female": 78,
       "male": 268,
-      "unspecified": 175,
-      "total": 521
+      "unspecified": 415,
+      "total": 761
     }
   ],
   "gender": {
     "female": 1083,
     "male": 3676,
-    "unspecified": 201,
-    "total": 4964
+    "unspecified": 441,
+    "total": 5204
   },
   "underObservation": {
     "2020-01-31": {
