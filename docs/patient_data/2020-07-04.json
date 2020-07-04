@@ -70797,6 +70797,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah on June 25",
+    "knownCluster": "Sharjah",
     "confirmedPatient": true
   },
   {
@@ -70809,6 +70810,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Pune on June 28",
+    "knownCluster": "Pune",
     "confirmedPatient": true
   },
   {
@@ -70821,6 +70823,7 @@
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from KSA on June 30",
+    "knownCluster": "Saudi Arabia",
     "confirmedPatient": true
   },
   {
@@ -70832,6 +70835,8 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat on June 19",
+    "knownCluster": "Muscat",
     "confirmedPatient": true
   },
   {
@@ -70843,6 +70848,8 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on June 26",
+    "knownCluster": "Qatar",
     "confirmedPatient": true
   },
   {
@@ -70854,6 +70861,8 @@
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from KSA on June 20",
+    "knownCluster": "Saudi Arabia",
     "confirmedPatient": true
   },
   {
