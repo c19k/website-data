@@ -68522,28 +68522,43 @@
   {
     "patientId": 4962,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Udumbanchola",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kambam on June 19",
+    "knownCluster": "Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/collectoridukki/posts/974322226335176",
     "confirmedPatient": true
   },
   {
     "patientId": 4963,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Pulleappadi",
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE with Idukki native friend on June 23",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/collectoridukki/posts/974322226335177",
     "confirmedPatient": true
   },
   {
     "patientId": 4964,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Vengappally",
     "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from KSA on June 29",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/919722538491737",
     "confirmedPatient": true
   }
 ]
