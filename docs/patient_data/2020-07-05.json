@@ -70675,64 +70675,84 @@
   {
     "patientId": 5160,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 59,
+    "gender": "M",
+    "residence": "Nileshwar",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 5161,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Mogral Puthur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085789",
     "confirmedPatient": true
   },
   {
     "patientId": 5162,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Pallikkara",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085790",
     "confirmedPatient": true
   },
   {
     "patientId": 5163,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Nileshwar",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085791",
     "confirmedPatient": true
   },
   {
     "patientId": 5164,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Kasaragod",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085792",
     "confirmedPatient": true
   },
   {
     "patientId": 5165,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Ajanur",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085793",
     "confirmedPatient": true
   },
   {
     "patientId": 5166,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085794",
     "confirmedPatient": true
   },
   {
@@ -70742,6 +70762,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085795",
     "confirmedPatient": true
   },
   {
@@ -70751,6 +70772,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085796",
     "confirmedPatient": true
   },
   {
@@ -70760,6 +70782,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085797",
     "confirmedPatient": true
   },
   {
@@ -70769,6 +70792,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085798",
     "confirmedPatient": true
   },
   {
@@ -70778,6 +70802,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085799",
     "confirmedPatient": true
   },
   {
@@ -70787,6 +70812,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085800",
     "confirmedPatient": true
   },
   {
@@ -70796,6 +70822,7 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=186185576184612&id=100507158085801",
     "confirmedPatient": true
   },
   {
@@ -70898,8 +70925,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "CT Unknown",
-    "sourceURL": "https://www.facebook.com/dcekm/posts/1041476619583494?__tn__=K-R",
+    "notes": "CT to scrap dealer from Unknown sources. Godown at Ekm market",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/07/05/ernakulam-covid-19-positive-cases.html",
     "confirmedPatient": true
   },
   {
@@ -70911,8 +70938,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "CT Unknown",
-    "sourceURL": "https://www.facebook.com/dcekm/posts/1041476619583494?__tn__=K-R",
+    "notes": "CT Unknown. Tested positive on private lab test",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/07/05/ernakulam-covid-19-positive-cases.html",
     "confirmedPatient": true
   },
   {
@@ -70925,7 +70952,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "CT Unknown",
-    "sourceURL": "https://www.facebook.com/dcekm/posts/1041476619583494?__tn__=K-R",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/07/05/ernakulam-covid-19-positive-cases.html",
     "confirmedPatient": true
   },
   {
@@ -70937,8 +70964,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "CT Unknown",
-    "sourceURL": "https://www.facebook.com/dcekm/posts/1041476619583494?__tn__=K-R",
+    "notes": "CT to Pvt Company employee from Unknown sources",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/07/05/ernakulam-covid-19-positive-cases.html",
     "confirmedPatient": true
   },
   {
@@ -70950,8 +70977,9 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "CT Unknown",
-    "sourceURL": "https://www.facebook.com/dcekm/posts/1041476619583494?__tn__=K-R",
+    "notes": "CT to Auto Driver from Unknown sources",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/07/05/ernakulam-covid-19-positive-cases.html",
     "confirmedPatient": true
   },
   {
@@ -70963,8 +70991,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
-    "notes": "CT Unknown",
-    "sourceURL": "https://www.facebook.com/dcekm/posts/1041476619583494?__tn__=K-R",
+    "notes": "CT Unknown. Travelled from Delhi on May 30 & 28 days quarantine completed",
+    "sourceURL": "https://www.manoramaonline.com/district-news/ernakulam/2020/07/05/ernakulam-covid-19-positive-cases.html",
     "confirmedPatient": true
   },
   {
