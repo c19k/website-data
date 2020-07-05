@@ -70544,6 +70544,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Possible CT from relative who travelled from MH",
+    "knownCluster": "Kollam",
     "districtPatientNumber": "Kollam P 380",
     "confirmedPatient": true
   },
@@ -70557,6 +70558,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia on AI 1942 on June 20",
+    "knownCluster": "Saudi Arabia",
     "districtPatientNumber": "Kollam P 381",
     "confirmedPatient": true
   },
@@ -70570,6 +70572,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on 6E 9488 on June 13",
+    "knownCluster": "Kuwait",
     "districtPatientNumber": "Kollam P 382",
     "confirmedPatient": true
   },
@@ -70583,6 +70586,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Nigeria on AI 1906 on June 18",
+    "knownCluster": "Nigeria",
     "districtPatientNumber": "Kollam P 383",
     "confirmedPatient": true
   },
@@ -70596,6 +70600,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "CT to shop keeper",
+    "knownCluster": "Kollam",
     "districtPatientNumber": "Kollam P 384",
     "confirmedPatient": true
   },
@@ -70609,6 +70614,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia on SV 3776 on June 30",
+    "knownCluster": "Saudi Arabia",
     "districtPatientNumber": "Kollam P 385",
     "confirmedPatient": true
   },
@@ -70622,6 +70628,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Ethiopia on ET 8934 on June 25",
+    "knownCluster": "Ethiopia",
     "districtPatientNumber": "Kollam P 386",
     "confirmedPatient": true
   },
@@ -70635,6 +70642,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi by train on June 30",
+    "knownCluster": "Delhi",
     "districtPatientNumber": "Kollam P 387",
     "confirmedPatient": true
   },
@@ -70648,6 +70656,7 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on IX 1540 on June 30",
+    "knownCluster": "Dubai",
     "districtPatientNumber": "Kollam P 388",
     "confirmedPatient": true
   },
@@ -70660,7 +70669,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Delhi by train on June 30",
+    "notes": "Travelled from Moldova on 8Q 6602 on June 17",
+    "knownCluster": "Moldova",
     "districtPatientNumber": "Kollam P 389",
     "confirmedPatient": true
   },
@@ -70673,6 +70683,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Hyderbad by car on June 27",
+    "knownCluster": "Hyderabad",
     "districtPatientNumber": "Kollam P 390",
     "confirmedPatient": true
   },
@@ -70685,6 +70697,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Hyderbad by car on June 27",
+    "knownCluster": "Hyderabad",
     "districtPatientNumber": "Kollam P 391",
     "confirmedPatient": true
   },
@@ -70697,6 +70711,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha on G8 7200 on June 30",
+    "knownCluster": "Doha",
     "districtPatientNumber": "Kollam P 392",
     "confirmedPatient": true
   },
@@ -70709,6 +70725,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha on G8 7200 on June 30",
+    "knownCluster": "Doha",
     "districtPatientNumber": "Kollam P 393",
     "confirmedPatient": true
   },
@@ -70721,6 +70739,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
     "districtPatientNumber": "Kollam P 394",
     "confirmedPatient": true
   },
@@ -70733,6 +70753,8 @@
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Africa",
+    "knownCluster": "Africa",
     "districtPatientNumber": "Kollam P 395",
     "confirmedPatient": true
   },
