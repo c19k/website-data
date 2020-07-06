@@ -74194,10 +74194,13 @@
   {
     "patientId": 5430,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 87,
+    "gender": "M",
+    "residence": "Manjeri",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
+    "oeceasedOn": "2020-07-06",
     "confirmedPatient": true
   },
   {
@@ -74743,10 +74746,13 @@
   {
     "patientId": 5491,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "M",
+    "residence": "Ernakulam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
+    "oeceasedOn": "2020-07-06",
     "confirmedPatient": true
   },
   {

@@ -3,7 +3,7 @@
   "prefectures": [
     {
       "confirmed": 692,
-      "deaths": 5,
+      "deaths": 4,
       "confirmedByCity": {
         "Malappuram": 652,
         "Palakkad": 1,
@@ -4594,10 +4594,10 @@
       "recoveredCumulative": 3341,
       "deceasedCumulative": 27,
       "criticalCumulative": 1,
-      "testedCumulative": 278145,
+      "testedCumulative": 275823,
       "observationCumulative": 183291,
-      "homeObservationCumulative": 181216,
-      "hosptilisedCumulative": 2075,
+      "homeObservationCumulative": 180316,
+      "hosptilisedCumulative": 2975,
       "activeCumulative": 2252,
       "status": "Reviewing",
       "date": "2020-07-06",
@@ -4654,9 +4654,9 @@
     {
       "ageGroup": "60-69",
       "female": 49,
-      "male": 183,
+      "male": 184,
       "unspecified": 0,
-      "total": 232
+      "total": 233
     },
     {
       "ageGroup": "70-79",
@@ -4668,9 +4668,9 @@
     {
       "ageGroup": "80-89",
       "female": 9,
-      "male": 10,
+      "male": 11,
       "unspecified": 0,
-      "total": 19
+      "total": 20
     },
     {
       "ageGroup": "90-100",
@@ -4683,14 +4683,14 @@
       "ageGroup": "Unspecified",
       "female": 87,
       "male": 282,
-      "unspecified": 495,
-      "total": 864
+      "unspecified": 493,
+      "total": 862
     }
   ],
   "gender": {
     "female": 1140,
-    "male": 3954,
-    "unspecified": 524,
+    "male": 3956,
+    "unspecified": 522,
     "total": 5622
   },
   "underObservation": {
