@@ -1233,10 +1233,10 @@
       "confirmed": 354,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 347,
+        "Pathanamthitta": 349,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
-        "Malappuram": 1
+        "Malappuram": 2
       },
       "dailyConfirmedCount": [
         0,
@@ -4610,51 +4610,51 @@
     {
       "ageGroup": "<10",
       "female": 95,
-      "male": 92,
+      "male": 93,
       "unspecified": 13,
-      "total": 200
+      "total": 201
     },
     {
       "ageGroup": "10-19",
       "female": 79,
-      "male": 122,
+      "male": 123,
       "unspecified": 3,
-      "total": 204
+      "total": 205
     },
     {
       "ageGroup": "20-29",
       "female": 311,
-      "male": 874,
+      "male": 880,
       "unspecified": 4,
-      "total": 1190
+      "total": 1196
     },
     {
       "ageGroup": "30-39",
       "female": 199,
-      "male": 996,
+      "male": 1004,
       "unspecified": 1,
-      "total": 1198
+      "total": 1206
     },
     {
       "ageGroup": "40-49",
-      "female": 148,
-      "male": 785,
+      "female": 149,
+      "male": 790,
       "unspecified": 1,
-      "total": 934
+      "total": 940
     },
     {
       "ageGroup": "50-59",
-      "female": 124,
-      "male": 498,
+      "female": 125,
+      "male": 501,
       "unspecified": 2,
-      "total": 625
+      "total": 629
     },
     {
       "ageGroup": "60-69",
       "female": 48,
-      "male": 178,
+      "male": 181,
       "unspecified": 0,
-      "total": 226
+      "total": 229
     },
     {
       "ageGroup": "70-79",
@@ -4680,15 +4680,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 87,
-      "male": 281,
-      "unspecified": 414,
-      "total": 782
+      "male": 282,
+      "unspecified": 384,
+      "total": 753
     }
   ],
   "gender": {
-    "female": 1124,
-    "male": 3859,
-    "unspecified": 442,
+    "female": 1126,
+    "male": 3889,
+    "unspecified": 410,
     "total": 5429
   },
   "underObservation": {
