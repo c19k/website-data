@@ -73560,6 +73560,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "BSF Personnel came from Kollam",
+    "knownCluster": "Kollam",
     "confirmedPatient": true
   },
   {
@@ -73571,6 +73573,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "BSF Personnel came from Kollam",
+    "knownCluster": "Kollam",
     "confirmedPatient": true
   },
   {
@@ -73582,6 +73586,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on June 13",
+    "knownCluster": "Mumbai",
     "confirmedPatient": true
   },
   {
@@ -73593,6 +73599,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore on June 30",
+    "knownCluster": "Bangalore",
     "confirmedPatient": true
   },
   {
@@ -73604,6 +73612,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 19",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -73615,6 +73625,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from KSA on June 25",
+    "knownCluster": "Saudi Arabia",
     "confirmedPatient": true
   },
   {
@@ -73626,6 +73638,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 23",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -73637,6 +73651,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain on June 21",
+    "knownCluster": "Bahrain",
     "confirmedPatient": true
   },
   {
@@ -73648,6 +73664,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman on June 20",
+    "knownCluster": "Oman",
     "confirmedPatient": true
   },
   {
@@ -73659,6 +73677,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from KSA on June 30",
+    "knownCluster": "Saudi Arabia",
     "confirmedPatient": true
   },
   {
@@ -73670,6 +73690,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from KSA on July 2",
+    "knownCluster": "Saudi Arabia",
     "confirmedPatient": true
   },
   {
@@ -73681,20 +73703,12 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh on July 2",
+    "knownCluster": "Saudi Arabia",
     "confirmedPatient": true
   },
   {
     "patientId": 5397,
-    "dateAnnounced": "2020-07-05",
-    "ageBracket": -1,
-    "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
-    "districtPatientNumber": "Kollam P 396",
-    "sourceURL": "https://www.facebook.com/dckollam/posts/1647776358707903?__tn__=K-R",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5398,
     "dateAnnounced": "2020-07-05",
     "ageBracket": 1,
     "gender": "M",
@@ -73704,12 +73718,12 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Hyderabad by Car on June 4",
     "knownCluster": "Hyderabad",
-    "districtPatientNumber": "Kollam P 397",
+    "districtPatientNumber": "Kollam P 396",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1647776358707903?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 5399,
+    "patientId": 5398,
     "dateAnnounced": "2020-07-05",
     "ageBracket": 41,
     "gender": "M",
@@ -73719,12 +73733,12 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on SJ 5096 on June 21",
     "knownCluster": "Dubai",
-    "districtPatientNumber": "Kollam P 398",
+    "districtPatientNumber": "Kollam P 397",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1647776358707903?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 5400,
+    "patientId": 5399,
     "dateAnnounced": "2020-07-05",
     "ageBracket": 47,
     "gender": "M",
@@ -73734,12 +73748,12 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on KA 1651Y on June 25",
     "knownCluster": "Kuwait",
-    "districtPatientNumber": "Kollam P 399",
+    "districtPatientNumber": "Kollam P 398",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1647776358707903?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 5401,
+    "patientId": 5400,
     "dateAnnounced": "2020-07-05",
     "ageBracket": 38,
     "gender": "M",
@@ -73749,12 +73763,12 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar on IX 1576 on June 26",
     "knownCluster": "Qatar",
-    "districtPatientNumber": "Kollam P 400",
+    "districtPatientNumber": "Kollam P 399",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1647776358707903?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 5402,
+    "patientId": 5401,
     "dateAnnounced": "2020-07-05",
     "ageBracket": 21,
     "gender": "M",
@@ -73764,12 +73778,12 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Moscow on AI 1924 on June 16",
     "knownCluster": "Moscow",
-    "districtPatientNumber": "Kollam P 401",
+    "districtPatientNumber": "Kollam P 400",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1647776358707903?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 5403,
+    "patientId": 5402,
     "dateAnnounced": "2020-07-05",
     "ageBracket": 27,
     "gender": "F",
@@ -73779,6 +73793,21 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dammam on AI 1938 on June 11",
     "knownCluster": "Dammam",
+    "districtPatientNumber": "Kollam P 401",
+    "sourceURL": "https://www.facebook.com/dckollam/posts/1647776358707903?__tn__=K-R",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5403,
+    "dateAnnounced": "2020-07-05",
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Kuttivattam",
+    "detectedCityTown": "Kollam",
+    "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on KU 1351 on June 30",
+    "knownCluster": "Kuwait",
     "districtPatientNumber": "Kollam P 402",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1647776358707903?__tn__=K-R",
     "confirmedPatient": true
@@ -73786,14 +73815,14 @@
   {
     "patientId": 5404,
     "dateAnnounced": "2020-07-05",
-    "ageBracket": 40,
-    "gender": "M",
-    "residence": "Kuttivattam",
+    "ageBracket": 49,
+    "gender": "F",
+    "residence": "Pattazhi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait on KU 1351 on June 30",
-    "knownCluster": "Kuwait",
+    "notes": "Travelled from Qatar on AI 1576 on June 16",
+    "knownCluster": "Qatar",
     "districtPatientNumber": "Kollam P 403",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1647776358707903?__tn__=K-R",
     "confirmedPatient": true
@@ -73801,14 +73830,14 @@
   {
     "patientId": 5405,
     "dateAnnounced": "2020-07-05",
-    "ageBracket": 49,
-    "gender": "F",
-    "residence": "Pattazhi",
+    "ageBracket": 2,
+    "gender": "M",
+    "residence": "Karunagappalli",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Qatar on AI 1576 on June 16",
-    "knownCluster": "Qatar",
+    "notes": "Travelled from Dammam on AI 1938 on June 11",
+    "knownCluster": "Dammam",
     "districtPatientNumber": "Kollam P 404",
     "sourceURL": "https://www.facebook.com/dckollam/posts/1647776358707903?__tn__=K-R",
     "confirmedPatient": true
@@ -73816,8 +73845,8 @@
   {
     "patientId": 5406,
     "dateAnnounced": "2020-07-05",
-    "ageBracket": 2,
-    "gender": "M",
+    "ageBracket": 26,
+    "gender": "F",
     "residence": "Karunagappalli",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",

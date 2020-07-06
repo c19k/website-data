@@ -884,7 +884,7 @@
       "confirmed": 405,
       "deaths": 2,
       "confirmedByCity": {
-        "Kollam": 399,
+        "Kollam": 400,
         "Unspecified": 4,
         "Ernakulam": 1
       },
@@ -4624,10 +4624,10 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 317,
+      "female": 318,
       "male": 889,
       "unspecified": 4,
-      "total": 1211
+      "total": 1212
     },
     {
       "ageGroup": "30-39",
@@ -4682,14 +4682,14 @@
       "ageGroup": "Unspecified",
       "female": 87,
       "male": 282,
-      "unspecified": 317,
-      "total": 686
+      "unspecified": 316,
+      "total": 685
     }
   ],
   "gender": {
-    "female": 1139,
+    "female": 1140,
     "male": 3940,
-    "unspecified": 346,
+    "unspecified": 345,
     "total": 5429
   },
   "underObservation": {
