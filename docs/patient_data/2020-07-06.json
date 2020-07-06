@@ -68141,6 +68141,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 25",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68151,28 +68152,33 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 25",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
     "patientId": 4884,
     "dateAnnounced": "2020-07-03",
     "ageBracket": 30,
+    "gender": "M",
     "residence": "Piravom",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "CT from P4882 P4883",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
     "patientId": 4885,
     "dateAnnounced": "2020-07-03",
     "ageBracket": 55,
+    "gender": "F",
     "residence": "Piravom",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "CT from P4882 P4883",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68185,18 +68191,20 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
     "patientId": 4887,
     "dateAnnounced": "2020-07-03",
     "ageBracket": 30,
-    "gender": "M",
+    "gender": "F",
     "residence": "Paingattoor",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "CT from P4887",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68209,6 +68217,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68221,6 +68230,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68233,6 +68243,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68245,6 +68256,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68257,6 +68269,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68269,18 +68282,20 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Pune",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
     "patientId": 4894,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
-    "gender": "M",
+    "ageBracket": 64,
+    "gender": "F",
     "residence": "Chellanam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Pune",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68293,6 +68308,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Damam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68305,6 +68321,7 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Damam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
@@ -68317,141 +68334,202 @@
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Riyadh",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
     "patientId": 4898,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "M",
+    "residence": "Kottayam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1040802989650857",
     "confirmedPatient": true
   },
   {
     "patientId": 4899,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 58,
+    "gender": "F",
+    "residence": "Thellakam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4900,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Ayarkunnam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Pune",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4901,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "F",
+    "residence": "Jharkhand",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Ahmedabad",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4902,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Marangattupilly",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tamil Nadu",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4903,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Madappally",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Sharjah",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4904,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 62,
+    "gender": "F",
+    "residence": "Parathod",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4905,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 3,
+    "gender": "M",
+    "residence": "Karappuzha",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4906,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Thrikkodithanam",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4907,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 62,
+    "gender": "M",
+    "residence": "Vazhappally",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4908,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Kattampakk",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Ras Al Khaimah",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4909,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Thiruvarpp",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mangalore",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4910,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Kangazha",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Sharjah",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4911,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 19,
+    "gender": "M",
+    "residence": "Changanassery",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
     "patientId": 4912,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Eerattupetta",
     "detectedCityTown": "Kottayam",
     "detectedPrefecture": "Kottayam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/diokottayam/posts/1192463974443562",
     "confirmedPatient": true
   },
   {
