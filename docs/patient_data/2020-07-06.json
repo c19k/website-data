@@ -74857,6 +74857,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from TN by road on July 1",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74869,6 +74870,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore on July 3",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74881,6 +74883,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 30",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74893,6 +74896,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 30",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74905,6 +74909,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain on June 24",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74917,6 +74922,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on June 22",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74929,6 +74935,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from MH by road on July 1",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74941,6 +74948,7 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Moldova on June 17",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74952,6 +74960,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT to family member of P 5181",
+    "dhsPatientNumber": "5181",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74963,6 +74973,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT to family member of P 5181",
+    "dhsPatientNumber": "5181",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74974,6 +74986,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT to family member of P 5181",
+    "dhsPatientNumber": "5181",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74985,6 +74999,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT to family member of P 5181",
+    "dhsPatientNumber": "5181",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -74997,6 +75013,8 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT from P 5181",
+    "dhsPatientNumber": "5181",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -75009,11 +75027,52 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT from P 5181",
+    "dhsPatientNumber": "5181",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 5505,
+    "dateAnnounced": "2020-07-06",
+    "ageBracket": 10,
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT to family member of P 4894",
+    "dhsPatientNumber": "4894",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5506,
+    "dateAnnounced": "2020-07-06",
+    "ageBracket": 41,
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT to family member of P 4894",
+    "dhsPatientNumber": "4894",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5507,
+    "dateAnnounced": "2020-07-06",
+    "ageBracket": 43,
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT to family member of P 4894",
+    "dhsPatientNumber": "4894",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5508,
     "dateAnnounced": "2020-07-06",
     "ageBracket": 28,
     "gender": "M",
@@ -75021,11 +75080,13 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT to relatives of P 4886",
+    "dhsPatientNumber": "4886",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 5506,
+    "patientId": 5509,
     "dateAnnounced": "2020-07-06",
     "ageBracket": 32,
     "gender": "M",
@@ -75033,11 +75094,13 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT to relatives of P 4886",
+    "dhsPatientNumber": "4886",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 5507,
+    "patientId": 5510,
     "dateAnnounced": "2020-07-06",
     "ageBracket": 3,
     "gender": "M",
@@ -75045,11 +75108,13 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT to relatives of P 4886",
+    "dhsPatientNumber": "4886",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 5508,
+    "patientId": 5511,
     "dateAnnounced": "2020-07-06",
     "ageBracket": 45,
     "gender": "F",
@@ -75057,11 +75122,12 @@
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "CT to the employee of P ",
     "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
     "confirmedPatient": true
   },
   {
-    "patientId": 5509,
+    "patientId": 5512,
     "dateAnnounced": "2020-07-06",
     "ageBracket": 25,
     "gender": "M",
@@ -75073,7 +75139,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5510,
+    "patientId": 5513,
     "dateAnnounced": "2020-07-06",
     "ageBracket": 24,
     "gender": "M",
@@ -75085,7 +75151,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5511,
+    "patientId": 5514,
     "dateAnnounced": "2020-07-06",
     "ageBracket": 39,
     "gender": "M",
@@ -75097,41 +75163,11 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5512,
+    "patientId": 5515,
     "dateAnnounced": "2020-07-06",
     "ageBracket": 49,
     "gender": "M",
     "residence": "Keezhmad",
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5513,
-    "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5514,
-    "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "sourceURL": "https://www.facebook.com/dcekm/posts/1043090216088801?__tn__=K-R",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5515,
-    "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
