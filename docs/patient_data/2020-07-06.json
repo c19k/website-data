@@ -69816,118 +69816,157 @@
   {
     "patientId": 5002,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Kunnothuparamb",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 5003,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Keezhallur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
     "confirmedPatient": true
   },
   {
     "patientId": 5004,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "F",
+    "residence": "Chittaripparamb",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
     "confirmedPatient": true
   },
   {
     "patientId": 5005,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Mattannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia",
     "confirmedPatient": true
   },
   {
     "patientId": 5006,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Narath",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Damam",
     "confirmedPatient": true
   },
   {
     "patientId": 5007,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Keezhallur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar",
     "confirmedPatient": true
   },
   {
     "patientId": 5008,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Kurumathur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman",
     "confirmedPatient": true
   },
   {
     "patientId": 5009,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Pinarayi",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia",
     "confirmedPatient": true
   },
   {
     "patientId": 5010,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 9,
+    "gender": "M",
+    "residence": "Sreekantapuram",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman",
     "confirmedPatient": true
   },
   {
     "patientId": 5011,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Kolachery",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh",
     "confirmedPatient": true
   },
   {
     "patientId": 5012,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Kannur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
     "confirmedPatient": true
   },
   {
     "patientId": 5013,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "M",
+    "residence": "Mokeri",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore",
     "confirmedPatient": true
   },
   {
     "patientId": 5014,
     "dateAnnounced": "2020-07-04",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Kuthiyattoor",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Sri Nagar",
     "confirmedPatient": true
   },
   {
@@ -70123,8 +70162,8 @@
     "patientId": 5036,
     "dateAnnounced": "2020-07-04",
     "ageBracket": -1,
-    "detectedCityTown": "Palakkad",
-    "detectedPrefecture": "Palakkad",
+    "detectedCityTown": "Kannur",
+    "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -75454,6 +75493,7 @@
     "patientId": 5563,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75462,6 +75502,7 @@
     "patientId": 5564,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75470,6 +75511,7 @@
     "patientId": 5565,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75478,6 +75520,7 @@
     "patientId": 5566,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75486,6 +75529,7 @@
     "patientId": 5567,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75494,6 +75538,7 @@
     "patientId": 5568,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75502,6 +75547,7 @@
     "patientId": 5569,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75510,6 +75556,7 @@
     "patientId": 5570,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75518,6 +75565,7 @@
     "patientId": 5571,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75526,6 +75574,7 @@
     "patientId": 5572,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75534,6 +75583,7 @@
     "patientId": 5573,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75542,6 +75592,7 @@
     "patientId": 5574,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75550,6 +75601,7 @@
     "patientId": 5575,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75558,6 +75610,7 @@
     "patientId": 5576,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75566,6 +75619,7 @@
     "patientId": 5577,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75574,6 +75628,7 @@
     "patientId": 5578,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75582,6 +75637,7 @@
     "patientId": 5579,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75590,6 +75646,7 @@
     "patientId": 5580,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75598,6 +75655,7 @@
     "patientId": 5581,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75606,6 +75664,7 @@
     "patientId": 5582,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75614,6 +75673,7 @@
     "patientId": 5583,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75622,6 +75682,7 @@
     "patientId": 5584,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75630,6 +75691,7 @@
     "patientId": 5585,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75638,6 +75700,7 @@
     "patientId": 5586,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75646,6 +75709,7 @@
     "patientId": 5587,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Pathanamthitta",
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75654,6 +75718,7 @@
     "patientId": 5588,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75662,6 +75727,7 @@
     "patientId": 5589,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75670,6 +75736,7 @@
     "patientId": 5590,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75678,6 +75745,7 @@
     "patientId": 5591,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75686,6 +75754,7 @@
     "patientId": 5592,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75694,6 +75763,7 @@
     "patientId": 5593,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75702,6 +75772,7 @@
     "patientId": 5594,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75710,6 +75781,7 @@
     "patientId": 5595,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75718,6 +75790,7 @@
     "patientId": 5596,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75726,6 +75799,7 @@
     "patientId": 5597,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75734,6 +75808,7 @@
     "patientId": 5598,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75742,6 +75817,7 @@
     "patientId": 5599,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75750,6 +75826,7 @@
     "patientId": 5600,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75758,6 +75835,7 @@
     "patientId": 5601,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75766,6 +75844,7 @@
     "patientId": 5602,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75774,6 +75853,7 @@
     "patientId": 5603,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75782,6 +75862,7 @@
     "patientId": 5604,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75790,6 +75871,7 @@
     "patientId": 5605,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75798,6 +75880,7 @@
     "patientId": 5606,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75806,6 +75889,7 @@
     "patientId": 5607,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75814,6 +75898,7 @@
     "patientId": 5608,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75822,6 +75907,7 @@
     "patientId": 5609,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75830,6 +75916,7 @@
     "patientId": 5610,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75838,6 +75925,7 @@
     "patientId": 5611,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75846,6 +75934,7 @@
     "patientId": 5612,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75854,6 +75943,7 @@
     "patientId": 5613,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75862,6 +75952,7 @@
     "patientId": 5614,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75870,6 +75961,7 @@
     "patientId": 5615,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75878,6 +75970,7 @@
     "patientId": 5616,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75886,6 +75979,7 @@
     "patientId": 5617,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75894,6 +75988,7 @@
     "patientId": 5618,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75902,6 +75997,7 @@
     "patientId": 5619,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75910,6 +76006,7 @@
     "patientId": 5620,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75918,6 +76015,7 @@
     "patientId": 5621,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -75926,6 +76024,7 @@
     "patientId": 5622,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
