@@ -67505,6 +67505,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Riyadh",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
@@ -67517,6 +67518,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
@@ -67529,6 +67531,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Oman",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
@@ -67541,6 +67544,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
@@ -67553,6 +67557,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
@@ -67565,6 +67570,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Oman",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
@@ -67577,6 +67583,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
@@ -67589,6 +67596,7 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Oman",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
@@ -67600,87 +67608,125 @@
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
     "patientId": 4838,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Mumbai",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi; airline crew",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
     "patientId": 4839,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Pinarayi",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
     "patientId": 4840,
     "dateAnnounced": "2020-07-03",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Peringome",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
     "patientId": 4841,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Assam",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "CISF",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
     "patientId": 4842,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Madhya Pradesh",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "CISF",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
     "patientId": 4843,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Tamil Nadu",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "CISF",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
     "patientId": 4844,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kerala",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "CISF",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
     "patientId": 4845,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kerala",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "CISF",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
     "patientId": 4846,
     "dateAnnounced": "2020-07-03",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Kerala",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "CISF",
+    "sourceURL": "https://epaper.deshabhimani.com/2736634/Kannur/Kannur-04-July-2020#page/3/2",
     "confirmedPatient": true
   },
   {
