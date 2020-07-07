@@ -76474,11 +76474,12 @@
     "patientId": 5554,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
-    "residence": "Thirumuttikodu",
+    "residence": "Thirumuttiaodu",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai Tamil Nadu",
+    "knownCluster": "Tamil Nadu",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/",
     "confirmedPatient": true
   },
@@ -76491,6 +76492,7 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/",
     "confirmedPatient": true
   },
@@ -76503,6 +76505,8 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/",
     "confirmedPatient": true
   },
   {
@@ -76514,6 +76518,8 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia ",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/",
     "confirmedPatient": true
   },
   {
@@ -76525,6 +76531,8 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/",
     "confirmedPatient": true
   },
   {
@@ -76536,6 +76544,8 @@
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/",
     "confirmedPatient": true
   },
   {
@@ -76546,15 +76556,22 @@
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/",
     "confirmedPatient": true
   },
   {
     "patientId": 5561,
     "dateAnnounced": "2020-07-06",
     "ageBracket": -1,
+    "residence": "Kumbidi",
     "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "CT to doctor, currently admitted in Malappuram",
+    "knownCluster": "Malappuram",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/",
     "confirmedPatient": true
   },
   {
