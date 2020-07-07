@@ -4624,13 +4624,13 @@
     {
       "confirmed": 272,
       "recoveredCumulative": 3452,
-      "deceasedCumulative": 28,
+      "deceasedCumulative": 27,
       "criticalCumulative": 1,
       "testedCumulative": 283339,
       "observationCumulative": 186576,
       "homeObservationCumulative": 183542,
       "hosptilisedCumulative": 3034,
-      "activeCumulative": 2412,
+      "activeCumulative": 2411,
       "status": "Reviewing",
       "date": "2020-07-07",
       "confirmedCumulative": 5894,
@@ -4714,15 +4714,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 88,
-      "male": 318,
-      "unspecified": 394,
+      "male": 331,
+      "unspecified": 381,
       "total": 800
     }
   ],
   "gender": {
     "female": 1205,
-    "male": 4248,
-    "unspecified": 436,
+    "male": 4261,
+    "unspecified": 423,
     "total": 5894
   },
   "underObservation": {
