@@ -1,5 +1,5 @@
 {
-  "updated": "2020-07-06 21:20",
+  "updated": "2020-07-07 17:14",
   "prefectures": [
     {
       "confirmed": 692,
@@ -1419,7 +1419,7 @@
       "confirmed": 339,
       "deaths": 2,
       "confirmedByCity": {
-        "Ernakulam": 323,
+        "Ernakulam": 335,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -1773,7 +1773,7 @@
       "confirmed": 291,
       "deaths": 5,
       "confirmedByCity": {
-        "Thiruvananthapuram": 262,
+        "Thiruvananthapuram": 289,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -4631,6 +4631,7 @@
       "homeObservationCumulative": 180316,
       "hosptilisedCumulative": 2975,
       "activeCumulative": 2252,
+      "status": "Reviewing",
       "date": "2020-07-07",
       "confirmedCumulative": 5622,
       "confirmedAvg3d": 139,
@@ -4642,52 +4643,52 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 98,
-      "male": 104,
+      "female": 100,
+      "male": 106,
       "unspecified": 15,
-      "total": 217
+      "total": 221
     },
     {
       "ageGroup": "10-19",
-      "female": 83,
-      "male": 132,
+      "female": 85,
+      "male": 134,
       "unspecified": 5,
-      "total": 220
+      "total": 224
     },
     {
       "ageGroup": "20-29",
-      "female": 329,
-      "male": 943,
+      "female": 333,
+      "male": 949,
       "unspecified": 6,
-      "total": 1279
+      "total": 1289
     },
     {
       "ageGroup": "30-39",
-      "female": 207,
-      "male": 1077,
+      "female": 209,
+      "male": 1082,
       "unspecified": 1,
-      "total": 1287
+      "total": 1294
     },
     {
       "ageGroup": "40-49",
-      "female": 157,
-      "male": 839,
+      "female": 158,
+      "male": 845,
       "unspecified": 4,
-      "total": 1000
+      "total": 1007
     },
     {
       "ageGroup": "50-59",
       "female": 130,
-      "male": 520,
+      "male": 523,
       "unspecified": 3,
-      "total": 654
+      "total": 657
     },
     {
       "ageGroup": "60-69",
       "female": 52,
-      "male": 186,
+      "male": 189,
       "unspecified": 0,
-      "total": 238
+      "total": 241
     },
     {
       "ageGroup": "70-79",
@@ -4714,15 +4715,15 @@
       "ageGroup": "Unspecified",
       "female": 88,
       "male": 308,
-      "unspecified": 260,
-      "total": 656
+      "unspecified": 422,
+      "total": 818
     }
   ],
   "gender": {
-    "female": 1177,
-    "male": 4143,
-    "unspecified": 298,
-    "total": 5622
+    "female": 1188,
+    "male": 4170,
+    "unspecified": 460,
+    "total": 5822
   },
   "underObservation": {
     "2020-01-31": {
