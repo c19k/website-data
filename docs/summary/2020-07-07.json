@@ -5,7 +5,7 @@
       "confirmed": 755,
       "deaths": 4,
       "confirmedByCity": {
-        "Malappuram": 678,
+        "Malappuram": 741,
         "Palakkad": 1,
         "Kozhikode": 9,
         "Ernakulam": 4
@@ -183,7 +183,7 @@
       "confirmed": 673,
       "deaths": 1,
       "confirmedByCity": {
-        "Palakkad": 641,
+        "Palakkad": 670,
         "Ernakulam": 2,
         "Malappuram": 1
       },
@@ -361,7 +361,7 @@
       "deaths": 4,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 599
+        "Kannur": 618
       },
       "dailyConfirmedCount": [
         0,
@@ -536,7 +536,7 @@
       "confirmed": 534,
       "deaths": 0,
       "confirmedByCity": {
-        "Kasaragod": 519,
+        "Kasaragod": 532,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -713,7 +713,7 @@
       "confirmed": 505,
       "deaths": 3,
       "confirmedByCity": {
-        "Thrissur": 493,
+        "Thrissur": 503,
         "Ernakulam": 2
       },
       "dailyConfirmedCount": [
@@ -1066,7 +1066,7 @@
       "confirmed": 411,
       "deaths": 1,
       "confirmedByCity": {
-        "Alappuzha": 393
+        "Alappuzha": 411
       },
       "dailyConfirmedCount": [
         0,
@@ -1241,7 +1241,7 @@
       "confirmed": 392,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 375,
+        "Pathanamthitta": 387,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -1419,7 +1419,7 @@
       "confirmed": 360,
       "deaths": 2,
       "confirmedByCity": {
-        "Ernakulam": 335,
+        "Ernakulam": 356,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -1595,7 +1595,7 @@
       "confirmed": 347,
       "deaths": 2,
       "confirmedByCity": {
-        "Kozhikode": 328,
+        "Kozhikode": 343,
         "Chennai": 1,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -1773,7 +1773,7 @@
       "confirmed": 345,
       "deaths": 5,
       "confirmedByCity": {
-        "Thiruvananthapuram": 289,
+        "Thiruvananthapuram": 343,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -1950,7 +1950,7 @@
       "confirmed": 270,
       "deaths": 0,
       "confirmedByCity": {
-        "Kottayam": 266,
+        "Kottayam": 269,
         "Ernakulam": 1
       },
       "dailyConfirmedCount": [
@@ -4658,37 +4658,37 @@
     {
       "ageGroup": "20-29",
       "female": 341,
-      "male": 994,
+      "male": 1002,
       "unspecified": 6,
-      "total": 1342
+      "total": 1350
     },
     {
       "ageGroup": "30-39",
-      "female": 214,
-      "male": 1122,
+      "female": 215,
+      "male": 1127,
       "unspecified": 1,
-      "total": 1340
+      "total": 1346
     },
     {
       "ageGroup": "40-49",
       "female": 161,
-      "male": 880,
+      "male": 883,
       "unspecified": 5,
-      "total": 1046
+      "total": 1049
     },
     {
       "ageGroup": "50-59",
       "female": 134,
-      "male": 539,
+      "male": 543,
       "unspecified": 3,
-      "total": 677
+      "total": 681
     },
     {
       "ageGroup": "60-69",
       "female": 54,
-      "male": 194,
+      "male": 195,
       "unspecified": 1,
-      "total": 249
+      "total": 250
     },
     {
       "ageGroup": "70-79",
@@ -4715,14 +4715,14 @@
       "ageGroup": "Unspecified",
       "female": 90,
       "male": 340,
-      "unspecified": 278,
-      "total": 708
+      "unspecified": 256,
+      "total": 686
     }
   ],
   "gender": {
-    "female": 1215,
-    "male": 4354,
-    "unspecified": 320,
+    "female": 1216,
+    "male": 4375,
+    "unspecified": 298,
     "total": 5894
   },
   "underObservation": {
