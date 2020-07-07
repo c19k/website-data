@@ -80287,6 +80287,7 @@
     "patientId": 5880,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80295,6 +80296,7 @@
     "patientId": 5881,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80303,6 +80305,7 @@
     "patientId": 5882,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80311,6 +80314,7 @@
     "patientId": 5883,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80319,6 +80323,7 @@
     "patientId": 5884,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80327,6 +80332,7 @@
     "patientId": 5885,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80335,6 +80341,7 @@
     "patientId": 5886,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80343,6 +80350,7 @@
     "patientId": 5887,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80351,6 +80359,7 @@
     "patientId": 5888,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80359,6 +80368,7 @@
     "patientId": 5889,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80367,6 +80377,7 @@
     "patientId": 5890,
     "dateAnnounced": "2020-07-07",
     "ageBracket": -1,
+    "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -80374,33 +80385,50 @@
   {
     "patientId": 5891,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Kalppatta",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia",
     "confirmedPatient": true
   },
   {
     "patientId": 5892,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "F",
+    "residence": "Kolagappara",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 5893,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Kenichira",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Hyderabad",
     "confirmedPatient": true
   },
   {
     "patientId": 5894,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Kodikkulam",
+    "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=610243286565101&id=230880581168042",
     "confirmedPatient": true
   }
 ]
