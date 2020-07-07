@@ -73882,6 +73882,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 297",
     "confirmedPatient": true
   },
   {
@@ -73890,6 +73891,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 298",
     "confirmedPatient": true
   },
   {
@@ -73898,6 +73900,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 299",
     "confirmedPatient": true
   },
   {
@@ -73906,6 +73909,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 300",
     "confirmedPatient": true
   },
   {
@@ -73914,6 +73918,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 301",
     "confirmedPatient": true
   },
   {
@@ -73922,6 +73927,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 302",
     "confirmedPatient": true
   },
   {
@@ -73930,6 +73936,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 303",
     "confirmedPatient": true
   },
   {
@@ -73938,6 +73945,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 304",
     "confirmedPatient": true
   },
   {
@@ -73946,6 +73954,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 305",
     "confirmedPatient": true
   },
   {
@@ -73954,6 +73963,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 306",
     "confirmedPatient": true
   },
   {
@@ -73962,6 +73972,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 307",
     "confirmedPatient": true
   },
   {
@@ -73970,6 +73981,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 308",
     "confirmedPatient": true
   },
   {
@@ -73978,6 +73990,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 309",
     "confirmedPatient": true
   },
   {
@@ -73986,6 +73999,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 310",
     "confirmedPatient": true
   },
   {
@@ -73994,6 +74008,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 311",
     "confirmedPatient": true
   },
   {
@@ -74002,6 +74017,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 312",
     "confirmedPatient": true
   },
   {
@@ -74010,6 +74026,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 313",
     "confirmedPatient": true
   },
   {
@@ -74018,6 +74035,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 314",
     "confirmedPatient": true
   },
   {
@@ -74026,6 +74044,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 315",
     "confirmedPatient": true
   },
   {
@@ -74034,6 +74053,7 @@
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
+    "districtPatientNumber": "KKD P 316",
     "confirmedPatient": true
   },
   {
@@ -76547,166 +76567,226 @@
   {
     "patientId": 5594,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Vellayil",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 297",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Inmates of an apartment in Kkd. CT from P ",
+    "knownCluster": "Kozhikode",
+    "districtPatientNumber": "KKD P 317",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265253",
     "confirmedPatient": true
   },
   {
     "patientId": 5595,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Vellayil",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 298",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Inmates of an apartment in Kkd. CT from P ",
+    "knownCluster": "Kozhikode",
+    "districtPatientNumber": "KKD P 318",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265254",
     "confirmedPatient": true
   },
   {
     "patientId": 5596,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "F",
+    "residence": "Vellayil",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 299",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Inmates of an apartment in Kkd. CT from P ",
+    "knownCluster": "Kozhikode",
+    "districtPatientNumber": "KKD P 319",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265255",
     "confirmedPatient": true
   },
   {
     "patientId": 5597,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "F",
+    "residence": "Vellayil",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 300",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Inmates of an apartment in Kkd. CT from P ",
+    "knownCluster": "Kozhikode",
+    "districtPatientNumber": "KKD P 320",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265256",
     "confirmedPatient": true
   },
   {
     "patientId": 5598,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 70,
+    "gender": "F",
+    "residence": "Perambra",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 301",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Inmates of an apartment in Kkd. CT from P ",
+    "knownCluster": "Kozhikode",
+    "districtPatientNumber": "KKD P 321",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265257",
     "confirmedPatient": true
   },
   {
     "patientId": 5599,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 10,
+    "gender": "M",
+    "residence": "Vellayil",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 302",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Inmates of an apartment in Kkd. CT from P ",
+    "knownCluster": "Kozhikode",
+    "districtPatientNumber": "KKD P 322",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265258",
     "confirmedPatient": true
   },
   {
     "patientId": 5600,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Thooneri",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 303",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "districtPatientNumber": "KKD P 323",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265259",
     "confirmedPatient": true
   },
   {
     "patientId": 5601,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Kodanchery",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 304",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "districtPatientNumber": "KKD P 324",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265260",
     "confirmedPatient": true
   },
   {
     "patientId": 5602,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Payyoli",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 305",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
+    "districtPatientNumber": "KKD P 325",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265261",
     "confirmedPatient": true
   },
   {
     "patientId": 5603,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Aayancheri",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 306",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Travelled from Sharjah",
+    "knownCluster": "Sharjah",
+    "districtPatientNumber": "KKD P 326",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265262",
     "confirmedPatient": true
   },
   {
     "patientId": 5604,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "F",
+    "residence": "Meppayur",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 307",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Travelled from Mangalore",
+    "knownCluster": "Mangalore",
+    "districtPatientNumber": "KKD P 327",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265263",
     "confirmedPatient": true
   },
   {
     "patientId": 5605,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 14,
+    "gender": "F",
+    "residence": "Meppayur",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 308",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Travelled from Mangalore",
+    "knownCluster": "Mangalore",
+    "districtPatientNumber": "KKD P 328",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265264",
     "confirmedPatient": true
   },
   {
     "patientId": 5606,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Eramala",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 309",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "districtPatientNumber": "KKD P 329",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265265",
     "confirmedPatient": true
   },
   {
     "patientId": 5607,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "F",
+    "residence": "Eramala",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 310",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "districtPatientNumber": "KKD P 330",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265266",
     "confirmedPatient": true
   },
   {
     "patientId": 5608,
     "dateAnnounced": "2020-07-06",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Aayancheri",
     "detectedCityTown": "Kozhikode",
     "detectedPrefecture": "Kozhikode",
     "patientStatus": "Hospitalized",
-    "districtPatientNumber": "KKD P 311",
-    "sourceURL": "https://www.manoramaonline.com/district-news/kozhikode/2020/07/07/kozhikode-15-people-tested-with-covid.html",
+    "notes": "Travelled from Riyadh",
+    "knownCluster": "Riyadh",
+    "districtPatientNumber": "KKD P 331",
+    "sourceURL": "https://epaper.deshabhimani.com/c/53265267",
     "confirmedPatient": true
   },
   {
