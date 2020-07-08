@@ -83543,226 +83543,330 @@
   {
     "patientId": 6005,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "M",
+    "residence": "Lakshadweep",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled fro Lakshadweep; BSF",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6006,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 5,
+    "gender": "F",
+    "residence": "Valakkav",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "CT from BSF",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6007,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "F",
+    "residence": "Valakkav",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "CT from BSF",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6008,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Valakkav",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "CT from BSF",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6009,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Trivandrum",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Thiruvananthapura; BSF",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6010,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Jaipur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jaipur BSF",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6011,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "M",
+    "residence": "Madhya Pradesh",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Madhya Pradesh;  BSF",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6012,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Kanpur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kanpur;  BSF",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6013,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "M",
+    "residence": "Pathanamthitta",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Pathanamthitta; BSF",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6014,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Kumaranellur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6015,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Kallur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Muscat",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6016,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 1,
+    "gender": "M",
+    "residence": "Methala",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6017,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Koolimuttam",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6018,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Veloor",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6019,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Vadanappally",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6020,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 68,
+    "gender": "F",
+    "residence": "Kodungallur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6021,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Pazhuvil",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6022,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Eriyad",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6023,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 53,
+    "gender": "M",
+    "residence": "Kodungallur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6024,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Kodungallur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6025,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 60,
+    "gender": "M",
+    "residence": "Kodungallur",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "knownCluster": "Tamilnadu",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6026,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "F",
+    "residence": "Azhikode",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "knownCluster": "Tamilnadu",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6027,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "F",
+    "residence": "Velukkara",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "knownCluster": "Maharashtra",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6028,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Kuttichira",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
     "patientId": 6029,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 58,
+    "gender": "M",
+    "residence": "Velukkara",
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
   {
@@ -84296,8 +84400,9 @@
     "detectedCityTown": "Idukki",
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Cmbum on June 5 via Kumili",
+    "notes": "Travelled from Cumbum on June 5 via Kumili",
     "knownCluster": "Cumbum",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84311,6 +84416,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai to Kochi",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84324,6 +84430,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 18",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84337,6 +84444,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tirunelveli to Tvm on June 22",
     "knownCluster": "Tirunelveli",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84350,6 +84458,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Tamil nadu on June 27",
     "knownCluster": "Thoothukudi",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84363,6 +84472,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Villupuram on June 24",
     "knownCluster": "Viluppuram",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84376,6 +84486,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mangalore on June 27",
     "knownCluster": "Mangalore",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84389,6 +84500,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Hyderabad on july 5",
     "knownCluster": "Hyderabad",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84402,6 +84514,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on july 2",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84414,7 +84527,8 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah on June 25",
-    "knownCluster": "Sharjahh",
+    "knownCluster": "Sharjah",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84427,7 +84541,8 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah on June 26",
-    "knownCluster": "Sharjahh",
+    "knownCluster": "Sharjah",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84440,7 +84555,8 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah on June 25",
-    "knownCluster": "Sharjahh",
+    "knownCluster": "Sharjah",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84454,6 +84570,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Doha on June 24",
     "knownCluster": "Doha",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84467,6 +84584,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abu Dhabi on June 26",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84480,6 +84598,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on June 27",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84493,6 +84612,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 26",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84505,6 +84625,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from West Bengal on June 24",
     "knownCluster": "West Bengal",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84517,6 +84638,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from West Bengal on June 24",
     "knownCluster": "West Bengal",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84529,7 +84651,8 @@
     "detectedPrefecture": "Idukki",
     "patientStatus": "Hospitalized",
     "notes": "CT from 2 patients confirmed on June 29",
-    "knownCluster": "Cumbum",
+    "knownCluster": "Idukki",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
@@ -84543,6 +84666,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to staff nurse in 108 ambulance",
     "knownCluster": "Idukki",
+    "sourceURL": "https://www.facebook.com/490415788059158/posts/977731042660961/",
     "confirmedPatient": true
   },
   {
