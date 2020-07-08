@@ -4697,16 +4697,16 @@
     {
       "ageGroup": "30-39",
       "female": 225,
-      "male": 1176,
+      "male": 1174,
       "unspecified": 1,
-      "total": 1405
+      "total": 1403
     },
     {
       "ageGroup": "40-49",
       "female": 164,
-      "male": 925,
+      "male": 924,
       "unspecified": 5,
-      "total": 1094
+      "total": 1093
     },
     {
       "ageGroup": "50-59",
@@ -4753,7 +4753,7 @@
   ],
   "gender": {
     "female": 1264,
-    "male": 4554,
+    "male": 4551,
     "unspecified": 372,
     "total": 6195
   },

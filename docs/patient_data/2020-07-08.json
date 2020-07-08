@@ -79150,8 +79150,7 @@
   {
     "patientId": 5666,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": 33,
-    "gender": "M",
+    "ageBracket": -1,
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
@@ -79160,8 +79159,7 @@
   {
     "patientId": 5667,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": 37,
-    "gender": "M",
+    "ageBracket": -1,
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
@@ -79170,8 +79168,7 @@
   {
     "patientId": 5668,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": 45,
-    "gender": "M",
+    "ageBracket": -1,
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
