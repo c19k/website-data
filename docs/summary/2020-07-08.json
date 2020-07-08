@@ -4674,52 +4674,52 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 105,
-      "male": 113,
+      "female": 111,
+      "male": 114,
       "unspecified": 19,
-      "total": 237
+      "total": 244
     },
     {
       "ageGroup": "10-19",
-      "female": 86,
-      "male": 138,
+      "female": 88,
+      "male": 139,
       "unspecified": 7,
-      "total": 231
+      "total": 234
     },
     {
       "ageGroup": "20-29",
-      "female": 345,
-      "male": 1014,
+      "female": 346,
+      "male": 1017,
       "unspecified": 20,
-      "total": 1380
+      "total": 1384
     },
     {
       "ageGroup": "30-39",
-      "female": 218,
-      "male": 1148,
+      "female": 224,
+      "male": 1152,
       "unspecified": 13,
-      "total": 1382
+      "total": 1392
     },
     {
       "ageGroup": "40-49",
-      "female": 161,
-      "male": 898,
+      "female": 164,
+      "male": 903,
       "unspecified": 18,
-      "total": 1077
+      "total": 1085
     },
     {
       "ageGroup": "50-59",
-      "female": 136,
-      "male": 563,
+      "female": 139,
+      "male": 566,
       "unspecified": 9,
-      "total": 709
+      "total": 715
     },
     {
       "ageGroup": "60-69",
-      "female": 54,
-      "male": 200,
+      "female": 55,
+      "male": 204,
       "unspecified": 3,
-      "total": 257
+      "total": 262
     },
     {
       "ageGroup": "70-79",
@@ -4730,10 +4730,10 @@
     },
     {
       "ageGroup": "80-89",
-      "female": 10,
+      "female": 11,
       "male": 12,
       "unspecified": 0,
-      "total": 22
+      "total": 23
     },
     {
       "ageGroup": "90-100",
@@ -4746,14 +4746,14 @@
       "ageGroup": "Unspecified",
       "female": 91,
       "male": 350,
-      "unspecified": 106,
-      "total": 547
+      "unspecified": 62,
+      "total": 503
     }
   ],
   "gender": {
-    "female": 1230,
-    "male": 4460,
-    "unspecified": 199,
+    "female": 1253,
+    "male": 4481,
+    "unspecified": 155,
     "total": 5894
   },
   "underObservation": {
