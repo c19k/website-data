@@ -78148,6 +78148,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "CT Unknown",
+    "knownCluster": "unknown",
     "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
@@ -78161,6 +78162,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "CT Unknown",
+    "knownCluster": "Alangodu",
     "confirmedPatient": true
   },
   {
@@ -78172,7 +78174,8 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "CT Unknown, Municipal Councilor",
+    "notes": "CT Unknown, Lottery agent ",
+    "knownCluster": "Alangodu",
     "confirmedPatient": true
   },
   {
@@ -78184,7 +78187,8 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "CT Unknown, Nurse at Primary Health Centre",
+    "notes": "CT Unknown, Municipal Councilor",
+    "knownCluster": "Ponnani",
     "confirmedPatient": true
   },
   {
@@ -78196,7 +78200,8 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "CT Unknown, Police officer",
+    "notes": "CT Unknown, Nurse at Primary Health Centre",
+    "knownCluster": "Ponnani",
     "confirmedPatient": true
   },
   {
@@ -78208,6 +78213,8 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT Unknown, Police officer",
+    "knownCluster": "Ponnani",
     "confirmedPatient": true
   },
   {
@@ -78219,39 +78226,55 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT Unkown,  Ponnani municipal employee,",
+    "knownCluster": "Ponnani",
     "confirmedPatient": true
   },
   {
     "patientId": 5630,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 21,
+    "gender": "M",
+    "residence": "Ponnani",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT Unkown,  Ponnani Corona care volunteer",
+    "knownCluster": "Ponnani",
     "confirmedPatient": true
   },
   {
     "patientId": 5631,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 38,
+    "gender": "M",
+    "residence": "Palamppeti",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT Unkown,  Fish monger",
+    "knownCluster": "unknown",
     "confirmedPatient": true
   },
   {
     "patientId": 5632,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 38,
+    "gender": "M",
+    "residence": "Ponnani",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT from infected doctor",
+    "knownCluster": "Sukapuram",
     "confirmedPatient": true
   },
   {
     "patientId": 5633,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 85,
+    "gender": "F",
+    "residence": "Cheeran",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
