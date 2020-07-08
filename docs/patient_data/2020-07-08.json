@@ -79188,11 +79188,11 @@
     "dateAnnounced": "2020-07-07",
     "ageBracket": 45,
     "gender": "M",
-    "residence": "Valavannoor",
+    "residence": "Kodoor",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Kuwait to CNN on June 21",
+    "notes": "Travelled from Jeddh to COK on June 21",
     "confirmedPatient": true
   },
   {
@@ -79200,9 +79200,11 @@
     "dateAnnounced": "2020-07-07",
     "ageBracket": 30,
     "gender": "M",
+    "residence": "Valavannoor",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwair to CNN on July 6",
     "confirmedPatient": true
   },
   {
@@ -79210,9 +79212,11 @@
     "dateAnnounced": "2020-07-07",
     "ageBracket": 48,
     "gender": "M",
+    "residence": "Tirur",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyad to CJJ on June 22",
     "confirmedPatient": true
   },
   {
@@ -79220,9 +79224,11 @@
     "dateAnnounced": "2020-07-07",
     "ageBracket": 54,
     "gender": "M",
+    "residence": "Thanoor",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Daman to CNN on July 3",
     "confirmedPatient": true
   },
   {
@@ -79230,9 +79236,11 @@
     "dateAnnounced": "2020-07-07",
     "ageBracket": 38,
     "gender": "M",
+    "residence": "Edavanna",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Baharain to CJJ on July 3",
     "confirmedPatient": true
   },
   {
@@ -79240,9 +79248,11 @@
     "dateAnnounced": "2020-07-07",
     "ageBracket": 35,
     "gender": "M",
+    "residence": "Cheriyamundam",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Abu Dhabi to CJJ on June 12",
     "confirmedPatient": true
   },
   {
@@ -79250,9 +79260,11 @@
     "dateAnnounced": "2020-07-07",
     "ageBracket": 54,
     "gender": "F",
+    "residence": "Kottakkal",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyad to CJJ on June 3",
     "confirmedPatient": true
   },
   {
@@ -79260,9 +79272,11 @@
     "dateAnnounced": "2020-07-07",
     "ageBracket": 28,
     "gender": "M",
+    "residence": "Vazhikkadavu",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Daman to CJJ on July 3",
     "confirmedPatient": true
   },
   {
@@ -79273,6 +79287,7 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah to CJJ on July 3",
     "confirmedPatient": true
   },
   {
@@ -79338,7 +79353,7 @@
   {
     "patientId": 5683,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
+    "ageBracket": 50,
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
