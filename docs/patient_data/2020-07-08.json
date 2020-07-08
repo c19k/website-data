@@ -78163,6 +78163,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT Unknown",
     "knownCluster": "Alangodu",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -78176,6 +78177,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT Unknown, Lottery agent ",
     "knownCluster": "Alangodu",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -78189,6 +78191,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT Unknown, Municipal Councilor",
     "knownCluster": "Ponnani",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -78202,6 +78205,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT Unknown, Nurse at Primary Health Centre",
     "knownCluster": "Ponnani",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -78215,6 +78219,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT Unknown, Police officer",
     "knownCluster": "Ponnani",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -78228,6 +78233,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT Unkown,  Ponnani municipal employee,",
     "knownCluster": "Ponnani",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -78241,6 +78247,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT Unkown,  Ponnani Corona care volunteer",
     "knownCluster": "Ponnani",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -78254,6 +78261,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT Unkown,  Fish monger",
     "knownCluster": "unknown",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -78267,6 +78275,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT from infected doctor",
     "knownCluster": "Sukapuram",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
   {
@@ -78278,15 +78287,20 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT from infected patient on 22nd Cheeran beach",
+    "sourceURL": "https://www.facebook.com/informationofficemalappuram/posts/178390226973229?__tn__=K-R",
     "confirmedPatient": true
   },
   {
     "patientId": 5634,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 34,
+    "gender": "F",
+    "residence": "Kuttipuram",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT from unknown sources, Medical Officer Vattamkulam",
     "confirmedPatient": true
   },
   {
