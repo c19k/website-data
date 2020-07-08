@@ -83550,6 +83550,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled fro Lakshadweep; BSF",
+    "knownCluster": "Lakshadweep",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83563,6 +83564,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "CT from BSF",
+    "knownCluster": "Thrissur",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83576,6 +83578,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "CT from BSF",
+    "knownCluster": "Thrissur",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83589,6 +83592,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "CT from BSF",
+    "knownCluster": "Thrissur",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83601,7 +83605,8 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Thiruvananthapura; BSF",
+    "notes": "Travelled from Thiruvananthapuram; BSF",
+    "knownCluster": "Thiruvananthapuram",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83615,6 +83620,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Jaipur BSF",
+    "knownCluster": "Jaipur",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83628,6 +83634,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Madhya Pradesh;  BSF",
+    "knownCluster": "Madhya Pradesh",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83641,6 +83648,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kanpur;  BSF",
+    "knownCluster": "Kanpur",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83654,6 +83662,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Pathanamthitta; BSF",
+    "knownCluster": "Pathanamthitta",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83667,6 +83676,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83680,6 +83690,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscat",
+    "knownCluster": "Muscat",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83693,6 +83704,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83706,6 +83718,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai",
+    "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83719,6 +83732,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83732,6 +83746,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia",
+    "knownCluster": "Saudi Arabia",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83745,6 +83760,7 @@
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
   },
@@ -83813,6 +83829,7 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tamil Nadu",
     "knownCluster": "Tamilnadu",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
@@ -83826,6 +83843,7 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tamil Nadu",
     "knownCluster": "Tamilnadu",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
@@ -83839,6 +83857,7 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
     "knownCluster": "Maharashtra",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
@@ -83852,6 +83871,7 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai",
     "knownCluster": "Dubai",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
@@ -83865,6 +83885,7 @@
     "detectedCityTown": "Thrissur",
     "detectedPrefecture": "Thrissur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
     "knownCluster": "Chennai",
     "sourceURL": "https://www.facebook.com/prdthrissur/posts/3298788620188824",
     "confirmedPatient": true
