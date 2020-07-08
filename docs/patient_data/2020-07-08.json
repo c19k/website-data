@@ -78888,9 +78888,11 @@
     "dateAnnounced": "2020-07-07",
     "ageBracket": 47,
     "gender": "M",
+    "residence": "Purathoor",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha to CCJ on June 30",
     "confirmedPatient": true
   },
   {
@@ -78898,13 +78900,116 @@
     "dateAnnounced": "2020-07-07",
     "ageBracket": 40,
     "gender": "M",
+    "residence": "Irumbuzhi",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah to CNN on June 24",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5645,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 30,
+    "gender": "F",
+    "residence": "Vandoor",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh to CJJ on July 3",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5646,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Karulayi",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha to CCJ on July 7",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5647,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Chungathara",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha to CCJ on June 25",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5648,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 27,
+    "gender": "F",
+    "residence": "Vazhikkadavu",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh to COK on June 19",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5649,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Vazhikkadavu",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai to CCJ on June 21",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5650,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 28,
+    "gender": "F",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah to CNN on June 24",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5651,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 44,
+    "gender": "M",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
-    "patientId": 5645,
+    "patientId": 5652,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 29,
+    "gender": "M",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5653,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 62,
+    "gender": "M",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5654,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 30,
     "gender": "F",
@@ -78914,92 +79019,10 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5646,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": 27,
-    "gender": "M",
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5647,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": 41,
-    "gender": "M",
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5648,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5649,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5650,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5651,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5652,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5653,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5654,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
     "patientId": 5655,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
+    "ageBracket": 10,
+    "gender": "M",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
@@ -79008,7 +79031,8 @@
   {
     "patientId": 5656,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
+    "ageBracket": 5,
+    "gender": "M",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
@@ -79017,7 +79041,8 @@
   {
     "patientId": 5657,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "M",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
@@ -79026,7 +79051,8 @@
   {
     "patientId": 5658,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
@@ -79035,7 +79061,8 @@
   {
     "patientId": 5659,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
@@ -84682,37 +84709,53 @@
   {
     "patientId": 6192,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "F",
+    "residence": "Manjeswaram",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=187232242746612&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 6193,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 1,
+    "gender": "M",
+    "residence": "Manjeswaram",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=187232242746612&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 6194,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Kanhangad",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=187232242746612&id=100507158085788",
     "confirmedPatient": true
   },
   {
     "patientId": 6195,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Pallikkara",
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman",
+    "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=187232242746612&id=100507158085788",
     "confirmedPatient": true
   }
 ]
