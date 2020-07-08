@@ -79150,33 +79150,6 @@
   {
     "patientId": 5666,
     "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5667,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5668,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": -1,
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5669,
-    "dateAnnounced": "2020-07-07",
     "ageBracket": 33,
     "gender": "M",
     "detectedCityTown": "Malappuram",
@@ -79185,7 +79158,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5670,
+    "patientId": 5667,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 37,
     "gender": "M",
@@ -79195,7 +79168,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5671,
+    "patientId": 5668,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 45,
     "gender": "M",
@@ -79205,7 +79178,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5672,
+    "patientId": 5669,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 30,
     "gender": "M",
@@ -79215,9 +79188,39 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5673,
+    "patientId": 5670,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 48,
+    "gender": "M",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5671,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 54,
+    "gender": "M",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5672,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 38,
+    "gender": "M",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5673,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": 35,
     "gender": "M",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
@@ -79228,36 +79231,6 @@
     "patientId": 5674,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 54,
-    "gender": "M",
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5675,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": 38,
-    "gender": "M",
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5676,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": 35,
-    "gender": "M",
-    "detectedCityTown": "Malappuram",
-    "detectedPrefecture": "Malappuram",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 5677,
-    "dateAnnounced": "2020-07-07",
-    "ageBracket": 54,
     "gender": "F",
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
@@ -79265,7 +79238,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5678,
+    "patientId": 5675,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 28,
     "gender": "M",
@@ -79275,7 +79248,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5679,
+    "patientId": 5676,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 36,
     "gender": "M",
@@ -79285,7 +79258,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5680,
+    "patientId": 5677,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 37,
     "gender": "M",
@@ -79295,7 +79268,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5681,
+    "patientId": 5678,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 45,
     "gender": "M",
@@ -79305,7 +79278,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5682,
+    "patientId": 5679,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 35,
     "gender": "M",
@@ -79315,7 +79288,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5683,
+    "patientId": 5680,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 51,
     "gender": "M",
@@ -79325,7 +79298,7 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5684,
+    "patientId": 5681,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 65,
     "gender": "M",
@@ -79335,10 +79308,37 @@
     "confirmedPatient": true
   },
   {
-    "patientId": 5685,
+    "patientId": 5682,
     "dateAnnounced": "2020-07-07",
     "ageBracket": 32,
     "gender": "M",
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5683,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5684,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": -1,
+    "detectedCityTown": "Malappuram",
+    "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 5685,
+    "dateAnnounced": "2020-07-07",
+    "ageBracket": -1,
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
