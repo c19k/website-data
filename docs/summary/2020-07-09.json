@@ -4778,15 +4778,15 @@
       "ageGroup": "Unspecified",
       "female": 91,
       "male": 363,
-      "unspecified": 36,
-      "total": 490
+      "unspecified": 336,
+      "total": 790
     }
   ],
   "gender": {
     "female": 1360,
     "male": 4745,
-    "unspecified": 84,
-    "total": 6195
+    "unspecified": 384,
+    "total": 6495
   },
   "underObservation": {
     "2020-01-31": {
