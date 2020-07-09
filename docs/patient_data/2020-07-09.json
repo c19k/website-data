@@ -85634,6 +85634,8 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Travel from Saudi Arabia to CCJ on June 25th ",
+    "knownCluster": "Saudi Arabia",
+    "districtPatientNumber": "Kollam P 428",
     "sourceURL": "https://www.facebook.com/dckollam/",
     "confirmedPatient": true
   },
@@ -85647,6 +85649,8 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Arrived in Train from Mumbain on June 22nd ",
+    "knownCluster": "Mumbai",
+    "districtPatientNumber": "Kollam P 429",
     "sourceURL": "https://www.facebook.com/dckollam/",
     "confirmedPatient": true
   },
@@ -85660,6 +85664,8 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Qatar to TRV on 22nd June",
+    "knownCluster": "Qatar",
+    "districtPatientNumber": "Kollam P 430",
     "sourceURL": "https://www.facebook.com/dckollam/",
     "confirmedPatient": true
   },
@@ -85673,6 +85679,8 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Kuwait to COK on 25th June",
+    "knownCluster": "Kuwait",
+    "districtPatientNumber": "Kollam P 431",
     "sourceURL": "https://www.facebook.com/dckollam/",
     "confirmedPatient": true
   },
@@ -85686,6 +85694,8 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Saudi Arabia to CCJ on July 4th ",
+    "knownCluster": "Saudi Arabia",
+    "districtPatientNumber": "Kollam P 432",
     "sourceURL": "https://www.facebook.com/dckollam/",
     "confirmedPatient": true
   },
@@ -85699,6 +85709,8 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "Damam to CNN on July 4th ",
+    "knownCluster": "Dammam",
+    "districtPatientNumber": "Kollam P 433",
     "sourceURL": "https://www.facebook.com/dckollam/",
     "confirmedPatient": true
   },
@@ -85712,6 +85724,8 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "From Kuwait ",
+    "knownCluster": "Kuwait",
+    "districtPatientNumber": "Kollam P 434",
     "sourceURL": "https://www.facebook.com/dckollam/",
     "confirmedPatient": true
   },
@@ -85725,6 +85739,8 @@
     "detectedPrefecture": "Kollam",
     "patientStatus": "Hospitalized",
     "notes": "From Saudi Arabia",
+    "knownCluster": "Saudi Arabia",
+    "districtPatientNumber": "Kollam P 435",
     "sourceURL": "https://www.facebook.com/dckollam/",
     "confirmedPatient": true
   },
@@ -85738,6 +85754,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Oman ",
+    "knownCluster": "Oman",
     "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4183710031670562/",
     "confirmedPatient": true
   },
@@ -85751,6 +85768,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Oman ",
+    "knownCluster": "Oman",
     "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4183710031670562/",
     "confirmedPatient": true
   },
@@ -85764,6 +85782,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi",
+    "knownCluster": "Saudi Arabia",
     "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4183710031670562/",
     "confirmedPatient": true
   },
@@ -85777,6 +85796,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bahrain",
+    "knownCluster": "Bahrain",
     "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4183710031670562/",
     "confirmedPatient": true
   },
@@ -85790,6 +85810,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Gujarat",
+    "knownCluster": "Gujarat",
     "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4183710031670562/",
     "confirmedPatient": true
   },
@@ -85803,6 +85824,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
+    "knownCluster": "Pathanamthitta",
     "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4183710031670562/",
     "confirmedPatient": true
   },
@@ -85816,6 +85838,7 @@
     "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "notes": "Contact Transmission",
+    "knownCluster": "Pathanamthitta",
     "sourceURL": "https://www.facebook.com/dc.pathanamthitta/photos/a.829968503711415/4183710031670562/",
     "confirmedPatient": true
   },
@@ -85829,6 +85852,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia",
+    "knownCluster": "Saudi Arabia",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=187232242746612&id=100507158085788",
     "confirmedPatient": true
   },
@@ -85842,6 +85866,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia",
+    "knownCluster": "SAudi Arabia",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=187232242746612&id=100507158085788",
     "confirmedPatient": true
   },
@@ -85855,6 +85880,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=187232242746612&id=100507158085788",
     "confirmedPatient": true
   },
@@ -85868,6 +85894,7 @@
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Oman",
+    "knownCluster": "Oman",
     "sourceURL": "https://www.facebook.com/permalink.php?story_fbid=187232242746612&id=100507158085788",
     "confirmedPatient": true
   }
