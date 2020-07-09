@@ -84225,6 +84225,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84237,6 +84239,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84249,6 +84253,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi Arabia",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84261,6 +84267,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84273,6 +84281,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84285,6 +84295,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84297,6 +84309,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84309,6 +84323,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84321,6 +84337,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84333,6 +84351,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84345,6 +84365,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84357,6 +84379,8 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
@@ -84369,91 +84393,134 @@
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
     "patientId": 6068,
     "dateAnnounced": "2020-07-08",
     "ageBracket": 52,
+    "gender": "M",
     "residence": "Panur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
     "patientId": 6069,
     "dateAnnounced": "2020-07-08",
     "ageBracket": 58,
+    "gender": "M",
     "residence": "Chokli",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
     "patientId": 6070,
     "dateAnnounced": "2020-07-08",
     "ageBracket": 40,
+    "gender": "M",
+    "residence": "Thrippangattur",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bangalore",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
     "patientId": 6071,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "F",
+    "residence": "Morazha",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
     "patientId": 6072,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 21,
+    "gender": "M",
+    "residence": "Ramanthali",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Chennai",
+    "knownCluster": "Chennai",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
     "patientId": 6073,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "F",
+    "residence": "Kadannappalli",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
     "patientId": 6074,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Cherupuzha",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Hyderabad",
+    "knownCluster": "Hyderabad",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
     "patientId": 6075,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Odisha",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "CT to CISF",
+    "knownCluster": "Kannur",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
     "patientId": 6076,
     "dateAnnounced": "2020-07-08",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "J&K",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
     "patientStatus": "Hospitalized",
+    "notes": "CT to DSC",
+    "knownCluster": "Kannur",
+    "sourceURL": "https://www.facebook.com/CollectorKNR/posts/3105947879502045",
     "confirmedPatient": true
   },
   {
