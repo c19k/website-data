@@ -185,9 +185,10 @@
       "confirmed": 748,
       "deaths": 1,
       "confirmedByCity": {
-        "Palakkad": 695,
+        "Palakkad": 743,
         "Ernakulam": 2,
-        "Malappuram": 1
+        "Malappuram": 1,
+        "Idukki": 2
       },
       "dailyConfirmedCount": [
         0,
@@ -2331,7 +2332,7 @@
       "deaths": 1,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 131,
+        "Wayanad": 138,
         "Kozhikode": 1
       },
       "dailyConfirmedCount": [
@@ -4714,45 +4715,45 @@
     },
     {
       "ageGroup": "10-19",
-      "female": 98,
-      "male": 161,
+      "female": 99,
+      "male": 162,
       "unspecified": 6,
-      "total": 265
+      "total": 267
     },
     {
       "ageGroup": "20-29",
-      "female": 393,
-      "male": 1095,
+      "female": 395,
+      "male": 1109,
       "unspecified": 11,
-      "total": 1500
+      "total": 1516
     },
     {
       "ageGroup": "30-39",
       "female": 249,
-      "male": 1241,
+      "male": 1263,
       "unspecified": 3,
-      "total": 1496
+      "total": 1518
     },
     {
       "ageGroup": "40-49",
-      "female": 194,
-      "male": 983,
+      "female": 196,
+      "male": 991,
       "unspecified": 5,
-      "total": 1182
+      "total": 1192
     },
     {
       "ageGroup": "50-59",
-      "female": 167,
-      "male": 611,
+      "female": 169,
+      "male": 614,
       "unspecified": 4,
-      "total": 784
+      "total": 789
     },
     {
       "ageGroup": "60-69",
       "female": 59,
-      "male": 219,
+      "male": 220,
       "unspecified": 1,
-      "total": 279
+      "total": 280
     },
     {
       "ageGroup": "70-79",
@@ -4779,14 +4780,14 @@
       "ageGroup": "Unspecified",
       "female": 91,
       "male": 363,
-      "unspecified": 227,
-      "total": 681
+      "unspecified": 171,
+      "total": 625
     }
   ],
   "gender": {
-    "female": 1412,
-    "male": 4837,
-    "unspecified": 279,
+    "female": 1419,
+    "male": 4886,
+    "unspecified": 223,
     "total": 6534
   },
   "underObservation": {
