@@ -899,7 +899,7 @@
       "confirmed": 504,
       "deaths": 5,
       "confirmedByCity": {
-        "Thiruvananthapuram": 407,
+        "Thiruvananthapuram": 502,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -4707,52 +4707,52 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 119,
-      "male": 121,
+      "female": 126,
+      "male": 125,
       "unspecified": 16,
-      "total": 256
+      "total": 267
     },
     {
       "ageGroup": "10-19",
-      "female": 94,
-      "male": 155,
+      "female": 96,
+      "male": 158,
       "unspecified": 6,
-      "total": 255
+      "total": 260
     },
     {
       "ageGroup": "20-29",
-      "female": 387,
-      "male": 1071,
+      "female": 392,
+      "male": 1084,
       "unspecified": 7,
-      "total": 1466
+      "total": 1484
     },
     {
       "ageGroup": "30-39",
-      "female": 236,
-      "male": 1215,
+      "female": 244,
+      "male": 1229,
       "unspecified": 3,
-      "total": 1457
+      "total": 1479
     },
     {
       "ageGroup": "40-49",
-      "female": 181,
-      "male": 965,
+      "female": 192,
+      "male": 976,
       "unspecified": 5,
-      "total": 1151
+      "total": 1173
     },
     {
       "ageGroup": "50-59",
-      "female": 159,
-      "male": 604,
+      "female": 165,
+      "male": 609,
       "unspecified": 4,
-      "total": 769
+      "total": 780
     },
     {
       "ageGroup": "60-69",
-      "female": 58,
-      "male": 213,
+      "female": 59,
+      "male": 218,
       "unspecified": 1,
-      "total": 272
+      "total": 278
     },
     {
       "ageGroup": "70-79",
@@ -4779,14 +4779,14 @@
       "ageGroup": "Unspecified",
       "female": 91,
       "male": 363,
-      "unspecified": 375,
-      "total": 829
+      "unspecified": 280,
+      "total": 734
     }
   ],
   "gender": {
-    "female": 1360,
-    "male": 4745,
-    "unspecified": 423,
+    "female": 1400,
+    "male": 4800,
+    "unspecified": 328,
     "total": 6534
   },
   "underObservation": {
