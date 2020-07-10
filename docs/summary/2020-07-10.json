@@ -5,7 +5,7 @@
       "confirmed": 856,
       "deaths": 5,
       "confirmedByCity": {
-        "Malappuram": 787,
+        "Malappuram": 842,
         "Palakkad": 1,
         "Kozhikode": 9,
         "Ernakulam": 4
@@ -4740,52 +4740,52 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 127,
-      "male": 126,
+      "female": 128,
+      "male": 128,
       "unspecified": 16,
-      "total": 269
+      "total": 272
     },
     {
       "ageGroup": "10-19",
-      "female": 99,
-      "male": 163,
+      "female": 101,
+      "male": 166,
       "unspecified": 6,
-      "total": 268
+      "total": 273
     },
     {
       "ageGroup": "20-29",
-      "female": 397,
-      "male": 1119,
+      "female": 402,
+      "male": 1131,
       "unspecified": 11,
-      "total": 1528
+      "total": 1545
     },
     {
       "ageGroup": "30-39",
-      "female": 251,
-      "male": 1281,
+      "female": 252,
+      "male": 1291,
       "unspecified": 3,
-      "total": 1538
+      "total": 1549
     },
     {
       "ageGroup": "40-49",
-      "female": 199,
-      "male": 1003,
+      "female": 201,
+      "male": 1009,
       "unspecified": 5,
-      "total": 1207
+      "total": 1215
     },
     {
       "ageGroup": "50-59",
-      "female": 172,
-      "male": 621,
+      "female": 174,
+      "male": 628,
       "unspecified": 4,
-      "total": 799
+      "total": 808
     },
     {
       "ageGroup": "60-69",
       "female": 59,
-      "male": 221,
+      "male": 223,
       "unspecified": 1,
-      "total": 281
+      "total": 283
     },
     {
       "ageGroup": "70-79",
@@ -4812,14 +4812,14 @@
       "ageGroup": "Unspecified",
       "female": 91,
       "male": 374,
-      "unspecified": 99,
-      "total": 564
+      "unspecified": 44,
+      "total": 509
     }
   ],
   "gender": {
-    "female": 1430,
-    "male": 4947,
-    "unspecified": 151,
+    "female": 1443,
+    "male": 4989,
+    "unspecified": 96,
     "total": 6534
   },
   "underObservation": {
