@@ -4812,15 +4812,15 @@
       "ageGroup": "Unspecified",
       "female": 91,
       "male": 374,
-      "unspecified": 44,
-      "total": 509
+      "unspecified": 384,
+      "total": 849
     }
   ],
   "gender": {
     "female": 1443,
     "male": 4989,
-    "unspecified": 96,
-    "total": 6534
+    "unspecified": 436,
+    "total": 6874
   },
   "underObservation": {
     "2020-01-31": {
