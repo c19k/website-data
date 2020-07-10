@@ -1085,7 +1085,7 @@
       "confirmed": 451,
       "deaths": 1,
       "confirmedByCity": {
-        "Alappuzha": 429
+        "Alappuzha": 451
       },
       "dailyConfirmedCount": [
         0,
@@ -4768,16 +4768,16 @@
     {
       "ageGroup": "40-49",
       "female": 196,
-      "male": 991,
+      "male": 994,
       "unspecified": 5,
-      "total": 1192
+      "total": 1195
     },
     {
       "ageGroup": "50-59",
       "female": 169,
-      "male": 617,
+      "male": 619,
       "unspecified": 4,
-      "total": 792
+      "total": 794
     },
     {
       "ageGroup": "60-69",
@@ -4810,15 +4810,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 91,
-      "male": 363,
-      "unspecified": 160,
-      "total": 614
+      "male": 374,
+      "unspecified": 144,
+      "total": 609
     }
   ],
   "gender": {
     "female": 1419,
-    "male": 4897,
-    "unspecified": 212,
+    "male": 4913,
+    "unspecified": 196,
     "total": 6534
   },
   "underObservation": {
