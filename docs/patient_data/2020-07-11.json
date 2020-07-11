@@ -91390,1254 +91390,2507 @@
   {
     "patientId": 6535,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Pulimath, Kilimanoor",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6536,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 6,
+    "gender": "M",
+    "residence": "Pallitheruvu, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6537,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 13,
+    "gender": "F",
+    "residence": "Pallitheruvu, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6538,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 19,
+    "gender": "F",
+    "residence": "Pallitheruvu, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6539,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 21,
+    "gender": "M",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6540,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 10,
+    "gender": "M",
+    "residence": "Pallitheruvu, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6541,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "IDP Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6542,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "A Block Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6543,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6544,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "F",
+    "residence": "Mother Theresa Colony, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6545,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6546,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 2,
+    "gender": "M",
+    "residence": "A Block Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6547,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 75,
+    "gender": "F",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6548,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6549,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6550,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "F",
+    "residence": "A Block Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6551,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 62,
+    "gender": "M",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6552,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 12,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6553,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6554,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6555,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 19,
+    "gender": "M",
+    "residence": "IDP Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6556,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "M",
+    "residence": "Balanagar, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6557,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "F",
+    "residence": "IDP Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6558,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 41,
+    "gender": "F",
+    "residence": "Balanagar, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6559,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6560,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 17,
+    "gender": "F",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6561,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6562,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 18,
+    "gender": "F",
+    "residence": "Balanagar, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6563,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 14,
+    "gender": "F",
+    "residence": "Pallitheruvu, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6564,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Balanagar, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6565,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Balanagar, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6566,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6567,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Balanagar, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6568,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Attinpuram, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6569,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6570,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6571,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6572,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "IDP Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6573,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6574,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6575,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6576,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 8,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6577,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 53,
+    "gender": "M",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6578,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 80,
+    "gender": "F",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6579,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6580,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6581,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 18,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6582,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "F",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6583,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6584,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 13,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6585,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6586,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6587,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6588,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "New Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6589,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "F",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6590,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 57,
+    "gender": "F",
+    "residence": "Maduvanmukal Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6591,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "F",
+    "residence": "New Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6592,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Pachallor",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No travel history",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6593,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Shangumugham",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6594,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Nedumparambu",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No travel history",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6595,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 7,
+    "gender": "M",
+    "residence": "Pallitheruvu, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6596,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "F",
+    "residence": "Pallitheruvu, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6597,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Pallitheruvu, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6598,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Pallitheruvu, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6599,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "F",
+    "residence": "Paruthikuzhi, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6600,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 8,
+    "gender": "M",
+    "residence": "Paravila, Pachallor",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No travel history",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6601,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 12,
+    "gender": "F",
+    "residence": "Puthenpalli, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6602,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 4,
+    "gender": "F",
+    "residence": "Ambalathara",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6603,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 21,
+    "gender": "M",
+    "residence": "Palayam",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No travel history",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6604,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Palayam",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No travel history",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6605,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Perumkulam",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No travel history",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6606,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Kandala Kottampalli",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No travel history",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6607,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Aatukal",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6608,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Tamilnadu",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, Tamil Nadu native, No more details identified",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6609,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 19,
+    "gender": "M",
+    "residence": "Kaniyaramkoodu, Parassala",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No Travel History",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6610,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "F",
+    "residence": "Muttada",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6611,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "F",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6612,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6613,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 7,
+    "gender": "F",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6614,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 60,
+    "gender": "F",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6615,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 11,
+    "gender": "M",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6616,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 12,
+    "gender": "F",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6617,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "F",
+    "residence": "IDP Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6618,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "F",
+    "residence": "Bheemapally",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6619,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Bheemapally",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6620,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6621,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "F",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6622,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "F",
+    "residence": "Pallitheruvu, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6623,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6624,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 56,
+    "gender": "F",
+    "residence": "Pallivilakam, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6625,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "M",
+    "residence": "Balanagar, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6626,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 12,
+    "gender": "M",
+    "residence": "Naduthura, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6627,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 68,
+    "gender": "M",
+    "residence": "IDP Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6628,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "F",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6629,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "F",
+    "residence": "IDP Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6630,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 80,
+    "gender": "F",
+    "residence": "IDP Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6631,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "F",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6632,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 64,
+    "gender": "M",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6633,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "F",
+    "residence": "Balanagar, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6634,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 47,
+    "gender": "F",
+    "residence": "St. Thomas, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6635,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "F",
+    "residence": "Attipuram, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6636,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "F",
+    "residence": "Cheriyamuttom, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6637,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 60,
+    "gender": "F",
+    "residence": "IDP Colony, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6638,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6639,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Babujinagar, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6640,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "F",
+    "residence": "Tamilnadu",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman",
+    "knownCluster": "Oman",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6641,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Taminadu",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman",
+    "knownCluster": "Oman",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6642,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Karamana",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6643,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 71,
+    "gender": "M",
+    "residence": "Kottaikal, Malapuram",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No Travel History",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6644,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 43,
+    "gender": "F",
+    "residence": "Paruthikuzhi, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6645,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 19,
+    "gender": "M",
+    "residence": "Padma Nagar, Fort",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No Travel History",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6646,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 2,
+    "gender": "M",
+    "residence": "Pulluvila, Poovar",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No Travel History",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6647,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 73,
+    "gender": "F",
+    "residence": "Pulluvila, Poovar",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No Travel History",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6648,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 9,
+    "gender": "F",
+    "residence": "Poovar",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No Travel History",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6649,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 10,
+    "gender": "M",
+    "residence": "Pulluvila, Poovar",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No Travel History",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6650,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "F",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6651,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 19,
+    "gender": "M",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6652,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 79,
+    "gender": "M",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6653,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Poovachal",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No Travel History",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6654,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 17,
+    "gender": "F",
+    "residence": "Manikyavilakam, Poonthrua",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6655,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Paruthikuzhi, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No Travel History",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6656,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "F",
+    "residence": "Paruthikuzhi, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, No Travel History",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6657,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Puthukalmoodu, Manacaud",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6658,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "F",
+    "residence": "Unspecified",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT, Private Hospital staff",
+    "knownCluster": "Thiruvananthapuram",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6659,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "M",
+    "residence": "Thycaud",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6660,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "F",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6661,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 1,
+    "gender": "M",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6662,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "F",
+    "residence": "Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6663,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "F",
+    "residence": "Pallivilakam, Poonthura",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
+    "patientStatus": "Hospitalized",
+    "notes": "Local CT",
+    "knownCluster": "Poonthura",
+    "sourceURL": "https://www.facebook.com/dioprdtvpm/posts/3048514625262430",
     "confirmedPatient": true
   },
   {
     "patientId": 6664,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Alappuzha",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 24",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6665,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 65,
+    "gender": "F",
+    "residence": "Alappuzha",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Mumbai on June 15",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6666,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Budhanur",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Bahrain on June 6",
+    "knownCluster": "Bahrain",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6667,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Chettikkad",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhin on June 30",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6668,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Pandanad",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 18",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6669,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Budhanur",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Sharjah on June 26",
+    "knownCluster": "Sharjah",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6670,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Chengannur",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 21 (husband)",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6671,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Chengannur",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dubai on June 21 (wife)",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6672,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Alappuzha",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait on June 19",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6673,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Palamel",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from Qatar on July 4",
+    "knownCluster": "Qatar",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6674,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 73,
+    "gender": "M",
+    "residence": "Bharanikkavu",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "He was diagnosed with other diseases at Alappuzha Medical College",
+    "knownCluster": "Alappuzha",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6675,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Puliyur",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Mother of Puliyur native who was positive on June 3",
+    "knownCluster": "Alappuzha",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6676,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 60,
+    "gender": "M",
+    "residence": "Thattarambalam",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact from Kurathikkad patient",
+    "knownCluster": "Alappuzha",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6677,
     "dateAnnounced": "2020-07-10",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "F",
+    "residence": "Chunakkara",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact from Kurathikkad patient",
+    "knownCluster": "Alappuzha",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6678,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6679,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6680,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6681,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6682,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6683,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6684,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6685,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6686,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6687,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6688,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6689,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6690,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6691,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6692,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6693,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6694,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6695,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6696,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6697,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6698,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6699,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6700,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6701,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6702,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6703,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6704,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6705,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6706,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6707,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6708,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6709,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6710,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6711,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6712,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
     "patientId": 6713,
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
+    "gender": "M",
+    "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
+    "patientStatus": "Hospitalized",
+    "notes": "Travelled from other states ITBP staff",
+    "knownCluster": "Other states",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/",
     "confirmedPatient": true
   },
   {
@@ -92645,6 +93898,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92652,6 +93906,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92659,6 +93914,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92666,6 +93922,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92673,6 +93930,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92680,6 +93938,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92687,6 +93946,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92694,6 +93954,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92701,6 +93962,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92708,6 +93970,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92715,6 +93978,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92722,6 +93986,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92729,6 +93994,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92736,6 +94002,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92743,6 +94010,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92750,6 +94018,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92757,6 +94026,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92764,6 +94034,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92771,6 +94042,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92778,6 +94050,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92785,6 +94058,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92792,6 +94066,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92799,6 +94074,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92806,6 +94082,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92813,6 +94090,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92820,6 +94098,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92827,6 +94106,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92834,6 +94114,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92841,6 +94122,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92848,6 +94130,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92855,6 +94138,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92862,6 +94146,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92869,6 +94154,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92876,6 +94162,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92883,6 +94170,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92890,6 +94178,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92897,6 +94186,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92904,6 +94194,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92911,6 +94202,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92918,6 +94210,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92925,6 +94218,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Malappuram",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92932,6 +94226,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92939,6 +94234,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92946,6 +94242,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92953,6 +94250,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92960,6 +94258,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92967,6 +94266,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92974,6 +94274,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92981,6 +94282,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92988,6 +94290,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -92995,6 +94298,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93002,6 +94306,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93009,6 +94314,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93016,6 +94322,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93023,6 +94330,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93030,6 +94338,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93037,6 +94346,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93044,6 +94354,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93051,6 +94362,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93058,6 +94370,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93065,6 +94378,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93072,6 +94386,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93079,6 +94394,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93086,6 +94402,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93093,6 +94410,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93100,6 +94418,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93107,6 +94426,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93114,6 +94434,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93121,6 +94442,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93128,6 +94450,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93135,6 +94458,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93142,6 +94466,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93149,6 +94474,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Pathanamthitta",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93156,6 +94482,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93163,6 +94490,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93170,6 +94498,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93177,6 +94506,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93184,6 +94514,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93191,6 +94522,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93198,6 +94530,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93205,6 +94538,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93212,6 +94546,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93219,6 +94554,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93226,6 +94562,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93233,6 +94570,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93240,6 +94578,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93247,6 +94586,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93254,6 +94594,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93261,6 +94602,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93268,6 +94610,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93275,6 +94618,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93282,6 +94626,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93289,6 +94634,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93296,6 +94642,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93303,6 +94650,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93310,6 +94658,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93317,6 +94666,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93324,6 +94674,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93331,6 +94682,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93338,6 +94690,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93345,6 +94698,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Palakkad",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93352,6 +94706,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93359,6 +94714,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93366,6 +94722,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93373,6 +94730,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93380,6 +94738,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93387,6 +94746,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93394,6 +94754,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93401,6 +94762,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93408,6 +94770,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93415,6 +94778,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93422,6 +94786,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93429,6 +94794,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93436,6 +94802,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93443,6 +94810,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93450,6 +94818,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93457,6 +94826,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93464,6 +94834,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93471,6 +94842,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93478,6 +94850,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93485,6 +94858,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93492,6 +94866,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93499,6 +94874,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93506,6 +94882,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93513,6 +94890,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93520,6 +94898,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93527,6 +94906,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93534,6 +94914,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93541,6 +94922,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kollam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93548,6 +94930,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93555,6 +94938,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93562,6 +94946,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93569,6 +94954,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93576,6 +94962,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93583,6 +94970,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93590,6 +94978,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93597,6 +94986,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93604,6 +94994,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93611,6 +95002,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93618,6 +95010,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93625,6 +95018,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93632,6 +95026,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93639,6 +95034,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93646,6 +95042,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93653,6 +95050,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93660,6 +95058,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93667,6 +95066,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93674,6 +95074,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93681,6 +95082,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93688,6 +95090,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93695,6 +95098,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93702,6 +95106,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93709,6 +95114,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93716,6 +95122,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93723,6 +95130,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93730,6 +95138,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93737,6 +95146,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93744,6 +95154,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93751,6 +95162,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93758,6 +95170,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93765,6 +95178,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93772,6 +95186,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93779,6 +95194,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93786,6 +95202,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93793,6 +95210,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93800,6 +95218,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Thrissur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93807,6 +95226,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93814,6 +95234,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93821,6 +95242,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93828,6 +95250,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93835,6 +95258,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93842,6 +95266,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93849,6 +95274,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93856,6 +95282,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93863,6 +95290,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93870,6 +95298,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93877,6 +95306,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93884,6 +95314,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93891,6 +95322,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93898,6 +95330,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93905,6 +95338,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93912,6 +95346,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93919,6 +95354,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kasaragod",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93926,6 +95362,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93933,6 +95370,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93940,6 +95378,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93947,6 +95386,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93954,6 +95394,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93961,6 +95402,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93968,6 +95410,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93975,6 +95418,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93982,6 +95426,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93989,6 +95434,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -93996,6 +95442,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94003,6 +95450,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kozhikode",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94010,6 +95458,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94017,6 +95466,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94024,6 +95474,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94031,6 +95482,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94038,6 +95490,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94045,6 +95498,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94052,6 +95506,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kottayam",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94059,6 +95514,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94066,6 +95522,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94073,6 +95530,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94080,6 +95538,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94087,6 +95546,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94094,6 +95554,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94101,6 +95562,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94108,6 +95570,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94115,6 +95578,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94122,6 +95586,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94129,6 +95594,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94136,6 +95602,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Idukki",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94143,6 +95610,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94150,6 +95618,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94157,6 +95626,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94164,6 +95634,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94171,6 +95642,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94178,6 +95650,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94185,6 +95658,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94192,6 +95666,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94199,6 +95674,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94206,6 +95682,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94213,6 +95690,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94220,6 +95698,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94227,6 +95706,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94234,6 +95714,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94241,6 +95722,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94248,6 +95730,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94255,6 +95738,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94262,6 +95746,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94269,6 +95754,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94276,6 +95762,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94283,6 +95770,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94290,6 +95778,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
   {
@@ -94297,6 +95786,7 @@
     "dateAnnounced": "2020-07-10",
     "ageBracket": -1,
     "detectedPrefecture": "Kannur",
+    "patientStatus": "Hospitalized",
     "confirmedPatient": true
   }
 ]
