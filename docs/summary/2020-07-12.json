@@ -2189,7 +2189,7 @@
       "deaths": 0,
       "confirmedByCity": {
         "Munnar": 1,
-        "Idukki": 181,
+        "Idukki": 186,
         "Unspecified": 4,
         "Kottayam": 1
       },
@@ -2372,7 +2372,7 @@
       "deaths": 1,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 138,
+        "Wayanad": 149,
         "Kozhikode": 1
       },
       "dailyConfirmedCount": [
@@ -4818,31 +4818,31 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 432,
-      "male": 1189,
+      "female": 433,
+      "male": 1195,
       "unspecified": 12,
-      "total": 1636
+      "total": 1643
     },
     {
       "ageGroup": "30-39",
-      "female": 274,
-      "male": 1346,
+      "female": 275,
+      "male": 1351,
       "unspecified": 3,
-      "total": 1627
+      "total": 1633
     },
     {
       "ageGroup": "40-49",
       "female": 222,
-      "male": 1057,
+      "male": 1058,
       "unspecified": 5,
-      "total": 1285
+      "total": 1286
     },
     {
       "ageGroup": "50-59",
       "female": 187,
-      "male": 655,
+      "male": 656,
       "unspecified": 4,
-      "total": 851
+      "total": 852
     },
     {
       "ageGroup": "60-69",
@@ -4875,15 +4875,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 95,
-      "male": 415,
-      "unspecified": 536,
-      "total": 1046
+      "male": 416,
+      "unspecified": 520,
+      "total": 1031
     }
   ],
   "gender": {
-    "female": 1575,
-    "male": 5257,
-    "unspecified": 592,
+    "female": 1577,
+    "male": 5271,
+    "unspecified": 576,
     "total": 7438
   },
   "underObservation": {
