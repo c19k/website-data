@@ -99324,135 +99324,178 @@
     "ageBracket": 54,
     "gender": "M",
     "residence": "Chembupuram",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
-    "notes": "Travelled from Maharashta",
+    "notes": "Travelled from Maharashtra",
     "confirmedPatient": true
   },
   {
     "patientId": 7119,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Alappuzha",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Telangana",
     "confirmedPatient": true
   },
   {
     "patientId": 7120,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Ezhupunna",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Tamil Nadu",
     "confirmedPatient": true
   },
   {
     "patientId": 7121,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Chambakkulam",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Gujarat",
     "confirmedPatient": true
   },
   {
     "patientId": 7122,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
-    "residence": "Unspecified",
+    "gender": "F",
+    "residence": "Chengannur",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
     "confirmedPatient": true
   },
   {
     "patientId": 7123,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Alappuzha",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Telangana",
     "confirmedPatient": true
   },
   {
     "patientId": 7124,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 32,
+    "gender": "F",
+    "residence": "Nedumudi",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
     "confirmedPatient": true
   },
   {
     "patientId": 7125,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Chambakkulam",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
     "confirmedPatient": true
   },
   {
     "patientId": 7126,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Alappuzha",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Ladakh",
     "confirmedPatient": true
   },
   {
     "patientId": 7127,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 64,
+    "gender": "M",
+    "residence": "Chengannur",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Gujarat",
     "confirmedPatient": true
   },
   {
     "patientId": 7128,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Chennithala",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Karnataka",
     "confirmedPatient": true
   },
   {
     "patientId": 7129,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 62,
+    "gender": "M",
+    "residence": "Cherthala",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
     "confirmedPatient": true
   },
   {
     "patientId": 7130,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 64,
+    "gender": "F",
+    "residence": "Budhanur",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Delhi",
     "confirmedPatient": true
   },
   {
     "patientId": 7131,
     "dateAnnounced": "2020-07-11",
-    "ageBracket": -1,
-    "residence": "Unspecified",
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Thalavadi",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Maharashtra",
     "confirmedPatient": true
   },
   {
     "patientId": 7132,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
-    "residence": "Unspecified",
+    "gender": "M",
+    "residence": "Muttar",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
     "confirmedPatient": true
   },
   {
@@ -99460,6 +99503,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99469,6 +99513,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99478,6 +99523,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99487,6 +99533,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99496,6 +99543,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99505,6 +99553,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99514,6 +99563,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99523,6 +99573,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99532,6 +99583,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99541,6 +99593,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99550,6 +99603,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99559,6 +99613,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99568,6 +99623,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99577,6 +99633,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99586,6 +99643,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99595,6 +99653,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99604,6 +99663,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99613,6 +99673,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99622,6 +99683,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99631,6 +99693,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99640,6 +99703,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99649,6 +99713,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99658,6 +99723,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99667,6 +99733,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99676,6 +99743,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99685,6 +99753,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99694,6 +99763,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99703,6 +99773,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99712,6 +99783,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99721,6 +99793,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99730,6 +99803,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99739,6 +99813,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99748,6 +99823,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99757,6 +99833,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99766,6 +99843,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99775,6 +99853,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99784,6 +99863,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99793,6 +99873,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99802,6 +99883,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99811,6 +99893,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99820,6 +99903,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99829,6 +99913,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99838,6 +99923,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99847,6 +99933,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99856,6 +99943,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99865,6 +99953,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99874,6 +99963,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99883,6 +99973,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99892,6 +99983,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99901,6 +99993,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99910,6 +100003,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99919,6 +100013,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99928,6 +100023,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99937,6 +100033,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99946,6 +100043,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99955,6 +100053,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99964,6 +100063,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99973,6 +100073,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99982,6 +100083,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99991,6 +100093,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100000,6 +100103,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100009,6 +100113,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100018,6 +100123,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100027,6 +100133,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100036,6 +100143,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100045,6 +100153,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100054,6 +100163,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100063,6 +100173,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100072,6 +100183,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100081,6 +100193,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100090,6 +100203,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100099,6 +100213,7 @@
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
     "residence": "Unspecified",
+    "detectedCityTown": "Alappuzha",
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
