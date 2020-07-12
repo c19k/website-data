@@ -1460,7 +1460,7 @@
       "confirmed": 505,
       "deaths": 3,
       "confirmedByCity": {
-        "Ernakulam": 460,
+        "Ernakulam": 501,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -5056,9 +5056,9 @@
     {
       "ageGroup": "<10",
       "female": 147,
-      "male": 158,
+      "male": 156,
       "unspecified": 19,
-      "total": 324
+      "total": 322
     },
     {
       "ageGroup": "10-19",
@@ -5070,9 +5070,9 @@
     {
       "ageGroup": "20-29",
       "female": 450,
-      "male": 1293,
+      "male": 1290,
       "unspecified": 12,
-      "total": 1758
+      "total": 1755
     },
     {
       "ageGroup": "30-39",
@@ -5084,23 +5084,23 @@
     {
       "ageGroup": "40-49",
       "female": 240,
-      "male": 1115,
+      "male": 1114,
       "unspecified": 5,
-      "total": 1361
+      "total": 1360
     },
     {
       "ageGroup": "50-59",
       "female": 196,
-      "male": 703,
+      "male": 701,
       "unspecified": 4,
-      "total": 909
+      "total": 907
     },
     {
       "ageGroup": "60-69",
       "female": 75,
-      "male": 255,
+      "male": 254,
       "unspecified": 1,
-      "total": 332
+      "total": 331
     },
     {
       "ageGroup": "70-79",
@@ -5127,14 +5127,14 @@
       "ageGroup": "Unspecified",
       "female": 100,
       "male": 432,
-      "unspecified": 451,
-      "total": 983
+      "unspecified": 460,
+      "total": 992
     }
   ],
   "gender": {
     "female": 1675,
-    "male": 5628,
-    "unspecified": 507,
+    "male": 5619,
+    "unspecified": 516,
     "total": 7873
   },
   "underObservation": {
