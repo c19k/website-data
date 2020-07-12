@@ -72231,9 +72231,10 @@
     "residence": "Poonthura",
     "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
     "notes": "Contact Transmission",
     "knownCluster": "Thiruvananthapuram",
+    "oeceasedOn": "2020-07-10",
     "sourceURL": "https://www.facebook.com/collectortvpm/posts/2588969494751909",
     "confirmedPatient": true
   },
