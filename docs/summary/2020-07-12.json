@@ -1,11 +1,11 @@
 {
-  "updated": "2020-07-12 17:50",
+  "updated": "2020-07-12 21:31",
   "prefectures": [
     {
       "confirmed": 990,
       "deaths": 5,
       "confirmedByCity": {
-        "Malappuram": 934,
+        "Malappuram": 976,
         "Palakkad": 1,
         "Kozhikode": 9,
         "Ernakulam": 4
@@ -178,7 +178,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 42,
-      "recovered": 448,
+      "recovered": 465,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -361,7 +361,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 59,
-      "recovered": 525,
+      "recovered": 541,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -543,7 +543,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 40,
-      "recovered": 208,
+      "recovered": 210,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -724,7 +724,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 17,
-      "recovered": 390,
+      "recovered": 407,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -904,7 +904,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 57,
-      "recovered": 246,
+      "recovered": 249,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1086,7 +1086,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 56,
-      "recovered": 417,
+      "recovered": 426,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1267,7 +1267,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 19,
-      "recovered": 375,
+      "recovered": 395,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1450,7 +1450,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 39,
-      "recovered": 262,
+      "recovered": 287,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1631,7 +1631,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 50,
-      "recovered": 201,
+      "recovered": 206,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1814,7 +1814,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 5,
-      "recovered": 303,
+      "recovered": 302,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1997,7 +1997,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 4,
-      "recovered": 228,
+      "recovered": 246,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -2178,7 +2178,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 12,
-      "recovered": 187,
+      "recovered": 188,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -4793,7 +4793,7 @@
       "homeObservationCumulative": 177794,
       "hosptilisedCumulative": 3990,
       "activeCumulative": 3743,
-      "status": "Reviewing",
+      "status": "Finalised",
       "date": "2020-07-12",
       "confirmedCumulative": 7873,
       "confirmedAvg3d": 446,
@@ -4805,52 +4805,52 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 146,
+      "female": 147,
       "male": 158,
       "unspecified": 19,
-      "total": 323
+      "total": 324
     },
     {
       "ageGroup": "10-19",
       "female": 129,
-      "male": 193,
+      "male": 194,
       "unspecified": 6,
-      "total": 328
+      "total": 329
     },
     {
       "ageGroup": "20-29",
       "female": 450,
-      "male": 1284,
+      "male": 1293,
       "unspecified": 12,
-      "total": 1749
+      "total": 1758
     },
     {
       "ageGroup": "30-39",
-      "female": 294,
-      "male": 1420,
+      "female": 295,
+      "male": 1432,
       "unspecified": 3,
-      "total": 1721
+      "total": 1734
     },
     {
       "ageGroup": "40-49",
-      "female": 237,
-      "male": 1105,
+      "female": 240,
+      "male": 1115,
       "unspecified": 5,
-      "total": 1348
+      "total": 1361
     },
     {
       "ageGroup": "50-59",
       "female": 196,
-      "male": 699,
+      "male": 703,
       "unspecified": 4,
-      "total": 905
+      "total": 909
     },
     {
       "ageGroup": "60-69",
       "female": 75,
-      "male": 254,
+      "male": 255,
       "unspecified": 1,
-      "total": 331
+      "total": 332
     },
     {
       "ageGroup": "70-79",
@@ -4877,14 +4877,14 @@
       "ageGroup": "Unspecified",
       "female": 100,
       "male": 432,
-      "unspecified": 493,
-      "total": 1025
+      "unspecified": 451,
+      "total": 983
     }
   ],
   "gender": {
-    "female": 1670,
-    "male": 5591,
-    "unspecified": 549,
+    "female": 1675,
+    "male": 5628,
+    "unspecified": 507,
     "total": 7873
   },
   "underObservation": {
@@ -24772,6 +24772,128 @@
         "deltaPeopleUnderObservation": -2239,
         "deltaHomeIsolation": 177,
         "deltaHospitalIsolation": -2062
+      }
+    },
+    "2020-07-12": {
+      "Alappuzha": {
+        "homeisolation": 5796,
+        "hospitalisolation": 394,
+        "peopleunderobservation": 6190,
+        "deltaPeopleUnderObservation": -1,
+        "deltaHomeIsolation": -81,
+        "deltaHospitalIsolation": 80
+      },
+      "Ernakulam": {
+        "homeisolation": 13365,
+        "hospitalisolation": 367,
+        "peopleunderobservation": 13732,
+        "deltaPeopleUnderObservation": 561,
+        "deltaHomeIsolation": 513,
+        "deltaHospitalIsolation": 48
+      },
+      "Idukki": {
+        "homeisolation": 5761,
+        "hospitalisolation": 104,
+        "peopleunderobservation": 5865,
+        "deltaPeopleUnderObservation": 147,
+        "deltaHomeIsolation": 145,
+        "deltaHospitalIsolation": 2
+      },
+      "Kannur": {
+        "homeisolation": 24443,
+        "hospitalisolation": 390,
+        "peopleunderobservation": 24833,
+        "deltaPeopleUnderObservation": -217,
+        "deltaHomeIsolation": -176,
+        "deltaHospitalIsolation": -41
+      },
+      "Kasaragod": {
+        "homeisolation": 6374,
+        "hospitalisolation": 139,
+        "peopleunderobservation": 6513,
+        "deltaPeopleUnderObservation": 97,
+        "deltaHomeIsolation": 87,
+        "deltaHospitalIsolation": 10
+      },
+      "Kollam": {
+        "homeisolation": 8977,
+        "hospitalisolation": 129,
+        "peopleunderobservation": 9106,
+        "deltaPeopleUnderObservation": -163,
+        "deltaHomeIsolation": -170,
+        "deltaHospitalIsolation": 7
+      },
+      "Kottayam": {
+        "homeisolation": 9133,
+        "hospitalisolation": 139,
+        "peopleunderobservation": 9272,
+        "deltaPeopleUnderObservation": 309,
+        "deltaHomeIsolation": 292,
+        "deltaHospitalIsolation": 17
+      },
+      "Kozhikode": {
+        "homeisolation": 15105,
+        "hospitalisolation": 270,
+        "peopleunderobservation": 15375,
+        "deltaPeopleUnderObservation": -339,
+        "deltaHomeIsolation": -352,
+        "deltaHospitalIsolation": 13
+      },
+      "Malappuram": {
+        "homeisolation": 40427,
+        "hospitalisolation": 670,
+        "peopleunderobservation": 41097,
+        "deltaPeopleUnderObservation": 49,
+        "deltaHomeIsolation": 7,
+        "deltaHospitalIsolation": 42
+      },
+      "Palakkad": {
+        "homeisolation": 12730,
+        "hospitalisolation": 312,
+        "peopleunderobservation": 13042,
+        "deltaPeopleUnderObservation": 214,
+        "deltaHomeIsolation": 184,
+        "deltaHospitalIsolation": 30
+      },
+      "Pathanamthitta": {
+        "homeisolation": 4880,
+        "hospitalisolation": 212,
+        "peopleunderobservation": 5092,
+        "deltaPeopleUnderObservation": 193,
+        "deltaHomeIsolation": 168,
+        "deltaHospitalIsolation": 25
+      },
+      "Thiruvananthapuram": {
+        "homeisolation": 13288,
+        "hospitalisolation": 538,
+        "peopleunderobservation": 13826,
+        "deltaPeopleUnderObservation": -345,
+        "deltaHomeIsolation": -384,
+        "deltaHospitalIsolation": 39
+      },
+      "Thrissur": {
+        "homeisolation": 14000,
+        "hospitalisolation": 238,
+        "peopleunderobservation": 14238,
+        "deltaPeopleUnderObservation": -796,
+        "deltaHomeIsolation": -805,
+        "deltaHospitalIsolation": 9
+      },
+      "Wayanad": {
+        "homeisolation": 3515,
+        "hospitalisolation": 88,
+        "peopleunderobservation": 3603,
+        "deltaPeopleUnderObservation": 25,
+        "deltaHomeIsolation": 10,
+        "deltaHospitalIsolation": 15
+      },
+      "total": {
+        "peopleunderobservation": 181784,
+        "homeisolation": 177794,
+        "hospitalisolation": 3990,
+        "deltaPeopleUnderObservation": -562,
+        "deltaHomeIsolation": 296,
+        "deltaHospitalIsolation": -266
       }
     }
   }
