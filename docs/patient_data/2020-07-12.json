@@ -99738,7 +99738,7 @@
     "patientId": 7255,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
-    "detectedPrefecture": "Palakkad",
+    "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -99746,7 +99746,7 @@
     "patientId": 7256,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
-    "detectedPrefecture": "Palakkad",
+    "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -99754,7 +99754,7 @@
     "patientId": 7257,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
-    "detectedPrefecture": "Palakkad",
+    "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -99762,7 +99762,7 @@
     "patientId": 7258,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
-    "detectedPrefecture": "Palakkad",
+    "detectedPrefecture": "Pathanamthitta",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
   },
@@ -99770,6 +99770,9 @@
     "patientId": 7259,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "37",
+    "residence": "Nellaya ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99778,6 +99781,9 @@
     "patientId": 7260,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "40",
+    "residence": "Kanjirapuzha ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99786,6 +99792,9 @@
     "patientId": 7261,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "29",
+    "residence": "Kulappully ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99794,6 +99803,9 @@
     "patientId": 7262,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "24",
+    "residence": "Puthunagaram ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99802,6 +99814,9 @@
     "patientId": 7263,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "23",
+    "residence": "Mannarkkad ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99810,6 +99825,9 @@
     "patientId": 7264,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "31",
+    "residence": "Pallassana ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99818,6 +99836,9 @@
     "patientId": 7265,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "5",
+    "residence": "Pallassana ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99826,6 +99847,9 @@
     "patientId": 7266,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "27",
+    "residence": "Kambrath Challa",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99834,6 +99858,9 @@
     "patientId": 7267,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "45",
+    "residence": "Koduvayur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99842,6 +99869,9 @@
     "patientId": 7268,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "26",
+    "residence": "Vallapuzha ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99850,6 +99880,9 @@
     "patientId": 7269,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "39",
+    "residence": "Vallapuzha ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99858,6 +99891,9 @@
     "patientId": 7270,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "56",
+    "residence": "Vallapuzha ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99866,6 +99902,9 @@
     "patientId": 7271,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "27",
+    "residence": "Vallapuzha ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99874,6 +99913,9 @@
     "patientId": 7272,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "30",
+    "residence": "Vallapuzha ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99882,6 +99924,9 @@
     "patientId": 7273,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "23",
+    "residence": "Vallapuzha ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99890,6 +99935,9 @@
     "patientId": 7274,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "21",
+    "residence": "Vallapuzha ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99898,6 +99946,9 @@
     "patientId": 7275,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "32",
+    "residence": "Vadakarapathy ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99906,6 +99957,9 @@
     "patientId": 7276,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "40",
+    "residence": "Nellaya ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99914,6 +99968,9 @@
     "patientId": 7277,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "25",
+    "residence": "Nellaya ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99922,6 +99979,9 @@
     "patientId": 7278,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "29",
+    "residence": "Meenakshipuram ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99930,6 +99990,9 @@
     "patientId": 7279,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "34",
+    "residence": "Meenakshipuram ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99938,6 +100001,9 @@
     "patientId": 7280,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "60",
+    "residence": "Meenakshipuram ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99946,6 +100012,9 @@
     "patientId": 7281,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "52",
+    "residence": "Chittur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99954,6 +100023,9 @@
     "patientId": 7282,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "21",
+    "residence": "Vallapuzha ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99962,6 +100034,9 @@
     "patientId": 7283,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "26",
+    "residence": "Vandithavalam ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99970,6 +100045,9 @@
     "patientId": 7284,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "31",
+    "residence": "Pallassana ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99978,6 +100056,9 @@
     "patientId": 7285,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "53",
+    "residence": "Kavalappara",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99986,6 +100067,9 @@
     "patientId": 7286,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "23",
+    "residence": "Elavancherry ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -99994,6 +100078,9 @@
     "patientId": 7287,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "37",
+    "residence": "Koduvayur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100002,6 +100089,9 @@
     "patientId": 7288,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "50",
+    "residence": "Velanthavalam ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100010,6 +100100,9 @@
     "patientId": 7289,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "27",
+    "residence": "Kuthannoor ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100018,6 +100111,9 @@
     "patientId": 7290,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "23",
+    "residence": "Kuthannoor ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100026,6 +100122,9 @@
     "patientId": 7291,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "40",
+    "residence": "Kumaranellur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100034,6 +100133,9 @@
     "patientId": 7292,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "27",
+    "residence": "Chittur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100042,6 +100144,9 @@
     "patientId": 7293,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "49",
+    "residence": "Puthur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100050,6 +100155,9 @@
     "patientId": 7294,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "57",
+    "residence": "Nellaya ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100058,6 +100166,9 @@
     "patientId": 7295,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "27",
+    "residence": "Chittur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100066,6 +100177,9 @@
     "patientId": 7296,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "54",
+    "residence": "Thrikkadeeri ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100074,6 +100188,9 @@
     "patientId": 7297,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "32",
+    "residence": "Nagalassery ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100082,6 +100199,9 @@
     "patientId": 7298,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "35",
+    "residence": "Thathamangalam",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100090,6 +100210,9 @@
     "patientId": 7299,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "25",
+    "residence": "Kollengode ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100098,6 +100221,9 @@
     "patientId": 7300,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "29",
+    "residence": "Vadavannur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100106,6 +100232,9 @@
     "patientId": 7301,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "37",
+    "residence": "Muthalamada",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100114,6 +100243,9 @@
     "patientId": 7302,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "24",
+    "residence": "Kollengode ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100122,6 +100254,9 @@
     "patientId": 7303,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "51",
+    "residence": "Sreekrishnapuram",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100130,6 +100265,9 @@
     "patientId": 7304,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "30",
+    "residence": "Nellaya ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100138,6 +100276,9 @@
     "patientId": 7305,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "41",
+    "residence": "Thathamangalam",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -100146,6 +100287,9 @@
     "patientId": 7306,
     "dateAnnounced": "2020-07-11",
     "ageBracket": -1,
+    "gender": "31",
+    "residence": "Chittur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
