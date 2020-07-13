@@ -104617,6 +104617,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi on June 20",
+    "knownCluster": "Saudi Arabia",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104630,6 +104631,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Chennai on Julay 5",
+    "knownCluster": "Chennai",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104643,6 +104645,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abudhabi on June 25",
+    "knownCluster": "Abu Dhabi",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104656,6 +104659,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Maharashtra on June 10",
+    "knownCluster": "Maharashtra",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104669,6 +104673,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscut on June 20",
+    "knownCluster": "Muscat",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104682,6 +104687,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar on Julay 3",
+    "knownCluster": "Qatar",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104695,6 +104701,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 27",
+    "knownCluster": "Delhi",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104708,6 +104715,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Hyderabad on Julay 4",
+    "knownCluster": "Hyderabad",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104721,6 +104729,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 19",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104734,6 +104743,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 13",
+    "knownCluster": "Delhi",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104746,6 +104756,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 24",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104758,6 +104769,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 24",
+    "knownCluster": "Kuwait",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104771,6 +104783,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Goa on Julay 6",
+    "knownCluster": "Goa",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104784,6 +104797,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi on Julay 9",
+    "knownCluster": "Saudi Arabia",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104797,6 +104811,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Coimbatore on June 16",
+    "knownCluster": "Coimbatore",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104810,6 +104825,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Qatar on June 26",
+    "knownCluster": "Qatar",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104823,6 +104839,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Riyadh on June 19",
+    "knownCluster": "Riyadh",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104835,6 +104852,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of Kayamkulam vegetable merchant",
+    "knownCluster": "Kayamkulam",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104847,6 +104865,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of Kayamkulam vegetable merchant",
+    "knownCluster": "Kayamkulam",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104859,6 +104878,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of Kayamkulam vegetable merchant",
+    "knownCluster": "Kayamkulam",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104871,6 +104891,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of Kayamkulam vegetable merchant",
+    "knownCluster": "Kayamkulam",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104883,6 +104904,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of Kayamkulam vegetable merchant",
+    "knownCluster": "Kayamkulam",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104895,6 +104917,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of Kayamkulam vegetable merchant",
+    "knownCluster": "Kayamkulam",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104907,6 +104930,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of Kayamkulam vegetable merchant",
+    "knownCluster": "Kayamkulam",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104919,6 +104943,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of Kayamkulam vegetable merchant",
+    "knownCluster": "Kayamkulam",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104931,6 +104956,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104943,6 +104969,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104955,6 +104982,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104967,6 +104995,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104979,6 +105008,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -104991,6 +105021,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105003,6 +105034,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105015,6 +105047,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105027,6 +105060,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105039,6 +105073,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105051,6 +105086,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105063,6 +105099,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105075,6 +105112,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105087,6 +105125,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105099,6 +105138,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105111,6 +105151,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105123,6 +105164,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105135,6 +105177,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Ezhupunna sea food company staff",
+    "knownCluster": "Ezhupunna",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105147,6 +105190,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Pallithodu case ",
+    "knownCluster": "Pallithodu",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105159,6 +105203,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Pallithodu case ",
+    "knownCluster": "Pallithodu",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105171,6 +105216,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Pallithodu case ",
+    "knownCluster": "Pallithodu",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105183,6 +105229,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Pallithodu case ",
+    "knownCluster": "Pallithodu",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105195,6 +105242,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Pallithodu case ",
+    "knownCluster": "Pallithodu",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105207,6 +105255,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact of the Pallithodu case ",
+    "knownCluster": "Pallithodu",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105220,6 +105269,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "A child from Venmani",
+    "knownCluster": "Venmani",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105233,6 +105283,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact case",
+    "knownCluster": "Alappuzha",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105246,6 +105297,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Contact case",
+    "knownCluster": "Alappuzha",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105258,6 +105310,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Health worker",
+    "knownCluster": "Alappuzha",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105270,6 +105323,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Health worker",
+    "knownCluster": "Alappuzha",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105282,6 +105336,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Health worker",
+    "knownCluster": "Alappuzha",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105294,6 +105349,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Hospitalized",
     "notes": "Health worker",
+    "knownCluster": "Alappuzha",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
   },
@@ -105307,6 +105363,7 @@
     "detectedPrefecture": "Alappuzha",
     "patientStatus": "Deceased",
     "notes": "Babu (52) died, later confirmed as positive",
+    "knownCluster": "Alappuzha",
     "oeceasedOn": "2020-07-07",
     "sourceURL": "https://epaper.deshabhimani.com/c/53413560",
     "confirmedPatient": true
@@ -105320,6 +105377,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid positive onJuly 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105331,6 +105390,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid positive onJuly 1, Health worker",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105342,6 +105403,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Works at hotel at Cherkala",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105353,6 +105416,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Works at hotel at Cherkala",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105364,6 +105429,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 7",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105375,6 +105442,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 7",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105386,6 +105455,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 7",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105397,6 +105468,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 7",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105408,6 +105481,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 7",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105419,6 +105494,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Vegetable shop keeper at Kasaragod",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105430,6 +105507,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105441,6 +105520,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105452,6 +105533,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105463,6 +105546,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105474,6 +105559,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105485,6 +105572,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105496,6 +105585,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105507,6 +105598,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105518,6 +105611,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105529,6 +105624,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105540,6 +105637,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105551,6 +105650,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105562,6 +105663,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105573,6 +105676,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105584,6 +105689,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105595,6 +105702,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105606,6 +105715,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105617,6 +105728,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105628,6 +105741,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105639,6 +105754,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105650,6 +105767,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105661,6 +105780,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105672,6 +105793,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105683,6 +105806,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105694,6 +105819,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of a patient confirmed Covid Positive on July 5",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105705,6 +105832,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Headload worker",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105716,6 +105845,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Vegetable shop keeper",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105727,6 +105858,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105738,6 +105871,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Works at Book stall",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105749,6 +105884,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Tea shop",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105760,6 +105897,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Foot wear shop",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105771,6 +105910,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Stationery shop",
+    "knownCluster": "Kasaragod",
     "confirmedPatient": true
   },
   {
@@ -105782,6 +105923,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Daily travel from Kasaragod to Mangalore",
+    "knownCluster": "Mangalore",
     "confirmedPatient": true
   },
   {
@@ -105793,6 +105936,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Daily travel from Kasaragod to Mangalore",
+    "knownCluster": "Mangalore",
     "confirmedPatient": true
   },
   {
@@ -105804,6 +105949,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Daily travel from Kasaragod to Mangalore",
+    "knownCluster": "Mangalore",
     "confirmedPatient": true
   },
   {
@@ -105815,6 +105962,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Daily travel from Kasaragod to Mangalore",
+    "knownCluster": "Mangalore",
     "confirmedPatient": true
   },
   {
@@ -105826,6 +105975,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Works at a Medical shop in Mangalore",
+    "knownCluster": "Mangalore",
     "confirmedPatient": true
   },
   {
@@ -105837,6 +105988,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on July 4th from Mangalore",
+    "knownCluster": "Mangalore",
     "confirmedPatient": true
   },
   {
@@ -105848,6 +106001,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on June 27th from UAE ",
+    "knownCluster": "UAE",
     "confirmedPatient": true
   },
   {
@@ -105859,6 +106014,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on June 24th from UAE",
+    "knownCluster": "UAE",
     "confirmedPatient": true
   },
   {
@@ -105870,6 +106027,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on June 28th from UAE",
+    "knownCluster": "UAE",
     "confirmedPatient": true
   },
   {
@@ -105881,6 +106040,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on June 30th from UAE",
+    "knownCluster": "UAE",
     "confirmedPatient": true
   },
   {
@@ -105892,6 +106053,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on July 1st from UAE",
+    "knownCluster": "UAE",
     "confirmedPatient": true
   },
   {
@@ -105903,6 +106066,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on July 1st from Oman",
+    "knownCluster": "Oman",
     "confirmedPatient": true
   },
   {
@@ -105914,6 +106079,8 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on July 2nd from Kuwait",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
@@ -105925,474 +106092,708 @@
     "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on June 24th from Bahrain",
+    "knownCluster": "Bahrain",
     "confirmedPatient": true
   },
   {
     "patientId": 7611,
     "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Bihar",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on July 9th via Bengaluru Kochi flight.Merchant Navy staff",
+    "knownCluster": "Bengaluru",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
     "confirmedPatient": true
   },
   {
     "patientId": 7612,
     "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7613,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7614,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7615,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7616,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7617,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7618,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7619,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7620,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7621,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7622,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7623,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7624,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7625,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7626,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7627,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7628,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7629,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7630,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7631,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7632,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7633,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7634,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7635,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7636,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7637,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7638,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7639,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7640,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7641,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7642,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7643,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7644,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7645,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7646,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7647,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7648,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7649,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7650,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7651,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7652,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
-    "detectedCityTown": "Ernakulam",
-    "detectedPrefecture": "Ernakulam",
-    "patientStatus": "Hospitalized",
-    "notes": "Arrived on July 9th via Bengaluru Kochi flight.Merchant Navy staff",
-    "knownCluster": "Bangalore",
-    "confirmedPatient": true
-  },
-  {
-    "patientId": 7653,
-    "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Maharashtra",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Arrived on July 6th via Mumbai Kochi flight",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
     "confirmedPatient": true
   },
   {
-    "patientId": 7654,
+    "patientId": 7613,
     "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
+    "ageBracket": 1,
+    "gender": "M",
+    "residence": "Kalady",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Arrived on July 4th via Jeddah Kochi flight",
     "knownCluster": "Jeddah",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
     "confirmedPatient": true
   },
   {
-    "patientId": 7655,
+    "patientId": 7614,
     "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
+    "ageBracket": 4,
+    "gender": "M",
+    "residence": "Kalady",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Arrived on July 4th via Jeddah Kochi flight",
     "knownCluster": "Jeddah",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
     "confirmedPatient": true
   },
   {
-    "patientId": 7656,
+    "patientId": 7615,
     "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Kalady",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Arrived on July 4th via Jeddah Kochi flight",
     "knownCluster": "Jeddah",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
     "confirmedPatient": true
   },
   {
-    "patientId": 7657,
+    "patientId": 7616,
     "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
+    "ageBracket": 58,
+    "gender": "M",
+    "residence": "Delhi",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Arrived on July 2nd via Delhi Kochi flight",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
     "confirmedPatient": true
   },
   {
-    "patientId": 7658,
+    "patientId": 7617,
     "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
+    "ageBracket": 63,
+    "gender": "M",
+    "residence": "Thrissur",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Arrived on July 10 th via Riyadh Kochi flight",
     "knownCluster": "Riyadh",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
     "confirmedPatient": true
   },
   {
-    "patientId": 7659,
+    "patientId": 7618,
     "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
+    "ageBracket": 41,
+    "gender": "M",
+    "residence": "Thevara",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Arrived on June 25 th via Kuwait Kochi flight",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
     "confirmedPatient": true
   },
   {
-    "patientId": 7660,
+    "patientId": 7619,
     "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Chellanam",
     "detectedCityTown": "Ernakulam",
     "detectedPrefecture": "Ernakulam",
     "patientStatus": "Hospitalized",
     "notes": "Arrived on June 27th via Dubai Kochi flight",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7620,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 65,
+    "gender": "F",
+    "residence": "Nedumabassery",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of the staff from Nedumabssery airport who was positive on July 5th. They are relatives",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7621,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 10,
+    "gender": "M",
+    "residence": "Edathala",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of a patient who was positive earlier. P11 is her kid",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7622,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 19,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7623,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 39,
+    "gender": "F",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7624,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 46,
+    "gender": "F",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7625,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Aluva",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Cleaning staff in Aluva Municipality",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7626,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 19,
+    "gender": "M",
+    "residence": "Nedumabassery",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7627,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 40,
+    "gender": "F",
+    "residence": "Elamkunnapuzha",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of the patient from Chellanam who was positive on July 3rd",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7628,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 21,
+    "gender": "M",
+    "residence": "Koovappady",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7629,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 24,
+    "gender": "F",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7630,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7631,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 38,
+    "gender": "F",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7632,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 53,
+    "gender": "F",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7633,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7634,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 19,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7635,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 10,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7636,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 84,
+    "gender": "M",
+    "residence": "Mulavukad",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of the patient from Mulavukad who was positive on July 6th",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7637,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 74,
+    "gender": "M",
+    "residence": "Mulavukad",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of the patient from Mulavukad who was positive on July 6th",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7638,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 12,
+    "gender": "M",
+    "residence": "Mulavukad",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of the patient from Mulavukad who was positive on July 6th",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7639,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 27,
+    "gender": "F",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Not specified",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7640,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 7,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Not specified",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7641,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 50,
+    "gender": "M",
+    "residence": "Thrissur",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Priest in a church",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7642,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 60,
+    "gender": "M",
+    "residence": "Kochi",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Not specified",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7643,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Kadungalloor",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of the patient from Kadungalloor who was positive on July 4th",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7644,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 43,
+    "gender": "M",
+    "residence": "Chengamanad",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Driver in Aluva Market",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7645,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 36,
+    "gender": "F",
+    "residence": "Chottanikkara",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of the patient from Chellanam who was positive on July 3rd. HCW of Ernakulam General Hospital",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7646,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Choornikkara",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Autodriver in Aluva market",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7647,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Kadungalloor",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of the patient from Kadungalloor who was positive on July 4th",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7648,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 17,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7649,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Kalamassery",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Cleaning staff in Kalamassery Medical College",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7650,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 25,
+    "gender": "F",
+    "residence": "Vengola",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7651,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 20,
+    "gender": "F",
+    "residence": "Kavalangad",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of the patient from Kavalangad who was positive on July 11th",
+    "knownCluster": "Ernakulam",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7652,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 47,
+    "gender": "F",
+    "residence": "Kavalangad",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of the patient from Kavalangad who was positive on July 11th",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7653,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 43,
+    "gender": "F",
+    "residence": "Aluva",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Municipality worker in Aluva",
+    "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7654,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "CT of patient from Chellanam who was positive on July 7th",
+    "knownCluster": "Jeddah",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7655,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Chalikkavattam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Jeddah",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7656,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 40,
+    "gender": "F",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Jeddah",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7657,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7658,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Riyadh",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7659,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 20,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
+    "confirmedPatient": true
+  },
+  {
+    "patientId": 7660,
+    "dateAnnounced": "2020-07-12",
+    "ageBracket": 53,
+    "gender": "M",
+    "residence": "Chellanam",
+    "detectedCityTown": "Ernakulam",
+    "detectedPrefecture": "Ernakulam",
+    "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/dcekm/posts/1047379752326514",
     "confirmedPatient": true
   },
   {
@@ -106713,7 +107114,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrived from Jiddah",
-    "knownCluster": "Jiddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/collectormalappuram",
     "confirmedPatient": true
   },
@@ -106741,7 +107142,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrived from Jiddah",
-    "knownCluster": "Jiddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/collectormalappuram",
     "confirmedPatient": true
   },
@@ -106797,7 +107198,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrived from Jiddah",
-    "knownCluster": "Jiddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/collectormalappuram",
     "confirmedPatient": true
   },
@@ -106811,7 +107212,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrived from Jiddah",
-    "knownCluster": "Jiddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/collectormalappuram",
     "confirmedPatient": true
   },
@@ -106825,7 +107226,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrived from Jiddah",
-    "knownCluster": "Jiddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/collectormalappuram",
     "confirmedPatient": true
   },
@@ -106839,7 +107240,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrived from Jiddah",
-    "knownCluster": "Jiddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/collectormalappuram",
     "confirmedPatient": true
   },
@@ -106853,7 +107254,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrived from Jiddah",
-    "knownCluster": "Jiddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/collectormalappuram",
     "confirmedPatient": true
   },
@@ -106867,7 +107268,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrived from Jiddah",
-    "knownCluster": "Jiddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/collectormalappuram",
     "confirmedPatient": true
   },
@@ -106881,7 +107282,7 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrived from Jiddah",
-    "knownCluster": "Jiddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/collectormalappuram",
     "confirmedPatient": true
   },
@@ -106979,22 +107380,28 @@
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
     "notes": "Arrived from Jiddah",
-    "knownCluster": "Jiddah",
+    "knownCluster": "Jeddah",
     "sourceURL": "https://www.facebook.com/collectormalappuram",
     "confirmedPatient": true
   },
   {
     "patientId": 7703,
     "dateAnnounced": "2020-07-12",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Tamil Nadu",
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
     "confirmedPatient": true
   },
   {
     "patientId": 7704,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107003,6 +107410,7 @@
     "patientId": 7705,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107011,6 +107419,7 @@
     "patientId": 7706,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107019,6 +107428,7 @@
     "patientId": 7707,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107027,6 +107437,7 @@
     "patientId": 7708,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107035,6 +107446,7 @@
     "patientId": 7709,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107043,6 +107455,7 @@
     "patientId": 7710,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107051,6 +107464,7 @@
     "patientId": 7711,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107059,6 +107473,7 @@
     "patientId": 7712,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107067,6 +107482,7 @@
     "patientId": 7713,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107075,6 +107491,7 @@
     "patientId": 7714,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107083,6 +107500,7 @@
     "patientId": 7715,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107091,6 +107509,7 @@
     "patientId": 7716,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107099,6 +107518,7 @@
     "patientId": 7717,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107107,6 +107527,7 @@
     "patientId": 7718,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107115,6 +107536,7 @@
     "patientId": 7719,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107123,6 +107545,7 @@
     "patientId": 7720,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107131,6 +107554,7 @@
     "patientId": 7721,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107139,6 +107563,7 @@
     "patientId": 7722,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107147,6 +107572,7 @@
     "patientId": 7723,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107155,6 +107581,7 @@
     "patientId": 7724,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107163,6 +107590,7 @@
     "patientId": 7725,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107171,6 +107599,7 @@
     "patientId": 7726,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107179,6 +107608,7 @@
     "patientId": 7727,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107187,6 +107617,7 @@
     "patientId": 7728,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107195,6 +107626,7 @@
     "patientId": 7729,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107203,6 +107635,7 @@
     "patientId": 7730,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107211,6 +107644,7 @@
     "patientId": 7731,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107219,6 +107653,7 @@
     "patientId": 7732,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107227,6 +107662,7 @@
     "patientId": 7733,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107235,6 +107671,7 @@
     "patientId": 7734,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107243,6 +107680,7 @@
     "patientId": 7735,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107251,6 +107689,7 @@
     "patientId": 7736,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107259,6 +107698,7 @@
     "patientId": 7737,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107267,6 +107707,7 @@
     "patientId": 7738,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107275,6 +107716,7 @@
     "patientId": 7739,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107283,6 +107725,7 @@
     "patientId": 7740,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107291,6 +107734,7 @@
     "patientId": 7741,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -107299,6 +107743,7 @@
     "patientId": 7742,
     "dateAnnounced": "2020-07-12",
     "ageBracket": -1,
+    "detectedCityTown": "Thiruvananthapuram",
     "detectedPrefecture": "Thiruvananthapuram",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
