@@ -1,5 +1,5 @@
 {
-  "updated": "2020-07-13 18:35",
+  "updated": "2020-07-13 21:42",
   "prefectures": [
     {
       "confirmed": 1037,
@@ -373,7 +373,7 @@
       "confirmed": 805,
       "deaths": 6,
       "confirmedByCity": {
-        "Thiruvananthapuram": 740,
+        "Thiruvananthapuram": 803,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -5070,14 +5070,14 @@
       "recoveredCumulative": 4257,
       "deceasedCumulative": 33,
       "criticalCumulative": 1,
-      "testedCumulative": 359759,
+      "testedCumulative": 416282,
       "observationCumulative": 180594,
       "homeObservationCumulative": 176218,
       "hosptilisedCumulative": 4376,
       "activeCumulative": 4028,
       "importedCases": 305,
       "contactCases": 144,
-      "status": "Reviewing",
+      "status": "Finalised",
       "date": "2020-07-13",
       "confirmedCumulative": 8322,
       "confirmedAvg3d": 457,
