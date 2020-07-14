@@ -559,7 +559,7 @@
       "confirmed": 764,
       "deaths": 2,
       "confirmedByCity": {
-        "Alappuzha": 645
+        "Alappuzha": 764
       },
       "dailyConfirmedCount": [
         0,
@@ -1291,7 +1291,7 @@
       "confirmed": 578,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 526,
+        "Pathanamthitta": 573,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -5120,59 +5120,59 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 162,
-      "male": 174,
+      "female": 163,
+      "male": 176,
       "unspecified": 20,
-      "total": 356
+      "total": 359
     },
     {
       "ageGroup": "10-19",
-      "female": 140,
-      "male": 215,
+      "female": 145,
+      "male": 221,
       "unspecified": 8,
-      "total": 363
+      "total": 374
     },
     {
       "ageGroup": "20-29",
-      "female": 480,
-      "male": 1388,
+      "female": 486,
+      "male": 1409,
       "unspecified": 13,
-      "total": 1885
+      "total": 1912
     },
     {
       "ageGroup": "30-39",
-      "female": 316,
-      "male": 1531,
+      "female": 328,
+      "male": 1561,
       "unspecified": 3,
-      "total": 1855
+      "total": 1897
     },
     {
       "ageGroup": "40-49",
-      "female": 271,
-      "male": 1178,
+      "female": 274,
+      "male": 1199,
       "unspecified": 8,
-      "total": 1459
+      "total": 1483
     },
     {
       "ageGroup": "50-59",
-      "female": 211,
-      "male": 745,
+      "female": 215,
+      "male": 756,
       "unspecified": 5,
-      "total": 967
+      "total": 982
     },
     {
       "ageGroup": "60-69",
-      "female": 84,
-      "male": 267,
+      "female": 85,
+      "male": 271,
       "unspecified": 1,
-      "total": 353
+      "total": 358
     },
     {
       "ageGroup": "70-79",
       "female": 28,
-      "male": 32,
+      "male": 33,
       "unspecified": 1,
-      "total": 61
+      "total": 62
     },
     {
       "ageGroup": "80-89",
@@ -5190,16 +5190,16 @@
     },
     {
       "ageGroup": "Unspecified",
-      "female": 101,
-      "male": 441,
-      "unspecified": 387,
-      "total": 929
+      "female": 102,
+      "male": 521,
+      "unspecified": 178,
+      "total": 801
     }
   ],
   "gender": {
-    "female": 1812,
-    "male": 5993,
-    "unspecified": 451,
+    "female": 1845,
+    "male": 6169,
+    "unspecified": 242,
     "total": 8322
   },
   "underObservation": {
