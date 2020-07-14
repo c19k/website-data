@@ -5109,6 +5109,9 @@
       "homeObservationCumulative": 176218,
       "hosptilisedCumulative": 4376,
       "activeCumulative": 4028,
+      "importedCases": 0,
+      "contactCases": 0,
+      "status": "",
       "date": "2020-07-14",
       "confirmedCumulative": 8322,
       "confirmedAvg3d": 294,
@@ -5200,7 +5203,7 @@
     "female": 1845,
     "male": 6169,
     "unspecified": 242,
-    "total": 8322
+    "total": 8930
   },
   "underObservation": {
     "2020-01-31": {
