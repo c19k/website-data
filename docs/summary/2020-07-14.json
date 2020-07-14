@@ -1,5 +1,5 @@
 {
-  "updated": "2020-07-14 18:33",
+  "updated": "2020-07-14 18:48",
   "prefectures": [
     {
       "confirmed": 1095,
@@ -557,7 +557,7 @@
     },
     {
       "confirmed": 798,
-      "deaths": 2,
+      "deaths": 3,
       "confirmedByCity": {
         "Alappuzha": 764
       },
