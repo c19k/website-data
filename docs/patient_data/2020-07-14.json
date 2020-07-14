@@ -95645,10 +95645,11 @@
     "residence": "Kollam",
     "detectedCityTown": "Kollam",
     "detectedPrefecture": "Kollam",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
     "notes": "The secretion test found Covid positive and started treatment today",
     "knownCluster": "Kollam",
-    "sourceURL": "https://www.facebook.com/462119120606972/posts/1652023141616558/",
+    "oeceasedOn": "2020-07-12",
+    "sourceURL": "https://www.facebook.com/462119120606972/posts/1652023141616558/ https://www.newindianexpress.com/states/kerala/2020/jul/12/one-more-dies-of-covid-19-in-kerala-2168830.html",
     "confirmedPatient": true
   },
   {
@@ -109851,6 +109852,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact from the fisherman, pattanakkad native",
     "knownCluster": "Alappuzha",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109864,6 +109866,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Contact from the Pallithodu native",
     "knownCluster": "Alappuzha",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109877,6 +109880,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Perumbalam native who volunteered for covid resistance",
     "knownCluster": "Alappuzha",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109890,6 +109894,7 @@
     "patientStatus": "Hospitalized",
     "notes": "from unknown source",
     "knownCluster": "Alappuzha",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109903,6 +109908,7 @@
     "patientStatus": "Hospitalized",
     "notes": "from unknown source",
     "knownCluster": "Alappuzha",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109916,6 +109922,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscut on June 26",
     "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109929,6 +109936,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 26",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109942,6 +109950,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on June 24",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109955,6 +109964,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on June 22",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109968,6 +109978,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on June 25",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109981,6 +109992,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscut on June 19 (boy -1)",
     "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -109994,6 +110006,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscut on June 19 (boy -2)",
     "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110007,6 +110020,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on June 26",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110020,6 +110034,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah on June 21",
     "knownCluster": "Sharjah",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110033,6 +110048,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dammam on June 26",
     "knownCluster": "Dammam",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110046,6 +110062,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abudhabi on June 25",
     "knownCluster": "Abu Dhabi",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110058,6 +110075,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscut on June 26 (kid)",
     "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110071,6 +110089,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai ",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110084,6 +110103,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Muscut on June 26",
     "knownCluster": "Muscat",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110097,6 +110117,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 18",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110110,6 +110131,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Abudhabi on June 27",
     "knownCluster": "Abudhabi",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110123,6 +110145,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 18",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110136,6 +110159,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Mumbai on June 25",
     "knownCluster": "Mumbai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110149,6 +110173,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sikkim on June 29",
     "knownCluster": "Sikkim",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110162,6 +110187,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Delhi on June 30",
     "knownCluster": "Delhi",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110175,6 +110201,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Coimbatore on Julay 2",
     "knownCluster": "Coimbatore",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110188,6 +110215,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Hyderabad on June 29",
     "knownCluster": "Hyderabad",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110201,6 +110229,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait on June 24",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110214,6 +110243,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from UAE on June 25",
     "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110227,6 +110257,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on June 16",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110240,6 +110271,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from London on June 25",
     "knownCluster": "London ",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110253,6 +110285,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah on Julay 1",
     "knownCluster": "Sharjah",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110266,6 +110299,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Dubai on June 21",
     "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110279,6 +110313,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Saudi on June 29",
     "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110292,6 +110327,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Sharjah on June 24",
     "knownCluster": "Sharjah",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110305,6 +110341,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Riyadh on Julay 1",
     "knownCluster": "Riyadh",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110318,6 +110355,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait ",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110331,6 +110369,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait ",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110344,6 +110383,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait ",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110357,6 +110397,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait ",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110370,6 +110411,7 @@
     "patientStatus": "Hospitalized",
     "notes": "Travelled from Kuwait ",
     "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110383,6 +110425,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110396,6 +110439,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110409,6 +110453,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110422,6 +110467,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110435,6 +110481,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110448,6 +110495,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110461,6 +110509,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110474,6 +110523,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110487,6 +110537,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110500,6 +110551,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110513,6 +110565,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110526,6 +110579,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110539,6 +110593,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110552,6 +110607,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110565,6 +110621,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110578,6 +110635,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110591,6 +110649,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110604,6 +110663,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110617,6 +110677,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110630,6 +110691,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110643,6 +110705,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110656,6 +110719,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110669,6 +110733,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110682,6 +110747,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110695,6 +110761,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110708,6 +110775,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110721,6 +110789,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110734,6 +110803,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110747,6 +110817,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110760,6 +110831,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110773,6 +110845,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110786,6 +110859,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110799,6 +110873,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110812,6 +110887,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110825,6 +110901,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110838,6 +110915,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110851,6 +110929,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110864,6 +110943,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110877,6 +110957,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110890,6 +110971,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110903,6 +110985,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110916,6 +110999,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110929,6 +111013,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110942,6 +111027,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110955,6 +111041,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110968,6 +111055,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110981,6 +111069,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -110994,6 +111083,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111007,6 +111097,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111020,6 +111111,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111033,6 +111125,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111046,6 +111139,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111059,6 +111153,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111072,6 +111167,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111085,6 +111181,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111098,6 +111195,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111111,6 +111209,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111124,6 +111223,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111137,6 +111237,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111150,6 +111251,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111163,6 +111265,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111176,6 +111279,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111189,6 +111293,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111202,6 +111307,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111215,6 +111321,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111228,6 +111335,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111241,6 +111349,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111254,6 +111363,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111267,6 +111377,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111280,6 +111391,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111293,6 +111405,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111306,6 +111419,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111319,6 +111433,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111332,6 +111447,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111345,6 +111461,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111358,6 +111475,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111371,6 +111489,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -111384,6 +111503,7 @@
     "patientStatus": "Hospitalized",
     "notes": "CT to ITBP ",
     "knownCluster": "Other States",
+    "sourceURL": "https://www.facebook.com/districtcollectoralappuzha/posts/903774143361414",
     "confirmedPatient": true
   },
   {
@@ -113840,10 +113960,11 @@
     "residence": "Kunnothparamb",
     "detectedCityTown": "Kannur",
     "detectedPrefecture": "Kannur",
-    "patientStatus": "Hospitalized",
+    "patientStatus": "Deceased",
     "notes": "Deceased on July 12 at Kannur Govt Medical College",
     "knownCluster": "Kannur",
-    "sourceURL": "https://m.facebook.com/story.php?story_fbid=3119821128114720&id=745473162216207",
+    "oeceasedOn": "2020-07-12",
+    "sourceURL": "https://m.facebook.com/story.php?story_fbid=3119821128114720&id=745473162216207 http://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-13.pdf",
     "confirmedPatient": true
   },
   {
