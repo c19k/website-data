@@ -5226,15 +5226,15 @@
       "ageGroup": "Unspecified",
       "female": 103,
       "male": 525,
-      "unspecified": 233,
-      "total": 861
+      "unspecified": 931,
+      "total": 1559
     }
   ],
   "gender": {
     "female": 2009,
     "male": 6547,
-    "unspecified": 310,
-    "total": 8932
+    "unspecified": 1008,
+    "total": 9630
   },
   "underObservation": {
     "2020-01-31": {
