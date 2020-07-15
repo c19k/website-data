@@ -121141,209 +121141,365 @@
   {
     "patientId": 8687,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Puthussery ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8688,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "F",
+    "residence": "Ongallur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia, pregnant woman",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8689,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Alanallur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia",
+    "knownCluster": "Saudi Arabia",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8690,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 44,
+    "gender": "M",
+    "residence": "Kumaramputhur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8691,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Kumaramputhur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8692,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 25,
+    "gender": "F",
+    "residence": "Ongallur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8693,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "F",
+    "residence": "Ongallur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE, pregnant woman",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8694,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Ongallur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8695,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Ongallur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8696,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Ongallur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8697,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Ongallur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8698,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Ongallur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8699,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "F",
+    "residence": "Koppam",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8700,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Nellaya",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8701,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Thenkara ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8702,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Kottoppadam",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8703,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Kanjirapuzha",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8704,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Karakurussi ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8705,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Vilayur",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8706,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Chalissery",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8707,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Pattanchery ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8708,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 49,
+    "gender": "M",
+    "residence": "Karakurussi ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Karnataka",
+    "knownCluster": "Karnataka",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8709,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "M",
+    "residence": "Kanniyampuram ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Karnataka",
+    "knownCluster": "Karnataka",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8710,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 46,
+    "gender": "M",
+    "residence": "Kumaramputhur ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman",
+    "knownCluster": "Oman",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8711,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Thiruvegappura ",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kuwait",
+    "knownCluster": "Kuwait",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
     "patientId": 8712,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 53,
+    "gender": "M",
+    "residence": "Kottoppadam",
+    "detectedCityTown": "Palakkad",
     "detectedPrefecture": "Palakkad",
     "patientStatus": "Hospitalized",
+    "notes": "Primary contact of confirmed Alleppey native working in Kerala Agricultural University, Mannuthy, Thrissur",
+    "knownCluster": "Palakkad",
+    "sourceURL": "https://www.facebook.com/DISTRICTCOLLECTORPALAKKAD/posts/629206374390430",
     "confirmedPatient": true
   },
   {
@@ -121355,6 +121511,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "CT from Tanur native confirmed COVID on June 30",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121366,6 +121525,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121377,6 +121539,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121388,6 +121553,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Painting worker",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121399,6 +121567,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Painting worker",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121410,6 +121581,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Painting worker",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121421,6 +121595,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Fisherman",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121432,6 +121609,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Fisherman",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121443,6 +121623,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Fisherman",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121454,6 +121637,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121465,6 +121651,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121476,6 +121665,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121487,6 +121679,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121498,6 +121693,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121509,6 +121707,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121520,6 +121721,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121531,6 +121735,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121542,6 +121749,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Contact Transmission",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121553,6 +121763,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Plumbing worker",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121564,6 +121777,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Beverage shop worker",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121575,6 +121791,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Food supplier",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121586,6 +121805,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Wholesale dealer",
+    "knownCluster": "Malappuram",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121597,6 +121819,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Came from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121608,6 +121833,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Came from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121619,6 +121847,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Came from Delhi",
+    "knownCluster": "Delhi",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121630,6 +121861,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Came from Mumbai",
+    "knownCluster": "Mumbai",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121641,6 +121875,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Came from Karnataka",
+    "knownCluster": "Karnataka",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121652,6 +121889,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Came from Karnataka",
+    "knownCluster": "Karnataka",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121663,6 +121903,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Came from Karnataka",
+    "knownCluster": "Karnataka",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121674,6 +121917,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dammam",
+    "knownCluster": "Dammam",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121685,6 +121931,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dammam",
+    "knownCluster": "Dammam",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121696,6 +121945,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dammam",
+    "knownCluster": "Dammam",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121707,6 +121959,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Dammam",
+    "knownCluster": "Dammam",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121718,6 +121973,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Saudi Arabia",
+    "knownCluster": "Saudi",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121729,6 +121987,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
+    "knownCluster": "Jeddah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121740,6 +122001,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
+    "knownCluster": "Jeddah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121751,6 +122015,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
+    "knownCluster": "Jeddah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121762,6 +122029,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
+    "knownCluster": "Jeddah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121773,6 +122043,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
+    "knownCluster": "Jeddah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121784,6 +122057,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
+    "knownCluster": "Jeddah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121795,6 +122071,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Jeddah",
+    "knownCluster": "Jeddah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121806,6 +122085,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Riyadh",
+    "knownCluster": "Riyadh",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121817,6 +122099,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Traveled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121828,6 +122113,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Traveled from Abu Dhabi",
+    "knownCluster": "Abu Dhabi",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121839,6 +122127,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from the UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121850,6 +122141,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from the UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121861,6 +122155,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from the UAE",
+    "knownCluster": "UAE",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121872,6 +122169,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from the UAE",
+    "knownCluster": "Sharjah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121883,6 +122183,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from the UAE",
+    "knownCluster": "Sharjah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121894,6 +122197,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Oman",
+    "knownCluster": "Oman",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121905,6 +122211,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha",
+    "knownCluster": "Doha",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121916,6 +122225,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha",
+    "knownCluster": "Doha",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121927,6 +122239,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Doha",
+    "knownCluster": "Doha",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121938,6 +122253,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from the UAE",
+    "knownCluster": "Dubai",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121949,6 +122267,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from the UAE",
+    "knownCluster": "Dubai",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121960,6 +122281,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from the UAE",
+    "knownCluster": "Ras al Khaimah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121971,6 +122295,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from the UAE",
+    "knownCluster": "Ras al Khaimah",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -121982,6 +122309,9 @@
     "detectedCityTown": "Malappuram",
     "detectedPrefecture": "Malappuram",
     "patientStatus": "Hospitalized",
+    "notes": "Travelled from Kyrgystan",
+    "knownCluster": "Kyrgyzstan",
+    "sourceURL": "http://www.facebook.com/story.php?story_fbid=3460210040691078&id=990649497647157&scmts=scwspsdd&extid=jxBPCmkfspglO1HK",
     "confirmedPatient": true
   },
   {
@@ -122966,103 +123296,178 @@
   {
     "patientId": 8841,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 62,
+    "gender": "M",
+    "residence": "Kakkavayal",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on 9 July from Karnataka",
+    "knownCluster": "Karnataka",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8842,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Panamaram",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on 10 July from from Hyderabad",
+    "knownCluster": "Hyderabad",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8843,
     "dateAnnounced": "2020-07-14",
     "ageBracket": -1,
+    "gender": "F",
+    "residence": "Panamaram",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on 10 July from from Hyderabad",
+    "knownCluster": "Hyderabad",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8844,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Pulppally",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "Arrived on 27 July from Dubai",
+    "knownCluster": "Dubai",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8845,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Vellamunda",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "From Banglore ( arrived on  9,10,11, 13 dates are not specific)",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8846,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 24,
+    "gender": "M",
+    "residence": "Pilakkavu",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "From Banglore ( arrived on  9,10,11, 13 dates are not specific)",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8847,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 39,
+    "gender": "M",
+    "residence": "Padinjarathara",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "From Banglore ( arrived on  9,10,11, 13 dates are not specific)",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8848,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 22,
+    "gender": "M",
+    "residence": "Muttil",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "From Banglore ( arrived on  9,10,11, 13 dates are not specific)",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8849,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 21,
+    "gender": "M",
+    "residence": "Mullankolli",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "From Banglore ( arrived on  9,10,11, 13 dates are not specific)",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8850,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Ambalavayal",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "From Banglore ( arrived on  9,10,11, 13 dates are not specific)",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8851,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Elumannum",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "From Banglore ( arrived on  9,10,11, 13 dates are not specific)",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8852,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 51,
+    "gender": "M",
+    "residence": "Pulppally",
+    "detectedCityTown": "Wayanad",
     "detectedPrefecture": "Wayanad",
     "patientStatus": "Hospitalized",
+    "notes": "From Banglore ( arrived on  9,10,11, 13 dates are not specific)",
+    "knownCluster": "Bangalore",
+    "sourceURL": "https://www.facebook.com/wayanadWE/posts/927654527698538",
     "confirmedPatient": true
   },
   {
     "patientId": 8853,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 42,
+    "gender": "M",
+    "residence": "Manjeswaram",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123070,7 +123475,10 @@
   {
     "patientId": 8854,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 62,
+    "gender": "M",
+    "residence": "Manjeswaram",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123078,7 +123486,10 @@
   {
     "patientId": 8855,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 62,
+    "gender": "F",
+    "residence": "Meencha ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123086,7 +123497,10 @@
   {
     "patientId": 8856,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Meencha ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123094,7 +123508,10 @@
   {
     "patientId": 8857,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Chenkala ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123102,7 +123519,10 @@
   {
     "patientId": 8858,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 62,
+    "gender": "F",
+    "residence": "Chenkala ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123110,7 +123530,10 @@
   {
     "patientId": 8859,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "F",
+    "residence": "Chenkala ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123118,7 +123541,10 @@
   {
     "patientId": 8860,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Chenkala ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123126,7 +123552,10 @@
   {
     "patientId": 8861,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 16,
+    "gender": "M",
+    "residence": "Chenkala ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123134,7 +123563,10 @@
   {
     "patientId": 8862,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 34,
+    "gender": "M",
+    "residence": "Chenkala ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123142,7 +123574,10 @@
   {
     "patientId": 8863,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 37,
+    "gender": "M",
+    "residence": "Chenkala ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123150,7 +123585,10 @@
   {
     "patientId": 8864,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 75,
+    "gender": "M",
+    "residence": "Chenkala ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123158,7 +123596,10 @@
   {
     "patientId": 8865,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Chemmanad",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123166,7 +123607,10 @@
   {
     "patientId": 8866,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 54,
+    "gender": "M",
+    "residence": "Chemmanad",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123174,7 +123618,10 @@
   {
     "patientId": 8867,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "F",
+    "residence": "Madhur ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123182,7 +123629,10 @@
   {
     "patientId": 8868,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Madhur ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123190,7 +123640,10 @@
   {
     "patientId": 8869,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Madhur ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123198,7 +123651,10 @@
   {
     "patientId": 8870,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Kasaragod Town ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123206,7 +123662,10 @@
   {
     "patientId": 8871,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Kasaragod Town ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123214,7 +123673,10 @@
   {
     "patientId": 8872,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 23,
+    "gender": "F",
+    "residence": "Mogral Puthoor",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123222,7 +123684,10 @@
   {
     "patientId": 8873,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 45,
+    "gender": "M",
+    "residence": "Chemmanad",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123230,7 +123695,10 @@
   {
     "patientId": 8874,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Pallikkara ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123238,7 +123706,10 @@
   {
     "patientId": 8875,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 58,
+    "gender": "M",
+    "residence": "Karadukka",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123246,7 +123717,10 @@
   {
     "patientId": 8876,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Madikai",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123254,7 +123728,10 @@
   {
     "patientId": 8877,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 48,
+    "gender": "M",
+    "residence": "Kasaragod Town ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123262,7 +123739,10 @@
   {
     "patientId": 8878,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 32,
+    "gender": "M",
+    "residence": "Chemmanad",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123270,7 +123750,10 @@
   {
     "patientId": 8879,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Badiyadukka ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123278,7 +123761,10 @@
   {
     "patientId": 8880,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 28,
+    "gender": "M",
+    "residence": "Kanjanghad",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123286,7 +123772,10 @@
   {
     "patientId": 8881,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 29,
+    "gender": "M",
+    "residence": "Pallikkara ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123294,7 +123783,10 @@
   {
     "patientId": 8882,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Ajanoor",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123302,7 +123794,10 @@
   {
     "patientId": 8883,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Karadukka",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123310,7 +123805,10 @@
   {
     "patientId": 8884,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 33,
+    "gender": "M",
+    "residence": "Kasaragod Town ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123318,7 +123816,10 @@
   {
     "patientId": 8885,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 26,
+    "gender": "M",
+    "residence": "Kasaragod Town ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123326,7 +123827,10 @@
   {
     "patientId": 8886,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 40,
+    "gender": "M",
+    "residence": "Padanna",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123334,7 +123838,10 @@
   {
     "patientId": 8887,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 52,
+    "gender": "M",
+    "residence": "Valiyaparamba",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123342,7 +123849,10 @@
   {
     "patientId": 8888,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 27,
+    "gender": "M",
+    "residence": "Chenkala ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123350,7 +123860,10 @@
   {
     "patientId": 8889,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 35,
+    "gender": "M",
+    "residence": "Manjeswaram",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123358,7 +123871,10 @@
   {
     "patientId": 8890,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 31,
+    "gender": "M",
+    "residence": "Udhuma ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123366,7 +123882,10 @@
   {
     "patientId": 8891,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 3,
+    "gender": "F",
+    "residence": "Udhuma ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123374,7 +123893,10 @@
   {
     "patientId": 8892,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 6,
+    "gender": "F",
+    "residence": "Udhuma ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123382,7 +123904,10 @@
   {
     "patientId": 8893,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 38,
+    "gender": "M",
+    "residence": "Chemmanad",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123390,7 +123915,10 @@
   {
     "patientId": 8894,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 55,
+    "gender": "M",
+    "residence": "Kumbala ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123398,7 +123926,10 @@
   {
     "patientId": 8895,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 36,
+    "gender": "M",
+    "residence": "Mogral Puthoor",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
@@ -123406,7 +123937,10 @@
   {
     "patientId": 8896,
     "dateAnnounced": "2020-07-14",
-    "ageBracket": -1,
+    "ageBracket": 30,
+    "gender": "M",
+    "residence": "Kasaragod Town ",
+    "detectedCityTown": "Kasaragod",
     "detectedPrefecture": "Kasaragod",
     "patientStatus": "Hospitalized",
     "confirmedPatient": true
