@@ -3366,7 +3366,7 @@
     "notes": "Contact Transmission",
     "knownCluster": "Kollam",
     "dhsPatientNumber": "180",
-    "districtPatientNumber": "P0002",
+    "districtPatientNumber": "P003",
     "releasedOn": "2020-05-14",
     "confirmedPatient": true
   },
@@ -3929,6 +3929,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Qatar",
     "knownCluster": "Doha",
+    "districtPatientNumber": "P004",
     "releasedOn": "2020-04-15",
     "confirmedPatient": true
   },
@@ -3943,6 +3944,7 @@
     "patientStatus": "Discharged",
     "notes": "Attended Thableegi Jamaat Meeting",
     "knownCluster": "Delhi",
+    "districtPatientNumber": "P005",
     "releasedOn": "2020-05-14",
     "confirmedPatient": true
   },
@@ -4251,6 +4253,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Nizamuddin",
     "knownCluster": "Delhi",
+    "districtPatientNumber": "P006",
     "releasedOn": "2020-05-13",
     "confirmedPatient": true
   },
@@ -4700,6 +4703,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Nizamudeen with wife",
     "knownCluster": "Delhi",
+    "districtPatientNumber": "P007",
     "releasedOn": "2020-04-30",
     "confirmedPatient": true
   },
