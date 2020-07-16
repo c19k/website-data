@@ -6012,6 +6012,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from TN",
     "knownCluster": "Thenkasi",
+    "districtPatientNumber": "P009",
     "releasedOn": "2020-05-04",
     "confirmedPatient": true
   },
@@ -6308,6 +6309,7 @@
     "notes": "Contact Transmission",
     "knownCluster": "Kollam",
     "dhsPatientNumber": "426",
+    "districtPatientNumber": "P010",
     "releasedOn": "2020-04-30",
     "confirmedPatient": true
   },
