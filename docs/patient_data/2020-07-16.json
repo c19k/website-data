@@ -4605,6 +4605,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Sharjah on Air Arabia G9449 to Tvm - March19",
     "knownCluster": "Dubai",
+    "districtPatientNumber": "P007",
     "releasedOn": "2020-04-13",
     "confirmedPatient": true
   },
@@ -4703,7 +4704,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Nizamudeen with wife",
     "knownCluster": "Delhi",
-    "districtPatientNumber": "P007",
+    "districtPatientNumber": "P008",
     "releasedOn": "2020-04-30",
     "confirmedPatient": true
   },
@@ -5009,7 +5010,7 @@
     "notes": "Contant Transmission from P334",
     "knownCluster": "Nilamel",
     "dhsPatientNumber": "335",
-    "districtPatientNumber": "P008",
+    "districtPatientNumber": "P009",
     "releasedOn": "2020-04-24",
     "confirmedPatient": true
   },
@@ -6012,7 +6013,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from TN",
     "knownCluster": "Thenkasi",
-    "districtPatientNumber": "P009",
+    "districtPatientNumber": "P010",
     "releasedOn": "2020-05-04",
     "confirmedPatient": true
   },
