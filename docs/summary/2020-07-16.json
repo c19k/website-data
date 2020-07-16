@@ -25647,6 +25647,128 @@
         "deltaHomeIsolation": 209,
         "deltaHospitalIsolation": 2754
       }
+    },
+    "2020-07-16": {
+      "Alappuzha": {
+        "homeisolation": 5952,
+        "hospitalisolation": 589,
+        "peopleunderobservation": 6541,
+        "deltaPeopleUnderObservation": 151,
+        "deltaHomeIsolation": 137,
+        "deltaHospitalIsolation": 14
+      },
+      "Ernakulam": {
+        "homeisolation": 14788,
+        "hospitalisolation": 508,
+        "peopleunderobservation": 15296,
+        "deltaPeopleUnderObservation": 415,
+        "deltaHomeIsolation": 377,
+        "deltaHospitalIsolation": 38
+      },
+      "Idukki": {
+        "homeisolation": 5949,
+        "hospitalisolation": 173,
+        "peopleunderobservation": 6122,
+        "deltaPeopleUnderObservation": 105,
+        "deltaHomeIsolation": 50,
+        "deltaHospitalIsolation": 55
+      },
+      "Kannur": {
+        "homeisolation": 24134,
+        "hospitalisolation": 434,
+        "peopleunderobservation": 24568,
+        "deltaPeopleUnderObservation": -1525,
+        "deltaHomeIsolation": -1572,
+        "deltaHospitalIsolation": 47
+      },
+      "Kasaragod": {
+        "homeisolation": 5983,
+        "hospitalisolation": 263,
+        "peopleunderobservation": 6246,
+        "deltaPeopleUnderObservation": -50,
+        "deltaHomeIsolation": -102,
+        "deltaHospitalIsolation": 52
+      },
+      "Kollam": {
+        "homeisolation": 9041,
+        "hospitalisolation": 257,
+        "peopleunderobservation": 9298,
+        "deltaPeopleUnderObservation": -42,
+        "deltaHomeIsolation": -114,
+        "deltaHospitalIsolation": 72
+      },
+      "Kottayam": {
+        "homeisolation": 8900,
+        "hospitalisolation": 179,
+        "peopleunderobservation": 9079,
+        "deltaPeopleUnderObservation": 296,
+        "deltaHomeIsolation": 273,
+        "deltaHospitalIsolation": 23
+      },
+      "Kozhikode": {
+        "homeisolation": 14761,
+        "hospitalisolation": 345,
+        "peopleunderobservation": 15106,
+        "deltaPeopleUnderObservation": -8,
+        "deltaHomeIsolation": 0,
+        "deltaHospitalIsolation": -8
+      },
+      "Malappuram": {
+        "homeisolation": 41805,
+        "hospitalisolation": 717,
+        "peopleunderobservation": 42522,
+        "deltaPeopleUnderObservation": -106,
+        "deltaHomeIsolation": -80,
+        "deltaHospitalIsolation": -26
+      },
+      "Palakkad": {
+        "homeisolation": 12226,
+        "hospitalisolation": 274,
+        "peopleunderobservation": 12500,
+        "deltaPeopleUnderObservation": 230,
+        "deltaHomeIsolation": 252,
+        "deltaHospitalIsolation": -22
+      },
+      "Pathanamthitta": {
+        "homeisolation": 4345,
+        "hospitalisolation": 326,
+        "peopleunderobservation": 4671,
+        "deltaPeopleUnderObservation": -170,
+        "deltaHomeIsolation": -242,
+        "deltaHospitalIsolation": 72
+      },
+      "Thiruvananthapuram": {
+        "homeisolation": 13335,
+        "hospitalisolation": 967,
+        "peopleunderobservation": 14302,
+        "deltaPeopleUnderObservation": 136,
+        "deltaHomeIsolation": 25,
+        "deltaHospitalIsolation": 111
+      },
+      "Thrissur": {
+        "homeisolation": 13702,
+        "hospitalisolation": 280,
+        "peopleunderobservation": 13982,
+        "deltaPeopleUnderObservation": -123,
+        "deltaHomeIsolation": -129,
+        "deltaHospitalIsolation": 6
+      },
+      "Wayanad": {
+        "homeisolation": 3547,
+        "hospitalisolation": 120,
+        "peopleunderobservation": 3667,
+        "deltaPeopleUnderObservation": -10,
+        "deltaHomeIsolation": -19,
+        "deltaHospitalIsolation": 9
+      },
+      "total": {
+        "peopleunderobservation": 183900,
+        "homeisolation": 178468,
+        "hospitalisolation": 5432,
+        "deltaPeopleUnderObservation": -1144,
+        "deltaHomeIsolation": 443,
+        "deltaHospitalIsolation": -701
+      }
     }
   }
 }
