@@ -2547,6 +2547,7 @@
     "patientStatus": "Discharged",
     "notes": "Travelled from Dubai and landed at Tvm Airport - Disch on Apr 6",
     "knownCluster": "Dubai",
+    "districtPatientNumber": "P002",
     "releasedOn": "2020-04-06",
     "confirmedPatient": true
   },
@@ -3365,6 +3366,7 @@
     "notes": "Contact Transmission",
     "knownCluster": "Kollam",
     "dhsPatientNumber": "180",
+    "districtPatientNumber": "P0002",
     "releasedOn": "2020-05-14",
     "confirmedPatient": true
   },
