@@ -5,7 +5,7 @@
       "confirmed": 1502,
       "deaths": 6,
       "confirmedByCity": {
-        "Thiruvananthapuram": 1161,
+        "Thiruvananthapuram": 1500,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -182,7 +182,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 225,
+      "recovered": 240,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -370,7 +370,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 574,
+      "recovered": 584,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -558,7 +558,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 691,
+      "recovered": 742,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -743,7 +743,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 269,
+      "recovered": 286,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -751,7 +751,7 @@
     },
     {
       "confirmed": 824,
-      "deaths": 5,
+      "deaths": 6,
       "confirmedByCity": {
         "Ernakulam": 3,
         "Kannur": 821
@@ -929,7 +929,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 445,
+      "recovered": 484,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -1116,7 +1116,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 471,
+      "recovered": 481,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1302,7 +1302,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 226,
+      "recovered": 224,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1310,7 +1310,7 @@
     },
     {
       "confirmed": 710,
-      "deaths": 4,
+      "deaths": 5,
       "confirmedByCity": {
         "Thrissur": 707,
         "Ernakulam": 3
@@ -1488,7 +1488,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 418,
+      "recovered": 431,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1676,7 +1676,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 326,
+      "recovered": 327,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1864,7 +1864,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 337,
+      "recovered": 342,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -2052,7 +2052,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 279,
+      "recovered": 296,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -2238,7 +2238,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 220,
+      "recovered": 225,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -5244,9 +5244,9 @@
     {
       "ageGroup": "30-39",
       "female": 432,
-      "male": 1859,
+      "male": 1860,
       "unspecified": 8,
-      "total": 2307
+      "total": 2308
     },
     {
       "ageGroup": "40-49",
@@ -5293,15 +5293,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 103,
-      "male": 532,
-      "unspecified": 379,
-      "total": 1014
+      "male": 533,
+      "unspecified": 377,
+      "total": 1013
     }
   ],
   "gender": {
     "female": 2342,
-    "male": 7380,
-    "unspecified": 479,
+    "male": 7382,
+    "unspecified": 477,
     "total": 10275
   },
   "underObservation": {
