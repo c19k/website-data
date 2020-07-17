@@ -754,7 +754,7 @@
       "deaths": 5,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 798
+        "Kannur": 821
       },
       "dailyConfirmedCount": [
         0,
@@ -1874,7 +1874,7 @@
       "confirmed": 574,
       "deaths": 2,
       "confirmedByCity": {
-        "Kozhikode": 537,
+        "Kozhikode": 570,
         "Chennai": 1,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -5222,52 +5222,52 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 200,
-      "male": 227,
+      "female": 201,
+      "male": 229,
       "unspecified": 25,
-      "total": 452
+      "total": 455
     },
     {
       "ageGroup": "10-19",
-      "female": 193,
-      "male": 312,
+      "female": 195,
+      "male": 313,
       "unspecified": 12,
-      "total": 517
+      "total": 520
     },
     {
       "ageGroup": "20-29",
-      "female": 594,
-      "male": 1688,
+      "female": 597,
+      "male": 1695,
       "unspecified": 16,
-      "total": 2304
+      "total": 2314
     },
     {
       "ageGroup": "30-39",
-      "female": 429,
-      "male": 1842,
+      "female": 432,
+      "male": 1852,
       "unspecified": 8,
-      "total": 2287
+      "total": 2300
     },
     {
       "ageGroup": "40-49",
-      "female": 350,
-      "male": 1416,
+      "female": 351,
+      "male": 1430,
       "unspecified": 16,
-      "total": 1787
+      "total": 1802
     },
     {
       "ageGroup": "50-59",
-      "female": 280,
-      "male": 884,
+      "female": 281,
+      "male": 894,
       "unspecified": 9,
-      "total": 1179
+      "total": 1190
     },
     {
       "ageGroup": "60-69",
       "female": 118,
-      "male": 332,
+      "male": 333,
       "unspecified": 4,
-      "total": 455
+      "total": 456
     },
     {
       "ageGroup": "70-79",
@@ -5294,14 +5294,14 @@
       "ageGroup": "Unspecified",
       "female": 103,
       "male": 532,
-      "unspecified": 465,
-      "total": 1100
+      "unspecified": 409,
+      "total": 1044
     }
   ],
   "gender": {
-    "female": 2327,
-    "male": 7309,
-    "unspecified": 565,
+    "female": 2338,
+    "male": 7354,
+    "unspecified": 509,
     "total": 10275
   },
   "underObservation": {
