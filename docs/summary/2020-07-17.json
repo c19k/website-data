@@ -380,7 +380,7 @@
       "confirmed": 972,
       "deaths": 1,
       "confirmedByCity": {
-        "Palakkad": 942,
+        "Palakkad": 967,
         "Ernakulam": 2,
         "Malappuram": 1,
         "Idukki": 2
@@ -5223,9 +5223,9 @@
     {
       "ageGroup": "<10",
       "female": 191,
-      "male": 214,
+      "male": 217,
       "unspecified": 25,
-      "total": 430
+      "total": 433
     },
     {
       "ageGroup": "10-19",
@@ -5236,31 +5236,31 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 558,
-      "male": 1578,
+      "female": 559,
+      "male": 1585,
       "unspecified": 13,
-      "total": 2154
+      "total": 2162
     },
     {
       "ageGroup": "30-39",
-      "female": 397,
-      "male": 1748,
+      "female": 399,
+      "male": 1754,
       "unspecified": 6,
-      "total": 2158
+      "total": 2166
     },
     {
       "ageGroup": "40-49",
       "female": 325,
-      "male": 1339,
+      "male": 1343,
       "unspecified": 15,
-      "total": 1682
+      "total": 1686
     },
     {
       "ageGroup": "50-59",
       "female": 254,
-      "male": 835,
+      "male": 837,
       "unspecified": 7,
-      "total": 1102
+      "total": 1104
     },
     {
       "ageGroup": "60-69",
@@ -5294,14 +5294,14 @@
       "ageGroup": "Unspecified",
       "female": 103,
       "male": 527,
-      "unspecified": 1050,
-      "total": 1680
+      "unspecified": 1025,
+      "total": 1655
     }
   ],
   "gender": {
-    "female": 2167,
-    "male": 6900,
-    "unspecified": 1138,
+    "female": 2170,
+    "male": 6922,
+    "unspecified": 1113,
     "total": 10275
   },
   "underObservation": {
