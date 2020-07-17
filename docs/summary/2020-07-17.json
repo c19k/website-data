@@ -5294,15 +5294,15 @@
       "ageGroup": "Unspecified",
       "female": 103,
       "male": 533,
-      "unspecified": 377,
-      "total": 1013
+      "unspecified": 674,
+      "total": 1310
     }
   ],
   "gender": {
     "female": 2342,
     "male": 7382,
-    "unspecified": 477,
-    "total": 10275
+    "unspecified": 774,
+    "total": 10572
   },
   "underObservation": {
     "2020-01-31": {
