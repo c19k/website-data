@@ -1,5 +1,5 @@
 {
-  "updated": "2020-07-17 20:11",
+  "updated": "2020-07-18 16:09",
   "prefectures": [
     {
       "confirmed": 1748,
@@ -1508,7 +1508,7 @@
       "confirmed": 742,
       "deaths": 6,
       "confirmedByCity": {
-        "Thrissur": 707,
+        "Thrissur": 739,
         "Ernakulam": 3
       },
       "dailyConfirmedCount": [
@@ -2450,7 +2450,7 @@
       "deaths": 1,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 211,
+        "Wayanad": 239,
         "Kozhikode": 1
       },
       "dailyConfirmedCount": [
@@ -5257,51 +5257,51 @@
     {
       "ageGroup": "<10",
       "female": 225,
-      "male": 246,
-      "unspecified": 30,
-      "total": 505
+      "male": 248,
+      "unspecified": 33,
+      "total": 507
     },
     {
       "ageGroup": "10-19",
       "female": 213,
-      "male": 342,
+      "male": 343,
       "unspecified": 16,
-      "total": 571
+      "total": 572
     },
     {
       "ageGroup": "20-29",
       "female": 644,
-      "male": 1812,
-      "unspecified": 16,
-      "total": 2478
+      "male": 1817,
+      "unspecified": 18,
+      "total": 2485
     },
     {
       "ageGroup": "30-39",
       "female": 468,
-      "male": 1939,
-      "unspecified": 9,
-      "total": 2426
+      "male": 1941,
+      "unspecified": 10,
+      "total": 2429
     },
     {
       "ageGroup": "40-49",
       "female": 377,
-      "male": 1507,
-      "unspecified": 16,
-      "total": 1905
+      "male": 1510,
+      "unspecified": 19,
+      "total": 1911
     },
     {
       "ageGroup": "50-59",
       "female": 316,
-      "male": 950,
-      "unspecified": 11,
-      "total": 1283
+      "male": 953,
+      "unspecified": 15,
+      "total": 1290
     },
     {
       "ageGroup": "60-69",
       "female": 132,
-      "male": 362,
-      "unspecified": 4,
-      "total": 499
+      "male": 363,
+      "unspecified": 7,
+      "total": 503
     },
     {
       "ageGroup": "70-79",
@@ -5328,14 +5328,14 @@
       "ageGroup": "Unspecified",
       "female": 104,
       "male": 536,
-      "unspecified": 553,
-      "total": 1193
+      "unspecified": 523,
+      "total": 1163
     }
   ],
   "gender": {
     "female": 2545,
-    "male": 7776,
-    "unspecified": 665,
+    "male": 7793,
+    "unspecified": 651,
     "total": 11066
   },
   "underObservation": {
