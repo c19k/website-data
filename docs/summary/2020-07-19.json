@@ -5271,15 +5271,15 @@
     },
     {
       "confirmed": 0,
-      "recoveredCumulative": 5199,
-      "deceasedCumulative": 40,
+      "recoveredCumulative": 5371,
+      "deceasedCumulative": 42,
       "criticalCumulative": 1,
       "testedCumulative": 514140,
       "observationCumulative": 173932,
       "homeObservationCumulative": 167091,
       "hosptilisedCumulative": 6841,
-      "activeCumulative": 6416,
-      "importedCases": 0,
+      "activeCumulative": 7071,
+      "importedCases": 829,
       "contactCases": 0,
       "status": "Reviewing",
       "date": "2020-07-19",
@@ -5365,15 +5365,15 @@
       "ageGroup": "Unspecified",
       "female": 106,
       "male": 540,
-      "unspecified": 567,
-      "total": 1213
+      "unspecified": 1396,
+      "total": 2042
     }
   ],
   "gender": {
     "female": 2699,
     "male": 8172,
-    "unspecified": 704,
-    "total": 11659
+    "unspecified": 1533,
+    "total": 12488
   },
   "underObservation": {
     "2020-01-31": {
