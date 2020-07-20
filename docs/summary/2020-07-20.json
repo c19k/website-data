@@ -180,10 +180,11 @@
         339,
         246,
         173,
-        222
+        222,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 222,
+      "newlyConfirmed": 0,
       "recovered": 278,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -370,10 +371,11 @@
         42,
         25,
         19,
-        25
+        25,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 25,
+      "newlyConfirmed": 0,
       "recovered": 642,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -560,10 +562,11 @@
         25,
         31,
         49,
-        81
+        81,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 81,
+      "newlyConfirmed": 0,
       "recovered": 778,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
@@ -747,10 +750,11 @@
         20,
         57,
         42,
-        52
+        52,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 52,
+      "newlyConfirmed": 0,
       "recovered": 362,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
@@ -935,10 +939,11 @@
         57,
         115,
         44,
-        98
+        98,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 98,
+      "newlyConfirmed": 0,
       "recovered": 245,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
@@ -1124,10 +1129,11 @@
         18,
         32,
         29,
-        57
+        57,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 57,
+      "newlyConfirmed": 0,
       "recovered": 511,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -1312,10 +1318,11 @@
         23,
         9,
         39,
-        13
+        13,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 13,
+      "newlyConfirmed": 0,
       "recovered": 551,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
@@ -1502,10 +1509,11 @@
         39,
         87,
         28,
-        35
+        35,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 35,
+      "newlyConfirmed": 0,
       "recovered": 362,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
@@ -1690,10 +1698,11 @@
         32,
         32,
         21,
-        61
+        61,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 61,
+      "newlyConfirmed": 0,
       "recovered": 495,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
@@ -1880,10 +1889,11 @@
         42,
         47,
         53,
-        75
+        75,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 75,
+      "newlyConfirmed": 0,
       "recovered": 353,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
@@ -2070,10 +2080,11 @@
         33,
         32,
         26,
-        32
+        32,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 32,
+      "newlyConfirmed": 0,
       "recovered": 322,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -2258,10 +2269,11 @@
         13,
         39,
         16,
-        20
+        20,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 20,
+      "newlyConfirmed": 0,
       "recovered": 248,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
@@ -2448,10 +2460,11 @@
         26,
         11,
         28,
-        49
+        49,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 49,
+      "newlyConfirmed": 0,
       "recovered": 117,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
@@ -2637,10 +2650,11 @@
         13,
         28,
         26,
-        1
+        1,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 0,
       "recovered": 107,
       "name_ja": "വയനാട്",
       "zone": "Orange",
