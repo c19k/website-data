@@ -1145,7 +1145,7 @@
       "deaths": 6,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 869
+        "Kannur": 882
       },
       "dailyConfirmedCount": [
         0,
@@ -2476,7 +2476,7 @@
       "deaths": 1,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 265,
+        "Wayanad": 266,
         "Kozhikode": 1
       },
       "dailyConfirmedCount": [
@@ -5324,45 +5324,45 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 238,
-      "male": 259,
+      "female": 239,
+      "male": 260,
       "unspecified": 35,
-      "total": 533
+      "total": 535
     },
     {
       "ageGroup": "10-19",
-      "female": 227,
-      "male": 373,
+      "female": 229,
+      "male": 374,
       "unspecified": 16,
-      "total": 616
+      "total": 619
     },
     {
       "ageGroup": "20-29",
       "female": 679,
-      "male": 1928,
+      "male": 1929,
       "unspecified": 18,
-      "total": 2632
+      "total": 2633
     },
     {
       "ageGroup": "30-39",
       "female": 500,
-      "male": 2033,
+      "male": 2036,
       "unspecified": 13,
-      "total": 2557
+      "total": 2560
     },
     {
       "ageGroup": "40-49",
       "female": 397,
-      "male": 1583,
+      "male": 1586,
       "unspecified": 21,
-      "total": 2009
+      "total": 2012
     },
     {
       "ageGroup": "50-59",
       "female": 338,
-      "male": 990,
+      "male": 991,
       "unspecified": 17,
-      "total": 1352
+      "total": 1353
     },
     {
       "ageGroup": "60-69",
@@ -5395,15 +5395,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 106,
-      "male": 540,
-      "unspecified": 1388,
-      "total": 2034
+      "male": 541,
+      "unspecified": 1374,
+      "total": 2021
     }
   ],
   "gender": {
-    "female": 2699,
-    "male": 8172,
-    "unspecified": 1525,
+    "female": 2702,
+    "male": 8183,
+    "unspecified": 1511,
     "total": 12480
   },
   "underObservation": {
