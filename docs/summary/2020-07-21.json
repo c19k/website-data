@@ -385,10 +385,10 @@
       "name": "Malappuram"
     },
     {
-      "confirmed": 1183,
+      "confirmed": 1182,
       "deaths": 1,
       "confirmedByCity": {
-        "Palakkad": 1157,
+        "Palakkad": 1177,
         "Ernakulam": 2,
         "Malappuram": 1,
         "Idukki": 2
@@ -565,7 +565,7 @@
         31,
         49,
         81,
-        50,
+        49,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -2293,11 +2293,11 @@
       "name": "Kottayam"
     },
     {
-      "confirmed": 404,
+      "confirmed": 405,
       "deaths": 1,
       "confirmedByCity": {
         "Munnar": 1,
-        "Idukki": 398,
+        "Idukki": 399,
         "Unspecified": 4,
         "Kottayam": 1
       },
@@ -2473,7 +2473,7 @@
         11,
         28,
         49,
-        23,
+        24,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
