@@ -1160,10 +1160,10 @@
       "name": "Kollam"
     },
     {
-      "confirmed": 1119,
+      "confirmed": 1120,
       "deaths": 1,
       "confirmedByCity": {
-        "Kasaragod": 1070,
+        "Kasaragod": 1071,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -1341,7 +1341,7 @@
         57,
         28,
         40,
-        101,
+        102,
         47
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -2317,11 +2317,11 @@
       "name": "Kottayam"
     },
     {
-      "confirmed": 510,
+      "confirmed": 509,
       "deaths": 2,
       "confirmedByCity": {
         "Munnar": 1,
-        "Idukki": 441,
+        "Idukki": 440,
         "Unspecified": 4,
         "Kottayam": 1
       },
@@ -2499,7 +2499,7 @@
         49,
         24,
         0,
-        42,
+        41,
         63
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -5394,7 +5394,7 @@
       "observationCumulative": 159777,
       "homeObservationCumulative": 150746,
       "hosptilisedCumulative": 9031,
-      "activeCumulative": 8821,
+      "activeCumulative": 8818,
       "importedCases": 253,
       "contactCases": 785,
       "status": "Finalised",
@@ -5407,14 +5407,14 @@
     },
     {
       "confirmed": 1078,
-      "recoveredCumulative": 6587,
+      "recoveredCumulative": 6594,
       "deceasedCumulative": 50,
       "criticalCumulative": 9,
       "testedCumulative": 588930,
       "observationCumulative": 158117,
       "homeObservationCumulative": 148763,
       "hosptilisedCumulative": 9354,
-      "activeCumulative": 9469,
+      "activeCumulative": 9458,
       "importedCases": 280,
       "contactCases": 798,
       "status": "Reviewing",
@@ -5450,10 +5450,10 @@
     },
     {
       "ageGroup": "30-39",
-      "female": 651,
+      "female": 652,
       "male": 2437,
       "unspecified": 23,
-      "total": 3126
+      "total": 3127
     },
     {
       "ageGroup": "40-49",
@@ -5479,9 +5479,9 @@
     {
       "ageGroup": "70-79",
       "female": 57,
-      "male": 85,
+      "male": 84,
       "unspecified": 4,
-      "total": 146
+      "total": 145
     },
     {
       "ageGroup": "80-89",
@@ -5506,8 +5506,8 @@
     }
   ],
   "gender": {
-    "female": 3511,
-    "male": 9916,
+    "female": 3512,
+    "male": 9915,
     "unspecified": 2338,
     "total": 16110
   },
