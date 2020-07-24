@@ -199,7 +199,7 @@
       "confirmed": 1485,
       "deaths": 5,
       "confirmedByCity": {
-        "Malappuram": 1382,
+        "Malappuram": 1471,
         "Palakkad": 1,
         "Kozhikode": 9,
         "Ernakulam": 4
@@ -394,7 +394,7 @@
       "confirmed": 1321,
       "deaths": 5,
       "confirmedByCity": {
-        "Ernakulam": 1217,
+        "Ernakulam": 1317,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -587,7 +587,7 @@
       "confirmed": 1313,
       "deaths": 1,
       "confirmedByCity": {
-        "Palakkad": 1257,
+        "Palakkad": 1308,
         "Ernakulam": 2,
         "Malappuram": 1,
         "Idukki": 2
@@ -782,7 +782,7 @@
       "confirmed": 1290,
       "deaths": 4,
       "confirmedByCity": {
-        "Alappuzha": 1208
+        "Alappuzha": 1290
       },
       "dailyConfirmedCount": [
         0,
@@ -1556,7 +1556,7 @@
       "confirmed": 1024,
       "deaths": 6,
       "confirmedByCity": {
-        "Thrissur": 938,
+        "Thrissur": 1021,
         "Ernakulam": 3
       },
       "dailyConfirmedCount": [
@@ -1749,7 +1749,7 @@
       "confirmed": 953,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 921,
+        "Pathanamthitta": 948,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -1944,7 +1944,7 @@
       "confirmed": 887,
       "deaths": 3,
       "confirmedByCity": {
-        "Kozhikode": 816,
+        "Kozhikode": 883,
         "Chennai": 1,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -2139,7 +2139,7 @@
       "confirmed": 692,
       "deaths": 0,
       "confirmedByCity": {
-        "Kottayam": 611,
+        "Kottayam": 691,
         "Ernakulam": 1
       },
       "dailyConfirmedCount": [
@@ -2333,7 +2333,7 @@
       "deaths": 2,
       "confirmedByCity": {
         "Munnar": 1,
-        "Idukki": 440,
+        "Idukki": 503,
         "Unspecified": 4,
         "Kottayam": 1
       },
@@ -5460,66 +5460,66 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 303,
-      "male": 345,
+      "female": 306,
+      "male": 347,
       "unspecified": 44,
-      "total": 693
+      "total": 704
     },
     {
       "ageGroup": "10-19",
-      "female": 331,
-      "male": 503,
+      "female": 342,
+      "male": 504,
       "unspecified": 28,
-      "total": 864
+      "total": 880
     },
     {
       "ageGroup": "20-29",
-      "female": 904,
-      "male": 2363,
+      "female": 923,
+      "male": 2378,
       "unspecified": 39,
-      "total": 3315
+      "total": 3353
     },
     {
       "ageGroup": "30-39",
-      "female": 682,
-      "male": 2484,
+      "female": 691,
+      "male": 2493,
       "unspecified": 23,
-      "total": 3205
+      "total": 3231
     },
     {
       "ageGroup": "40-49",
-      "female": 545,
-      "male": 1883,
+      "female": 562,
+      "male": 1892,
       "unspecified": 31,
-      "total": 2471
+      "total": 2503
     },
     {
       "ageGroup": "50-59",
-      "female": 459,
-      "male": 1222,
+      "female": 477,
+      "male": 1228,
       "unspecified": 24,
-      "total": 1714
+      "total": 1745
     },
     {
       "ageGroup": "60-69",
-      "female": 220,
-      "male": 467,
+      "female": 225,
+      "male": 468,
       "unspecified": 9,
-      "total": 699
+      "total": 708
     },
     {
       "ageGroup": "70-79",
-      "female": 59,
-      "male": 90,
+      "female": 62,
+      "male": 91,
       "unspecified": 4,
-      "total": 153
+      "total": 158
     },
     {
       "ageGroup": "80-89",
-      "female": 21,
+      "female": 22,
       "male": 23,
       "unspecified": 1,
-      "total": 45
+      "total": 46
     },
     {
       "ageGroup": "90-100",
@@ -5532,14 +5532,14 @@
       "ageGroup": "Unspecified",
       "female": 112,
       "male": 707,
-      "unspecified": 1693,
-      "total": 2512
+      "unspecified": 1523,
+      "total": 2342
     }
   ],
   "gender": {
-    "female": 3649,
-    "male": 10103,
-    "unspecified": 1904,
+    "female": 3735,
+    "male": 10148,
+    "unspecified": 1734,
     "total": 16110
   },
   "underObservation": {
