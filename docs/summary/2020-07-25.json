@@ -1758,10 +1758,23 @@
       "confirmed": 976,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 948,
+        "Pathanamthitta": 951,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
-        "Malappuram": 2
+        "Malappuram": 2,
+        "Pezhumpara": 2,
+        "Naranammuzhi": 1,
+        "Ilamannoor": 1,
+        "Ayiroor": 1,
+        "Parumala": 1,
+        "Kuttoor": 1,
+        "Ranni": 1,
+        "Malayalapuzha": 2,
+        "Kumbazha": 3,
+        "Kulasekharapathi": 4,
+        "Thiruvalla": 1,
+        "Mylapra": 1,
+        "Vallikkode": 1
       },
       "dailyConfirmedCount": [
         0,
@@ -5566,14 +5579,14 @@
       "ageGroup": "Unspecified",
       "female": 119,
       "male": 725,
-      "unspecified": 1432,
-      "total": 2276
+      "unspecified": 1409,
+      "total": 2253
     }
   ],
   "gender": {
     "female": 4032,
     "male": 10700,
-    "unspecified": 1673,
+    "unspecified": 1650,
     "total": 16995
   },
   "underObservation": {
