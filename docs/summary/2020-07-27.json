@@ -202,7 +202,7 @@
       "confirmed": 1667,
       "deaths": 6,
       "confirmedByCity": {
-        "Malappuram": 1539,
+        "Malappuram": 1595,
         "Palakkad": 1,
         "Kozhikode": 9,
         "Ernakulam": 4
@@ -1580,7 +1580,7 @@
       "confirmed": 1136,
       "deaths": 5,
       "confirmedByCity": {
-        "Kozhikode": 1075,
+        "Kozhikode": 1132,
         "Chennai": 1,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -5562,66 +5562,66 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 380,
-      "male": 426,
+      "female": 392,
+      "male": 429,
       "unspecified": 48,
-      "total": 862
+      "total": 877
     },
     {
       "ageGroup": "10-19",
-      "female": 432,
-      "male": 621,
+      "female": 439,
+      "male": 627,
       "unspecified": 30,
-      "total": 1090
+      "total": 1104
     },
     {
       "ageGroup": "20-29",
-      "female": 1111,
-      "male": 2722,
+      "female": 1127,
+      "male": 2758,
       "unspecified": 46,
-      "total": 3892
+      "total": 3944
     },
     {
       "ageGroup": "30-39",
-      "female": 838,
-      "male": 2835,
+      "female": 851,
+      "male": 2874,
       "unspecified": 29,
-      "total": 3728
+      "total": 3780
     },
     {
       "ageGroup": "40-49",
-      "female": 720,
-      "male": 2126,
+      "female": 736,
+      "male": 2148,
       "unspecified": 35,
-      "total": 2899
+      "total": 2937
     },
     {
       "ageGroup": "50-59",
-      "female": 559,
-      "male": 1416,
+      "female": 571,
+      "male": 1432,
       "unspecified": 32,
-      "total": 2023
+      "total": 2051
     },
     {
       "ageGroup": "60-69",
-      "female": 269,
-      "male": 541,
+      "female": 271,
+      "male": 546,
       "unspecified": 21,
-      "total": 837
+      "total": 844
     },
     {
       "ageGroup": "70-79",
-      "female": 84,
-      "male": 106,
+      "female": 90,
+      "male": 107,
       "unspecified": 13,
-      "total": 204
+      "total": 211
     },
     {
       "ageGroup": "80-89",
       "female": 26,
       "male": 29,
-      "unspecified": 4,
-      "total": 59
+      "unspecified": 5,
+      "total": 60
     },
     {
       "ageGroup": "90-100",
@@ -5634,14 +5634,14 @@
       "ageGroup": "Unspecified",
       "female": 130,
       "male": 759,
-      "unspecified": 1841,
-      "total": 2730
+      "unspecified": 1627,
+      "total": 2516
     }
   ],
   "gender": {
-    "female": 4568,
-    "male": 11606,
-    "unspecified": 2107,
+    "female": 4652,
+    "male": 11734,
+    "unspecified": 1894,
     "total": 19025
   },
   "underObservation": {
