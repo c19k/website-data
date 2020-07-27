@@ -2172,7 +2172,7 @@
       "confirmed": 874,
       "deaths": 0,
       "confirmedByCity": {
-        "Kottayam": 819,
+        "Kottayam": 873,
         "Ernakulam": 1
       },
       "dailyConfirmedCount": [
@@ -5564,8 +5564,8 @@
       "ageGroup": "<10",
       "female": 391,
       "male": 430,
-      "unspecified": 48,
-      "total": 877
+      "unspecified": 49,
+      "total": 878
     },
     {
       "ageGroup": "10-19",
@@ -5605,9 +5605,9 @@
     {
       "ageGroup": "60-69",
       "female": 271,
-      "male": 545,
+      "male": 547,
       "unspecified": 21,
-      "total": 843
+      "total": 845
     },
     {
       "ageGroup": "70-79",
@@ -5632,16 +5632,16 @@
     },
     {
       "ageGroup": "Unspecified",
-      "female": 130,
-      "male": 759,
-      "unspecified": 1626,
-      "total": 2515
+      "female": 134,
+      "male": 761,
+      "unspecified": 1617,
+      "total": 2512
     }
   ],
   "gender": {
-    "female": 4652,
-    "male": 11735,
-    "unspecified": 1893,
+    "female": 4656,
+    "male": 11739,
+    "unspecified": 1885,
     "total": 19025
   },
   "underObservation": {
