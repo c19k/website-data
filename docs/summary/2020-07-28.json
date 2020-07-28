@@ -1,5 +1,5 @@
 {
-  "updated": "2020-07-28 12:38",
+  "updated": "2020-07-28 18:37",
   "prefectures": [
     {
       "confirmed": 3894,
@@ -193,7 +193,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 227,
-      "recovered": 974,
+      "recovered": 804,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -984,7 +984,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 95,
-      "recovered": 712,
+      "recovered": 642,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -5582,9 +5582,9 @@
       "deceasedCumulative": 67,
       "criticalCumulative": 9,
       "testedCumulative": 688183,
-      "observationCumulative": 155148,
-      "homeObservationCumulative": 145751,
-      "hosptilisedCumulative": 9397,
+      "observationCumulative": 150816,
+      "homeObservationCumulative": 140725,
+      "hosptilisedCumulative": 10091,
       "activeCumulative": 10098,
       "importedCases": 284,
       "contactCases": 888,
