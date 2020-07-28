@@ -1,5 +1,5 @@
 {
-  "updated": "2020-07-27 21:50",
+  "updated": "2020-07-28 12:38",
   "prefectures": [
     {
       "confirmed": 3667,
@@ -1984,7 +1984,7 @@
       "confirmed": 1136,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 1114,
+        "Pathanamthitta": 1131,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -5561,8 +5561,8 @@
       "deceasedCumulative": 63,
       "criticalCumulative": 9,
       "testedCumulative": 688183,
-      "observationCumulative": 155147,
-      "homeObservationCumulative": 145750,
+      "observationCumulative": 155148,
+      "homeObservationCumulative": 145751,
       "hosptilisedCumulative": 9397,
       "activeCumulative": 9609,
       "importedCases": 219,
@@ -5581,8 +5581,8 @@
       "deceasedCumulative": 63,
       "criticalCumulative": 9,
       "testedCumulative": 688183,
-      "observationCumulative": 155147,
-      "homeObservationCumulative": 145750,
+      "observationCumulative": 155148,
+      "homeObservationCumulative": 145751,
       "hosptilisedCumulative": 9397,
       "activeCumulative": 9609,
       "date": "2020-07-28",
