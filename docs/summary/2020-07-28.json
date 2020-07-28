@@ -1388,11 +1388,11 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 1248,
+      "confirmed": 1249,
       "deaths": 7,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 1245
+        "Kannur": 1246
       },
       "dailyConfirmedCount": [
         0,
@@ -1573,7 +1573,7 @@
         18,
         62,
         47,
-        37,
+        38,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -1981,10 +1981,10 @@
       "name": "Thrissur"
     },
     {
-      "confirmed": 1136,
+      "confirmed": 1135,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 1131,
+        "Pathanamthitta": 1130,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -2168,7 +2168,7 @@
         23,
         52,
         91,
-        17,
+        16,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -5625,8 +5625,8 @@
     },
     {
       "ageGroup": "40-49",
-      "female": 759,
-      "male": 2187,
+      "female": 758,
+      "male": 2188,
       "unspecified": 35,
       "total": 2999
     },
@@ -5674,8 +5674,8 @@
     }
   ],
   "gender": {
-    "female": 4816,
-    "male": 12008,
+    "female": 4815,
+    "male": 12009,
     "unspecified": 2157,
     "total": 19727
   },
