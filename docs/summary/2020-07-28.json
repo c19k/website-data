@@ -795,7 +795,7 @@
       "confirmed": 1492,
       "deaths": 4,
       "confirmedByCity": {
-        "Kollam": 1464,
+        "Kollam": 1486,
         "Unspecified": 4,
         "Ernakulam": 1,
         "Malappuram": 1
@@ -5586,6 +5586,9 @@
       "homeObservationCumulative": 145751,
       "hosptilisedCumulative": 9397,
       "activeCumulative": 9609,
+      "importedCases": 0,
+      "contactCases": 0,
+      "status": "Reviewing",
       "date": "2020-07-28",
       "confirmedCumulative": 19727,
       "confirmedAvg3d": 543,
