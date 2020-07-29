@@ -1,5 +1,5 @@
 {
-  "updated": "2020-07-29 18:14",
+  "updated": "2020-07-29 18:19",
   "prefectures": [
     {
       "confirmed": 4102,
@@ -996,7 +996,7 @@
       "name": "Alappuzha"
     },
     {
-      "confirmed": 1575,
+      "confirmed": 1624,
       "deaths": 2,
       "confirmedByCity": {
         "Palakkad": 1570,
@@ -1185,10 +1185,10 @@
         42,
         41,
         86,
-        0
+        49
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 49,
       "recovered": 1109,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
@@ -5611,7 +5611,7 @@
       "confirmedCumulativeAvg7d": 17921
     },
     {
-      "confirmed": 854,
+      "confirmed": 903,
       "recoveredCumulative": 11369,
       "deceasedCumulative": 68,
       "criticalCumulative": 9,
@@ -5624,11 +5624,11 @@
       "contactCases": 706,
       "status": "Finalised",
       "date": "2020-07-29",
-      "confirmedCumulative": 21748,
-      "confirmedAvg3d": 907,
-      "confirmedCumulativeAvg3d": 20746,
-      "confirmedAvg7d": 959,
-      "confirmedCumulativeAvg7d": 18880
+      "confirmedCumulative": 21797,
+      "confirmedAvg3d": 924,
+      "confirmedCumulativeAvg3d": 20763,
+      "confirmedAvg7d": 966,
+      "confirmedCumulativeAvg7d": 18887
     }
   ],
   "age": [
