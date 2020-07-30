@@ -1004,7 +1004,7 @@
       "confirmed": 1624,
       "deaths": 2,
       "confirmedByCity": {
-        "Palakkad": 1570,
+        "Palakkad": 1619,
         "Ernakulam": 2,
         "Malappuram": 1,
         "Idukki": 2
@@ -2205,7 +2205,7 @@
       "confirmed": 1083,
       "deaths": 1,
       "confirmedByCity": {
-        "Kottayam": 994,
+        "Kottayam": 1023,
         "Ernakulam": 1,
         "Idukki": 1
       },
@@ -5666,44 +5666,44 @@
     {
       "ageGroup": "<10",
       "female": 429,
-      "male": 477,
+      "male": 479,
       "unspecified": 49,
-      "total": 967
+      "total": 969
     },
     {
       "ageGroup": "10-19",
-      "female": 508,
-      "male": 703,
+      "female": 510,
+      "male": 705,
       "unspecified": 30,
-      "total": 1249
+      "total": 1253
     },
     {
       "ageGroup": "20-29",
-      "female": 1265,
-      "male": 3006,
+      "female": 1267,
+      "male": 3012,
       "unspecified": 46,
-      "total": 4330
+      "total": 4338
     },
     {
       "ageGroup": "30-39",
-      "female": 965,
-      "male": 3101,
+      "female": 966,
+      "male": 3115,
       "unspecified": 29,
-      "total": 4121
+      "total": 4136
     },
     {
       "ageGroup": "40-49",
-      "female": 828,
-      "male": 2290,
+      "female": 829,
+      "male": 2298,
       "unspecified": 35,
-      "total": 3171
+      "total": 3180
     },
     {
       "ageGroup": "50-59",
-      "female": 645,
-      "male": 1545,
+      "female": 646,
+      "male": 1548,
       "unspecified": 32,
-      "total": 2238
+      "total": 2242
     },
     {
       "ageGroup": "60-69",
@@ -5737,14 +5737,14 @@
       "ageGroup": "Unspecified",
       "female": 140,
       "male": 777,
-      "unspecified": 2727,
-      "total": 3644
+      "unspecified": 2685,
+      "total": 3602
     }
   ],
   "gender": {
-    "female": 5250,
-    "male": 12683,
-    "unspecified": 2998,
+    "female": 5257,
+    "male": 12718,
+    "unspecified": 2956,
     "total": 21797
   },
   "underObservation": {
