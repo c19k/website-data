@@ -404,7 +404,7 @@
     },
     {
       "confirmed": 1698,
-      "deaths": 8,
+      "deaths": 9,
       "confirmedByCity": {
         "Ernakulam": 1694,
         "Unspecified": 4
@@ -1403,7 +1403,7 @@
     },
     {
       "confirmed": 1338,
-      "deaths": 6,
+      "deaths": 7,
       "confirmedByCity": {
         "Kozhikode": 1333,
         "Chennai": 1,
@@ -5654,8 +5654,8 @@
       "homeObservationCumulative": 137075,
       "hosptilisedCumulative": 10057,
       "activeCumulative": 10350,
-      "importedCases": 0,
-      "contactCases": 0,
+      "importedCases": -375,
+      "contactCases": 375,
       "status": "Reviewing",
       "date": "2020-07-30",
       "confirmedCumulative": 21797,
