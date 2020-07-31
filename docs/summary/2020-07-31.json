@@ -191,10 +191,11 @@
         161,
         222,
         213,
-        70
+        70,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 70,
+      "newlyConfirmed": 0,
       "recovered": 1100,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -392,10 +393,11 @@
         86,
         112,
         87,
-        32
+        32,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 32,
+      "newlyConfirmed": 0,
       "recovered": 1295,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -591,10 +593,11 @@
         15,
         70,
         83,
-        34
+        34,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 34,
+      "newlyConfirmed": 0,
       "recovered": 912,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
@@ -792,10 +795,11 @@
         22,
         95,
         84,
-        22
+        22,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 22,
+      "newlyConfirmed": 0,
       "recovered": 858,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
@@ -990,10 +994,11 @@
         30,
         84,
         38,
-        55
+        55,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 55,
+      "newlyConfirmed": 0,
       "recovered": 937,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
@@ -1191,10 +1196,11 @@
         41,
         86,
         49,
-        4
+        4,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 4,
+      "newlyConfirmed": 0,
       "recovered": 1128,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
@@ -1391,10 +1397,11 @@
         38,
         38,
         49,
-        28
+        28,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 28,
+      "newlyConfirmed": 0,
       "recovered": 856,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -1590,10 +1597,11 @@
         40,
         109,
         31,
-        83
+        83,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 83,
+      "newlyConfirmed": 0,
       "recovered": 851,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
@@ -1791,10 +1799,11 @@
         68,
         67,
         67,
-        42
+        42,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 42,
+      "newlyConfirmed": 0,
       "recovered": 616,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -1990,10 +1999,11 @@
         38,
         43,
         42,
-        39
+        39,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 39,
+      "newlyConfirmed": 0,
       "recovered": 834,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
@@ -2191,10 +2201,11 @@
         16,
         63,
         54,
-        59
+        59,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 59,
+      "newlyConfirmed": 0,
       "recovered": 816,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
@@ -2391,10 +2402,11 @@
         60,
         118,
         29,
-        29
+        29,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 29,
+      "newlyConfirmed": 0,
       "recovered": 531,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
@@ -2592,10 +2604,11 @@
         70,
         7,
         34,
-        6
+        6,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 6,
+      "newlyConfirmed": 0,
       "recovered": 358,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
@@ -2792,10 +2805,11 @@
         17,
         53,
         43,
-        3
+        3,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 3,
+      "newlyConfirmed": 0,
       "recovered": 273,
       "name_ja": "വയനാട്",
       "zone": "Orange",
