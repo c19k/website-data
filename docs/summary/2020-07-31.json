@@ -2,10 +2,10 @@
   "updated": "2020-07-30 21:09",
   "prefectures": [
     {
-      "confirmed": 4172,
+      "confirmed": 4492,
       "deaths": 2,
       "confirmedByCity": {
-        "Thiruvananthapuram": 4170,
+        "Thiruvananthapuram": 4490,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -192,10 +192,10 @@
         222,
         213,
         70,
-        0
+        320
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 320,
       "recovered": 389,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -405,10 +405,10 @@
       "name": "Malappuram"
     },
     {
-      "confirmed": 1732,
+      "confirmed": 1864,
       "deaths": 4,
       "confirmedByCity": {
-        "Ernakulam": 1728,
+        "Ernakulam": 1860,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -594,10 +594,10 @@
         70,
         83,
         34,
-        0
+        132
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 132,
       "recovered": 941,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
@@ -2011,10 +2011,10 @@
       "name": "Kannur"
     },
     {
-      "confirmed": 1311,
+      "confirmed": 1312,
       "deaths": 2,
       "confirmedByCity": {
-        "Pathanamthitta": 1306,
+        "Pathanamthitta": 1307,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -2202,10 +2202,10 @@
         63,
         54,
         59,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 1164,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
@@ -5679,7 +5679,7 @@
       "confirmedCumulativeAvg7d": 19771
     },
     {
-      "confirmed": 0,
+      "confirmed": 453,
       "recoveredCumulative": 12159,
       "deceasedCumulative": 70,
       "criticalCumulative": 9,
@@ -5692,11 +5692,11 @@
       "contactCases": 0,
       "status": "Reviewing",
       "date": "2020-07-31",
-      "confirmedCumulative": 22303,
-      "confirmedAvg3d": 469,
-      "confirmedCumulativeAvg3d": 22090,
-      "confirmedAvg7d": 758,
-      "confirmedCumulativeAvg7d": 20529
+      "confirmedCumulative": 22756,
+      "confirmedAvg3d": 620,
+      "confirmedCumulativeAvg3d": 22241,
+      "confirmedAvg7d": 823,
+      "confirmedCumulativeAvg7d": 20594
     }
   ],
   "age": [
@@ -5774,15 +5774,15 @@
       "ageGroup": "Unspecified",
       "female": 149,
       "male": 791,
-      "unspecified": 1958,
-      "total": 2898
+      "unspecified": 3268,
+      "total": 4208
     }
   ],
   "gender": {
     "female": 5663,
     "male": 13415,
-    "unspecified": 2232,
-    "total": 22303
+    "unspecified": 3542,
+    "total": 23613
   },
   "underObservation": {
     "2020-01-31": {
