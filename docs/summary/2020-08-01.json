@@ -5735,57 +5735,57 @@
       "ageGroup": "<10",
       "female": 459,
       "male": 507,
-      "unspecified": 49,
-      "total": 1030
+      "unspecified": 50,
+      "total": 1033
     },
     {
       "ageGroup": "10-19",
-      "female": 553,
-      "male": 751,
-      "unspecified": 30,
-      "total": 1342
+      "female": 555,
+      "male": 755,
+      "unspecified": 31,
+      "total": 1350
     },
     {
       "ageGroup": "20-29",
-      "female": 1353,
-      "male": 3166,
+      "female": 1361,
+      "male": 3179,
       "unspecified": 46,
-      "total": 4582
+      "total": 4603
     },
     {
       "ageGroup": "30-39",
-      "female": 1042,
-      "male": 3275,
+      "female": 1049,
+      "male": 3279,
       "unspecified": 29,
-      "total": 4375
+      "total": 4386
     },
     {
       "ageGroup": "40-49",
-      "female": 897,
-      "male": 2435,
+      "female": 903,
+      "male": 2444,
       "unspecified": 35,
-      "total": 3392
+      "total": 3407
     },
     {
       "ageGroup": "50-59",
-      "female": 694,
-      "male": 1650,
+      "female": 697,
+      "male": 1660,
       "unspecified": 33,
-      "total": 2396
+      "total": 2409
     },
     {
       "ageGroup": "60-69",
-      "female": 334,
-      "male": 641,
+      "female": 336,
+      "male": 646,
       "unspecified": 25,
-      "total": 1006
+      "total": 1013
     },
     {
       "ageGroup": "70-79",
-      "female": 119,
+      "female": 120,
       "male": 129,
       "unspecified": 13,
-      "total": 263
+      "total": 264
     },
     {
       "ageGroup": "80-89",
@@ -5803,16 +5803,16 @@
     },
     {
       "ageGroup": "Unspecified",
-      "female": 149,
-      "male": 791,
-      "unspecified": 3268,
-      "total": 4208
+      "female": 152,
+      "male": 796,
+      "unspecified": 3181,
+      "total": 4129
     }
   ],
   "gender": {
-    "female": 5663,
-    "male": 13415,
-    "unspecified": 3542,
+    "female": 5695,
+    "male": 13465,
+    "unspecified": 3457,
     "total": 23613
   },
   "underObservation": {
