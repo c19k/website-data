@@ -1,9 +1,9 @@
 {
-  "updated": "2020-07-31 20:31",
+  "updated": "2020-08-01 08:11",
   "prefectures": [
     {
       "confirmed": 4492,
-      "deaths": 2,
+      "deaths": 12,
       "confirmedByCity": {
         "Thiruvananthapuram": 4490,
         "Thiruvanathapuram": 1,
@@ -408,7 +408,7 @@
     },
     {
       "confirmed": 1864,
-      "deaths": 6,
+      "deaths": 11,
       "confirmedByCity": {
         "Ernakulam": 1860,
         "Unspecified": 4
@@ -609,7 +609,7 @@
     },
     {
       "confirmed": 1746,
-      "deaths": 8,
+      "deaths": 5,
       "confirmedByCity": {
         "Kollam": 1740,
         "Unspecified": 4,
@@ -812,7 +812,7 @@
     },
     {
       "confirmed": 1724,
-      "deaths": 12,
+      "deaths": 5,
       "confirmedByCity": {
         "Alappuzha": 1724
       },
@@ -1012,7 +1012,7 @@
     },
     {
       "confirmed": 1711,
-      "deaths": 7,
+      "deaths": 2,
       "confirmedByCity": {
         "Palakkad": 1706,
         "Ernakulam": 2,
@@ -1417,7 +1417,7 @@
     },
     {
       "confirmed": 1464,
-      "deaths": 5,
+      "deaths": 7,
       "confirmedByCity": {
         "Kozhikode": 1459,
         "Chennai": 1,
@@ -1620,7 +1620,7 @@
     },
     {
       "confirmed": 1456,
-      "deaths": 1,
+      "deaths": 7,
       "confirmedByCity": {
         "Thrissur": 1453,
         "Ernakulam": 3
@@ -1821,7 +1821,7 @@
     },
     {
       "confirmed": 1441,
-      "deaths": 2,
+      "deaths": 1,
       "confirmedByCity": {
         "Pathanamthitta": 1436,
         "Thiruvananthapuram": 2,
@@ -2427,7 +2427,7 @@
     },
     {
       "confirmed": 802,
-      "deaths": 9,
+      "deaths": 2,
       "confirmedByCity": {
         "Munnar": 1,
         "Idukki": 796,
@@ -5701,7 +5701,7 @@
       "observationCumulative": 143323,
       "homeObservationCumulative": 133151,
       "hosptilisedCumulative": 10172,
-      "activeCumulative": 10495,
+      "activeCumulative": 10498,
       "importedCases": 148,
       "contactCases": 1162,
       "status": "Finalised",
@@ -5721,7 +5721,7 @@
       "observationCumulative": 143323,
       "homeObservationCumulative": 133151,
       "hosptilisedCumulative": 10172,
-      "activeCumulative": 10495,
+      "activeCumulative": 10498,
       "date": "2020-08-01",
       "confirmedCumulative": 23613,
       "confirmedAvg3d": 605,
