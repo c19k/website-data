@@ -5733,66 +5733,66 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 483,
-      "male": 540,
-      "unspecified": 50,
-      "total": 1090
+      "female": 485,
+      "male": 541,
+      "unspecified": 51,
+      "total": 1094
     },
     {
       "ageGroup": "10-19",
-      "female": 587,
-      "male": 810,
+      "female": 591,
+      "male": 816,
       "unspecified": 32,
-      "total": 1438
+      "total": 1448
     },
     {
       "ageGroup": "20-29",
-      "female": 1408,
-      "male": 3278,
-      "unspecified": 46,
-      "total": 4749
+      "female": 1412,
+      "male": 3300,
+      "unspecified": 48,
+      "total": 4777
     },
     {
       "ageGroup": "30-39",
-      "female": 1092,
-      "male": 3362,
-      "unspecified": 29,
-      "total": 4512
+      "female": 1100,
+      "male": 3378,
+      "unspecified": 31,
+      "total": 4538
     },
     {
       "ageGroup": "40-49",
-      "female": 944,
-      "male": 2519,
-      "unspecified": 36,
-      "total": 3525
+      "female": 949,
+      "male": 2529,
+      "unspecified": 37,
+      "total": 3541
     },
     {
       "ageGroup": "50-59",
-      "female": 731,
-      "male": 1702,
+      "female": 739,
+      "male": 1711,
       "unspecified": 33,
-      "total": 2485
+      "total": 2502
     },
     {
       "ageGroup": "60-69",
-      "female": 357,
-      "male": 681,
+      "female": 361,
+      "male": 689,
       "unspecified": 25,
-      "total": 1069
+      "total": 1081
     },
     {
       "ageGroup": "70-79",
-      "female": 124,
-      "male": 137,
+      "female": 125,
+      "male": 138,
       "unspecified": 13,
-      "total": 276
+      "total": 278
     },
     {
       "ageGroup": "80-89",
-      "female": 37,
+      "female": 38,
       "male": 44,
       "unspecified": 6,
-      "total": 87
+      "total": 88
     },
     {
       "ageGroup": "90-100",
@@ -5805,14 +5805,14 @@
       "ageGroup": "Unspecified",
       "female": 152,
       "male": 799,
-      "unspecified": 2491,
-      "total": 3442
+      "unspecified": 2322,
+      "total": 3273
     }
   ],
   "gender": {
-    "female": 5943,
-    "male": 13904,
-    "unspecified": 2769,
+    "female": 5980,
+    "male": 13977,
+    "unspecified": 2606,
     "total": 23613
   },
   "underObservation": {
