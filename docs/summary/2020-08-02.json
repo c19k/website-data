@@ -193,10 +193,11 @@
         213,
         70,
         320,
-        259
+        259,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 259,
+      "newlyConfirmed": 0,
       "recovered": 1434,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -396,10 +397,11 @@
         87,
         32,
         75,
-        141
+        141,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 141,
+      "newlyConfirmed": 0,
       "recovered": 1316,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -597,10 +599,11 @@
         83,
         34,
         132,
-        59
+        59,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 59,
+      "newlyConfirmed": 0,
       "recovered": 1047,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
@@ -799,10 +802,11 @@
         49,
         28,
         52,
-        153
+        153,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 153,
+      "newlyConfirmed": 0,
       "recovered": 989,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -999,10 +1003,11 @@
         38,
         55,
         35,
-        67
+        67,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 67,
+      "newlyConfirmed": 0,
       "recovered": 982,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
@@ -1202,10 +1207,11 @@
         84,
         22,
         53,
-        35
+        35,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 35,
+      "newlyConfirmed": 0,
       "recovered": 1035,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
@@ -1405,10 +1411,11 @@
         49,
         4,
         83,
-        47
+        47,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 47,
+      "newlyConfirmed": 0,
       "recovered": 1275,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
@@ -1608,10 +1615,11 @@
         67,
         42,
         84,
-        95
+        95,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 95,
+      "newlyConfirmed": 0,
       "recovered": 748,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -1809,10 +1817,11 @@
         31,
         83,
         60,
-        76
+        76,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 76,
+      "newlyConfirmed": 0,
       "recovered": 946,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
@@ -2012,10 +2021,11 @@
         54,
         59,
         130,
-        85
+        85,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 85,
+      "newlyConfirmed": 0,
       "recovered": 941,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
@@ -2213,10 +2223,11 @@
         42,
         39,
         14,
-        5
+        5,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 5,
+      "newlyConfirmed": 0,
       "recovered": 922,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
@@ -2415,10 +2426,11 @@
         29,
         29,
         89,
-        47
+        47,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 47,
+      "newlyConfirmed": 0,
       "recovered": 645,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
@@ -2618,10 +2630,11 @@
         34,
         6,
         59,
-        14
+        14,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 14,
+      "newlyConfirmed": 0,
       "recovered": 434,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
@@ -2820,10 +2833,11 @@
         43,
         3,
         124,
-        46
+        46,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 46,
+      "newlyConfirmed": 0,
       "recovered": 309,
       "name_ja": "വയനാട്",
       "zone": "Orange",
