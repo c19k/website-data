@@ -5767,59 +5767,59 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 501,
-      "male": 554,
+      "female": 493,
+      "male": 547,
       "unspecified": 51,
-      "total": 1125
+      "total": 1108
     },
     {
       "ageGroup": "10-19",
-      "female": 607,
-      "male": 847,
+      "female": 606,
+      "male": 834,
       "unspecified": 32,
-      "total": 1499
+      "total": 1481
     },
     {
       "ageGroup": "20-29",
-      "female": 1451,
-      "male": 3423,
+      "female": 1442,
+      "male": 3404,
       "unspecified": 50,
-      "total": 4941
+      "total": 4913
     },
     {
       "ageGroup": "30-39",
-      "female": 1135,
-      "male": 3478,
+      "female": 1121,
+      "male": 3453,
       "unspecified": 31,
-      "total": 4674
+      "total": 4635
     },
     {
       "ageGroup": "40-49",
-      "female": 973,
-      "male": 2596,
+      "female": 964,
+      "male": 2581,
       "unspecified": 37,
-      "total": 3632
+      "total": 3608
     },
     {
       "ageGroup": "50-59",
-      "female": 765,
-      "male": 1753,
+      "female": 755,
+      "male": 1744,
       "unspecified": 33,
-      "total": 2571
+      "total": 2551
     },
     {
       "ageGroup": "60-69",
-      "female": 367,
-      "male": 700,
+      "female": 366,
+      "male": 698,
       "unspecified": 26,
-      "total": 1099
+      "total": 1096
     },
     {
       "ageGroup": "70-79",
-      "female": 129,
-      "male": 145,
+      "female": 128,
+      "male": 143,
       "unspecified": 14,
-      "total": 290
+      "total": 287
     },
     {
       "ageGroup": "80-89",
@@ -5839,14 +5839,14 @@
       "ageGroup": "Unspecified",
       "female": 173,
       "male": 815,
-      "unspecified": 2832,
-      "total": 3820
+      "unspecified": 2985,
+      "total": 3973
     }
   ],
   "gender": {
-    "female": 6172,
-    "male": 14390,
-    "unspecified": 3121,
+    "female": 6119,
+    "male": 14298,
+    "unspecified": 3274,
     "total": 24742
   },
   "underObservation": {
