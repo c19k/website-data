@@ -195,10 +195,11 @@
         320,
         259,
         377,
-        205
+        205,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 205,
+      "newlyConfirmed": 0,
       "recovered": 550,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -400,10 +401,11 @@
         75,
         141,
         126,
-        85
+        85,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 85,
+      "newlyConfirmed": 0,
       "recovered": 1058,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -603,10 +605,11 @@
         132,
         59,
         128,
-        106
+        106,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 106,
+      "newlyConfirmed": 0,
       "recovered": 1434,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
@@ -807,10 +810,11 @@
         52,
         154,
         113,
-        66
+        66,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 66,
+      "newlyConfirmed": 0,
       "recovered": 1097,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -1009,10 +1013,11 @@
         35,
         67,
         38,
-        101
+        101,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 101,
+      "newlyConfirmed": 0,
       "recovered": 1921,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
@@ -1214,10 +1219,11 @@
         53,
         35,
         69,
-        57
+        57,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 57,
+      "newlyConfirmed": 0,
       "recovered": 916,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
@@ -1419,10 +1425,11 @@
         83,
         47,
         38,
-        59
+        59,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 59,
+      "newlyConfirmed": 0,
       "recovered": 1115,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
@@ -1622,10 +1629,11 @@
         60,
         76,
         58,
-        85
+        85,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 85,
+      "newlyConfirmed": 0,
       "recovered": 1037,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
@@ -1827,10 +1835,11 @@
         84,
         94,
         50,
-        33
+        33,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 33,
+      "newlyConfirmed": 0,
       "recovered": 1147,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -2032,10 +2041,11 @@
         130,
         85,
         25,
-        36
+        36,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 36,
+      "newlyConfirmed": 0,
       "recovered": 1413,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
@@ -2235,10 +2245,11 @@
         14,
         5,
         16,
-        37
+        37,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 37,
+      "newlyConfirmed": 0,
       "recovered": 1296,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
@@ -2439,10 +2450,11 @@
         89,
         47,
         70,
-        35
+        35,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 35,
+      "newlyConfirmed": 0,
       "recovered": 796,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
@@ -2644,10 +2656,11 @@
         59,
         14,
         42,
-        26
+        26,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 26,
+      "newlyConfirmed": 0,
       "recovered": 1157,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
@@ -2848,10 +2861,11 @@
         124,
         46,
         19,
-        31
+        31,
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 31,
+      "newlyConfirmed": 0,
       "recovered": 341,
       "name_ja": "വയനാട്",
       "zone": "Orange",
