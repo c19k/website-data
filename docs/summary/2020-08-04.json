@@ -1,8 +1,8 @@
 {
-  "updated": "2020-08-04 16:27",
+  "updated": "2020-08-04 18:24",
   "prefectures": [
     {
-      "confirmed": 5375,
+      "confirmed": 5575,
       "deaths": 16,
       "confirmedByCity": {
         "Thiruvananthapuram": 5331,
@@ -196,10 +196,10 @@
         259,
         377,
         205,
-        42
+        242
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 42,
+      "newlyConfirmed": 242,
       "recovered": 1921,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -5815,21 +5815,24 @@
       "confirmedCumulativeAvg7d": 23668
     },
     {
-      "confirmed": 883,
-      "recoveredCumulative": 15278,
-      "deceasedCumulative": 84,
+      "confirmed": 1083,
+      "recoveredCumulative": 16303,
+      "deceasedCumulative": 87,
       "criticalCumulative": 9,
-      "testedCumulative": 834215,
-      "observationCumulative": 143251,
-      "homeObservationCumulative": 132472,
-      "hosptilisedCumulative": 10779,
-      "activeCumulative": 11487,
+      "testedCumulative": 858960,
+      "observationCumulative": 145062,
+      "homeObservationCumulative": 134140,
+      "hosptilisedCumulative": 10922,
+      "activeCumulative": 11540,
+      "importedCases": 181,
+      "contactCases": 902,
+      "status": "Finalised",
       "date": "2020-08-04",
-      "confirmedCumulative": 27756,
-      "confirmedAvg3d": 1004,
-      "confirmedCumulativeAvg3d": 26800,
-      "confirmedAvg7d": 980,
-      "confirmedCumulativeAvg7d": 24648
+      "confirmedCumulative": 27956,
+      "confirmedAvg3d": 1071,
+      "confirmedCumulativeAvg3d": 26867,
+      "confirmedAvg7d": 1008,
+      "confirmedCumulativeAvg7d": 24676
     }
   ],
   "age": [
