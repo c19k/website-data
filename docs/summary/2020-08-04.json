@@ -1,11 +1,11 @@
 {
-  "updated": "2020-08-04 08:18",
+  "updated": "2020-08-04 16:27",
   "prefectures": [
     {
       "confirmed": 5333,
       "deaths": 15,
       "confirmedByCity": {
-        "Thiruvananthapuram": 5072,
+        "Thiruvananthapuram": 5331,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -200,7 +200,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 550,
+      "recovered": 1921,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -406,7 +406,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1058,
+      "recovered": 1434,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -610,7 +610,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1434,
+      "recovered": 1157,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1018,7 +1018,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1921,
+      "recovered": 1147,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1224,7 +1224,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 916,
+      "recovered": 1296,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1430,7 +1430,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1115,
+      "recovered": 1413,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1634,7 +1634,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1037,
+      "recovered": 1115,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1840,7 +1840,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1147,
+      "recovered": 916,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -2046,7 +2046,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1413,
+      "recovered": 1058,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -2250,7 +2250,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1296,
+      "recovered": 1037,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -2661,7 +2661,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1157,
+      "recovered": 550,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -5835,86 +5835,86 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 559,
-      "male": 614,
+      "female": 564,
+      "male": 616,
       "unspecified": 51,
-      "total": 1243
+      "total": 1250
     },
     {
       "ageGroup": "10-19",
-      "female": 664,
-      "male": 948,
+      "female": 675,
+      "male": 956,
       "unspecified": 32,
-      "total": 1657
+      "total": 1676
     },
     {
       "ageGroup": "20-29",
-      "female": 1584,
-      "male": 3693,
+      "female": 1596,
+      "male": 3709,
       "unspecified": 50,
-      "total": 5344
+      "total": 5372
     },
     {
       "ageGroup": "30-39",
-      "female": 1249,
-      "male": 3702,
+      "female": 1259,
+      "male": 3715,
       "unspecified": 33,
-      "total": 5015
+      "total": 5038
     },
     {
       "ageGroup": "40-49",
-      "female": 1083,
-      "male": 2782,
+      "female": 1094,
+      "male": 2801,
       "unspecified": 38,
-      "total": 3929
+      "total": 3959
     },
     {
       "ageGroup": "50-59",
-      "female": 857,
-      "male": 1876,
+      "female": 868,
+      "male": 1885,
       "unspecified": 33,
-      "total": 2786
+      "total": 2806
     },
     {
       "ageGroup": "60-69",
-      "female": 426,
-      "male": 792,
-      "unspecified": 29,
-      "total": 1253
+      "female": 427,
+      "male": 798,
+      "unspecified": 30,
+      "total": 1261
     },
     {
       "ageGroup": "70-79",
-      "female": 151,
+      "female": 153,
       "male": 170,
       "unspecified": 14,
-      "total": 337
+      "total": 339
     },
     {
       "ageGroup": "80-89",
-      "female": 52,
+      "female": 53,
       "male": 54,
       "unspecified": 8,
-      "total": 114
+      "total": 115
     },
     {
       "ageGroup": "90-100",
-      "female": 7,
+      "female": 8,
       "male": 6,
       "unspecified": 0,
-      "total": 13
+      "total": 14
     },
     {
       "ageGroup": "Unspecified",
       "female": 183,
-      "male": 839,
-      "unspecified": 2804,
-      "total": 3826
+      "male": 840,
+      "unspecified": 2663,
+      "total": 3686
     }
   ],
   "gender": {
-    "female": 6840,
-    "male": 15504,
-    "unspecified": 3103,
+    "female": 6905,
+    "male": 15579,
+    "unspecified": 2963,
     "total": 26873
   },
   "underObservation": {
