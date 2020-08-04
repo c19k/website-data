@@ -1,5 +1,5 @@
 {
-  "updated": "2020-08-04 20:11",
+  "updated": "2020-08-04 22:45",
   "prefectures": [
     {
       "confirmed": 5575,
@@ -5816,7 +5816,7 @@
     },
     {
       "confirmed": 1083,
-      "recoveredCumulative": 16303,
+      "recoveredCumulative": 16299,
       "deceasedCumulative": 87,
       "criticalCumulative": 9,
       "testedCumulative": 858960,
