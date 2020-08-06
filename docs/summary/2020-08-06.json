@@ -1,5 +1,5 @@
 {
-  "updated": "2020-08-06 21:42",
+  "updated": "2020-08-06 22:12",
   "prefectures": [
     {
       "confirmed": 6068,
@@ -5871,7 +5871,7 @@
       "observationCumulative": 147074,
       "homeObservationCumulative": 135907,
       "hosptilisedCumulative": 11167,
-      "activeCumulative": 11495,
+      "activeCumulative": 11494,
       "importedCases": 224,
       "contactCases": 971,
       "status": "Finalised",
@@ -5891,7 +5891,7 @@
       "observationCumulative": 148039,
       "homeObservationCumulative": 136602,
       "hosptilisedCumulative": 11437,
-      "activeCumulative": 11983,
+      "activeCumulative": 11979,
       "importedCases": 281,
       "contactCases": 1017,
       "status": "Finalised",
@@ -5977,15 +5977,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 212,
-      "male": 936,
-      "unspecified": 3728,
+      "male": 949,
+      "unspecified": 3715,
       "total": 4876
     }
   ],
   "gender": {
     "female": 7850,
-    "male": 17056,
-    "unspecified": 4044,
+    "male": 17069,
+    "unspecified": 4031,
     "total": 30449
   },
   "underObservation": {
