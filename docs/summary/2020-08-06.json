@@ -1035,7 +1035,7 @@
       "name": "Alappuzha"
     },
     {
-      "confirmed": 1967,
+      "confirmed": 1966,
       "deaths": 7,
       "confirmedByCity": {
         "Kollam": 1931,
@@ -1231,7 +1231,7 @@
         69,
         57,
         30,
-        30,
+        29,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -5863,7 +5863,7 @@
       "confirmedCumulativeAvg7d": 24676
     },
     {
-      "confirmed": 1195,
+      "confirmed": 1194,
       "recoveredCumulative": 17533,
       "deceasedCumulative": 94,
       "criticalCumulative": 9,
@@ -5876,9 +5876,9 @@
       "contactCases": 971,
       "status": "Finalised",
       "date": "2020-08-05",
-      "confirmedCumulative": 29151,
-      "confirmedAvg3d": 1080,
-      "confirmedCumulativeAvg3d": 27947,
+      "confirmedCumulative": 29150,
+      "confirmedAvg3d": 1079,
+      "confirmedCumulativeAvg3d": 27946,
       "confirmedAvg7d": 1050,
       "confirmedCumulativeAvg7d": 25726
     },
@@ -5893,9 +5893,9 @@
       "hosptilisedCumulative": 11167,
       "activeCumulative": 11494,
       "date": "2020-08-06",
-      "confirmedCumulative": 29151,
+      "confirmedCumulative": 29150,
       "confirmedAvg3d": 759,
-      "confirmedCumulativeAvg3d": 28706,
+      "confirmedCumulativeAvg3d": 28705,
       "confirmedAvg7d": 978,
       "confirmedCumulativeAvg7d": 26704
     }
@@ -5975,14 +5975,14 @@
       "ageGroup": "Unspecified",
       "female": 204,
       "male": 907,
-      "unspecified": 3317,
-      "total": 4428
+      "unspecified": 3287,
+      "total": 4398
     }
   ],
   "gender": {
     "female": 7480,
     "male": 16482,
-    "unspecified": 3626,
+    "unspecified": 3596,
     "total": 29151
   },
   "underObservation": {
