@@ -626,7 +626,7 @@
       "confirmed": 2193,
       "deaths": 7,
       "confirmedByCity": {
-        "Kasaragod": 2063,
+        "Kasaragod": 2191,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -5903,59 +5903,59 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 631,
-      "male": 713,
+      "female": 641,
+      "male": 722,
       "unspecified": 52,
-      "total": 1421
+      "total": 1440
     },
     {
       "ageGroup": "10-19",
-      "female": 763,
-      "male": 1070,
+      "female": 776,
+      "male": 1078,
       "unspecified": 35,
-      "total": 1885
+      "total": 1906
     },
     {
       "ageGroup": "20-29",
-      "female": 1756,
-      "male": 3982,
+      "female": 1780,
+      "male": 4007,
       "unspecified": 52,
-      "total": 5808
+      "total": 5857
     },
     {
       "ageGroup": "30-39",
-      "female": 1372,
-      "male": 3967,
+      "female": 1390,
+      "male": 3981,
       "unspecified": 34,
-      "total": 5405
+      "total": 5437
     },
     {
       "ageGroup": "40-49",
-      "female": 1222,
-      "male": 2990,
+      "female": 1240,
+      "male": 3003,
       "unspecified": 40,
-      "total": 4278
+      "total": 4309
     },
     {
       "ageGroup": "50-59",
-      "female": 959,
-      "male": 2013,
+      "female": 967,
+      "male": 2023,
       "unspecified": 37,
-      "total": 3029
+      "total": 3047
     },
     {
       "ageGroup": "60-69",
-      "female": 485,
-      "male": 878,
+      "female": 489,
+      "male": 885,
       "unspecified": 31,
-      "total": 1401
+      "total": 1412
     },
     {
       "ageGroup": "70-79",
-      "female": 174,
-      "male": 200,
+      "female": 175,
+      "male": 202,
       "unspecified": 14,
-      "total": 390
+      "total": 393
     },
     {
       "ageGroup": "80-89",
@@ -5974,15 +5974,15 @@
     {
       "ageGroup": "Unspecified",
       "female": 211,
-      "male": 928,
-      "unspecified": 2833,
-      "total": 3972
+      "male": 930,
+      "unspecified": 2646,
+      "total": 3787
     }
   ],
   "gender": {
-    "female": 7667,
-    "male": 16838,
-    "unspecified": 3147,
+    "female": 7764,
+    "male": 16928,
+    "unspecified": 2960,
     "total": 29151
   },
   "underObservation": {
