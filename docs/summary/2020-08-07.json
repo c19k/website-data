@@ -1,5 +1,5 @@
 {
-  "updated": "2020-08-06 22:18",
+  "updated": "2020-08-07 19:06",
   "prefectures": [
     {
       "confirmed": 6357,
@@ -834,7 +834,7 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 2323,
+      "confirmed": 2324,
       "deaths": 7,
       "confirmedByCity": {
         "Alappuzha": 2263
@@ -1029,10 +1029,10 @@
         126,
         108,
         99,
-        60
+        61
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 60,
+      "newlyConfirmed": 61,
       "recovered": 1292,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
@@ -5917,22 +5917,22 @@
       "confirmedCumulativeAvg7d": 26889
     },
     {
-      "confirmed": 1250,
-      "recoveredCumulative": 19147,
+      "confirmed": 1251,
+      "recoveredCumulative": 19151,
       "deceasedCumulative": 102,
       "criticalCumulative": 9,
-      "testedCumulative": 908355,
-      "observationCumulative": 148039,
-      "homeObservationCumulative": 136602,
-      "hosptilisedCumulative": 11437,
+      "testedCumulative": 936651,
+      "observationCumulative": 149684,
+      "homeObservationCumulative": 138030,
+      "hosptilisedCumulative": 11654,
       "activeCumulative": 12411,
       "importedCases": 190,
       "contactCases": 1061,
-      "status": "Reviewing",
+      "status": "Finalised",
       "date": "2020-08-07",
-      "confirmedCumulative": 31699,
-      "confirmedAvg3d": 1247,
-      "confirmedCumulativeAvg3d": 30386,
+      "confirmedCumulative": 31700,
+      "confirmedAvg3d": 1248,
+      "confirmedCumulativeAvg3d": 30387,
       "confirmedAvg7d": 1155,
       "confirmedCumulativeAvg7d": 28044
     }
