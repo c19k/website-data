@@ -2,7 +2,7 @@
   "updated": "2020-08-06 22:18",
   "prefectures": [
     {
-      "confirmed": 6068,
+      "confirmed": 6357,
       "deaths": 17,
       "confirmedByCity": {
         "Thiruvananthapuram": 6066,
@@ -199,10 +199,10 @@
         242,
         274,
         219,
-        0
+        289
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 289,
       "recovered": 2896,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -626,7 +626,7 @@
       "name": "Ernakulam"
     },
     {
-      "confirmed": 2345,
+      "confirmed": 2346,
       "deaths": 9,
       "confirmedByCity": {
         "Kasaragod": 2343,
@@ -823,10 +823,10 @@
         91,
         128,
         152,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 1288,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -5917,21 +5917,24 @@
       "confirmedCumulativeAvg7d": 26889
     },
     {
-      "confirmed": 0,
-      "recoveredCumulative": 18333,
+      "confirmed": 290,
+      "recoveredCumulative": 19147,
       "deceasedCumulative": 97,
       "criticalCumulative": 9,
       "testedCumulative": 908355,
       "observationCumulative": 148039,
       "homeObservationCumulative": 136602,
       "hosptilisedCumulative": 11437,
-      "activeCumulative": 11986,
+      "activeCumulative": 12423,
+      "importedCases": 190,
+      "contactCases": 1061,
+      "status": "Reviewing",
       "date": "2020-08-07",
-      "confirmedCumulative": 30449,
-      "confirmedAvg3d": 831,
-      "confirmedCumulativeAvg3d": 29970,
-      "confirmedAvg7d": 976,
-      "confirmedCumulativeAvg7d": 27865
+      "confirmedCumulative": 30739,
+      "confirmedAvg3d": 927,
+      "confirmedCumulativeAvg3d": 30066,
+      "confirmedAvg7d": 1018,
+      "confirmedCumulativeAvg7d": 27907
     }
   ],
   "age": [
@@ -6009,15 +6012,15 @@
       "ageGroup": "Unspecified",
       "female": 278,
       "male": 1052,
-      "unspecified": 2618,
-      "total": 3948
+      "unspecified": 3869,
+      "total": 5199
     }
   ],
   "gender": {
     "female": 8252,
     "male": 17731,
-    "unspecified": 2934,
-    "total": 30449
+    "unspecified": 4185,
+    "total": 31700
   },
   "underObservation": {
     "2020-01-31": {
