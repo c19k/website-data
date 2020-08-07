@@ -619,7 +619,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1241,
+      "recovered": 1387,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -827,7 +827,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1227,
+      "recovered": 1288,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1033,7 +1033,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1262,
+      "recovered": 1292,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1451,7 +1451,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1381,
+      "recovered": 1430,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -2283,7 +2283,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 1193,
+      "recovered": 1211,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -2700,7 +2700,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 634,
+      "recovered": 654,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -5937,45 +5937,45 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 670,
-      "male": 754,
+      "female": 673,
+      "male": 755,
       "unspecified": 53,
-      "total": 1502
+      "total": 1506
     },
     {
       "ageGroup": "10-19",
-      "female": 809,
+      "female": 810,
       "male": 1127,
       "unspecified": 35,
-      "total": 1988
+      "total": 1989
     },
     {
       "ageGroup": "20-29",
-      "female": 1841,
-      "male": 4149,
+      "female": 1846,
+      "male": 4155,
       "unspecified": 52,
-      "total": 6061
+      "total": 6072
     },
     {
       "ageGroup": "30-39",
-      "female": 1443,
-      "male": 4074,
+      "female": 1447,
+      "male": 4079,
       "unspecified": 34,
-      "total": 5583
+      "total": 5592
     },
     {
       "ageGroup": "40-49",
-      "female": 1298,
-      "male": 3095,
+      "female": 1299,
+      "male": 3098,
       "unspecified": 40,
-      "total": 4459
+      "total": 4463
     },
     {
       "ageGroup": "50-59",
       "female": 1015,
-      "male": 2093,
+      "male": 2097,
       "unspecified": 38,
-      "total": 3166
+      "total": 3170
     },
     {
       "ageGroup": "60-69",
@@ -6009,14 +6009,14 @@
       "ageGroup": "Unspecified",
       "female": 278,
       "male": 1052,
-      "unspecified": 2846,
-      "total": 4176
+      "unspecified": 2813,
+      "total": 4143
     }
   ],
   "gender": {
-    "female": 8171,
-    "male": 17584,
-    "unspecified": 3162,
+    "female": 8185,
+    "male": 17603,
+    "unspecified": 3129,
     "total": 30449
   },
   "underObservation": {
