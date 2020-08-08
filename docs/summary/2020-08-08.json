@@ -2097,7 +2097,7 @@
       "deaths": 9,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 1573
+        "Kannur": 1586
       },
       "dailyConfirmedCount": [
         0,
@@ -2514,7 +2514,7 @@
       "deaths": 2,
       "confirmedByCity": {
         "Munnar": 1,
-        "Idukki": 975,
+        "Idukki": 998,
         "Unspecified": 4,
         "Kottayam": 1
       },
@@ -5978,31 +5978,31 @@
     },
     {
       "ageGroup": "10-19",
-      "female": 816,
+      "female": 818,
       "male": 1141,
       "unspecified": 35,
-      "total": 2009
+      "total": 2011
     },
     {
       "ageGroup": "20-29",
-      "female": 1863,
-      "male": 4196,
+      "female": 1866,
+      "male": 4198,
       "unspecified": 52,
-      "total": 6130
+      "total": 6135
     },
     {
       "ageGroup": "30-39",
-      "female": 1462,
-      "male": 4113,
+      "female": 1464,
+      "male": 4115,
       "unspecified": 34,
-      "total": 5641
+      "total": 5645
     },
     {
       "ageGroup": "40-49",
       "female": 1306,
-      "male": 3116,
+      "male": 3117,
       "unspecified": 40,
-      "total": 4488
+      "total": 4489
     },
     {
       "ageGroup": "50-59",
@@ -6014,9 +6014,9 @@
     {
       "ageGroup": "60-69",
       "female": 520,
-      "male": 925,
+      "male": 926,
       "unspecified": 31,
-      "total": 1483
+      "total": 1484
     },
     {
       "ageGroup": "70-79",
@@ -6043,14 +6043,14 @@
       "ageGroup": "Unspecified",
       "female": 278,
       "male": 1052,
-      "unspecified": 3869,
-      "total": 5199
+      "unspecified": 3856,
+      "total": 5186
     }
   ],
   "gender": {
-    "female": 8252,
-    "male": 17731,
-    "unspecified": 4185,
+    "female": 8259,
+    "male": 17737,
+    "unspecified": 4172,
     "total": 31700
   },
   "underObservation": {
