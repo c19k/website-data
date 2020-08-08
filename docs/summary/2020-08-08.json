@@ -630,7 +630,7 @@
     },
     {
       "confirmed": 2513,
-      "deaths": 8,
+      "deaths": 9,
       "confirmedByCity": {
         "Kasaragod": 2511,
         "Mangalore": 1,
@@ -839,7 +839,7 @@
     },
     {
       "confirmed": 2324,
-      "deaths": 7,
+      "deaths": 8,
       "confirmedByCity": {
         "Alappuzha": 2324
       },
@@ -1256,7 +1256,7 @@
     },
     {
       "confirmed": 2100,
-      "deaths": 12,
+      "deaths": 13,
       "confirmedByCity": {
         "Kozhikode": 2095,
         "Chennai": 1,
@@ -1466,7 +1466,7 @@
     },
     {
       "confirmed": 2034,
-      "deaths": 7,
+      "deaths": 8,
       "confirmedByCity": {
         "Kollam": 2028,
         "Unspecified": 4,
@@ -6043,15 +6043,15 @@
       "ageGroup": "Unspecified",
       "female": 298,
       "male": 1093,
-      "unspecified": 2683,
-      "total": 4074
+      "unspecified": 4103,
+      "total": 5494
     }
   ],
   "gender": {
     "female": 8695,
     "male": 18420,
-    "unspecified": 3013,
-    "total": 31700
+    "unspecified": 4433,
+    "total": 33120
   },
   "underObservation": {
     "2020-01-31": {
