@@ -5,7 +5,7 @@
       "confirmed": 6842,
       "deaths": 19,
       "confirmedByCity": {
-        "Thiruvananthapuram": 6355,
+        "Thiruvananthapuram": 6840,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -215,7 +215,7 @@
       "confirmed": 3095,
       "deaths": 9,
       "confirmedByCity": {
-        "Malappuram": 2909,
+        "Malappuram": 3023,
         "Palakkad": 1,
         "Kozhikode": 9,
         "Ernakulam": 4
@@ -426,7 +426,7 @@
       "confirmed": 2668,
       "deaths": 16,
       "confirmedByCity": {
-        "Ernakulam": 2563,
+        "Ernakulam": 2664,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -845,7 +845,7 @@
       "confirmed": 2493,
       "deaths": 8,
       "confirmedByCity": {
-        "Alappuzha": 2324
+        "Alappuzha": 2493
       },
       "dailyConfirmedCount": [
         0,
@@ -1053,7 +1053,7 @@
       "confirmed": 2273,
       "deaths": 13,
       "confirmedByCity": {
-        "Kozhikode": 2095,
+        "Kozhikode": 2268,
         "Chennai": 1,
         "Ernakulam": 2,
         "Malappuram": 2
@@ -1264,7 +1264,7 @@
       "confirmed": 2245,
       "deaths": 2,
       "confirmedByCity": {
-        "Palakkad": 2201,
+        "Palakkad": 2240,
         "Ernakulam": 2,
         "Malappuram": 1,
         "Idukki": 2
@@ -1475,7 +1475,7 @@
       "confirmed": 2075,
       "deaths": 8,
       "confirmedByCity": {
-        "Kollam": 2028,
+        "Kollam": 2069,
         "Unspecified": 4,
         "Ernakulam": 1,
         "Malappuram": 1
@@ -1686,7 +1686,7 @@
       "confirmed": 2004,
       "deaths": 8,
       "confirmedByCity": {
-        "Thrissur": 1937,
+        "Thrissur": 2001,
         "Ernakulam": 3
       },
       "dailyConfirmedCount": [
@@ -1895,7 +1895,7 @@
       "confirmed": 1766,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 1723,
+        "Pathanamthitta": 1761,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -2315,7 +2315,7 @@
       "confirmed": 1519,
       "deaths": 1,
       "confirmedByCity": {
-        "Kottayam": 1444,
+        "Kottayam": 1459,
         "Ernakulam": 1,
         "Idukki": 1
       },
@@ -2526,7 +2526,7 @@
       "deaths": 2,
       "confirmedByCity": {
         "Munnar": 1,
-        "Idukki": 998,
+        "Idukki": 1039,
         "Unspecified": 4,
         "Kottayam": 1
       },
@@ -6005,86 +6005,86 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 724,
-      "male": 813,
+      "female": 747,
+      "male": 844,
       "unspecified": 62,
-      "total": 1626
+      "total": 1680
     },
     {
       "ageGroup": "10-19",
-      "female": 866,
-      "male": 1212,
+      "female": 897,
+      "male": 1254,
       "unspecified": 40,
-      "total": 2137
+      "total": 2210
     },
     {
       "ageGroup": "20-29",
-      "female": 1968,
-      "male": 4352,
+      "female": 2026,
+      "male": 4447,
       "unspecified": 52,
-      "total": 6391
+      "total": 6544
     },
     {
       "ageGroup": "30-39",
-      "female": 1551,
-      "male": 4279,
+      "female": 1597,
+      "male": 4369,
       "unspecified": 34,
-      "total": 5896
+      "total": 6032
     },
     {
       "ageGroup": "40-49",
-      "female": 1389,
-      "male": 3245,
+      "female": 1428,
+      "male": 3299,
       "unspecified": 40,
-      "total": 4700
+      "total": 4793
     },
     {
       "ageGroup": "50-59",
-      "female": 1062,
-      "male": 2193,
+      "female": 1101,
+      "male": 2249,
       "unspecified": 38,
-      "total": 3313
+      "total": 3408
     },
     {
       "ageGroup": "60-69",
-      "female": 565,
-      "male": 967,
+      "female": 596,
+      "male": 999,
       "unspecified": 31,
-      "total": 1570
+      "total": 1633
     },
     {
       "ageGroup": "70-79",
-      "female": 205,
-      "male": 238,
+      "female": 218,
+      "male": 247,
       "unspecified": 14,
-      "total": 459
+      "total": 481
     },
     {
       "ageGroup": "80-89",
-      "female": 78,
-      "male": 73,
+      "female": 81,
+      "male": 75,
       "unspecified": 8,
-      "total": 159
+      "total": 164
     },
     {
       "ageGroup": "90-100",
       "female": 11,
-      "male": 6,
+      "male": 7,
       "unspecified": 0,
-      "total": 17
+      "total": 18
     },
     {
       "ageGroup": "Unspecified",
       "female": 302,
-      "male": 1094,
-      "unspecified": 3967,
-      "total": 5363
+      "male": 1095,
+      "unspecified": 3229,
+      "total": 4626
     }
   ],
   "gender": {
-    "female": 8747,
-    "male": 18504,
-    "unspecified": 4297,
+    "female": 9031,
+    "male": 18917,
+    "unspecified": 3559,
     "total": 33120
   },
   "underObservation": {
