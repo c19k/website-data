@@ -6039,59 +6039,59 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 779,
-      "male": 871,
+      "female": 786,
+      "male": 886,
       "unspecified": 62,
-      "total": 1739
+      "total": 1761
     },
     {
       "ageGroup": "10-19",
-      "female": 939,
-      "male": 1316,
+      "female": 953,
+      "male": 1334,
       "unspecified": 41,
-      "total": 2315
+      "total": 2347
     },
     {
       "ageGroup": "20-29",
-      "female": 2110,
-      "male": 4637,
+      "female": 2120,
+      "male": 4679,
       "unspecified": 54,
-      "total": 6820
+      "total": 6872
     },
     {
       "ageGroup": "30-39",
-      "female": 1693,
-      "male": 4519,
+      "female": 1712,
+      "male": 4556,
       "unspecified": 34,
-      "total": 6278
+      "total": 6334
     },
     {
       "ageGroup": "40-49",
-      "female": 1502,
-      "male": 3434,
+      "female": 1514,
+      "male": 3461,
       "unspecified": 40,
-      "total": 5002
+      "total": 5041
     },
     {
       "ageGroup": "50-59",
-      "female": 1174,
-      "male": 2336,
+      "female": 1180,
+      "male": 2343,
       "unspecified": 38,
-      "total": 3568
+      "total": 3581
     },
     {
       "ageGroup": "60-69",
-      "female": 644,
-      "male": 1053,
+      "female": 646,
+      "male": 1059,
       "unspecified": 31,
-      "total": 1735
+      "total": 1743
     },
     {
       "ageGroup": "70-79",
-      "female": 237,
-      "male": 257,
+      "female": 240,
+      "male": 258,
       "unspecified": 14,
-      "total": 510
+      "total": 514
     },
     {
       "ageGroup": "80-89",
@@ -6111,14 +6111,14 @@
       "ageGroup": "Unspecified",
       "female": 325,
       "male": 1121,
-      "unspecified": 3073,
-      "total": 4519
+      "unspecified": 2847,
+      "total": 4293
     }
   ],
   "gender": {
-    "female": 9526,
-    "male": 19665,
-    "unspecified": 3406,
+    "female": 9599,
+    "male": 19818,
+    "unspecified": 3180,
     "total": 34331
   },
   "underObservation": {
