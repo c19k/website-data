@@ -428,7 +428,7 @@
       "confirmed": 2722,
       "deaths": 17,
       "confirmedByCity": {
-        "Ernakulam": 2664,
+        "Ernakulam": 2718,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -638,7 +638,7 @@
       "confirmed": 2641,
       "deaths": 10,
       "confirmedByCity": {
-        "Kasaragod": 2583,
+        "Kasaragod": 2639,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -1058,7 +1058,7 @@
       "confirmed": 2342,
       "deaths": 13,
       "confirmedByCity": {
-        "Kozhikode": 2268,
+        "Kozhikode": 2337,
         "Chennai": 1,
         "Ernakulam": 2,
         "Malappuram": 2
@@ -1270,7 +1270,7 @@
       "confirmed": 2323,
       "deaths": 2,
       "confirmedByCity": {
-        "Palakkad": 2240,
+        "Palakkad": 2317,
         "Ernakulam": 2,
         "Malappuram": 1,
         "Idukki": 2
@@ -1694,7 +1694,7 @@
       "confirmed": 2028,
       "deaths": 8,
       "confirmedByCity": {
-        "Thrissur": 2001,
+        "Thrissur": 2025,
         "Ernakulam": 3
       },
       "dailyConfirmedCount": [
@@ -1904,7 +1904,7 @@
       "confirmed": 1796,
       "deaths": 1,
       "confirmedByCity": {
-        "Pathanamthitta": 1761,
+        "Pathanamthitta": 1791,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2
@@ -2117,7 +2117,7 @@
       "deaths": 9,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 1643
+        "Kannur": 1684
       },
       "dailyConfirmedCount": [
         0,
@@ -2538,7 +2538,7 @@
       "deaths": 2,
       "confirmedByCity": {
         "Munnar": 1,
-        "Idukki": 1039,
+        "Idukki": 1056,
         "Unspecified": 4,
         "Kottayam": 1
       },
@@ -2750,7 +2750,7 @@
       "deaths": 1,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 861,
+        "Wayanad": 886,
         "Kozhikode": 1
       },
       "dailyConfirmedCount": [
@@ -6039,59 +6039,59 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 756,
-      "male": 856,
+      "female": 761,
+      "male": 860,
       "unspecified": 62,
-      "total": 1701
+      "total": 1710
     },
     {
       "ageGroup": "10-19",
-      "female": 911,
-      "male": 1277,
-      "unspecified": 40,
-      "total": 2247
+      "female": 918,
+      "male": 1288,
+      "unspecified": 41,
+      "total": 2266
     },
     {
       "ageGroup": "20-29",
-      "female": 2065,
-      "male": 4520,
-      "unspecified": 52,
-      "total": 6656
+      "female": 2076,
+      "male": 4550,
+      "unspecified": 54,
+      "total": 6699
     },
     {
       "ageGroup": "30-39",
-      "female": 1629,
-      "male": 4443,
+      "female": 1644,
+      "male": 4461,
       "unspecified": 34,
-      "total": 6138
+      "total": 6171
     },
     {
       "ageGroup": "40-49",
-      "female": 1451,
-      "male": 3356,
+      "female": 1464,
+      "male": 3377,
       "unspecified": 40,
-      "total": 4873
+      "total": 4907
     },
     {
       "ageGroup": "50-59",
-      "female": 1133,
-      "male": 2279,
+      "female": 1143,
+      "male": 2302,
       "unspecified": 38,
-      "total": 3470
+      "total": 3503
     },
     {
       "ageGroup": "60-69",
-      "female": 614,
-      "male": 1028,
+      "female": 619,
+      "male": 1031,
       "unspecified": 31,
-      "total": 1680
+      "total": 1688
     },
     {
       "ageGroup": "70-79",
-      "female": 226,
-      "male": 250,
+      "female": 227,
+      "male": 251,
       "unspecified": 14,
-      "total": 492
+      "total": 494
     },
     {
       "ageGroup": "80-89",
@@ -6109,16 +6109,16 @@
     },
     {
       "ageGroup": "Unspecified",
-      "female": 314,
-      "male": 1110,
-      "unspecified": 3919,
-      "total": 5343
+      "female": 318,
+      "male": 1114,
+      "unspecified": 3728,
+      "total": 5160
     }
   ],
   "gender": {
-    "female": 9219,
-    "male": 19235,
-    "unspecified": 4249,
+    "female": 9290,
+    "male": 19352,
+    "unspecified": 4061,
     "total": 34331
   },
   "underObservation": {
