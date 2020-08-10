@@ -6039,52 +6039,52 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 774,
-      "male": 869,
+      "female": 779,
+      "male": 871,
       "unspecified": 62,
-      "total": 1732
+      "total": 1739
     },
     {
       "ageGroup": "10-19",
-      "female": 935,
-      "male": 1309,
+      "female": 939,
+      "male": 1316,
       "unspecified": 41,
-      "total": 2304
+      "total": 2315
     },
     {
       "ageGroup": "20-29",
-      "female": 2105,
-      "male": 4623,
+      "female": 2110,
+      "male": 4637,
       "unspecified": 54,
-      "total": 6801
+      "total": 6820
     },
     {
       "ageGroup": "30-39",
-      "female": 1688,
-      "male": 4513,
+      "female": 1693,
+      "male": 4519,
       "unspecified": 34,
-      "total": 6267
+      "total": 6278
     },
     {
       "ageGroup": "40-49",
-      "female": 1498,
-      "male": 3431,
+      "female": 1502,
+      "male": 3434,
       "unspecified": 40,
-      "total": 4995
+      "total": 5002
     },
     {
       "ageGroup": "50-59",
-      "female": 1171,
-      "male": 2334,
+      "female": 1174,
+      "male": 2336,
       "unspecified": 38,
-      "total": 3563
+      "total": 3568
     },
     {
       "ageGroup": "60-69",
-      "female": 640,
-      "male": 1050,
+      "female": 644,
+      "male": 1053,
       "unspecified": 31,
-      "total": 1728
+      "total": 1735
     },
     {
       "ageGroup": "70-79",
@@ -6095,10 +6095,10 @@
     },
     {
       "ageGroup": "80-89",
-      "female": 83,
+      "female": 84,
       "male": 79,
       "unspecified": 8,
-      "total": 170
+      "total": 171
     },
     {
       "ageGroup": "90-100",
@@ -6111,14 +6111,14 @@
       "ageGroup": "Unspecified",
       "female": 325,
       "male": 1121,
-      "unspecified": 3142,
-      "total": 4588
+      "unspecified": 3073,
+      "total": 4519
     }
   ],
   "gender": {
-    "female": 9494,
-    "male": 19628,
-    "unspecified": 3475,
+    "female": 9526,
+    "male": 19665,
+    "unspecified": 3406,
     "total": 34331
   },
   "underObservation": {
