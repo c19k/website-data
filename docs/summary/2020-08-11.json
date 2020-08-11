@@ -3,7 +3,7 @@
   "prefectures": [
     {
       "confirmed": 7334,
-      "deaths": 19,
+      "deaths": 22,
       "confirmedByCity": {
         "Thiruvananthapuram": 7332,
         "Thiruvanathapuram": 1,
@@ -428,7 +428,7 @@
     },
     {
       "confirmed": 2823,
-      "deaths": 18,
+      "deaths": 19,
       "confirmedByCity": {
         "Ernakulam": 2819,
         "Unspecified": 4
@@ -2124,7 +2124,7 @@
     },
     {
       "confirmed": 1750,
-      "deaths": 9,
+      "deaths": 10,
       "confirmedByCity": {
         "Ernakulam": 3,
         "Kannur": 1747
@@ -6062,6 +6062,9 @@
       "homeObservationCumulative": 137419,
       "hosptilisedCumulative": 11876,
       "activeCumulative": 12737,
+      "importedCases": 0,
+      "contactCases": 0,
+      "status": "",
       "date": "2020-08-11",
       "confirmedCumulative": 35515,
       "confirmedAvg3d": 798,
@@ -6145,15 +6148,15 @@
       "ageGroup": "Unspecified",
       "female": 335,
       "male": 1139,
-      "unspecified": 2783,
-      "total": 4257
+      "unspecified": 4200,
+      "total": 5674
     }
   ],
   "gender": {
     "female": 10043,
     "male": 20568,
-    "unspecified": 3123,
-    "total": 35515
+    "unspecified": 4540,
+    "total": 36932
   },
   "underObservation": {
     "2020-01-31": {
