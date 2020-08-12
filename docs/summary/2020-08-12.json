@@ -1,9 +1,9 @@
 {
-  "updated": "2020-08-12 18:08",
+  "updated": "2020-08-12 18:51",
   "prefectures": [
     {
       "confirmed": 7897,
-      "deaths": 22,
+      "deaths": 23,
       "confirmedByCity": {
         "Thiruvananthapuram": 7629,
         "Thiruvanathapuram": 1,
@@ -430,7 +430,7 @@
     },
     {
       "confirmed": 3078,
-      "deaths": 19,
+      "deaths": 20,
       "confirmedByCity": {
         "Ernakulam": 2952,
         "Unspecified": 4
@@ -642,7 +642,7 @@
     },
     {
       "confirmed": 3002,
-      "deaths": 12,
+      "deaths": 14,
       "confirmedByCity": {
         "Kasaragod": 2932,
         "Mangalore": 1,
@@ -2346,7 +2346,7 @@
     },
     {
       "confirmed": 1797,
-      "deaths": 1,
+      "deaths": 2,
       "confirmedByCity": {
         "Kottayam": 1662,
         "Ernakulam": 1,
