@@ -1,5 +1,5 @@
 {
-  "updated": "2020-08-12 18:51",
+  "updated": "2020-08-12 19:15",
   "prefectures": [
     {
       "confirmed": 7897,
@@ -6091,14 +6091,14 @@
       "recoveredCumulative": 24922,
       "deceasedCumulative": 125,
       "criticalCumulative": 9,
-      "testedCumulative": 1027433,
-      "observationCumulative": 149707,
-      "homeObservationCumulative": 137586,
-      "hosptilisedCumulative": 12121,
+      "testedCumulative": 1056360,
+      "observationCumulative": 151752,
+      "homeObservationCumulative": 139326,
+      "hosptilisedCumulative": 12426,
       "activeCumulative": 13048,
       "importedCases": 144,
       "contactCases": 1068,
-      "status": "Reviewing",
+      "status": "Finalised",
       "date": "2020-08-12",
       "confirmedCumulative": 38144,
       "confirmedAvg3d": 1271,
