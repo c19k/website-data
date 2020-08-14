@@ -30173,6 +30173,128 @@
         "deltaHomeIsolation": 127952,
         "deltaHospitalIsolation": 1309
       }
+    },
+    "2020-08-14": {
+      "Alappuzha": {
+        "homeisolation": 6135,
+        "hospitalisolation": 1238,
+        "peopleunderobservation": 7373,
+        "deltaPeopleUnderObservation": 233,
+        "deltaHomeIsolation": 4913,
+        "deltaHospitalIsolation": -4680
+      },
+      "Ernakulam": {
+        "homeisolation": 12670,
+        "hospitalisolation": 1263,
+        "peopleunderobservation": 13933,
+        "deltaPeopleUnderObservation": 166,
+        "deltaHomeIsolation": 11457,
+        "deltaHospitalIsolation": -11291
+      },
+      "Idukki": {
+        "homeisolation": 3924,
+        "hospitalisolation": 245,
+        "peopleunderobservation": 4169,
+        "deltaPeopleUnderObservation": 255,
+        "deltaHomeIsolation": 3690,
+        "deltaHospitalIsolation": -3435
+      },
+      "Kannur": {
+        "homeisolation": 8501,
+        "hospitalisolation": 435,
+        "peopleunderobservation": 8936,
+        "deltaPeopleUnderObservation": -128,
+        "deltaHomeIsolation": 8098,
+        "deltaHospitalIsolation": -8226
+      },
+      "Kasaragod": {
+        "homeisolation": 4184,
+        "hospitalisolation": 987,
+        "peopleunderobservation": 5171,
+        "deltaPeopleUnderObservation": 26,
+        "deltaHomeIsolation": 3227,
+        "deltaHospitalIsolation": -3201
+      },
+      "Kollam": {
+        "homeisolation": 6882,
+        "hospitalisolation": 654,
+        "peopleunderobservation": 7536,
+        "deltaPeopleUnderObservation": 118,
+        "deltaHomeIsolation": 6234,
+        "deltaHospitalIsolation": -6116
+      },
+      "Kottayam": {
+        "homeisolation": 8801,
+        "hospitalisolation": 504,
+        "peopleunderobservation": 9305,
+        "deltaPeopleUnderObservation": 303,
+        "deltaHomeIsolation": 8307,
+        "deltaHospitalIsolation": -8004
+      },
+      "Kozhikode": {
+        "homeisolation": 13540,
+        "hospitalisolation": 1210,
+        "peopleunderobservation": 14750,
+        "deltaPeopleUnderObservation": 248,
+        "deltaHomeIsolation": 12473,
+        "deltaHospitalIsolation": -12225
+      },
+      "Malappuram": {
+        "homeisolation": 32291,
+        "hospitalisolation": 1472,
+        "peopleunderobservation": 33763,
+        "deltaPeopleUnderObservation": 69,
+        "deltaHomeIsolation": 30620,
+        "deltaHospitalIsolation": -30551
+      },
+      "Palakkad": {
+        "homeisolation": 11492,
+        "hospitalisolation": 837,
+        "peopleunderobservation": 12329,
+        "deltaPeopleUnderObservation": 278,
+        "deltaHomeIsolation": 10673,
+        "deltaHospitalIsolation": -10395
+      },
+      "Pathanamthitta": {
+        "homeisolation": 4904,
+        "hospitalisolation": 271,
+        "peopleunderobservation": 5175,
+        "deltaPeopleUnderObservation": -101,
+        "deltaHomeIsolation": 4619,
+        "deltaHospitalIsolation": -4720
+      },
+      "Thiruvananthapuram": {
+        "homeisolation": 17327,
+        "hospitalisolation": 2792,
+        "peopleunderobservation": 20119,
+        "deltaPeopleUnderObservation": 509,
+        "deltaHomeIsolation": 14460,
+        "deltaHospitalIsolation": -13951
+      },
+      "Thrissur": {
+        "homeisolation": 9196,
+        "hospitalisolation": 511,
+        "peopleunderobservation": 9707,
+        "deltaPeopleUnderObservation": 1,
+        "deltaHomeIsolation": 8724,
+        "deltaHospitalIsolation": -8723
+      },
+      "Wayanad": {
+        "homeisolation": 2444,
+        "hospitalisolation": 315,
+        "peopleunderobservation": 2759,
+        "deltaPeopleUnderObservation": -13,
+        "deltaHomeIsolation": 2113,
+        "deltaHospitalIsolation": -2126
+      },
+      "total": {
+        "peopleunderobservation": 155025,
+        "homeisolation": 142291,
+        "hospitalisolation": 12734,
+        "deltaPeopleUnderObservation": 129608,
+        "deltaHomeIsolation": -127644,
+        "deltaHospitalIsolation": 1964
+      }
     }
   }
 }
