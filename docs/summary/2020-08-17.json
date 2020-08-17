@@ -3,7 +3,7 @@
   "prefectures": [
     {
       "confirmed": 9942,
-      "deaths": 34,
+      "deaths": 37,
       "confirmedByCity": {
         "Thiruvananthapuram": 9479,
         "Thiruvanathapuram": 1,
@@ -221,7 +221,7 @@
     },
     {
       "confirmed": 5313,
-      "deaths": 12,
+      "deaths": 13,
       "confirmedByCity": {
         "Malappuram": 4935,
         "Palakkad": 1,
@@ -657,7 +657,7 @@
     },
     {
       "confirmed": 3426,
-      "deaths": 8,
+      "deaths": 10,
       "confirmedByCity": {
         "Alappuzha": 3287
       },
@@ -873,7 +873,7 @@
     },
     {
       "confirmed": 3356,
-      "deaths": 15,
+      "deaths": 20,
       "confirmedByCity": {
         "Kasaragod": 3257,
         "Mangalore": 1,
@@ -1310,7 +1310,7 @@
     },
     {
       "confirmed": 3171,
-      "deaths": 15,
+      "deaths": 16,
       "confirmedByCity": {
         "Kozhikode": 3120,
         "Chennai": 1,
@@ -6261,13 +6261,13 @@
       "recoveredCumulative": 28894,
       "deceasedCumulative": 156,
       "criticalCumulative": 9,
-      "testedCumulative": 1182727,
-      "observationCumulative": 162217,
-      "homeObservationCumulative": 148793,
-      "hosptilisedCumulative": 13424,
+      "testedCumulative": 1206759,
+      "observationCumulative": 164029,
+      "homeObservationCumulative": 150332,
+      "hosptilisedCumulative": 13697,
       "activeCumulative": 46140,
-      "importedCases": 0,
-      "contactCases": 0,
+      "importedCases": 153,
+      "contactCases": 1572,
       "status": "Reviewing",
       "date": "2020-08-17",
       "confirmedCumulative": 46140,
