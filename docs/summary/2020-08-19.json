@@ -883,7 +883,7 @@
       "confirmed": 3398,
       "deaths": 20,
       "confirmedByCity": {
-        "Kasaragod": 3354,
+        "Kasaragod": 3396,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -2648,7 +2648,7 @@
       "deaths": 3,
       "confirmedByCity": {
         "Munnar": 1,
-        "Idukki": 1293,
+        "Idukki": 1298,
         "Unspecified": 4,
         "Kottayam": 1
       },
@@ -6347,59 +6347,59 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 1106,
-      "male": 1244,
+      "female": 1110,
+      "male": 1246,
       "unspecified": 91,
-      "total": 2473
+      "total": 2479
     },
     {
       "ageGroup": "10-19",
-      "female": 1359,
-      "male": 1937,
+      "female": 1362,
+      "male": 1941,
       "unspecified": 48,
-      "total": 3366
+      "total": 3373
     },
     {
       "ageGroup": "20-29",
-      "female": 2925,
-      "male": 6046,
+      "female": 2930,
+      "male": 6049,
       "unspecified": 61,
-      "total": 9063
+      "total": 9071
     },
     {
       "ageGroup": "30-39",
-      "female": 2418,
-      "male": 5848,
+      "female": 2423,
+      "male": 5850,
       "unspecified": 39,
-      "total": 8343
+      "total": 8350
     },
     {
       "ageGroup": "40-49",
-      "female": 2146,
-      "male": 4459,
+      "female": 2149,
+      "male": 4464,
       "unspecified": 44,
-      "total": 6679
+      "total": 6687
     },
     {
       "ageGroup": "50-59",
-      "female": 1660,
-      "male": 3013,
+      "female": 1662,
+      "male": 3015,
       "unspecified": 46,
-      "total": 4740
+      "total": 4744
     },
     {
       "ageGroup": "60-69",
-      "female": 907,
-      "male": 1433,
+      "female": 910,
+      "male": 1435,
       "unspecified": 35,
-      "total": 2387
+      "total": 2392
     },
     {
       "ageGroup": "70-79",
-      "female": 362,
+      "female": 363,
       "male": 402,
       "unspecified": 14,
-      "total": 781
+      "total": 782
     },
     {
       "ageGroup": "80-89",
@@ -6419,14 +6419,14 @@
       "ageGroup": "Unspecified",
       "female": 496,
       "male": 1323,
-      "unspecified": 5944,
-      "total": 7763
+      "unspecified": 5897,
+      "total": 7716
     }
   ],
   "gender": {
-    "female": 13573,
-    "male": 25889,
-    "unspecified": 6343,
+    "female": 13600,
+    "male": 25909,
+    "unspecified": 6296,
     "total": 47898
   },
   "underObservation": {
