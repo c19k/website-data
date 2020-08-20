@@ -1,5 +1,5 @@
 {
-  "updated": "2020-08-20 18:39",
+  "updated": "2020-08-20 19:03",
   "prefectures": [
     {
       "confirmed": 11400,
@@ -6362,14 +6362,14 @@
     },
     {
       "confirmed": 1968,
-      "recoveredCumulative": 33824,
+      "recoveredCumulative": 33828,
       "deceasedCumulative": 191,
-      "criticalCumulative": 9,
+      "criticalCumulative": 203,
       "testedCumulative": 1312992,
       "observationCumulative": 173189,
       "homeObservationCumulative": 158543,
       "hosptilisedCumulative": 14646,
-      "activeCumulative": 18127,
+      "activeCumulative": 18123,
       "importedCases": 231,
       "contactCases": 1737,
       "status": "Finalised",
