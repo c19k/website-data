@@ -1342,7 +1342,7 @@
       "confirmed": 3578,
       "deaths": 3,
       "confirmedByCity": {
-        "Palakkad": 3490,
+        "Palakkad": 3573,
         "Ernakulam": 2,
         "Malappuram": 1,
         "Idukki": 2
@@ -1566,7 +1566,7 @@
       "confirmed": 2954,
       "deaths": 12,
       "confirmedByCity": {
-        "Kollam": 2866,
+        "Kollam": 2948,
         "Unspecified": 4,
         "Ernakulam": 1,
         "Malappuram": 1
@@ -2457,7 +2457,7 @@
       "confirmed": 2399,
       "deaths": 3,
       "confirmedByCity": {
-        "Pathanamthitta": 2314,
+        "Pathanamthitta": 2392,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2,
@@ -6449,66 +6449,66 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 1336,
-      "male": 1495,
-      "unspecified": 110,
-      "total": 2973
+      "female": 1344,
+      "male": 1500,
+      "unspecified": 115,
+      "total": 2994
     },
     {
       "ageGroup": "10-19",
-      "female": 1622,
-      "male": 2289,
-      "unspecified": 54,
-      "total": 3987
+      "female": 1632,
+      "male": 2295,
+      "unspecified": 56,
+      "total": 4005
     },
     {
       "ageGroup": "20-29",
-      "female": 3389,
-      "male": 6809,
+      "female": 3405,
+      "male": 6834,
       "unspecified": 61,
-      "total": 10290
+      "total": 10331
     },
     {
       "ageGroup": "30-39",
-      "female": 2856,
-      "male": 6617,
+      "female": 2877,
+      "male": 6652,
       "unspecified": 41,
-      "total": 9552
+      "total": 9608
     },
     {
       "ageGroup": "40-49",
-      "female": 2561,
-      "male": 5056,
+      "female": 2571,
+      "male": 5074,
       "unspecified": 45,
-      "total": 7692
+      "total": 7720
     },
     {
       "ageGroup": "50-59",
-      "female": 1975,
-      "male": 3429,
+      "female": 1985,
+      "male": 3441,
       "unspecified": 46,
-      "total": 5471
+      "total": 5493
     },
     {
       "ageGroup": "60-69",
-      "female": 1122,
-      "male": 1674,
+      "female": 1128,
+      "male": 1680,
       "unspecified": 35,
-      "total": 2843
+      "total": 2855
     },
     {
       "ageGroup": "70-79",
-      "female": 421,
-      "male": 502,
+      "female": 423,
+      "male": 504,
       "unspecified": 14,
-      "total": 940
+      "total": 944
     },
     {
       "ageGroup": "80-89",
-      "female": 149,
+      "female": 150,
       "male": 136,
       "unspecified": 8,
-      "total": 293
+      "total": 294
     },
     {
       "ageGroup": "90-100",
@@ -6521,14 +6521,14 @@
       "ageGroup": "Unspecified",
       "female": 518,
       "male": 1359,
-      "unspecified": 6102,
-      "total": 7979
+      "unspecified": 5899,
+      "total": 7776
     }
   ],
   "gender": {
-    "female": 16027,
-    "male": 29444,
-    "unspecified": 6532,
+    "female": 16111,
+    "male": 29553,
+    "unspecified": 6336,
     "total": 54182
   },
   "underObservation": {
