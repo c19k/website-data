@@ -2921,7 +2921,7 @@
       "deaths": 3,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 1270,
+        "Wayanad": 1295,
         "Kozhikode": 1
       },
       "dailyConfirmedCount": [
@@ -6555,15 +6555,15 @@
       "ageGroup": "Unspecified",
       "female": 518,
       "male": 1360,
-      "unspecified": 6794,
-      "total": 8672
+      "unspecified": 6795,
+      "total": 8673
     }
   ],
   "gender": {
     "female": 16640,
     "male": 30298,
-    "unspecified": 7233,
-    "total": 56354
+    "unspecified": 7234,
+    "total": 56444
   },
   "underObservation": {
     "2020-01-31": {
