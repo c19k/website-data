@@ -31734,6 +31734,128 @@
         "deltaHomeIsolation": 149485,
         "deltaHospitalIsolation": 2276
       }
+    },
+    "2020-08-24": {
+      "Alappuzha": {
+        "homeisolation": 7573,
+        "hospitalisolation": 1871,
+        "peopleunderobservation": 9444,
+        "deltaPeopleUnderObservation": 30,
+        "deltaHomeIsolation": 5873,
+        "deltaHospitalIsolation": -5843
+      },
+      "Ernakulam": {
+        "homeisolation": 15954,
+        "hospitalisolation": 1364,
+        "peopleunderobservation": 17318,
+        "deltaPeopleUnderObservation": -105,
+        "deltaHomeIsolation": 14667,
+        "deltaHospitalIsolation": -14772
+      },
+      "Idukki": {
+        "homeisolation": 4017,
+        "hospitalisolation": 285,
+        "peopleunderobservation": 4302,
+        "deltaPeopleUnderObservation": 57,
+        "deltaHomeIsolation": 3712,
+        "deltaHospitalIsolation": -3655
+      },
+      "Kannur": {
+        "homeisolation": 9232,
+        "hospitalisolation": 827,
+        "peopleunderobservation": 10059,
+        "deltaPeopleUnderObservation": 305,
+        "deltaHomeIsolation": 8422,
+        "deltaHospitalIsolation": -8117
+      },
+      "Kasaragod": {
+        "homeisolation": 4568,
+        "hospitalisolation": 720,
+        "peopleunderobservation": 5288,
+        "deltaPeopleUnderObservation": -48,
+        "deltaHomeIsolation": 3860,
+        "deltaHospitalIsolation": -3908
+      },
+      "Kollam": {
+        "homeisolation": 8314,
+        "hospitalisolation": 881,
+        "peopleunderobservation": 9195,
+        "deltaPeopleUnderObservation": -190,
+        "deltaHomeIsolation": 7405,
+        "deltaHospitalIsolation": -7595
+      },
+      "Kottayam": {
+        "homeisolation": 12205,
+        "hospitalisolation": 928,
+        "peopleunderobservation": 13133,
+        "deltaPeopleUnderObservation": 791,
+        "deltaHomeIsolation": 11307,
+        "deltaHospitalIsolation": -10516
+      },
+      "Kozhikode": {
+        "homeisolation": 13321,
+        "hospitalisolation": 1491,
+        "peopleunderobservation": 14812,
+        "deltaPeopleUnderObservation": -152,
+        "deltaHomeIsolation": 12062,
+        "deltaHospitalIsolation": -12214
+      },
+      "Malappuram": {
+        "homeisolation": 40773,
+        "hospitalisolation": 2262,
+        "peopleunderobservation": 43035,
+        "deltaPeopleUnderObservation": 629,
+        "deltaHomeIsolation": 38616,
+        "deltaHospitalIsolation": -37987
+      },
+      "Palakkad": {
+        "homeisolation": 12949,
+        "hospitalisolation": 566,
+        "peopleunderobservation": 13515,
+        "deltaPeopleUnderObservation": -428,
+        "deltaHomeIsolation": 12320,
+        "deltaHospitalIsolation": -12748
+      },
+      "Pathanamthitta": {
+        "homeisolation": 5058,
+        "hospitalisolation": 666,
+        "peopleunderobservation": 5724,
+        "deltaPeopleUnderObservation": 89,
+        "deltaHomeIsolation": 4467,
+        "deltaHospitalIsolation": -4378
+      },
+      "Thiruvananthapuram": {
+        "homeisolation": 20187,
+        "hospitalisolation": 3863,
+        "peopleunderobservation": 24050,
+        "deltaPeopleUnderObservation": -737,
+        "deltaHomeIsolation": 16241,
+        "deltaHospitalIsolation": -16978
+      },
+      "Thrissur": {
+        "homeisolation": 8783,
+        "hospitalisolation": 1019,
+        "peopleunderobservation": 9802,
+        "deltaPeopleUnderObservation": 577,
+        "deltaHomeIsolation": 7766,
+        "deltaHospitalIsolation": -7189
+      },
+      "Wayanad": {
+        "homeisolation": 3477,
+        "hospitalisolation": 294,
+        "peopleunderobservation": 3771,
+        "deltaPeopleUnderObservation": 105,
+        "deltaHomeIsolation": 3164,
+        "deltaHospitalIsolation": -3059
+      },
+      "total": {
+        "peopleunderobservation": 183448,
+        "homeisolation": 166411,
+        "hospitalisolation": 17037,
+        "deltaPeopleUnderObservation": 149882,
+        "deltaHomeIsolation": -148959,
+        "deltaHospitalIsolation": 923
+      }
     }
   }
 }
