@@ -456,7 +456,7 @@
       "confirmed": 4715,
       "deaths": 32,
       "confirmedByCity": {
-        "Ernakulam": 4511,
+        "Ernakulam": 4711,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -680,7 +680,7 @@
       "confirmed": 4485,
       "deaths": 12,
       "confirmedByCity": {
-        "Alappuzha": 4244
+        "Alappuzha": 4485
       },
       "dailyConfirmedCount": [
         0,
@@ -6587,16 +6587,16 @@
     },
     {
       "ageGroup": "Unspecified",
-      "female": 518,
-      "male": 1375,
-      "unspecified": 7668,
+      "female": 520,
+      "male": 1391,
+      "unspecified": 7650,
       "total": 9561
     }
   ],
   "gender": {
-    "female": 17045,
-    "male": 30897,
-    "unspecified": 8109,
+    "female": 17047,
+    "male": 30913,
+    "unspecified": 8091,
     "total": 58262
   },
   "underObservation": {
