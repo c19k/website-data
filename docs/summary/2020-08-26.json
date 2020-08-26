@@ -2501,7 +2501,7 @@
       "confirmed": 2695,
       "deaths": 3,
       "confirmedByCity": {
-        "Pathanamthitta": 2502,
+        "Pathanamthitta": 2595,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2,
@@ -6585,59 +6585,59 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 1500,
-      "male": 1639,
+      "female": 1505,
+      "male": 1646,
       "unspecified": 118,
-      "total": 3318
+      "total": 3330
     },
     {
       "ageGroup": "10-19",
-      "female": 1825,
-      "male": 2601,
+      "female": 1828,
+      "male": 2608,
       "unspecified": 57,
-      "total": 4517
+      "total": 4527
     },
     {
       "ageGroup": "20-29",
-      "female": 3754,
-      "male": 7444,
+      "female": 3767,
+      "male": 7470,
       "unspecified": 81,
-      "total": 11310
+      "total": 11349
     },
     {
       "ageGroup": "30-39",
-      "female": 3201,
-      "male": 7248,
+      "female": 3210,
+      "male": 7277,
       "unspecified": 50,
-      "total": 10538
+      "total": 10576
     },
     {
       "ageGroup": "40-49",
-      "female": 2847,
-      "male": 5538,
+      "female": 2858,
+      "male": 5554,
       "unspecified": 48,
-      "total": 8464
+      "total": 8491
     },
     {
       "ageGroup": "50-59",
-      "female": 2251,
-      "male": 3807,
+      "female": 2262,
+      "male": 3827,
       "unspecified": 49,
-      "total": 6129
+      "total": 6160
     },
     {
       "ageGroup": "60-69",
-      "female": 1279,
-      "male": 1857,
+      "female": 1284,
+      "male": 1867,
       "unspecified": 36,
-      "total": 3185
+      "total": 3200
     },
     {
       "ageGroup": "70-79",
-      "female": 469,
-      "male": 577,
+      "female": 471,
+      "male": 583,
       "unspecified": 15,
-      "total": 1064
+      "total": 1072
     },
     {
       "ageGroup": "80-89",
@@ -6657,14 +6657,14 @@
       "ageGroup": "Unspecified",
       "female": 524,
       "male": 1722,
-      "unspecified": 8439,
-      "total": 10685
+      "unspecified": 8259,
+      "total": 10505
     }
   ],
   "gender": {
-    "female": 17907,
-    "male": 32670,
-    "unspecified": 9077,
+    "female": 17966,
+    "male": 32791,
+    "unspecified": 8897,
     "total": 61879
   },
   "underObservation": {
