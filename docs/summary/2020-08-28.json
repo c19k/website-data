@@ -1,5 +1,5 @@
 {
-  "updated": "2020-08-27 19:55",
+  "updated": "2020-08-28 19:41",
   "prefectures": [
     {
       "confirmed": 14608,
@@ -3204,7 +3204,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 19,
-      "recovered": 1114,
+      "recovered": 1158,
       "name_ja": "വയനാട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -6616,7 +6616,7 @@
       "confirmed": 2406,
       "recoveredCumulative": 43757,
       "deceasedCumulative": 267,
-      "criticalCumulative": 227,
+      "criticalCumulative": 249,
       "testedCumulative": 1564783,
       "observationCumulative": 193925,
       "homeObservationCumulative": 175513,
@@ -6636,7 +6636,7 @@
       "confirmed": 2543,
       "recoveredCumulative": 45854,
       "deceasedCumulative": 274,
-      "criticalCumulative": 227,
+      "criticalCumulative": 268,
       "testedCumulative": 1608013,
       "observationCumulative": 194431,
       "homeObservationCumulative": 175306,
