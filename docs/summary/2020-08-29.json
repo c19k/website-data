@@ -1151,7 +1151,7 @@
       "name": "Kozhikode"
     },
     {
-      "confirmed": 4678,
+      "confirmed": 4838,
       "deaths": 23,
       "confirmedByCity": {
         "Kasaragod": 4676,
@@ -1370,10 +1370,10 @@
         101,
         231,
         157,
-        0
+        160
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 160,
       "recovered": 3110,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -6667,7 +6667,7 @@
       "confirmedCumulativeAvg7d": 62268
     },
     {
-      "confirmed": 0,
+      "confirmed": 160,
       "recoveredCumulative": 45854,
       "deceasedCumulative": 274,
       "criticalCumulative": 268,
@@ -6677,11 +6677,11 @@
       "hosptilisedCumulative": 19125,
       "activeCumulative": 23115,
       "date": "2020-08-29",
-      "confirmedCumulative": 69304,
-      "confirmedAvg3d": 1649,
-      "confirmedCumulativeAvg3d": 68404,
-      "confirmedAvg7d": 1850,
-      "confirmedCumulativeAvg7d": 64118
+      "confirmedCumulative": 69464,
+      "confirmedAvg3d": 1703,
+      "confirmedCumulativeAvg3d": 68458,
+      "confirmedAvg7d": 1872,
+      "confirmedCumulativeAvg7d": 64140
     }
   ],
   "age": [
@@ -6759,15 +6759,15 @@
       "ageGroup": "Unspecified",
       "female": 535,
       "male": 1839,
-      "unspecified": 10347,
-      "total": 12721
+      "unspecified": 12744,
+      "total": 15118
     }
   ],
   "gender": {
     "female": 20208,
     "male": 35878,
-    "unspecified": 10959,
-    "total": 69304
+    "unspecified": 13356,
+    "total": 71701
   },
   "underObservation": {
     "2020-01-31": {
