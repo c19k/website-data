@@ -2,7 +2,7 @@
   "updated": "2020-08-30 21:01",
   "prefectures": [
     {
-      "confirmed": 15326,
+      "confirmed": 15547,
       "deaths": 86,
       "confirmedByCity": {
         "Thiruvananthapuram": 15014,
@@ -223,10 +223,10 @@
         532,
         408,
         310,
-        0
+        221
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 221,
       "recovered": 9677,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -467,7 +467,7 @@
       "name": "Malappuram"
     },
     {
-      "confirmed": 5950,
+      "confirmed": 6160,
       "deaths": 33,
       "confirmedByCity": {
         "Ernakulam": 5715,
@@ -687,10 +687,10 @@
         207,
         136,
         231,
-        0
+        210
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 210,
       "recovered": 3742,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
@@ -2556,7 +2556,7 @@
       "confirmed": 3338,
       "deaths": 3,
       "confirmedByCity": {
-        "Pathanamthitta": 3031,
+        "Pathanamthitta": 3331,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2,
@@ -6735,7 +6735,7 @@
       "confirmedCumulativeAvg7d": 66687
     },
     {
-      "confirmed": 0,
+      "confirmed": 431,
       "recoveredCumulative": 49845,
       "deceasedCumulative": 287,
       "criticalCumulative": 270,
@@ -6745,76 +6745,76 @@
       "hosptilisedCumulative": 19486,
       "activeCumulative": 23658,
       "date": "2020-08-31",
-      "confirmedCumulative": 73855,
-      "confirmedAvg3d": 1517,
-      "confirmedCumulativeAvg3d": 73084,
-      "confirmedAvg7d": 2050,
-      "confirmedCumulativeAvg7d": 68737
+      "confirmedCumulative": 74286,
+      "confirmedAvg3d": 1660,
+      "confirmedCumulativeAvg3d": 73227,
+      "confirmedAvg7d": 2111,
+      "confirmedCumulativeAvg7d": 68798
     }
   ],
   "age": [
     {
       "ageGroup": "<10",
-      "female": 1758,
-      "male": 1920,
+      "female": 1768,
+      "male": 1933,
       "unspecified": 131,
-      "total": 3890
+      "total": 3913
     },
     {
       "ageGroup": "10-19",
-      "female": 2138,
-      "male": 3007,
+      "female": 2147,
+      "male": 3021,
       "unspecified": 81,
-      "total": 5271
+      "total": 5294
     },
     {
       "ageGroup": "20-29",
-      "female": 4324,
-      "male": 8345,
+      "female": 4349,
+      "male": 8394,
       "unspecified": 101,
-      "total": 12802
+      "total": 12876
     },
     {
       "ageGroup": "30-39",
-      "female": 3713,
-      "male": 8063,
+      "female": 3730,
+      "male": 8099,
       "unspecified": 61,
-      "total": 11876
+      "total": 11929
     },
     {
       "ageGroup": "40-49",
-      "female": 3348,
-      "male": 6182,
+      "female": 3377,
+      "male": 6211,
       "unspecified": 51,
-      "total": 9612
+      "total": 9670
     },
     {
       "ageGroup": "50-59",
-      "female": 2691,
-      "male": 4398,
+      "female": 2706,
+      "male": 4424,
       "unspecified": 53,
-      "total": 7165
+      "total": 7206
     },
     {
       "ageGroup": "60-69",
-      "female": 1507,
-      "male": 2151,
+      "female": 1518,
+      "male": 2160,
       "unspecified": 38,
-      "total": 3709
+      "total": 3729
     },
     {
       "ageGroup": "70-79",
-      "female": 558,
-      "male": 679,
+      "female": 562,
+      "male": 680,
       "unspecified": 15,
-      "total": 1255
+      "total": 1260
     },
     {
       "ageGroup": "80-89",
-      "female": 220,
-      "male": 176,
+      "female": 222,
+      "male": 177,
       "unspecified": 8,
-      "total": 404
+      "total": 407
     },
     {
       "ageGroup": "90-100",
@@ -6827,15 +6827,15 @@
       "ageGroup": "Unspecified",
       "female": 535,
       "male": 1867,
-      "unspecified": 13188,
-      "total": 15590
+      "unspecified": 14418,
+      "total": 16820
     }
   ],
   "gender": {
-    "female": 20886,
-    "male": 36880,
-    "unspecified": 13828,
-    "total": 73855
+    "female": 21008,
+    "male": 37058,
+    "unspecified": 15058,
+    "total": 75385
   },
   "underObservation": {
     "2020-01-31": {
