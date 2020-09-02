@@ -2,7 +2,7 @@
   "updated": "2020-09-02 08:58",
   "prefectures": [
     {
-      "confirmed": 15774,
+      "confirmed": 16002,
       "deaths": 90,
       "confirmedByCity": {
         "Thiruvananthapuram": 15324,
@@ -225,10 +225,10 @@
         310,
         221,
         227,
-        0
+        228
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 228,
       "recovered": 10212,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -704,7 +704,7 @@
       "name": "Ernakulam"
     },
     {
-      "confirmed": 5802,
+      "confirmed": 5961,
       "deaths": 15,
       "confirmedByCity": {
         "Alappuzha": 5802
@@ -925,10 +925,10 @@
         92,
         137,
         32,
-        0
+        159
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 159,
       "recovered": 3612,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
@@ -936,7 +936,7 @@
       "name": "Alappuzha"
     },
     {
-      "confirmed": 5731,
+      "confirmed": 5935,
       "deaths": 31,
       "confirmedByCity": {
         "Kozhikode": 4824,
@@ -1160,10 +1160,10 @@
         304,
         117,
         155,
-        0
+        204
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 204,
       "recovered": 3693,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -6803,7 +6803,7 @@
       "confirmedCumulativeAvg7d": 71047
     },
     {
-      "confirmed": 0,
+      "confirmed": 591,
       "recoveredCumulative": 53649,
       "deceasedCumulative": 298,
       "criticalCumulative": 238,
@@ -6813,11 +6813,11 @@
       "hosptilisedCumulative": 19094,
       "activeCumulative": 22513,
       "date": "2020-09-02",
-      "confirmedCumulative": 76525,
-      "confirmedAvg3d": 890,
-      "confirmedCumulativeAvg3d": 76092,
-      "confirmedAvg7d": 1738,
-      "confirmedCumulativeAvg7d": 72785
+      "confirmedCumulative": 77116,
+      "confirmedAvg3d": 1087,
+      "confirmedCumulativeAvg3d": 76289,
+      "confirmedAvg7d": 1823,
+      "confirmedCumulativeAvg7d": 72870
     }
   ],
   "age": [
@@ -6895,15 +6895,15 @@
       "ageGroup": "Unspecified",
       "female": 535,
       "male": 1885,
-      "unspecified": 13570,
-      "total": 15992
+      "unspecified": 15117,
+      "total": 17539
     }
   ],
   "gender": {
     "female": 21676,
     "male": 38134,
-    "unspecified": 14215,
-    "total": 76525
+    "unspecified": 15762,
+    "total": 78072
   },
   "underObservation": {
     "2020-01-31": {
