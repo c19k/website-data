@@ -2111,7 +2111,7 @@
       "confirmed": 4227,
       "deaths": 3,
       "confirmedByCity": {
-        "Kottayam": 3648,
+        "Kottayam": 3796,
         "Ernakulam": 1,
         "Idukki": 1
       },
@@ -6826,66 +6826,66 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 1827,
-      "male": 2023,
+      "female": 1834,
+      "male": 2028,
       "unspecified": 131,
-      "total": 4100
+      "total": 4112
     },
     {
       "ageGroup": "10-19",
-      "female": 2229,
-      "male": 3144,
+      "female": 2237,
+      "male": 3156,
       "unspecified": 82,
-      "total": 5539
+      "total": 5559
     },
     {
       "ageGroup": "20-29",
-      "female": 4552,
-      "male": 8717,
+      "female": 4567,
+      "male": 8735,
       "unspecified": 102,
-      "total": 13450
+      "total": 13483
     },
     {
       "ageGroup": "30-39",
-      "female": 3859,
-      "male": 8363,
+      "female": 3866,
+      "male": 8379,
       "unspecified": 61,
-      "total": 12363
+      "total": 12386
     },
     {
       "ageGroup": "40-49",
-      "female": 3551,
-      "male": 6424,
+      "female": 3564,
+      "male": 6433,
       "unspecified": 53,
-      "total": 10096
+      "total": 10118
     },
     {
       "ageGroup": "50-59",
-      "female": 2827,
-      "male": 4582,
+      "female": 2843,
+      "male": 4593,
       "unspecified": 54,
-      "total": 7509
+      "total": 7536
     },
     {
       "ageGroup": "60-69",
-      "female": 1576,
-      "male": 2258,
+      "female": 1577,
+      "male": 2264,
       "unspecified": 38,
-      "total": 3893
+      "total": 3900
     },
     {
       "ageGroup": "70-79",
-      "female": 587,
-      "male": 705,
+      "female": 589,
+      "male": 707,
       "unspecified": 15,
-      "total": 1313
+      "total": 1317
     },
     {
       "ageGroup": "80-89",
-      "female": 231,
+      "female": 232,
       "male": 190,
       "unspecified": 8,
-      "total": 430
+      "total": 431
     },
     {
       "ageGroup": "90-100",
@@ -6898,14 +6898,14 @@
       "ageGroup": "Unspecified",
       "female": 535,
       "male": 1885,
-      "unspecified": 14668,
-      "total": 17090
+      "unspecified": 14520,
+      "total": 16942
     }
   ],
   "gender": {
-    "female": 21873,
-    "male": 38386,
-    "unspecified": 15313,
+    "female": 21943,
+    "male": 38464,
+    "unspecified": 15165,
     "total": 78072
   },
   "underObservation": {
