@@ -1,9 +1,9 @@
 {
-  "updated": "2020-09-03 18:31",
+  "updated": "2020-09-03 19:21",
   "prefectures": [
     {
       "confirmed": 16319,
-      "deaths": 94,
+      "deaths": 101,
       "confirmedByCity": {
         "Thiruvananthapuram": 16090,
         "Thiruvanathapuram": 1,
@@ -474,7 +474,7 @@
     },
     {
       "confirmed": 6621,
-      "deaths": 37,
+      "deaths": 38,
       "confirmedByCity": {
         "Ernakulam": 6292,
         "Unspecified": 4
@@ -1646,7 +1646,7 @@
     },
     {
       "confirmed": 4810,
-      "deaths": 3,
+      "deaths": 4,
       "confirmedByCity": {
         "Palakkad": 4588,
         "Ernakulam": 2,
@@ -2353,7 +2353,7 @@
     },
     {
       "confirmed": 3889,
-      "deaths": 26,
+      "deaths": 27,
       "confirmedByCity": {
         "Ernakulam": 3,
         "Kannur": 3812
