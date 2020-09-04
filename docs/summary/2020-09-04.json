@@ -3077,7 +3077,7 @@
       "deaths": 5,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 1528,
+        "Wayanad": 1546,
         "Kozhikode": 1
       },
       "dailyConfirmedCount": [
@@ -6905,31 +6905,31 @@
     },
     {
       "ageGroup": "20-29",
-      "female": 4688,
-      "male": 8974,
+      "female": 4689,
+      "male": 8979,
       "unspecified": 105,
-      "total": 13846
+      "total": 13852
     },
     {
       "ageGroup": "30-39",
       "female": 3969,
-      "male": 8554,
+      "male": 8557,
       "unspecified": 64,
-      "total": 12667
+      "total": 12670
     },
     {
       "ageGroup": "40-49",
       "female": 3678,
-      "male": 6586,
+      "male": 6587,
       "unspecified": 53,
-      "total": 10385
+      "total": 10386
     },
     {
       "ageGroup": "50-59",
       "female": 2926,
-      "male": 4722,
+      "male": 4723,
       "unspecified": 56,
-      "total": 7750
+      "total": 7751
     },
     {
       "ageGroup": "60-69",
@@ -6961,16 +6961,16 @@
     },
     {
       "ageGroup": "Unspecified",
-      "female": 538,
-      "male": 1912,
-      "unspecified": 14434,
-      "total": 16886
+      "female": 539,
+      "male": 1918,
+      "unspecified": 14416,
+      "total": 16875
     }
   ],
   "gender": {
-    "female": 22591,
-    "male": 39444,
-    "unspecified": 15087,
+    "female": 22593,
+    "male": 39460,
+    "unspecified": 15069,
     "total": 79625
   },
   "underObservation": {
