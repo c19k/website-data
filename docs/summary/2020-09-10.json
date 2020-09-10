@@ -1,5 +1,5 @@
 {
-  "updated": "2020-09-09 19:21",
+  "updated": "2020-09-10 19:12",
   "prefectures": [
     {
       "confirmed": 19818,
@@ -487,7 +487,7 @@
       "name": "Malappuram"
     },
     {
-      "confirmed": 8342,
+      "confirmed": 8313,
       "deaths": 43,
       "confirmedByCity": {
         "Ernakulam": 6292,
@@ -717,10 +717,10 @@
         130,
         318,
         276,
-        256
+        227
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 256,
+      "newlyConfirmed": 227,
       "recovered": 5467,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
@@ -1211,7 +1211,7 @@
       "name": "Alappuzha"
     },
     {
-      "confirmed": 6813,
+      "confirmed": 6814,
       "deaths": 35,
       "confirmedByCity": {
         "Kasaragod": 5239,
@@ -1442,10 +1442,10 @@
         134,
         166,
         270,
-        139
+        140
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 139,
+      "newlyConfirmed": 140,
       "recovered": 4507,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -2663,7 +2663,7 @@
       "name": "Kannur"
     },
     {
-      "confirmed": 4504,
+      "confirmed": 4503,
       "deaths": 3,
       "confirmedByCity": {
         "Pathanamthitta": 3461,
@@ -2897,10 +2897,10 @@
         24,
         160,
         190,
-        136
+        135
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 136,
+      "newlyConfirmed": 135,
       "recovered": 3267,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
@@ -3151,7 +3151,7 @@
       "name": "Idukki"
     },
     {
-      "confirmed": 1896,
+      "confirmed": 1925,
       "deaths": 5,
       "confirmedByCity": {
         "Manathawady": 1,
@@ -3382,10 +3382,10 @@
         4,
         24,
         77,
-        86
+        115
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 86,
+      "newlyConfirmed": 115,
       "recovered": 1477,
       "name_ja": "വയനാട്",
       "zone": "Orange",
@@ -7076,14 +7076,17 @@
     },
     {
       "confirmed": 3349,
-      "recoveredCumulative": 70917,
-      "deceasedCumulative": 384,
+      "recoveredCumulative": 72576,
+      "deceasedCumulative": 396,
       "criticalCumulative": 340,
-      "testedCumulative": 1978316,
-      "observationCumulative": 202801,
-      "homeObservationCumulative": 183921,
-      "hosptilisedCumulative": 18880,
-      "activeCumulative": 24549,
+      "testedCumulative": 2018921,
+      "observationCumulative": 204376,
+      "homeObservationCumulative": 184128,
+      "hosptilisedCumulative": 20248,
+      "activeCumulative": 26227,
+      "importedCases": 291,
+      "contactCases": 3058,
+      "status": "Reviewing",
       "date": "2020-09-10",
       "confirmedCumulative": 99266,
       "confirmedAvg3d": 3259,
