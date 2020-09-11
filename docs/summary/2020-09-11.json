@@ -2920,7 +2920,7 @@
       "name": "Pathanamthitta"
     },
     {
-      "confirmed": 2118,
+      "confirmed": 2146,
       "deaths": 3,
       "confirmedByCity": {
         "Munnar": 1,
@@ -3153,10 +3153,10 @@
         85,
         24,
         105,
-        0
+        28
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 28,
       "recovered": 1666,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
@@ -3164,7 +3164,7 @@
       "name": "Idukki"
     },
     {
-      "confirmed": 1905,
+      "confirmed": 1957,
       "deaths": 5,
       "confirmedByCity": {
         "Manathawady": 1,
@@ -3396,10 +3396,10 @@
         24,
         77,
         95,
-        0
+        52
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 52,
       "recovered": 1477,
       "name_ja": "വയനാട്",
       "zone": "Orange",
@@ -7109,7 +7109,7 @@
       "confirmedCumulativeAvg7d": 90186
     },
     {
-      "confirmed": 2908,
+      "confirmed": 2988,
       "recoveredCumulative": 72574,
       "deceasedCumulative": 396,
       "criticalCumulative": 340,
@@ -7119,11 +7119,11 @@
       "hosptilisedCumulative": 20248,
       "activeCumulative": 26229,
       "date": "2020-09-11",
-      "confirmedCumulative": 102174,
-      "confirmedAvg3d": 3219,
-      "confirmedCumulativeAvg3d": 99062,
-      "confirmedAvg7d": 2867,
-      "confirmedCumulativeAvg7d": 93053
+      "confirmedCumulative": 102254,
+      "confirmedAvg3d": 3246,
+      "confirmedCumulativeAvg3d": 99089,
+      "confirmedAvg7d": 2878,
+      "confirmedCumulativeAvg7d": 93064
     }
   ],
   "age": [
