@@ -5,7 +5,7 @@
       "confirmed": 19818,
       "deaths": 129,
       "confirmedByCity": {
-        "Thiruvananthapuram": 19252,
+        "Thiruvananthapuram": 19810,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -248,7 +248,7 @@
       "confirmed": 11658,
       "deaths": 26,
       "confirmedByCity": {
-        "Malappuram": 10606,
+        "Malappuram": 11495,
         "Palakkad": 1,
         "Kozhikode": 9,
         "Ernakulam": 4
@@ -1701,7 +1701,7 @@
       "name": "Thrissur"
     },
     {
-      "confirmed": 6127,
+      "confirmed": 6147,
       "deaths": 26,
       "confirmedByCity": {
         "Kollam": 5897,
@@ -1933,7 +1933,7 @@
         71,
         209,
         362,
-        224,
+        244,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -3164,7 +3164,7 @@
       "name": "Idukki"
     },
     {
-      "confirmed": 1925,
+      "confirmed": 1905,
       "deaths": 5,
       "confirmedByCity": {
         "Manathawady": 1,
@@ -3395,7 +3395,7 @@
         4,
         24,
         77,
-        115,
+        95,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -7157,10 +7157,10 @@
     },
     {
       "ageGroup": "40-49",
-      "female": 4202,
-      "male": 7308,
+      "female": 4203,
+      "male": 7309,
       "unspecified": 57,
-      "total": 11635
+      "total": 11637
     },
     {
       "ageGroup": "50-59",
@@ -7171,10 +7171,10 @@
     },
     {
       "ageGroup": "60-69",
-      "female": 1883,
-      "male": 2651,
+      "female": 1884,
+      "male": 2652,
       "unspecified": 38,
-      "total": 4593
+      "total": 4595
     },
     {
       "ageGroup": "70-79",
@@ -7201,14 +7201,14 @@
       "ageGroup": "Unspecified",
       "female": 582,
       "male": 2043,
-      "unspecified": 28247,
-      "total": 30877
+      "unspecified": 28243,
+      "total": 30873
     }
   ],
   "gender": {
-    "female": 25801,
-    "male": 44043,
-    "unspecified": 28907,
+    "female": 25803,
+    "male": 44045,
+    "unspecified": 28903,
     "total": 99266
   },
   "underObservation": {
