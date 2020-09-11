@@ -1216,7 +1216,7 @@
       "name": "Alappuzha"
     },
     {
-      "confirmed": 6815,
+      "confirmed": 6916,
       "deaths": 35,
       "confirmedByCity": {
         "Kasaragod": 5239,
@@ -1448,10 +1448,10 @@
         166,
         270,
         140,
-        1
+        102
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 1,
+      "newlyConfirmed": 102,
       "recovered": 4507,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -2674,7 +2674,7 @@
       "name": "Kannur"
     },
     {
-      "confirmed": 4503,
+      "confirmed": 4596,
       "deaths": 3,
       "confirmedByCity": {
         "Pathanamthitta": 3887,
@@ -2909,10 +2909,10 @@
         160,
         190,
         135,
-        0
+        93
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 93,
       "recovered": 3267,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
@@ -7109,7 +7109,7 @@
       "confirmedCumulativeAvg7d": 90186
     },
     {
-      "confirmed": 2714,
+      "confirmed": 2908,
       "recoveredCumulative": 72574,
       "deceasedCumulative": 396,
       "criticalCumulative": 340,
@@ -7119,11 +7119,11 @@
       "hosptilisedCumulative": 20248,
       "activeCumulative": 26229,
       "date": "2020-09-11",
-      "confirmedCumulative": 101980,
-      "confirmedAvg3d": 3155,
-      "confirmedCumulativeAvg3d": 98998,
-      "confirmedAvg7d": 2839,
-      "confirmedCumulativeAvg7d": 93025
+      "confirmedCumulative": 102174,
+      "confirmedAvg3d": 3219,
+      "confirmedCumulativeAvg3d": 99062,
+      "confirmedAvg7d": 2867,
+      "confirmedCumulativeAvg7d": 93053
     }
   ],
   "age": [
