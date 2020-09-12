@@ -1956,7 +1956,7 @@
       "confirmed": 6075,
       "deaths": 5,
       "confirmedByCity": {
-        "Palakkad": 4588,
+        "Palakkad": 4618,
         "Ernakulam": 2,
         "Malappuram": 1,
         "Idukki": 2
@@ -7166,52 +7166,52 @@
   "age": [
     {
       "ageGroup": "<10",
-      "female": 2306,
-      "male": 2484,
+      "female": 2307,
+      "male": 2487,
       "unspecified": 136,
-      "total": 5047
+      "total": 5051
     },
     {
       "ageGroup": "10-19",
       "female": 2799,
-      "male": 3917,
+      "male": 3919,
       "unspecified": 87,
-      "total": 6890
+      "total": 6892
     },
     {
       "ageGroup": "20-29",
-      "female": 5594,
-      "male": 10463,
+      "female": 5598,
+      "male": 10466,
       "unspecified": 112,
-      "total": 16256
+      "total": 16263
     },
     {
       "ageGroup": "30-39",
-      "female": 4815,
-      "male": 9869,
+      "female": 4817,
+      "male": 9875,
       "unspecified": 68,
-      "total": 14833
+      "total": 14841
     },
     {
       "ageGroup": "40-49",
-      "female": 4429,
-      "male": 7624,
+      "female": 4430,
+      "male": 7626,
       "unspecified": 60,
-      "total": 12187
+      "total": 12190
     },
     {
       "ageGroup": "50-59",
-      "female": 3521,
-      "male": 5554,
+      "female": 3523,
+      "male": 5556,
       "unspecified": 59,
-      "total": 9189
+      "total": 9193
     },
     {
       "ageGroup": "60-69",
-      "female": 1997,
-      "male": 2786,
+      "female": 1998,
+      "male": 2787,
       "unspecified": 38,
-      "total": 4844
+      "total": 4846
     },
     {
       "ageGroup": "70-79",
@@ -7238,14 +7238,14 @@
       "ageGroup": "Unspecified",
       "female": 585,
       "male": 2105,
-      "unspecified": 30439,
-      "total": 33134
+      "unspecified": 30409,
+      "total": 33104
     }
   ],
   "gender": {
-    "female": 27229,
-    "male": 46073,
-    "unspecified": 31126,
+    "female": 27240,
+    "male": 46092,
+    "unspecified": 31096,
     "total": 105139
   },
   "underObservation": {
