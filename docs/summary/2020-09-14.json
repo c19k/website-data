@@ -248,7 +248,7 @@
       "name": "Thiruvananthapuram"
     },
     {
-      "confirmed": 12736,
+      "confirmed": 12737,
       "deaths": 35,
       "confirmedByCity": {
         "Malappuram": 11495,
@@ -484,10 +484,10 @@
         390,
         310,
         378,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 9533,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -7212,7 +7212,7 @@
       "confirmedCumulativeAvg7d": 98894
     },
     {
-      "confirmed": 0,
+      "confirmed": 1,
       "recoveredCumulative": 77699,
       "deceasedCumulative": 439,
       "criticalCumulative": 319,
@@ -7222,7 +7222,7 @@
       "hosptilisedCumulative": 22639,
       "activeCumulative": 30075,
       "date": "2020-09-14",
-      "confirmedCumulative": 108278,
+      "confirmedCumulative": 108279,
       "confirmedAvg3d": 2008,
       "confirmedCumulativeAvg3d": 107175,
       "confirmedAvg7d": 2684,
