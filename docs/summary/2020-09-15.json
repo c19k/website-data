@@ -249,7 +249,7 @@
       "name": "Thiruvananthapuram"
     },
     {
-      "confirmed": 13218,
+      "confirmed": 13566,
       "deaths": 38,
       "confirmedByCity": {
         "Malappuram": 11495,
@@ -486,10 +486,10 @@
         310,
         378,
         482,
-        0
+        348
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 348,
       "recovered": 9996,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
@@ -743,7 +743,7 @@
       "name": "Ernakulam"
     },
     {
-      "confirmed": 9009,
+      "confirmed": 9269,
       "deaths": 43,
       "confirmedByCity": {
         "Kozhikode": 5128,
@@ -980,10 +980,10 @@
         286,
         399,
         382,
-        0
+        260
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 260,
       "recovered": 6264,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -991,7 +991,7 @@
       "name": "Kozhikode"
     },
     {
-      "confirmed": 8130,
+      "confirmed": 8468,
       "deaths": 19,
       "confirmedByCity": {
         "Alappuzha": 7671
@@ -1225,10 +1225,10 @@
         163,
         352,
         107,
-        0
+        338
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 338,
       "recovered": 5958,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
@@ -1483,7 +1483,7 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 6964,
+      "confirmed": 6962,
       "deaths": 31,
       "confirmedByCity": {
         "Kollam": 5897,
@@ -1720,10 +1720,10 @@
         165,
         205,
         142,
-        2
+        0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 2,
+      "newlyConfirmed": 0,
       "recovered": 4719,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
@@ -7246,7 +7246,7 @@
       "confirmedCumulativeAvg7d": 101941
     },
     {
-      "confirmed": 658,
+      "confirmed": 1602,
       "recoveredCumulative": 79809,
       "deceasedCumulative": 454,
       "criticalCumulative": 326,
@@ -7259,11 +7259,11 @@
       "contactCases": 0,
       "status": "",
       "date": "2020-09-15",
-      "confirmedCumulative": 111476,
-      "confirmedAvg3d": 2112,
-      "confirmedCumulativeAvg3d": 110133,
-      "confirmedAvg7d": 2708,
-      "confirmedCumulativeAvg7d": 104649
+      "confirmedCumulative": 112420,
+      "confirmedAvg3d": 2427,
+      "confirmedCumulativeAvg3d": 110448,
+      "confirmedAvg7d": 2843,
+      "confirmedCumulativeAvg7d": 104784
     }
   ],
   "age": [
