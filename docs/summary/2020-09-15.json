@@ -2,7 +2,7 @@
   "updated": "2020-09-15 16:32",
   "prefectures": [
     {
-      "confirmed": 21622,
+      "confirmed": 22278,
       "deaths": 151,
       "confirmedByCity": {
         "Thiruvananthapuram": 19810,
@@ -238,10 +238,10 @@
         566,
         412,
         332,
-        0
+        656
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 656,
       "recovered": 16413,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -1483,7 +1483,7 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 6962,
+      "confirmed": 6964,
       "deaths": 31,
       "confirmedByCity": {
         "Kollam": 5897,
@@ -1720,10 +1720,10 @@
         165,
         205,
         142,
-        0
+        2
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 2,
       "recovered": 4719,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
@@ -7229,12 +7229,12 @@
       "confirmed": 2540,
       "recoveredCumulative": 79809,
       "deceasedCumulative": 454,
-      "criticalCumulative": 319,
+      "criticalCumulative": 326,
       "testedCumulative": 2152585,
       "observationCumulative": 205158,
       "homeObservationCumulative": 182241,
       "hosptilisedCumulative": 22917,
-      "activeCumulative": 30490,
+      "activeCumulative": 30489,
       "importedCases": 194,
       "contactCases": 2346,
       "status": "Finalised",
@@ -7246,21 +7246,24 @@
       "confirmedCumulativeAvg7d": 101941
     },
     {
-      "confirmed": 0,
+      "confirmed": 658,
       "recoveredCumulative": 79809,
       "deceasedCumulative": 454,
-      "criticalCumulative": 319,
+      "criticalCumulative": 326,
       "testedCumulative": 2152585,
       "observationCumulative": 205158,
       "homeObservationCumulative": 182241,
       "hosptilisedCumulative": 22917,
-      "activeCumulative": 30490,
+      "activeCumulative": 30489,
+      "importedCases": 0,
+      "contactCases": 0,
+      "status": "",
       "date": "2020-09-15",
-      "confirmedCumulative": 110818,
-      "confirmedAvg3d": 1893,
-      "confirmedCumulativeAvg3d": 109914,
-      "confirmedAvg7d": 2614,
-      "confirmedCumulativeAvg7d": 104555
+      "confirmedCumulative": 111476,
+      "confirmedAvg3d": 2112,
+      "confirmedCumulativeAvg3d": 110133,
+      "confirmedAvg7d": 2708,
+      "confirmedCumulativeAvg7d": 104649
     }
   ],
   "age": [
@@ -7346,7 +7349,7 @@
     "female": 28049,
     "male": 47372,
     "unspecified": 28970,
-    "total": 110818
+    "total": 114033
   },
   "underObservation": {
     "2020-01-31": {
