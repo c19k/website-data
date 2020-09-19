@@ -7383,14 +7383,17 @@
     },
     {
       "confirmed": 0,
-      "recoveredCumulative": 90085,
-      "deceasedCumulative": 501,
+      "recoveredCumulative": 92947,
+      "deceasedCumulative": 519,
       "criticalCumulative": 368,
-      "testedCumulative": 2336217,
-      "observationCumulative": 216262,
-      "homeObservationCumulative": 191628,
-      "hosptilisedCumulative": 24634,
-      "activeCumulative": 35724,
+      "testedCumulative": 2384611,
+      "observationCumulative": 217695,
+      "homeObservationCumulative": 192534,
+      "hosptilisedCumulative": 25161,
+      "activeCumulative": 32845,
+      "importedCases": -3780,
+      "contactCases": 3781,
+      "status": "Finalised",
       "date": "2020-09-19",
       "confirmedCumulative": 126381,
       "confirmedAvg3d": 2839,
@@ -7474,15 +7477,15 @@
       "ageGroup": "Unspecified",
       "female": 595,
       "male": 2131,
-      "unspecified": 34538,
-      "total": 37269
+      "unspecified": 34539,
+      "total": 37270
     }
   ],
   "gender": {
     "female": 29124,
     "male": 48629,
-    "unspecified": 35382,
-    "total": 126381
+    "unspecified": 35383,
+    "total": 131025
   },
   "underObservation": {
     "2020-01-31": {
