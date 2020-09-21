@@ -2,7 +2,7 @@
   "updated": "2020-09-19 19:04",
   "prefectures": [
     {
-      "confirmed": 26416,
+      "confirmed": 26415,
       "deaths": 164,
       "confirmedByCity": {
         "Thiruvananthapuram": 19810,
@@ -243,7 +243,7 @@
         820,
         926,
         824,
-        893,
+        892,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -2025,7 +2025,7 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 7985,
+      "confirmed": 7986,
       "deaths": 19,
       "confirmedByCity": {
         "Palakkad": 6668,
@@ -2268,7 +2268,7 @@
         242,
         268,
         349,
-        288,
+        289,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -2532,7 +2532,7 @@
       "name": "Kannur"
     },
     {
-      "confirmed": 7665,
+      "confirmed": 7664,
       "deaths": 3,
       "confirmedByCity": {
         "Kottayam": 5341,
@@ -2773,7 +2773,7 @@
         204,
         225,
         263,
-        275,
+        274,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -2785,7 +2785,7 @@
       "name": "Kottayam"
     },
     {
-      "confirmed": 5642,
+      "confirmed": 5833,
       "deaths": 3,
       "confirmedByCity": {
         "Pathanamthitta": 4182,
@@ -3029,7 +3029,7 @@
         136,
         101,
         221,
-        0,
+        191,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -3041,7 +3041,7 @@
       "name": "Pathanamthitta"
     },
     {
-      "confirmed": 2685,
+      "confirmed": 2761,
       "deaths": 3,
       "confirmedByCity": {
         "Munnar": 1,
@@ -3283,7 +3283,7 @@
         103,
         100,
         47,
-        0,
+        76,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -3295,7 +3295,7 @@
       "name": "Idukki"
     },
     {
-      "confirmed": 2520,
+      "confirmed": 2617,
       "deaths": 5,
       "confirmedByCity": {
         "Manathawady": 1,
@@ -3536,7 +3536,7 @@
         107,
         68,
         95,
-        0,
+        97,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -7430,7 +7430,7 @@
       "confirmedCumulativeAvg7d": 118572
     },
     {
-      "confirmed": 4333,
+      "confirmed": 4696,
       "recoveredCumulative": 92947,
       "deceasedCumulative": 519,
       "criticalCumulative": 368,
@@ -7440,11 +7440,11 @@
       "hosptilisedCumulative": 25161,
       "activeCumulative": 37488,
       "date": "2020-09-20",
-      "confirmedCumulative": 135358,
-      "confirmedAvg3d": 4381,
-      "confirmedCumulativeAvg3d": 130862,
-      "confirmedAvg7d": 3868,
-      "confirmedCumulativeAvg7d": 122440
+      "confirmedCumulative": 135721,
+      "confirmedAvg3d": 4502,
+      "confirmedCumulativeAvg3d": 130983,
+      "confirmedAvg7d": 3920,
+      "confirmedCumulativeAvg7d": 122492
     },
     {
       "confirmed": 0,
@@ -7457,11 +7457,11 @@
       "hosptilisedCumulative": 25161,
       "activeCumulative": 37488,
       "date": "2020-09-21",
-      "confirmedCumulative": 135358,
-      "confirmedAvg3d": 2992,
-      "confirmedCumulativeAvg3d": 133854,
-      "confirmedAvg7d": 3505,
-      "confirmedCumulativeAvg7d": 125945
+      "confirmedCumulative": 135721,
+      "confirmedAvg3d": 3113,
+      "confirmedCumulativeAvg3d": 134096,
+      "confirmedAvg7d": 3557,
+      "confirmedCumulativeAvg7d": 126049
     }
   ],
   "age": [
