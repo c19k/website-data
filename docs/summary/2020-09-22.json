@@ -1,9 +1,9 @@
 {
-  "updated": "2020-09-22 16:43",
+  "updated": "2020-09-22 20:37",
   "prefectures": [
     {
       "confirmed": 27629,
-      "deaths": 175,
+      "deaths": 186,
       "confirmedByCity": {
         "Thiruvananthapuram": 24691,
         "Thiruvanathapuram": 1,
@@ -1527,7 +1527,7 @@
     },
     {
       "confirmed": 9232,
-      "deaths": 38,
+      "deaths": 39,
       "confirmedByCity": {
         "Thrissur": 6264,
         "Ernakulam": 3
@@ -1772,7 +1772,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 369,
-      "recovered": 5918,
+      "recovered": 6158,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -3555,7 +3555,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 81,
-      "recovered": 1974,
+      "recovered": 2035,
       "name_ja": "വയനാട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -7485,17 +7485,17 @@
     },
     {
       "confirmed": 4125,
-      "recoveredCumulative": 98724,
-      "deceasedCumulative": 553,
-      "criticalCumulative": 407,
-      "testedCumulative": 2450599,
-      "observationCumulative": 218907,
-      "homeObservationCumulative": 193129,
-      "hosptilisedCumulative": 25778,
-      "activeCumulative": 39285,
-      "importedCases": 0,
-      "contactCases": 0,
-      "status": "",
+      "recoveredCumulative": 101731,
+      "deceasedCumulative": 572,
+      "criticalCumulative": 451,
+      "testedCumulative": 2492757,
+      "observationCumulative": 220270,
+      "homeObservationCumulative": 194488,
+      "hosptilisedCumulative": 25782,
+      "activeCumulative": 40385,
+      "importedCases": 155,
+      "contactCases": 3558,
+      "status": "Finalised",
       "date": "2020-09-22",
       "confirmedCumulative": 142756,
       "confirmedAvg3d": 3910,
