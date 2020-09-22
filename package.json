@@ -6,7 +6,7 @@
   "dependencies": {
     "drive-db": "^6.0.0",
     "lodash": "^4.17.20",
-    "moment": "^2.27.0",
+    "moment": "^2.29.0",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {},
