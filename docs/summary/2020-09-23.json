@@ -1,5 +1,5 @@
 {
-  "updated": "2020-09-22 20:37",
+  "updated": "2020-09-23 19:26",
   "prefectures": [
     {
       "confirmed": 28481,
@@ -1786,7 +1786,7 @@
       "name": "Thrissur"
     },
     {
-      "confirmed": 8845,
+      "confirmed": 8843,
       "deaths": 41,
       "confirmedByCity": {
         "Kasaragod": 5372,
@@ -2030,10 +2030,10 @@
         208,
         110,
         197,
-        138
+        136
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 138,
+      "newlyConfirmed": 136,
       "recovered": 6809,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
@@ -2041,7 +2041,7 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 8734,
+      "confirmed": 8736,
       "deaths": 40,
       "confirmedByCity": {
         "Ernakulam": 3,
@@ -2284,10 +2284,10 @@
         242,
         314,
         143,
-        363
+        365
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 363,
+      "newlyConfirmed": 365,
       "recovered": 5417,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
