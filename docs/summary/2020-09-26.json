@@ -3364,7 +3364,7 @@
       "deaths": 5,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 1932,
+        "Wayanad": 1933,
         "Kozhikode": 1
       },
       "dailyConfirmedCount": [
@@ -7629,6 +7629,9 @@
       "homeObservationCumulative": 188265,
       "hosptilisedCumulative": 27426,
       "activeCumulative": 48892,
+      "importedCases": 0,
+      "contactCases": 0,
+      "status": "",
       "date": "2020-09-26",
       "confirmedCumulative": 160933,
       "confirmedAvg3d": 4267,
