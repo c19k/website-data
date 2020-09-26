@@ -2,7 +2,7 @@
   "updated": "2020-09-24 19:19",
   "prefectures": [
     {
-      "confirmed": 29356,
+      "confirmed": 30170,
       "deaths": 200,
       "confirmedByCity": {
         "Thiruvananthapuram": 24691,
@@ -248,7 +248,7 @@
         681,
         852,
         875,
-        0,
+        814,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -260,7 +260,7 @@
       "name": "Thiruvananthapuram"
     },
     {
-      "confirmed": 17597,
+      "confirmed": 18381,
       "deaths": 60,
       "confirmedByCity": {
         "Malappuram": 14883,
@@ -507,7 +507,7 @@
         444,
         512,
         763,
-        0,
+        784,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -519,7 +519,7 @@
       "name": "Malappuram"
     },
     {
-      "confirmed": 13790,
+      "confirmed": 14480,
       "deaths": 60,
       "confirmedByCity": {
         "Kozhikode": 5128,
@@ -766,7 +766,7 @@
         394,
         504,
         883,
-        0,
+        690,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -778,7 +778,7 @@
       "name": "Kozhikode"
     },
     {
-      "confirmed": 13474,
+      "confirmed": 13475,
       "deaths": 56,
       "confirmedByCity": {
         "Ernakulam": 11850,
@@ -1023,7 +1023,7 @@
         406,
         624,
         590,
-        0,
+        1,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -7600,6 +7600,23 @@
       "confirmedCumulativeAvg7d": 139498
     },
     {
+      "confirmed": 2289,
+      "recoveredCumulative": 107850,
+      "deceasedCumulative": 613,
+      "criticalCumulative": 467,
+      "testedCumulative": 2600359,
+      "observationCumulative": 212318,
+      "homeObservationCumulative": 185198,
+      "hosptilisedCumulative": 27120,
+      "activeCumulative": 45922,
+      "date": "2020-09-25",
+      "confirmedCumulative": 156745,
+      "confirmedAvg3d": 4663,
+      "confirmedCumulativeAvg3d": 153051,
+      "confirmedAvg7d": 4337,
+      "confirmedCumulativeAvg7d": 143835
+    },
+    {
       "confirmed": 0,
       "recoveredCumulative": 107850,
       "deceasedCumulative": 613,
@@ -7610,11 +7627,11 @@
       "hosptilisedCumulative": 27120,
       "activeCumulative": 45922,
       "date": "2020-09-26",
-      "confirmedCumulative": 154456,
-      "confirmedAvg3d": 3900,
-      "confirmedCumulativeAvg3d": 152288,
-      "confirmedAvg7d": 4010,
-      "confirmedCumulativeAvg7d": 143508
+      "confirmedCumulative": 156745,
+      "confirmedAvg3d": 2871,
+      "confirmedCumulativeAvg3d": 155922,
+      "confirmedAvg7d": 3674,
+      "confirmedCumulativeAvg7d": 147509
     }
   ],
   "age": [
@@ -7692,15 +7709,15 @@
       "ageGroup": "Unspecified",
       "female": 1489,
       "male": 3014,
-      "unspecified": 57533,
-      "total": 62041
+      "unspecified": 64010,
+      "total": 68518
     }
   ],
   "gender": {
     "female": 32998,
     "male": 53651,
-    "unspecified": 58438,
-    "total": 154456
+    "unspecified": 64915,
+    "total": 160933
   },
   "underObservation": {
     "2020-01-31": {
