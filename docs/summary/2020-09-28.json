@@ -2,10 +2,10 @@
   "updated": "2020-09-27 18:55",
   "prefectures": [
     {
-      "confirmed": 32073,
+      "confirmed": 32074,
       "deaths": 208,
       "confirmedByCity": {
-        "Thiruvananthapuram": 26594,
+        "Thiruvananthapuram": 26595,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -251,10 +251,10 @@
         814,
         1050,
         853,
-        0
+        1
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 1,
       "recovered": 21565,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
@@ -523,10 +523,10 @@
       "name": "Malappuram"
     },
     {
-      "confirmed": 16120,
+      "confirmed": 17038,
       "deaths": 61,
       "confirmedByCity": {
-        "Kozhikode": 6768,
+        "Kozhikode": 7686,
         "Chennai": 1,
         "Ernakulam": 2,
         "Malappuram": 2
@@ -773,10 +773,10 @@
         690,
         684,
         956,
-        0
+        918
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 918,
       "recovered": 10102,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -784,10 +784,10 @@
       "name": "Kozhikode"
     },
     {
-      "confirmed": 15782,
+      "confirmed": 16319,
       "deaths": 59,
       "confirmedByCity": {
-        "Ernakulam": 13503,
+        "Ernakulam": 14040,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -1032,10 +1032,10 @@
         655,
         729,
         924,
-        0
+        537
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 537,
       "recovered": 9493,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
@@ -7688,7 +7688,7 @@
       "confirmedCumulativeAvg7d": 155373
     },
     {
-      "confirmed": 0,
+      "confirmed": 1456,
       "recoveredCumulative": 117921,
       "deceasedCumulative": 677,
       "criticalCumulative": 471,
@@ -7698,11 +7698,11 @@
       "hosptilisedCumulative": 28770,
       "activeCumulative": 56709,
       "date": "2020-09-28",
-      "confirmedCumulative": 175384,
-      "confirmedAvg3d": 4817,
-      "confirmedCumulativeAvg3d": 172842,
-      "confirmedAvg7d": 5250,
-      "confirmedCumulativeAvg7d": 160623
+      "confirmedCumulative": 176840,
+      "confirmedAvg3d": 5302,
+      "confirmedCumulativeAvg3d": 173327,
+      "confirmedAvg7d": 5458,
+      "confirmedCumulativeAvg7d": 160831
     }
   ],
   "age": [
