@@ -1,5 +1,5 @@
 {
-  "updated": "2020-10-07 16:21",
+  "updated": "2020-10-07 16:45",
   "prefectures": [
     {
       "confirmed": 36433,
@@ -7995,17 +7995,17 @@
     },
     {
       "confirmed": 0,
-      "recoveredCumulative": 154092,
-      "deceasedCumulative": 884,
+      "recoveredCumulative": 160253,
+      "deceasedCumulative": 906,
       "criticalCumulative": 728,
-      "testedCumulative": 3263691,
-      "observationCumulative": 263094,
-      "homeObservationCumulative": 233703,
-      "hosptilisedCumulative": 29391,
-      "activeCumulative": 87741,
+      "testedCumulative": 3340242,
+      "observationCumulative": 267834,
+      "homeObservationCumulative": 238331,
+      "hosptilisedCumulative": 29503,
+      "activeCumulative": 92164,
       "importedCases": 0,
       "contactCases": 0,
-      "status": "",
+      "status": "Finalised",
       "date": "2020-10-07",
       "confirmedCumulative": 213499,
       "confirmedAvg3d": 0,
