@@ -1,4 +1,4 @@
-const SUMMARY_SHEET = '18xxgKp11JEdkNS5xEz70GqtI4SlMmiWUuOOJuhGvN9k';
+const SUMMARY_SHEET = '1NwMTkm94bYJXOW2ruGTCZcOrViyTma9KTWoQmoQYcGo';
 const SHEET_PREFECTURE_TAB = 2
 const SHEET_SUM_BY_DAY_TAB = 3
 const SHEET_LAST_UPDATED_TAB = 4
@@ -8,7 +8,7 @@ const SHEET_UNDER_OBSERVATION_TAB = 8;
 
 const PATIENT_SHEETS = [
     {
-        label : 'consolidated snapshot from Oct 1 2020',
+        label : 'Patients data from Oct 1 2020 and All aggregate info',
         sheetId : '1NwMTkm94bYJXOW2ruGTCZcOrViyTma9KTWoQmoQYcGo',
         tab : 1
     },
