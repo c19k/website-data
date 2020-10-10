@@ -1,9 +1,12 @@
 const drive = require('drive-db')
 const fs = require('fs')
 const _ = require('lodash')
+const CONSTANTS = require('./constants');
 
-const SHEET = '19U_Y8jAIwEp7csYHhkm745b33kcfdrKROh4DeQkcaTI'
-const SHEET_LAST_UPDATED_TAB = 4
+const SHEET = CONSTANTS.SUMMARY_SHEET;
+const SHEET_LAST_UPDATED_TAB = CONSTANTS.SHEET_LAST_UPDATED_TAB;
+
+
 
 
 async function fetchLastUpdated() {

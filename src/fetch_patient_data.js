@@ -1,5 +1,6 @@
 const drive = require('drive-db')
 const _ = require('lodash')
+const CONSTANTS = require('./constants');
 
 const SHEET = '19U_Y8jAIwEp7csYHhkm745b33kcfdrKROh4DeQkcaTI'
 const SHEET_PATIENT_DATA_TAB = 1
@@ -78,10 +79,20 @@ const postProcessData = (rawData) => {
   const rows = _.filter(_.map(rawData, transformRow), isValidRow)
   return rows
 }
-
-
 async function fetchPatientData() {
-  return drive({sheet: SHEET, tab: SHEET_PATIENT_DATA_TAB})
+  const patientSheets = CONSTANTS.PATIENT_SHEETS;
+  let patients = [];
+  for(let i=0; i<patientSheets.length; i++){
+    let sheet = patientSheets[i];
+    let currentSheetPatients = await fetchPatientDataFromSheet(sheet.sheetId, sheet.tab);
+    patients = [...patients, ...currentSheetPatients];
+  }
+  return patients;
+}
+
+
+async function fetchPatientDataFromSheet(sheetId, tab) {
+  return drive({sheet: sheetId, tab: tab})
     .then(db => {
       return postProcessData(db)
     })

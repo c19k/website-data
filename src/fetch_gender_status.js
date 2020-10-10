@@ -1,9 +1,11 @@
 const drive = require('drive-db')
 const fs = require('fs')
 const _ = require('lodash')
+const CONSTANTS = require('./constants');
 
-const SHEET = '19U_Y8jAIwEp7csYHhkm745b33kcfdrKROh4DeQkcaTI'
-const SHEET_AGE_TAB = 6
+const SHEET = CONSTANTS.SUMMARY_SHEET;
+const SHEET_GENDER_TAB = CONSTANTS.SHEET_GENDER_TAB;
+
 
 // Helper method to do parseInt safely (reverts to 0 if unparse)
 const safeParseInt = v => {
@@ -15,7 +17,7 @@ const safeParseInt = v => {
 }
 
 async function fetchGenderStatus() {
-  return drive({sheet: SHEET, tab: SHEET_AGE_TAB})
+  return drive({sheet: SHEET, tab: SHEET_GENDER_TAB})
     .then(db => {
       if (db && db.length > 0) {
       	genderStatus = {}
