@@ -2,10 +2,10 @@
   "updated": "2020-10-08 16:45",
   "prefectures": [
     {
-      "confirmed": 38386,
+      "confirmed": 38387,
       "deaths": 266,
       "confirmedByCity": {
-        "Thiruvananthapuram": 38378,
+        "Thiruvananthapuram": 38379,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -256,7 +256,7 @@
         986,
         1714,
         2192,
-        0,
+        1,
         0,
         0,
         0,
@@ -7956,7 +7956,7 @@
       "confirmedCumulativeAvg7d": 192752
     },
     {
-      "confirmed": 0,
+      "confirmed": 1,
       "recoveredCumulative": 139620,
       "deceasedCumulative": 813,
       "criticalCumulative": 695,
@@ -7969,7 +7969,7 @@
       "contactCases": 6950,
       "status": "Finalised",
       "date": "2020-10-03",
-      "confirmedCumulative": 230892,
+      "confirmedCumulative": 230893,
       "confirmedAvg3d": 11595,
       "confirmedCumulativeAvg3d": 224657,
       "confirmedAvg7d": 8993,
@@ -7989,7 +7989,7 @@
       "contactCases": 7626,
       "status": "Finalised",
       "date": "2020-10-04",
-      "confirmedCumulative": 230892,
+      "confirmedCumulative": 230893,
       "confirmedAvg3d": 6172,
       "confirmedCumulativeAvg3d": 230829,
       "confirmedAvg7d": 7929,
@@ -8009,7 +8009,7 @@
       "contactCases": 4461,
       "status": "Finalised",
       "date": "2020-10-05",
-      "confirmedCumulative": 230892,
+      "confirmedCumulative": 230893,
       "confirmedAvg3d": 0,
       "confirmedCumulativeAvg3d": 230829,
       "confirmedAvg7d": 7281,
@@ -8029,11 +8029,11 @@
       "contactCases": 7031,
       "status": "Finalised",
       "date": "2020-10-06",
-      "confirmedCumulative": 230892,
+      "confirmedCumulative": 230893,
       "confirmedAvg3d": 0,
       "confirmedCumulativeAvg3d": 230829,
-      "confirmedAvg7d": 6230,
-      "confirmedCumulativeAvg7d": 223185
+      "confirmedAvg7d": 6231,
+      "confirmedCumulativeAvg7d": 223186
     },
     {
       "confirmed": 0,
@@ -8049,11 +8049,11 @@
       "contactCases": 0,
       "status": "Finalised",
       "date": "2020-10-07",
-      "confirmedCumulative": 230892,
+      "confirmedCumulative": 230893,
       "confirmedAvg3d": 0,
       "confirmedCumulativeAvg3d": 230829,
       "confirmedAvg7d": 4969,
-      "confirmedCumulativeAvg7d": 228154
+      "confirmedCumulativeAvg7d": 228155
     },
     {
       "confirmed": 0,
@@ -8066,11 +8066,11 @@
       "hosptilisedCumulative": 29503,
       "activeCumulative": 92164,
       "date": "2020-10-10",
-      "confirmedCumulative": 230892,
+      "confirmedCumulative": 230893,
       "confirmedAvg3d": 0,
       "confirmedCumulativeAvg3d": 230829,
       "confirmedAvg7d": 2645,
-      "confirmedCumulativeAvg7d": 230799
+      "confirmedCumulativeAvg7d": 230800
     }
   ],
   "age": [
