@@ -2,10 +2,10 @@
   "updated": "2020-10-08 16:45",
   "prefectures": [
     {
-      "confirmed": 38387,
+      "confirmed": 39435,
       "deaths": 266,
       "confirmedByCity": {
-        "Thiruvananthapuram": 38379,
+        "Thiruvananthapuram": 39427,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -256,7 +256,7 @@
         986,
         1714,
         2192,
-        1,
+        1049,
         0,
         0,
         0,
@@ -274,10 +274,10 @@
       "name": "Thiruvananthapuram"
     },
     {
-      "confirmed": 26512,
+      "confirmed": 27485,
       "deaths": 85,
       "confirmedByCity": {
-        "Malappuram": 26349,
+        "Malappuram": 27322,
         "Palakkad": 1,
         "Kozhikode": 9,
         "Ernakulam": 4
@@ -529,7 +529,7 @@
         977,
         1936,
         2032,
-        0,
+        973,
         0,
         0,
         0,
@@ -547,10 +547,10 @@
       "name": "Malappuram"
     },
     {
-      "confirmed": 23253,
+      "confirmed": 24194,
       "deaths": 76,
       "confirmedByCity": {
-        "Kozhikode": 17696,
+        "Kozhikode": 18637,
         "Chennai": 1,
         "Ernakulam": 2,
         "Malappuram": 2
@@ -802,7 +802,7 @@
         942,
         2144,
         2292,
-        0,
+        941,
         0,
         0,
         0,
@@ -820,10 +820,10 @@
       "name": "Kozhikode"
     },
     {
-      "confirmed": 22184,
+      "confirmed": 23109,
       "deaths": 79,
       "confirmedByCity": {
-        "Ernakulam": 22180,
+        "Ernakulam": 23105,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -1073,7 +1073,7 @@
         1056,
         1866,
         2084,
-        0,
+        925,
         0,
         0,
         0,
@@ -1091,10 +1091,10 @@
       "name": "Ernakulam"
     },
     {
-      "confirmed": 17079,
+      "confirmed": 17712,
       "deaths": 53,
       "confirmedByCity": {
-        "Alappuzha": 17079
+        "Alappuzha": 17712
       },
       "dailyConfirmedCount": [
         0,
@@ -1343,7 +1343,7 @@
         679,
         1608,
         1210,
-        0,
+        633,
         0,
         0,
         0,
@@ -1361,10 +1361,10 @@
       "name": "Alappuzha"
     },
     {
-      "confirmed": 16953,
+      "confirmed": 17487,
       "deaths": 67,
       "confirmedByCity": {
-        "Kollam": 14781,
+        "Kollam": 15315,
         "Unspecified": 4,
         "Ernakulam": 1,
         "Malappuram": 1
@@ -1616,7 +1616,7 @@
         812,
         1266,
         1784,
-        0,
+        534,
         0,
         0,
         0,
@@ -1634,10 +1634,10 @@
       "name": "Kollam"
     },
     {
-      "confirmed": 16481,
+      "confirmed": 17259,
       "deaths": 59,
       "confirmedByCity": {
-        "Thrissur": 14738,
+        "Thrissur": 15516,
         "Ernakulam": 3
       },
       "dailyConfirmedCount": [
@@ -1887,7 +1887,7 @@
         808,
         1226,
         1624,
-        0,
+        778,
         0,
         0,
         0,
@@ -1905,10 +1905,10 @@
       "name": "Thrissur"
     },
     {
-      "confirmed": 14158,
+      "confirmed": 14654,
       "deaths": 39,
       "confirmedByCity": {
-        "Palakkad": 13746,
+        "Palakkad": 14242,
         "Ernakulam": 2,
         "Malappuram": 1,
         "Idukki": 2,
@@ -2161,7 +2161,7 @@
         631,
         1026,
         1266,
-        0,
+        496,
         0,
         0,
         0,
@@ -2179,11 +2179,11 @@
       "name": "Palakkad"
     },
     {
-      "confirmed": 13709,
+      "confirmed": 14132,
       "deaths": 59,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 11627
+        "Kannur": 12050
       },
       "dailyConfirmedCount": [
         0,
@@ -2432,7 +2432,7 @@
         519,
         870,
         1250,
-        0,
+        423,
         0,
         0,
         0,
@@ -2450,10 +2450,10 @@
       "name": "Kannur"
     },
     {
-      "confirmed": 12676,
+      "confirmed": 12933,
       "deaths": 58,
       "confirmedByCity": {
-        "Kasaragod": 10192,
+        "Kasaragod": 10449,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -2704,7 +2704,7 @@
         321,
         942,
         952,
-        0,
+        257,
         0,
         0,
         0,
@@ -2722,10 +2722,10 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 12264,
+      "confirmed": 12606,
       "deaths": 28,
       "confirmedByCity": {
-        "Kottayam": 10703,
+        "Kottayam": 11045,
         "Ernakulam": 1,
         "Idukki": 1
       },
@@ -2976,7 +2976,7 @@
         442,
         680,
         864,
-        0,
+        342,
         0,
         0,
         0,
@@ -2994,10 +2994,10 @@
       "name": "Kottayam"
     },
     {
-      "confirmed": 8778,
+      "confirmed": 9074,
       "deaths": 6,
       "confirmedByCity": {
-        "Pathanamthitta": 7640,
+        "Pathanamthitta": 7936,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2,
@@ -3251,7 +3251,7 @@
         286,
         446,
         478,
-        0,
+        296,
         0,
         0,
         0,
@@ -3269,11 +3269,11 @@
       "name": "Pathanamthitta"
     },
     {
-      "confirmed": 4313,
+      "confirmed": 4419,
       "deaths": 4,
       "confirmedByCity": {
         "Munnar": 1,
-        "Idukki": 3915,
+        "Idukki": 4021,
         "Unspecified": 4,
         "Kottayam": 1
       },
@@ -3524,7 +3524,7 @@
         157,
         260,
         272,
-        0,
+        106,
         0,
         0,
         0,
@@ -3542,11 +3542,11 @@
       "name": "Idukki"
     },
     {
-      "confirmed": 4146,
+      "confirmed": 4227,
       "deaths": 5,
       "confirmedByCity": {
         "Manathawady": 1,
-        "Wayanad": 3721,
+        "Wayanad": 3802,
         "Kozhikode": 1
       },
       "dailyConfirmedCount": [
@@ -3796,7 +3796,7 @@
         214,
         286,
         216,
-        0,
+        81,
         0,
         0,
         0,
@@ -7956,7 +7956,7 @@
       "confirmedCumulativeAvg7d": 192752
     },
     {
-      "confirmed": 1,
+      "confirmed": 7834,
       "recoveredCumulative": 139620,
       "deceasedCumulative": 813,
       "criticalCumulative": 695,
@@ -7969,11 +7969,11 @@
       "contactCases": 6950,
       "status": "Finalised",
       "date": "2020-10-03",
-      "confirmedCumulative": 230893,
-      "confirmedAvg3d": 11595,
-      "confirmedCumulativeAvg3d": 224657,
-      "confirmedAvg7d": 8993,
-      "confirmedCumulativeAvg7d": 201745
+      "confirmedCumulative": 238726,
+      "confirmedAvg3d": 14206,
+      "confirmedCumulativeAvg3d": 227268,
+      "confirmedAvg7d": 10112,
+      "confirmedCumulativeAvg7d": 202864
     },
     {
       "confirmed": 0,
@@ -7989,11 +7989,11 @@
       "contactCases": 7626,
       "status": "Finalised",
       "date": "2020-10-04",
-      "confirmedCumulative": 230893,
-      "confirmedAvg3d": 6172,
-      "confirmedCumulativeAvg3d": 230829,
-      "confirmedAvg7d": 7929,
-      "confirmedCumulativeAvg7d": 209674
+      "confirmedCumulative": 238726,
+      "confirmedAvg3d": 8783,
+      "confirmedCumulativeAvg3d": 236051,
+      "confirmedAvg7d": 9048,
+      "confirmedCumulativeAvg7d": 211912
     },
     {
       "confirmed": 0,
@@ -8009,11 +8009,11 @@
       "contactCases": 4461,
       "status": "Finalised",
       "date": "2020-10-05",
-      "confirmedCumulative": 230893,
-      "confirmedAvg3d": 0,
-      "confirmedCumulativeAvg3d": 230829,
-      "confirmedAvg7d": 7281,
-      "confirmedCumulativeAvg7d": 216955
+      "confirmedCumulative": 238726,
+      "confirmedAvg3d": 2611,
+      "confirmedCumulativeAvg3d": 238662,
+      "confirmedAvg7d": 8400,
+      "confirmedCumulativeAvg7d": 220312
     },
     {
       "confirmed": 0,
@@ -8029,11 +8029,11 @@
       "contactCases": 7031,
       "status": "Finalised",
       "date": "2020-10-06",
-      "confirmedCumulative": 230893,
+      "confirmedCumulative": 238726,
       "confirmedAvg3d": 0,
-      "confirmedCumulativeAvg3d": 230829,
-      "confirmedAvg7d": 6231,
-      "confirmedCumulativeAvg7d": 223186
+      "confirmedCumulativeAvg3d": 238662,
+      "confirmedAvg7d": 7350,
+      "confirmedCumulativeAvg7d": 227662
     },
     {
       "confirmed": 0,
@@ -8049,11 +8049,11 @@
       "contactCases": 0,
       "status": "Finalised",
       "date": "2020-10-07",
-      "confirmedCumulative": 230893,
+      "confirmedCumulative": 238726,
       "confirmedAvg3d": 0,
-      "confirmedCumulativeAvg3d": 230829,
-      "confirmedAvg7d": 4969,
-      "confirmedCumulativeAvg7d": 228155
+      "confirmedCumulativeAvg3d": 238662,
+      "confirmedAvg7d": 6088,
+      "confirmedCumulativeAvg7d": 233750
     },
     {
       "confirmed": 0,
@@ -8066,11 +8066,11 @@
       "hosptilisedCumulative": 29503,
       "activeCumulative": 92164,
       "date": "2020-10-10",
-      "confirmedCumulative": 230893,
+      "confirmedCumulative": 238726,
       "confirmedAvg3d": 0,
-      "confirmedCumulativeAvg3d": 230829,
-      "confirmedAvg7d": 2645,
-      "confirmedCumulativeAvg7d": 230800
+      "confirmedCumulativeAvg3d": 238662,
+      "confirmedAvg7d": 3764,
+      "confirmedCumulativeAvg7d": 237514
     }
   ],
   "age": [
