@@ -1,9 +1,11 @@
 const drive = require('drive-db')
 const fs = require('fs')
 const _ = require('lodash')
+const CONSTANTS = require('./constants');
 
-const SHEET = '19U_Y8jAIwEp7csYHhkm745b33kcfdrKROh4DeQkcaTI'
-const SHEET_SUM_BY_DAY_TAB = 3
+const SHEET = CONSTANTS.SUMMARY_SHEET;
+const SHEET_SUM_BY_DAY_TAB = CONSTANTS.SHEET_SUM_BY_DAY_TAB;
+
 
 
 async function fetchDailySummary() {
