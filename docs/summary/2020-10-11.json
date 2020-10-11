@@ -2,10 +2,10 @@
   "updated": "2020-10-11 09:34",
   "prefectures": [
     {
-      "confirmed": 43503,
+      "confirmed": 42243,
       "deaths": 306,
       "confirmedByCity": {
-        "Thiruvananthapuram": 43495,
+        "Thiruvananthapuram": 42235,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -259,7 +259,7 @@
         1049,
         1119,
         700,
-        2249,
+        989,
         0,
         0,
         0,
@@ -823,10 +823,10 @@
       "name": "Kozhikode"
     },
     {
-      "confirmed": 25303,
+      "confirmed": 25603,
       "deaths": 92,
       "confirmedByCity": {
-        "Ernakulam": 25299,
+        "Ernakulam": 25599,
         "Unspecified": 4
       },
       "dailyConfirmedCount": [
@@ -1079,7 +1079,7 @@
         925,
         952,
         705,
-        537,
+        837,
         0,
         0,
         0,
@@ -2187,11 +2187,11 @@
       "name": "Palakkad"
     },
     {
-      "confirmed": 15027,
+      "confirmed": 15571,
       "deaths": 61,
       "confirmedByCity": {
         "Ernakulam": 3,
-        "Kannur": 12945
+        "Kannur": 13489
       },
       "dailyConfirmedCount": [
         0,
@@ -2443,7 +2443,7 @@
         423,
         555,
         339,
-        1,
+        545,
         0,
         0,
         0,
@@ -2732,10 +2732,10 @@
       "name": "Kottayam"
     },
     {
-      "confirmed": 13418,
+      "confirmed": 13834,
       "deaths": 61,
       "confirmedByCity": {
-        "Kasaragod": 10934,
+        "Kasaragod": 11350,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -2989,7 +2989,7 @@
         257,
         278,
         207,
-        0,
+        416,
         0,
         0,
         0,
