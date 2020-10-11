@@ -33,6 +33,7 @@ const fetchAndSummarize = async (dateString) => {
   const summaryOutputFilename = `./docs/summary/${dateString}.json`
   const kpiOutputFilename = `./docs/kpi/${dateString}.json`
   fs.writeFileSync(summaryOutputFilename, JSON.stringify(summary, null, '  '))
+  summary.kpiData.updated = summary.updated;
   fs.writeFileSync(kpiOutputFilename, JSON.stringify(summary.kpiData, null, '  '))
 }
 
