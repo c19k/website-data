@@ -4,6 +4,8 @@ const moment = require('moment')
 
 const verify = require('./verify.js')
 
+const utils = require('./utils');
+
 const todayIndiaString = moment().utcOffset(330).format('YYYY-MM-DD')
 
 // const lastDay = moment().utcOffset(330)
@@ -20,9 +22,10 @@ const summarize = (patientData, manualDailyData, manualPrefectureData, lastUpdat
   const patients = _.orderBy(patientData, ['dateAnnounced'], ['asc'])
   let prefectureSummary = generatePrefectureSummary(patients, manualPrefectureData)
   let dailySummary = generateDailySummary(patients, manualDailyData)
-  let ageStatus = generateAgeStatus(ageStatusData)
+  let sortedManualDailyData = _.orderBy(manualDailyData, ['date'],['asc']);
+  let kpiData = generateKpiSummary(sortedManualDailyData);
+  let ageStatus = generateAgeStatus(ageStatusData);
   let underObservationSummary = generateUnderObservationSummary(underObservationData);
-
   return {
     updated: lastUpdated,
     prefectures: prefectureSummary,
@@ -30,6 +33,7 @@ const summarize = (patientData, manualDailyData, manualPrefectureData, lastUpdat
     age: ageStatus,
     gender: genderStatusData,
     underObservation: underObservationSummary,
+    kpiData : kpiData
   };
 }
 
@@ -42,7 +46,9 @@ const safeParseInt = v => {
   }
   return result
 }
-
+const generateKpiSummary = (manualDailyData) => {
+  return utils.calculateTotals(manualDailyData);
+} 
 const generateAgeStatus = (ageStatusData) => {
   let ageStatus = []
   for (let row of ageStatusData) {
