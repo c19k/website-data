@@ -1,11 +1,11 @@
 {
-  "updated": "2020-10-11 19:14",
+  "updated": "2020-10-11 21:46",
   "prefectures": [
     {
-      "confirmed": 43425,
-      "deaths": 309,
+      "confirmed": 43893,
+      "deaths": 308,
       "confirmedByCity": {
-        "Thiruvananthapuram": 43417,
+        "Thiruvananthapuram": 43885,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -261,7 +261,7 @@
         700,
         989,
         1182,
-        0,
+        468,
         0,
         0,
         0
@@ -1095,10 +1095,10 @@
       "name": "Ernakulam"
     },
     {
-      "confirmed": 20508,
+      "confirmed": 21005,
       "deaths": 80,
       "confirmedByCity": {
-        "Kollam": 18336,
+        "Kollam": 18833,
         "Unspecified": 4,
         "Ernakulam": 1,
         "Malappuram": 1
@@ -1355,7 +1355,7 @@
         458,
         845,
         852,
-        0,
+        497,
         0,
         0,
         0
@@ -1370,7 +1370,7 @@
     },
     {
       "confirmed": 20182,
-      "deaths": 62,
+      "deaths": 63,
       "confirmedByCity": {
         "Thrissur": 18439,
         "Ernakulam": 3
@@ -3005,10 +3005,10 @@
       "name": "Kasaragod"
     },
     {
-      "confirmed": 10137,
+      "confirmed": 10138,
       "deaths": 6,
       "confirmedByCity": {
-        "Pathanamthitta": 8999,
+        "Pathanamthitta": 9000,
         "Thiruvananthapuram": 2,
         "Ernakulam": 1,
         "Malappuram": 2,
@@ -3267,7 +3267,7 @@
         25,
         330,
         393,
-        0,
+        1,
         0,
         0,
         0
@@ -3548,7 +3548,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 3703,
+      "recovered": 3525,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -8494,7 +8494,7 @@
       "confirmedCumulativeAvg7d": 244562
     },
     {
-      "confirmed": 0,
+      "confirmed": 966,
       "recoveredCumulative": 167256,
       "deceasedCumulative": 930,
       "criticalCumulative": 735,
@@ -8509,11 +8509,11 @@
       "criticalCases": 0,
       "status": "Finalised",
       "date": "2020-10-08",
-      "confirmedCumulative": 270798,
-      "confirmedAvg3d": 6159,
-      "confirmedCumulativeAvg3d": 267198,
-      "confirmedAvg7d": 8346,
-      "confirmedCumulativeAvg7d": 252908
+      "confirmedCumulative": 271764,
+      "confirmedAvg3d": 6481,
+      "confirmedCumulativeAvg3d": 267520,
+      "confirmedAvg7d": 8484,
+      "confirmedCumulativeAvg7d": 253046
     },
     {
       "confirmed": 0,
@@ -8531,11 +8531,11 @@
       "criticalCases": 0,
       "status": "Finalised",
       "date": "2020-10-09",
-      "confirmedCumulative": 270798,
-      "confirmedAvg3d": 3535,
-      "confirmedCumulativeAvg3d": 270733,
-      "confirmedAvg7d": 5700,
-      "confirmedCumulativeAvg7d": 258608
+      "confirmedCumulative": 271764,
+      "confirmedAvg3d": 3857,
+      "confirmedCumulativeAvg3d": 271377,
+      "confirmedAvg7d": 5838,
+      "confirmedCumulativeAvg7d": 258884
     },
     {
       "confirmed": 0,
@@ -8553,11 +8553,11 @@
       "criticalCases": 0,
       "status": "Finalised",
       "date": "2020-10-10",
-      "confirmedCumulative": 270798,
-      "confirmedAvg3d": 0,
-      "confirmedCumulativeAvg3d": 270733,
-      "confirmedAvg7d": 4581,
-      "confirmedCumulativeAvg7d": 263189
+      "confirmedCumulative": 271764,
+      "confirmedAvg3d": 322,
+      "confirmedCumulativeAvg3d": 271699,
+      "confirmedAvg7d": 4719,
+      "confirmedCumulativeAvg7d": 263603
     },
     {
       "confirmed": 0,
@@ -8575,11 +8575,11 @@
       "criticalCases": 0,
       "status": "Finalised",
       "date": "2020-10-11",
-      "confirmedCumulative": 270798,
+      "confirmedCumulative": 271764,
       "confirmedAvg3d": 0,
-      "confirmedCumulativeAvg3d": 270733,
-      "confirmedAvg7d": 3359,
-      "confirmedCumulativeAvg7d": 266548
+      "confirmedCumulativeAvg3d": 271699,
+      "confirmedAvg7d": 3497,
+      "confirmedCumulativeAvg7d": 267100
     }
   ],
   "age": [
