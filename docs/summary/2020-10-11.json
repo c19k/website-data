@@ -1,5 +1,5 @@
 {
-  "updated": "2020-10-11 21:46",
+  "updated": "2020-10-11 22:19",
   "prefectures": [
     {
       "confirmed": 43892,
@@ -549,10 +549,10 @@
       "name": "Malappuram"
     },
     {
-      "confirmed": 29000,
+      "confirmed": 28999,
       "deaths": 87,
       "confirmedByCity": {
-        "Kozhikode": 23443,
+        "Kozhikode": 23442,
         "Chennai": 1,
         "Ernakulam": 2,
         "Malappuram": 2
@@ -809,7 +809,7 @@
         641,
         736,
         1576,
-        689,
+        688,
         0,
         0,
         0
@@ -2732,10 +2732,10 @@
       "name": "Kottayam"
     },
     {
-      "confirmed": 14501,
+      "confirmed": 14502,
       "deaths": 63,
       "confirmedByCity": {
-        "Kasaragod": 12017,
+        "Kasaragod": 12018,
         "Mangalore": 1,
         "Kozhikode": 1
       },
@@ -2991,7 +2991,7 @@
         207,
         416,
         432,
-        235,
+        236,
         0,
         0,
         0
