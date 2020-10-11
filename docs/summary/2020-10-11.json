@@ -38855,29 +38855,5 @@
         "deltaHospitalIsolation": 4740
       }
     }
-  },
-  "kpiData": {
-    "totals": {
-      "confirmed": "279855",
-      "recovered": "182874",
-      "deceased": "978",
-      "critical": "849",
-      "tested": "3538678",
-      "observation": "280387",
-      "homeObservation": "251714",
-      "hosptilised": "28673",
-      "active": "95918"
-    },
-    "totalsDiff": {
-      "confirmed": 11755,
-      "recovered": 7570,
-      "deceased": 23,
-      "critical": 38,
-      "tested": 67313,
-      "observation": 6701,
-      "homeObservation": 6453,
-      "hosptilised": 248,
-      "active": 4162
-    }
   }
 }
