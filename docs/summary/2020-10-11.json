@@ -2,10 +2,10 @@
   "updated": "2020-10-11 21:46",
   "prefectures": [
     {
-      "confirmed": 43893,
+      "confirmed": 43892,
       "deaths": 308,
       "confirmedByCity": {
-        "Thiruvananthapuram": 43885,
+        "Thiruvananthapuram": 43884,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -261,7 +261,7 @@
         700,
         989,
         1182,
-        468,
+        467,
         0,
         0,
         0
@@ -549,10 +549,10 @@
       "name": "Malappuram"
     },
     {
-      "confirmed": 28999,
+      "confirmed": 29000,
       "deaths": 87,
       "confirmedByCity": {
-        "Kozhikode": 23442,
+        "Kozhikode": 23443,
         "Chennai": 1,
         "Ernakulam": 2,
         "Malappuram": 2
@@ -809,7 +809,7 @@
         641,
         736,
         1576,
-        688,
+        689,
         0,
         0,
         0
