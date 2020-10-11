@@ -71,6 +71,8 @@ const calculateTotals = (daily) => {
     pullLatestSumAndDiff("homeobservation", "homeObservation");
     pullLatestSumAndDiff("hosptilised", "hosptilised");
     pullLatestSumAndDiff("active", "active");
+    pullLatestSumAndDiff("critical", "critical");
+    
     return {totals, totalsDiff};
   }
 
