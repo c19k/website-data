@@ -31,7 +31,9 @@ const fetchAndSummarize = async (dateString) => {
   // Generate and write summary to JSON.
   const summary = Summarize.summarize(patients, daily, prefectures, lastUpdated, ageStatusData, genderStatusData, underObervation)
   const summaryOutputFilename = `./docs/summary/${dateString}.json`
+  const kpiOutputFilename = `./docs/kpi/${dateString}.json`
   fs.writeFileSync(summaryOutputFilename, JSON.stringify(summary, null, '  '))
+  fs.writeFileSync(kpiOutputFilename, JSON.stringify(summary.kpiData, null, '  '))
 }
 
 // Add 330 = UTC+5:30 for IST.
