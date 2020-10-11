@@ -1,9 +1,9 @@
 {
-  "updated": "2020-10-10 19:35",
+  "updated": "2020-10-11 09:34",
   "prefectures": [
     {
       "confirmed": 39435,
-      "deaths": 266,
+      "deaths": 306,
       "confirmedByCity": {
         "Thiruvananthapuram": 39427,
         "Thiruvanathapuram": 1,
@@ -268,7 +268,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 27583,
+      "recovered": 31902,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -276,7 +276,7 @@
     },
     {
       "confirmed": 27485,
-      "deaths": 85,
+      "deaths": 95,
       "confirmedByCity": {
         "Malappuram": 27322,
         "Palakkad": 1,
@@ -542,7 +542,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 20529,
+      "recovered": 24118,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -550,7 +550,7 @@
     },
     {
       "confirmed": 24194,
-      "deaths": 76,
+      "deaths": 85,
       "confirmedByCity": {
         "Kozhikode": 18637,
         "Chennai": 1,
@@ -816,7 +816,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 14775,
+      "recovered": 18277,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -824,7 +824,7 @@
     },
     {
       "confirmed": 23109,
-      "deaths": 79,
+      "deaths": 92,
       "confirmedByCity": {
         "Ernakulam": 23105,
         "Unspecified": 4
@@ -1088,7 +1088,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 12347,
+      "recovered": 14880,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1096,7 +1096,7 @@
     },
     {
       "confirmed": 17712,
-      "deaths": 53,
+      "deaths": 56,
       "confirmedByCity": {
         "Alappuzha": 17712
       },
@@ -1359,7 +1359,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 11995,
+      "recovered": 13719,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1367,7 +1367,7 @@
     },
     {
       "confirmed": 17487,
-      "deaths": 67,
+      "deaths": 77,
       "confirmedByCity": {
         "Kollam": 15315,
         "Unspecified": 4,
@@ -1633,7 +1633,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 10128,
+      "recovered": 13139,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1641,7 +1641,7 @@
     },
     {
       "confirmed": 17259,
-      "deaths": 59,
+      "deaths": 60,
       "confirmedByCity": {
         "Thrissur": 15516,
         "Ernakulam": 3
@@ -1905,7 +1905,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 9908,
+      "recovered": 12058,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1913,7 +1913,7 @@
     },
     {
       "confirmed": 14654,
-      "deaths": 39,
+      "deaths": 40,
       "confirmedByCity": {
         "Palakkad": 14242,
         "Ernakulam": 2,
@@ -2180,7 +2180,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 9004,
+      "recovered": 10459,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -2188,7 +2188,7 @@
     },
     {
       "confirmed": 14132,
-      "deaths": 59,
+      "deaths": 61,
       "confirmedByCity": {
         "Ernakulam": 3,
         "Kannur": 12050
@@ -2452,7 +2452,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 7994,
+      "recovered": 10398,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -2460,7 +2460,7 @@
     },
     {
       "confirmed": 12933,
-      "deaths": 58,
+      "deaths": 61,
       "confirmedByCity": {
         "Kasaragod": 10449,
         "Mangalore": 1,
@@ -2725,7 +2725,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 8865,
+      "recovered": 9888,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -2733,7 +2733,7 @@
     },
     {
       "confirmed": 12606,
-      "deaths": 28,
+      "deaths": 29,
       "confirmedByCity": {
         "Kottayam": 11045,
         "Ernakulam": 1,
@@ -2998,7 +2998,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 8020,
+      "recovered": 9473,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -3274,7 +3274,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 6643,
+      "recovered": 7435,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -3282,7 +3282,7 @@
     },
     {
       "confirmed": 4419,
-      "deaths": 4,
+      "deaths": 5,
       "confirmedByCity": {
         "Munnar": 1,
         "Idukki": 4021,
@@ -3548,7 +3548,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 3162,
+      "recovered": 3653,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -3821,7 +3821,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 3139,
+      "recovered": 3653,
       "name_ja": "വയനാട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -8098,7 +8098,7 @@
       "observationCumulative": 273686,
       "homeObservationCumulative": 245261,
       "hosptilisedCumulative": 28425,
-      "activeCumulative": 91759,
+      "activeCumulative": 91756,
       "importedCases": 167,
       "contactCases": 8326,
       "status": "Finalised",
@@ -8114,14 +8114,14 @@
       "recoveredCumulative": 182874,
       "deceasedCumulative": 978,
       "criticalCumulative": 849,
-      "testedCumulative": 3471365,
-      "observationCumulative": 273686,
-      "homeObservationCumulative": 245261,
-      "hosptilisedCumulative": 28425,
-      "activeCumulative": 95921,
-      "importedCases": 0,
-      "contactCases": 0,
-      "status": "",
+      "testedCumulative": 3538678,
+      "observationCumulative": 280387,
+      "homeObservationCumulative": 251714,
+      "hosptilisedCumulative": 28673,
+      "activeCumulative": 95918,
+      "importedCases": 209,
+      "contactCases": 10594,
+      "status": "Finalised",
       "date": "2020-10-10",
       "confirmedCumulative": 238726,
       "confirmedAvg3d": 0,
@@ -8134,11 +8134,11 @@
       "recoveredCumulative": 182874,
       "deceasedCumulative": 978,
       "criticalCumulative": 849,
-      "testedCumulative": 3471365,
-      "observationCumulative": 273686,
-      "homeObservationCumulative": 245261,
-      "hosptilisedCumulative": 28425,
-      "activeCumulative": 95921,
+      "testedCumulative": 3538678,
+      "observationCumulative": 280387,
+      "homeObservationCumulative": 251714,
+      "hosptilisedCumulative": 28673,
+      "activeCumulative": 95918,
       "date": "2020-10-11",
       "confirmedCumulative": 238726,
       "confirmedAvg3d": 0,
@@ -8237,8 +8237,8 @@
       "Alappuzha": {
         "homeisolation": 87,
         "hospitalisolation": 6,
-        "peopleunderobservation": 93,
-        "deltaPeopleUnderObservation": 93,
+        "peopleunderobservation": 0,
+        "deltaPeopleUnderObservation": 0,
         "deltaHomeIsolation": 87,
         "deltaHospitalIsolation": 6
       },
@@ -8347,12 +8347,12 @@
         "deltaHospitalIsolation": 0
       },
       "total": {
-        "peopleunderobservation": 1471,
+        "peopleunderobservation": 1378,
         "homeisolation": 1421,
         "hospitalisolation": 50,
         "deltaPeopleUnderObservation": 1421,
         "deltaHomeIsolation": 50,
-        "deltaHospitalIsolation": 1471
+        "deltaHospitalIsolation": 1378
       }
     },
     "2020-02-01": {
@@ -8360,7 +8360,7 @@
         "homeisolation": 112,
         "hospitalisolation": 8,
         "peopleunderobservation": 120,
-        "deltaPeopleUnderObservation": 27,
+        "deltaPeopleUnderObservation": 120,
         "deltaHomeIsolation": 25,
         "deltaHospitalIsolation": 2
       },
@@ -8474,7 +8474,7 @@
         "hospitalisolation": 70,
         "deltaPeopleUnderObservation": 302,
         "deltaHomeIsolation": 20,
-        "deltaHospitalIsolation": 322
+        "deltaHospitalIsolation": 415
       }
     },
     "2020-02-02": {
