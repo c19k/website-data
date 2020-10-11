@@ -143,6 +143,8 @@ const generateDailySummary = (patients, manualDailyData) => {
       dailySummary[row.date].activeCumulative = safeParseInt(row.active)
       dailySummary[row.date].importedCases = safeParseInt(row.import);
       dailySummary[row.date].contactCases = safeParseInt(row.contact);
+      dailySummary[row.date].noHistoryCases = safeParseInt(row.nohistory);
+      dailySummary[row.date].criticalCases = safeParseInt(row.critial);
       dailySummary[row.date].status = row.status
     
   }
