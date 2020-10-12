@@ -1,5 +1,5 @@
 {
-  "updated": "2020-10-11 22:19",
+  "updated": "2020-10-12 20:17",
   "prefectures": [
     {
       "confirmed": 47640,
@@ -8602,14 +8602,14 @@
       "criticalCumulative": 830,
       "testedCumulative": 3628429,
       "observationCumulative": 281413,
-      "homeObservationCumulative": 256172,
-      "hosptilisedCumulative": 28752,
+      "homeObservationCumulative": 253104,
+      "hosptilisedCumulative": 28309,
       "activeCumulative": 94388,
       "importedCases": 134,
       "contactCases": 4962,
       "noHistoryCases": 834,
       "criticalCases": 0,
-      "status": "",
+      "status": "Finalised",
       "date": "2020-10-12",
       "confirmedCumulative": 312525,
       "confirmedAvg3d": 9010,
@@ -39335,20 +39335,20 @@
       "critical": "830",
       "tested": "3628429",
       "observation": "281413",
-      "homeObservation": 0,
-      "hosptilised": 0,
+      "homeObservation": "253104",
+      "hosptilised": "28309",
       "active": "94388"
     },
     "totalsDiff": {
       "confirmed": 5930,
       "recovered": 7836,
       "deceased": 22,
-      "critical": -19,
+      "critical": -4,
       "tested": 34109,
-      "observation": 1026,
-      "homeObservation": -251714,
-      "hosptilised": -28673,
-      "active": -1530
+      "observation": -3511,
+      "homeObservation": -3068,
+      "hosptilised": -443,
+      "active": -1928
     }
   }
 }
