@@ -2,10 +2,10 @@
   "updated": "2020-10-11 22:19",
   "prefectures": [
     {
-      "confirmed": 43892,
+      "confirmed": 43893,
       "deaths": 308,
       "confirmedByCity": {
-        "Thiruvananthapuram": 43884,
+        "Thiruvananthapuram": 43885,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -262,7 +262,7 @@
         989,
         1182,
         467,
-        0,
+        1,
         0,
         0,
         0
@@ -8530,7 +8530,7 @@
       "confirmedCumulativeAvg7d": 253685
     },
     {
-      "confirmed": 0,
+      "confirmed": 1,
       "recoveredCumulative": 175304,
       "deceasedCumulative": 955,
       "criticalCumulative": 811,
@@ -8545,7 +8545,7 @@
       "criticalCases": 0,
       "status": "Finalised",
       "date": "2020-10-09",
-      "confirmedCumulative": 276243,
+      "confirmedCumulative": 276244,
       "confirmedAvg3d": 5350,
       "confirmedCumulativeAvg3d": 274363,
       "confirmedAvg7d": 6478,
@@ -8567,7 +8567,7 @@
       "criticalCases": 0,
       "status": "Finalised",
       "date": "2020-10-10",
-      "confirmedCumulative": 276243,
+      "confirmedCumulative": 276244,
       "confirmedAvg3d": 1815,
       "confirmedCumulativeAvg3d": 276178,
       "confirmedAvg7d": 5359,
@@ -8589,7 +8589,7 @@
       "criticalCases": 0,
       "status": "Finalised",
       "date": "2020-10-11",
-      "confirmedCumulative": 276243,
+      "confirmedCumulative": 276244,
       "confirmedAvg3d": 0,
       "confirmedCumulativeAvg3d": 276178,
       "confirmedAvg7d": 4137,
@@ -8606,7 +8606,7 @@
       "hosptilisedCumulative": 28752,
       "activeCumulative": 96316,
       "date": "2020-10-12",
-      "confirmedCumulative": 276243,
+      "confirmedCumulative": 276244,
       "confirmedAvg3d": 0,
       "confirmedCumulativeAvg3d": 276178,
       "confirmedAvg7d": 3417,
