@@ -2,10 +2,10 @@
   "updated": "2020-10-11 22:19",
   "prefectures": [
     {
-      "confirmed": 44906,
+      "confirmed": 44905,
       "deaths": 308,
       "confirmedByCity": {
-        "Thiruvananthapuram": 44898,
+        "Thiruvananthapuram": 44897,
         "Thiruvanathapuram": 1,
         "Thiruvanthapuram": 1
       },
@@ -264,7 +264,7 @@
         467,
         1012,
         1,
-        1,
+        0,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -276,10 +276,10 @@
       "name": "Thiruvananthapuram"
     },
     {
-      "confirmed": 33285,
+      "confirmed": 34736,
       "deaths": 100,
       "confirmedByCity": {
-        "Malappuram": 33122,
+        "Malappuram": 34573,
         "Palakkad": 1,
         "Kozhikode": 9,
         "Ernakulam": 4
@@ -539,7 +539,7 @@
         1024,
         1174,
         0,
-        0,
+        1451,
         0
       ],
       "dailyConfirmedStartDate": "2020-01-31",
@@ -8574,7 +8574,7 @@
       "confirmedCumulativeAvg7d": 268166
     },
     {
-      "confirmed": 2,
+      "confirmed": 1452,
       "recoveredCumulative": 191798,
       "deceasedCumulative": 1003,
       "criticalCumulative": 834,
@@ -8589,11 +8589,11 @@
       "criticalCases": 0,
       "status": "Finalised",
       "date": "2020-10-11",
-      "confirmedCumulative": 285497,
-      "confirmedAvg3d": 3084,
-      "confirmedCumulativeAvg3d": 285429,
-      "confirmedAvg7d": 5459,
-      "confirmedCumulativeAvg7d": 273625
+      "confirmedCumulative": 286947,
+      "confirmedAvg3d": 3568,
+      "confirmedCumulativeAvg3d": 285913,
+      "confirmedAvg7d": 5666,
+      "confirmedCumulativeAvg7d": 273832
     },
     {
       "confirmed": 0,
@@ -8606,11 +8606,11 @@
       "hosptilisedCumulative": 28752,
       "activeCumulative": 96316,
       "date": "2020-10-12",
-      "confirmedCumulative": 285497,
-      "confirmedAvg3d": 1,
-      "confirmedCumulativeAvg3d": 285430,
-      "confirmedAvg7d": 4739,
-      "confirmedCumulativeAvg7d": 278364
+      "confirmedCumulative": 286947,
+      "confirmedAvg3d": 484,
+      "confirmedCumulativeAvg3d": 286397,
+      "confirmedAvg7d": 4946,
+      "confirmedCumulativeAvg7d": 278778
     }
   ],
   "age": [
