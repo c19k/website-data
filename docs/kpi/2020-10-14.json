@@ -1,0 +1,25 @@
+{
+  "totals": {
+    "confirmed": "303896",
+    "recovered": "207357",
+    "deceased": "1046",
+    "critical": "890",
+    "tested": "3676682",
+    "observation": "282000",
+    "homeObservation": "254841",
+    "hosptilised": "27159",
+    "active": "95407"
+  },
+  "totalsDiff": {
+    "confirmed": 8764,
+    "recovered": 7723,
+    "deceased": 21,
+    "critical": 60,
+    "tested": 48253,
+    "observation": 587,
+    "homeObservation": 1737,
+    "hosptilised": -1150,
+    "active": 1019
+  },
+  "updated": "2020-10-13 20:51"
+}
