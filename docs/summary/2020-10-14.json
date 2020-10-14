@@ -8677,6 +8677,11 @@
       "homeObservationCumulative": 254841,
       "hosptilisedCumulative": 27159,
       "activeCumulative": 95407,
+      "importedCases": 0,
+      "contactCases": 0,
+      "noHistoryCases": 0,
+      "criticalCases": 0,
+      "status": "",
       "date": "2020-10-14",
       "confirmedCumulative": 321289,
       "confirmedAvg3d": 4898,
@@ -40128,26 +40133,26 @@
   },
   "kpiData": {
     "totals": {
-      "confirmed": "303896",
-      "recovered": "207357",
-      "deceased": "1046",
-      "critical": "890",
-      "tested": "3676682",
-      "observation": "282000",
-      "homeObservation": "254841",
-      "hosptilised": "27159",
-      "active": "95407"
+      "confirmed": 0,
+      "recovered": 0,
+      "deceased": 0,
+      "critical": 0,
+      "tested": 0,
+      "observation": 0,
+      "homeObservation": 0,
+      "hosptilised": 0,
+      "active": 0
     },
     "totalsDiff": {
-      "confirmed": 8764,
-      "recovered": 7723,
-      "deceased": 21,
-      "critical": 60,
-      "tested": 48253,
-      "observation": 587,
-      "homeObservation": 1737,
-      "hosptilised": -1150,
-      "active": 1019
+      "confirmed": 1,
+      "recovered": 1,
+      "deceased": 1,
+      "critical": 1,
+      "tested": 1,
+      "observation": -281413,
+      "homeObservation": -253104,
+      "hosptilised": -28309,
+      "active": -94388
     }
   }
 }
