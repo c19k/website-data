@@ -104,12 +104,16 @@ const generateDailySummary = (patients, manualDailyData) => {
     }
   }
 
-  // merge manually sourced data
-  // TODO: deceased, critical should be pulled out of our patient
-  //       data. But those numbers are incomplete.
-  for (let row of manualDailyData) {
+  // override with manually sourced data if they are available
+  for (let i=0; i< manualDailyData.length; i++) {
+    let row = manualDailyData[i];
+    
     if (!row.date) {
       continue;
+    }
+    let lastDayData = false;
+    if(i>0){
+      lastDayData = manualDailyData[i-1];
     }
     let dateTs = moment(row.date).format('X');
     let aprilTs = moment('2020-04-01').format('X');
@@ -132,7 +136,12 @@ const generateDailySummary = (patients, manualDailyData) => {
           activeCumulative: 0,
         };
       }
-    
+      //We are storing cumulated value in confirmed cell. Hence needs to calculate the difference with the last day to
+      //get the difference
+      let lastDayConfirmed = _.get(lastDayData, 'confirmed', 0);
+      dailySummary[row.date].confirmed = safeParseInt(row.confirmed - lastDayConfirmed)
+
+      
       dailySummary[row.date].recoveredCumulative = safeParseInt(row.recovered)
       dailySummary[row.date].deceasedCumulative = safeParseInt(row.deceased)
       dailySummary[row.date].criticalCumulative = safeParseInt(row.critical)
