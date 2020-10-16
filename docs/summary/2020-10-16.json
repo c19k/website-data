@@ -1,9 +1,9 @@
 {
-  "updated": "2020-10-16 19:12",
+  "updated": "2020-10-16 19:19",
   "prefectures": [
     {
       "confirmed": 50272,
-      "deaths": 338,
+      "deaths": 343,
       "confirmedByCity": {
         "Thiruvananthapuram": 50264,
         "Thiruvanathapuram": 1,
@@ -560,7 +560,7 @@
     },
     {
       "confirmed": 37624,
-      "deaths": 102,
+      "deaths": 105,
       "confirmedByCity": {
         "Kozhikode": 32067,
         "Chennai": 1,
@@ -1116,7 +1116,7 @@
     },
     {
       "confirmed": 27454,
-      "deaths": 64,
+      "deaths": 69,
       "confirmedByCity": {
         "Thrissur": 25711,
         "Ernakulam": 3
@@ -2228,7 +2228,7 @@
     },
     {
       "confirmed": 20154,
-      "deaths": 71,
+      "deaths": 80,
       "confirmedByCity": {
         "Ernakulam": 3,
         "Kannur": 18072
@@ -2497,7 +2497,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 405,
-      "recovered": 12403,
+      "recovered": 12843,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -3053,7 +3053,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 234,
-      "recovered": 11773,
+      "recovered": 12079,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -3061,7 +3061,7 @@
     },
     {
       "confirmed": 12591,
-      "deaths": 6,
+      "deaths": 7,
       "confirmedByCity": {
         "Pathanamthitta": 11453,
         "Thiruvananthapuram": 2,
@@ -3342,7 +3342,7 @@
     },
     {
       "confirmed": 5852,
-      "deaths": 6,
+      "deaths": 7,
       "confirmedByCity": {
         "Munnar": 1,
         "Idukki": 5454,
