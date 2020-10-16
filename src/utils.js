@@ -1,3 +1,5 @@
+const _ = require('lodash')
+
 const calculateTotals = (daily) => {
     // Calculate the totals
     let totals = {
@@ -22,12 +24,25 @@ const calculateTotals = (daily) => {
       hosptilised: 0,
       active: 0,
     };
-    
+
+    //remove non finalised cells
+    let hasNotFinalisedCells = true;
+    while(hasNotFinalisedCells){
+      let latest =  daily[daily.length - 1];
+      let latestStatus = _.get(latest,'status', false);
+      if(latestStatus !== "Finalised"){
+        daily.pop();
+      }else{
+        hasNotFinalisedCells = false;
+      }
+    }
+
     // If there is an empty cell, fall back to the previous row
     function pullLatestSumAndDiff(rowKey, totalKey) {
       let latest = {};
       let dayBefore = {};
       let twoDaysBefore = {};
+
       if (daily.length > 2) {
         twoDaysBefore = daily[daily.length - 3];
       }
@@ -37,6 +52,8 @@ const calculateTotals = (daily) => {
       if (daily.length > 0) {
         latest = daily[daily.length - 1];
       }
+
+      
   
       if (latest && dayBefore && latest[rowKey] && dayBefore[rowKey]) {
         totals[totalKey] = latest[rowKey];
