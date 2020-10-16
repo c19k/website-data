@@ -1,25 +1,25 @@
 {
   "totals": {
-    "confirmed": "317929",
-    "recovered": "222231",
-    "deceased": "1089",
-    "critical": "889",
-    "tested": "3776892",
-    "observation": "274672",
-    "homeObservation": "249001",
-    "hosptilised": "25671",
-    "active": "94523"
+    "confirmed": "325212",
+    "recovered": "228998",
+    "deceased": "1113",
+    "critical": 0,
+    "tested": "3828728",
+    "observation": "276727",
+    "homeObservation": "251145",
+    "hosptilised": "25582",
+    "active": "95015"
   },
   "totalsDiff": {
-    "confirmed": 7789,
-    "recovered": 7082,
-    "deceased": 23,
-    "critical": 8,
-    "tested": 50154,
-    "observation": -4317,
-    "homeObservation": -3644,
-    "hosptilised": -673,
-    "active": 684
+    "confirmed": 7283,
+    "recovered": 6767,
+    "deceased": 24,
+    "critical": 1,
+    "tested": 51836,
+    "observation": 2055,
+    "homeObservation": 2144,
+    "hosptilised": -762,
+    "active": 492
   },
-  "updated": "2020-10-16 16:40"
+  "updated": "2020-10-16 18:34"
 }
