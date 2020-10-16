@@ -3,7 +3,7 @@
     "confirmed": "325212",
     "recovered": "228998",
     "deceased": "1113",
-    "critical": 0,
+    "critical": "896",
     "tested": "3828728",
     "observation": "276727",
     "homeObservation": "251145",
@@ -14,12 +14,12 @@
     "confirmed": 7283,
     "recovered": 6767,
     "deceased": 24,
-    "critical": 1,
+    "critical": 7,
     "tested": 51836,
     "observation": 2055,
     "homeObservation": 2144,
-    "hosptilised": -762,
+    "hosptilised": -89,
     "active": 492
   },
-  "updated": "2020-10-16 18:34"
+  "updated": "2020-10-16 19:12"
 }
