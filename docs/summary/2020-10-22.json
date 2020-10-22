@@ -571,10 +571,10 @@
       "name": "Malappuram"
     },
     {
-      "confirmed": 42262,
+      "confirmed": 43194,
       "deaths": 115,
       "confirmedByCity": {
-        "Kozhikode": 36705,
+        "Kozhikode": 37637,
         "Chennai": 1,
         "Ernakulam": 2,
         "Malappuram": 2
@@ -845,10 +845,10 @@
         772,
         806,
         1158,
-        0
+        932
       ],
       "dailyConfirmedStartDate": "2020-01-31",
-      "newlyConfirmed": 0,
+      "newlyConfirmed": 932,
       "recovered": 28749,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
@@ -8956,7 +8956,7 @@
       "confirmedCumulativeAvg7d": 340104
     },
     {
-      "confirmed": 0,
+      "confirmed": 932,
       "recoveredCumulative": 267082,
       "deceasedCumulative": 1232,
       "criticalCumulative": 1000,
@@ -8966,11 +8966,11 @@
       "hosptilisedCumulative": 23016,
       "activeCumulative": 93425,
       "date": "2020-10-22",
-      "confirmedCumulative": 361841,
-      "confirmedAvg3d": 4986,
-      "confirmedCumulativeAvg3d": 358981,
-      "confirmedAvg7d": 6273,
-      "confirmedCumulativeAvg7d": 346377
+      "confirmedCumulative": 362773,
+      "confirmedAvg3d": 5297,
+      "confirmedCumulativeAvg3d": 359292,
+      "confirmedAvg7d": 6406,
+      "confirmedCumulativeAvg7d": 346510
     }
   ],
   "age": [
