@@ -23,10 +23,20 @@ const fetchAndSummarize = async (dateString) => {
   const ageStatusData =  await FetchAgeStatus.fetchAgeStatus()
   const genderStatusData = await FetchGenderStatus.fetchGenderStatus()
 
+  
+
   // Fetch and write patients data.
-  const patients = await FetchPatientData.fetchPatientData()
-  const patientOutputFilename = `./docs/patient_data/${dateString}.json`
-  fs.writeFileSync(patientOutputFilename, JSON.stringify(patients, null, '  '))
+   const patients = await FetchPatientData.fetchPatientData()
+   
+   /*
+    UPDATE : Patient file size is crossing 100 MB now. Github does not allow files > 100MB
+    Hence disabling the patient data writing now
+
+    
+    const patientOutputFilename = `./docs/patient_data/${dateString}.json`
+    fs.writeFileSync(patientOutputFilename, JSON.stringify(patients, null, '  '))
+  */
+  
 
   // Generate and write summary to JSON.
   const summary = Summarize.summarize(patients, daily, prefectures, lastUpdated, ageStatusData, genderStatusData, underObervation)
