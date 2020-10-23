@@ -1,9 +1,9 @@
 {
-  "updated": "2020-10-22 19:18",
+  "updated": "2020-10-23 06:51",
   "prefectures": [
     {
       "confirmed": 54286,
-      "deaths": 366,
+      "deaths": 371,
       "confirmedByCity": {
         "Thiruvananthapuram": 54278,
         "Thiruvanathapuram": 1,
@@ -280,7 +280,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 41978,
+      "recovered": 42887,
       "name_ja": "തിരുവനന്തപുരം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -288,7 +288,7 @@
     },
     {
       "confirmed": 46911,
-      "deaths": 123,
+      "deaths": 128,
       "confirmedByCity": {
         "Malappuram": 46748,
         "Palakkad": 1,
@@ -566,7 +566,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 33366,
+      "recovered": 34097,
       "name_ja": "മലപ്പുറം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -574,7 +574,7 @@
     },
     {
       "confirmed": 43194,
-      "deaths": 115,
+      "deaths": 117,
       "confirmedByCity": {
         "Kozhikode": 37637,
         "Chennai": 1,
@@ -852,7 +852,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 29454,
+      "recovered": 30607,
       "name_ja": "കോഴിക്കോട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -860,7 +860,7 @@
     },
     {
       "confirmed": 39848,
-      "deaths": 116,
+      "deaths": 121,
       "confirmedByCity": {
         "Ernakulam": 39844,
         "Unspecified": 4
@@ -1136,7 +1136,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 25612,
+      "recovered": 26026,
       "name_ja": "എറണാകുളം",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1144,7 +1144,7 @@
     },
     {
       "confirmed": 32647,
-      "deaths": 88,
+      "deaths": 90,
       "confirmedByCity": {
         "Thrissur": 30904,
         "Ernakulam": 3
@@ -1420,7 +1420,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 20847,
+      "recovered": 22017,
       "name_ja": "തൃശ്ശൂർ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -1428,7 +1428,7 @@
     },
     {
       "confirmed": 29674,
-      "deaths": 93,
+      "deaths": 95,
       "confirmedByCity": {
         "Kollam": 27502,
         "Unspecified": 4,
@@ -1706,7 +1706,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 21024,
+      "recovered": 21774,
       "name_ja": "കൊല്ലം",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -1714,7 +1714,7 @@
     },
     {
       "confirmed": 28272,
-      "deaths": 74,
+      "deaths": 75,
       "confirmedByCity": {
         "Alappuzha": 28272
       },
@@ -1989,7 +1989,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 19086,
+      "recovered": 19855,
       "name_ja": "ആലപ്പുഴ",
       "zone": "Green",
       "zoneUpdatedOn": "2020-05-02",
@@ -2276,7 +2276,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 14655,
+      "recovered": 14894,
       "name_ja": "പാലക്കാട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -2560,7 +2560,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 14983,
+      "recovered": 15555,
       "name_ja": "കണ്ണൂർ",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -2568,7 +2568,7 @@
     },
     {
       "confirmed": 20715,
-      "deaths": 34,
+      "deaths": 35,
       "confirmedByCity": {
         "Kottayam": 19154,
         "Ernakulam": 1,
@@ -2845,7 +2845,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 12577,
+      "recovered": 12744,
       "name_ja": "കോട്ടയം",
       "zone": "Red",
       "zoneUpdatedOn": "2020-05-02",
@@ -3130,7 +3130,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 13770,
+      "recovered": 14025,
       "name_ja": "കാസർഗോഡ്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -3418,7 +3418,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 10399,
+      "recovered": 10649,
       "name_ja": "പത്തനംതിട്ട",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -3704,7 +3704,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 4418,
+      "recovered": 4512,
       "name_ja": "ഇടുക്കി",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
@@ -3989,7 +3989,7 @@
       ],
       "dailyConfirmedStartDate": "2020-01-31",
       "newlyConfirmed": 0,
-      "recovered": 4913,
+      "recovered": 5033,
       "name_ja": "വയനാട്",
       "zone": "Orange",
       "zoneUpdatedOn": "2020-05-02",
