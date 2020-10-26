@@ -16,7 +16,27 @@ const PATIENT_SHEETS = [
         label : 'consolidated snapshot till Sept 30 2020',
         sheetId : '18xxgKp11JEdkNS5xEz70GqtI4SlMmiWUuOOJuhGvN9k',
         tab : 1,
-    }
+    },
+    {
+        label : 'Patient Sheet #3',
+        sheetId : '1g_77oX8PuFDCHwfb2NB9TRs3Qdy-_eDbfqzE_-38-WQ',
+        tab : 1,
+    },
+    {
+        label : 'Patient Sheet #4',
+        sheetId : '1BTtfDsL4Xgh2K3WcjMV7RfKSNwMPIFbov-mJk-X3EsY',
+        tab : 1,
+    },
+    {
+        label : 'Patient Sheet #5',
+        sheetId : '1Zck671rJQzBg4O008Er5J3t7mr78W1esgCgmCCeQSKg',
+        tab : 1,
+    },
+    {
+        label : 'Patient Sheet #6',
+        sheetId : '1imcP2deE3XqNCvKgQLux8BrMrWqYI0vFA8ds4h00FyA',
+        tab : 1,
+    },
 
 ]
 
