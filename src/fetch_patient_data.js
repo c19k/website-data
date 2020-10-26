@@ -7,7 +7,9 @@ const SHEET_PATIENT_DATA_TAB = 1
 
 // Post processes the data to normalize field names etc.
 const postProcessData = (rawData) => {
-
+  if(!rawData){
+    return [];
+  }
   /*console.log(rawData)*/
 
   // Check validity of the row.
@@ -84,7 +86,12 @@ async function fetchPatientData() {
   let patients = [];
   for(let i=0; i<patientSheets.length; i++){
     let sheet = patientSheets[i];
-    let currentSheetPatients = await fetchPatientDataFromSheet(sheet.sheetId, sheet.tab);
+    let currentSheetPatients = [];
+    try{
+      currentSheetPatients = await fetchPatientDataFromSheet(sheet.sheetId, sheet.tab);
+    }catch(err){
+      //console.log("Error reading sheet");
+    }
     patients = [...patients, ...currentSheetPatients];
   }
   return patients;
