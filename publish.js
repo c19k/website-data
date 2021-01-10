@@ -11,7 +11,7 @@ const publish = () => {
   
   for (let dir of ['patient_data', 'summary', 'kpi']) {
     let files = fs.readdirSync(path.join('.', 'docs', dir))
-    let sorted = _.reverse(_.sortBy(_.filter(files, v => { return v.startsWith('2020')})))
+    let sorted = _.reverse(_.sortBy(_.filter(files, v => { return v.startsWith('20')})))
     if (sorted.length > 0) {
       let latest = sorted[0]
       let latestDestPath = path.join('.', 'docs', dir, latest)
