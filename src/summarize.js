@@ -134,12 +134,21 @@ const generateDailySummary = (patients, manualDailyData) => {
           homeObservationCumulative: 0,
           hosptilisedCumulative: 0,
           activeCumulative: 0,
+          vaccineCumulative: 0,
+          vaccineFirstDose: 0,
+          vaccineSecondDose: 0,
         };
       }
       //We are storing cumulated value in confirmed cell. Hence needs to calculate the difference with the last day to
       //get the difference
       let lastDayConfirmed = _.get(lastDayData, 'confirmed', 0);
+    
+      let lastDayVaccineFirstDose = _.get(lastDayData, 'vaccineFirstDose', 0);
+      let lastDayVaccineSecondDose = _.get(lastDayData, 'vaccineSecondDose', 0);
       dailySummary[row.date].confirmed = safeParseInt(row.confirmed - lastDayConfirmed)
+      dailySummary[row.date].vaccineFirstDose = safeParseInt(row.vaccineFirstDose - lastDayVaccineFirstDose)
+      dailySummary[row.date].vaccineSecondDose = safeParseInt(row.vaccineSecondDose - lastDayVaccineSecondDose)
+      dailySummary[row.date].vaccineCmulative = safeParseInt(row.totaVaccine)
 
       
       dailySummary[row.date].recoveredCumulative = safeParseInt(row.recovered)
