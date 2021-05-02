@@ -146,9 +146,9 @@ const generateDailySummary = (patients, manualDailyData) => {
       let lastDayVaccineFirstDose = _.get(lastDayData, 'vaccineFirstDose', 0);
       let lastDayVaccineSecondDose = _.get(lastDayData, 'vaccineSecondDose', 0);
       dailySummary[row.date].confirmed = safeParseInt(row.confirmed - lastDayConfirmed)
-      dailySummary[row.date].vaccineFirstDose = safeParseInt(row.vaccineFirstDose - lastDayVaccineFirstDose)
-      dailySummary[row.date].vaccineSecondDose = safeParseInt(row.vaccineSecondDose - lastDayVaccineSecondDose)
-      dailySummary[row.date].vaccineCumulative = safeParseInt(row.totaVaccine)
+      dailySummary[row.date].vaccineFirstDose = safeParseInt(row.vaccinefirstdose - lastDayVaccineFirstDose)
+      dailySummary[row.date].vaccineSecondDose = safeParseInt(row.vaccineseconddose - lastDayVaccineSecondDose)
+      dailySummary[row.date].vaccineCumulative = safeParseInt(row.totavaccine)
 
       
       dailySummary[row.date].recoveredCumulative = safeParseInt(row.recovered)
