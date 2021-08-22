@@ -4,7 +4,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 20 * * *"
     
 jobs:
   summarize:
@@ -38,3 +38,4 @@ jobs:
           add: "docs/*/*.json"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
