@@ -24,10 +24,9 @@ jobs:
         run: npm install
         
       - name: Download and Generate JSON data
-        run: node generate.js 2>&1 | tee docs/log.txt
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-        
+        run: node generate.js 2>&1 | tee docs/log.txt
 
       - name: Publish Latest Data
         run: node publish.js
