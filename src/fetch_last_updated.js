@@ -7,7 +7,8 @@ const SHEET_LAST_UPDATED_TAB = CONSTANTS.SHEET_LAST_UPDATED_TAB;
 
 
 async function fetchLastUpdated() {
-  return await FetchSheet.fetchRows(SHEET, SHEET_LAST_UPDATED_TAB)
+  let lastUpdatedInfo = await FetchSheet.fetchRows(SHEET, SHEET_LAST_UPDATED_TAB)
+  return lastUpdatedInfo[0];
 }
 
 exports.fetchLastUpdated = fetchLastUpdated;
