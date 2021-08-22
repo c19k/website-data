@@ -24,6 +24,8 @@ jobs:
         run: npm install
         
       - name: Download and Generate JSON data
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: node generate.js 2>&1 | tee docs/log.txt
 
       - name: Publish Latest Data
@@ -38,4 +40,3 @@ jobs:
           add: "docs/*/*.json"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
