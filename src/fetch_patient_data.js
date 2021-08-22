@@ -1,10 +1,9 @@
-const drive = require('drive-db')
 const _ = require('lodash')
 const CONSTANTS = require('./constants');
 
 const SHEET = '19U_Y8jAIwEp7csYHhkm745b33kcfdrKROh4DeQkcaTI'
 const SHEET_PATIENT_DATA_TAB = 1
-
+const FetchSheet = require('./fetch_sheets');
 // Post processes the data to normalize field names etc.
 const postProcessData = (rawData) => {
   if(!rawData){
@@ -99,7 +98,7 @@ async function fetchPatientData() {
 
 
 async function fetchPatientDataFromSheet(sheetId, tab) {
-  return drive({sheet: sheetId, tab: tab})
+  return FetchSheet.fetchRows(sheetId, tab)
     .then(db => {
       return postProcessData(db)
     })
