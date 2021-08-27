@@ -5,7 +5,8 @@ on:
       - master
   schedule:
     - cron: "0 20 * * *"
-    
+  workflow_dispatch:
+        
 jobs:
   summarize:
     name: summarize
